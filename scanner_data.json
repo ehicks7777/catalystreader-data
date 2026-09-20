@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T19:11:40.884323+00:00",
+  "updated": "2026-09-20T19:38:14.668684+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 169899,
+      "quote_age_seconds": 171493,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 169899,
+      "quote_age_seconds": 171493,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 169899,
+      "quote_age_seconds": 171493,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 169899,
+      "quote_age_seconds": 171493,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 169899,
+      "quote_age_seconds": 171493,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -181,12 +181,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9c2451ebc9bcf66407339b6cc623a1b40189a98069c44dce04e0ce16f2783d3c",
           "published_utc": "2026-09-18T23:06:49+00:00"
-        },
-        {
-          "headline": "Riot Platforms (RIOT) Stock Trades At A Premium To Sales",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f269655d2694e9abc6ee435a68122ebd166740d61e9c499a287b8683cff998ac",
-          "published_utc": "2026-09-18T19:13:20+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -198,7 +192,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 169899,
+      "quote_age_seconds": 171493,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
