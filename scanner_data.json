@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T21:39:48.585204+00:00",
+  "updated": "2026-09-20T22:13:01.626910+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 178787,
+      "quote_age_seconds": 180780,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 178787,
+      "quote_age_seconds": 180780,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 178787,
+      "quote_age_seconds": 180780,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "3 Bullish Setups for the Week Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=072ee7d50404bcc04383e2c7b77bfe3f5db84e29f64eecc110fe3f38be2da508",
+          "published_utc": "2026-09-20T21:14:00+00:00"
+        },
         {
           "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5a226a67c2cc1bbf9499ce67767af9d396d726eb6b88296ffa5124c11a0848d7",
           "published_utc": "2026-09-20T16:57:19+00:00"
-        },
-        {
-          "headline": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: \u2018No One Worked Harder\u2019",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=e5ec88220ce3766520c6a6a1341b1f70711a07805563871ab8ef7645a039abfc",
-          "published_utc": "2026-09-20T04:23:16+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 178787,
+      "quote_age_seconds": 180780,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Higher Rates Keep Robinhood Stock And Cash Sweep Platforms In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=70a1c41b30d20939e1d168bd23cedc0c697dc31dd29eff432da4d25c595956b3",
+          "published_utc": "2026-09-20T21:11:36+00:00"
+        },
         {
           "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b76c67390d864a40a9877199ddec337a7411a032137e1d45176af25ea1656a90",
           "published_utc": "2026-09-20T14:11:17+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e2d1fd99d1fd47ea7baf528221087254e59ed5b5f7a5aef2d2b18224b08ebfa",
-          "published_utc": "2026-09-19T16:34:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 178787,
+      "quote_age_seconds": 180780,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -192,7 +192,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 178787,
+      "quote_age_seconds": 180780,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
