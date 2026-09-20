@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:40:06.422032+00:00",
+  "updated": "2026-09-20T15:13:28.856411+00:00",
   "scanner_version": "3.0",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -12,7 +12,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153605
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "MARA",
@@ -21,7 +21,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153606
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "COIN",
@@ -30,7 +30,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153605
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "HOOD",
@@ -39,7 +39,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153605
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "RIOT",
@@ -48,7 +48,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153606
+      "quote_age_seconds": 155608
     }
   ],
   "swing_trading": [
@@ -59,7 +59,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153605
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "MARA",
@@ -68,7 +68,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153606
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "COIN",
@@ -77,7 +77,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153605
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "HOOD",
@@ -86,7 +86,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153605
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "RIOT",
@@ -95,7 +95,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153606
+      "quote_age_seconds": 155608
     },
     {
       "symbol": "AMD",
@@ -104,7 +104,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 153605
+      "quote_age_seconds": 155607
     }
   ],
   "note": "Price-movement screening only. Volume and news are not connected yet. Results are research candidates, not buy signals."
