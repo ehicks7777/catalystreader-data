@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T22:40:34.673990+00:00",
+  "updated": "2026-09-20T23:12:23.961000+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 182433,
+      "quote_age_seconds": 184343,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 182433,
+      "quote_age_seconds": 184343,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -70,12 +70,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=44d3060b6bbbd4a6253f4e9541cfdfe92108ded11a2c766415c2b6888c3c461c",
           "published_utc": "2026-09-19T09:28:52+00:00"
-        },
-        {
-          "headline": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption \u2014 A New Catalyst Looms Next Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c2451ebc9bcf66407339b6cc623a1b40189a98069c44dce04e0ce16f2783d3c",
-          "published_utc": "2026-09-18T23:06:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +81,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 182433,
+      "quote_age_seconds": 184343,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +118,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 182433,
+      "quote_age_seconds": 184343,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +155,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 182433,
+      "quote_age_seconds": 184343,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -175,12 +169,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=b72a83064dc6b79856a9f4943b5d9d67f15b433657d341d5a0d8c76f9205cbb2",
           "published_utc": "2026-09-19T12:36:04+00:00"
-        },
-        {
-          "headline": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption \u2014 A New Catalyst Looms Next Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c2451ebc9bcf66407339b6cc623a1b40189a98069c44dce04e0ce16f2783d3c",
-          "published_utc": "2026-09-18T23:06:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -192,7 +180,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 182433,
+      "quote_age_seconds": 184343,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
