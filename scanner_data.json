@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:13:22.825691+00:00",
+  "updated": "2026-09-20T20:40:15.132677+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 173601,
+      "quote_age_seconds": 175213,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Michael Saylor Hints at More MicroStrategy Bitcoin Buys After \u201cDead Cat Bounce\u201d Debate",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=464e75110d5dcffc2c2e0de1b25110672571db623840d367d9427ebc9e193dc1",
+          "published_utc": "2026-09-20T19:23:07+00:00"
+        },
         {
           "headline": "Strategy Is Up 53% in the Past Month. Here's the Bull and Bear Case for One of Wall Street's Most Polarizing Stocks.",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9c01e2287b4150716b34381a043f472bc616fe1b9c03029b86904fe3638b2289",
           "published_utc": "2026-09-20T09:42:28+00:00"
-        },
-        {
-          "headline": "Cathie Wood Says \u2018Bitcoin Is Not A Dead Cat\u2019, Days After ARK Sold Its Own Bitcoin ETF",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d3ef99333c9cff8411e036b23414b351a72b886fceaf7799891daba63a4e8bb5",
-          "published_utc": "2026-09-19T14:23:46+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 173601,
+      "quote_age_seconds": 175213,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 173601,
+      "quote_age_seconds": 175213,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 173601,
+      "quote_age_seconds": 175213,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 173601,
+      "quote_age_seconds": 175213,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -192,7 +192,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 173601,
+      "quote_age_seconds": 175213,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
