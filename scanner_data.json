@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T17:39:39.239524+00:00",
+  "updated": "2026-09-20T18:15:45.211462+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 164378,
+      "quote_age_seconds": 166543,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 164378,
+      "quote_age_seconds": 166543,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 164378,
+      "quote_age_seconds": 166543,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fc5fb076abfbc84d736a947b24f02cfd53069df4ba5a11f3ee8f9ebc605882e",
+          "published_utc": "2026-09-20T17:04:35+00:00"
+        },
+        {
+          "headline": "Brian Armstrong Says Coinbase May Benefit After CLARITY Act Fails, Banks Face More Competition",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5a226a67c2cc1bbf9499ce67767af9d396d726eb6b88296ffa5124c11a0848d7",
+          "published_utc": "2026-09-20T16:57:19+00:00"
+        },
+        {
           "headline": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: \u2018No One Worked Harder\u2019",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=e5ec88220ce3766520c6a6a1341b1f70711a07805563871ab8ef7645a039abfc",
           "published_utc": "2026-09-20T04:23:16+00:00"
-        },
-        {
-          "headline": "Coinbase (COIN) Says Custom AI Agents Drove Most Trading Activity Last Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=25c87820a2435948393e3847ec404428246890aec9ffe1d8f005bf3c51c58b83",
-          "published_utc": "2026-09-20T04:18:32+00:00"
-        },
-        {
-          "headline": "Fairshake Has $193 Million for the Midterms. Which Coin Stands to Gain the Most on November 3?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ecc89c18379122474a624a78c4c6c19684ca37bd727149f7ec269f35990c15b",
-          "published_utc": "2026-09-20T01:34:24+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 164378,
+      "quote_age_seconds": 166543,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fc5fb076abfbc84d736a947b24f02cfd53069df4ba5a11f3ee8f9ebc605882e",
+          "published_utc": "2026-09-20T17:04:35+00:00"
+        },
         {
           "headline": "Robinhood CEO Says Civil Liability May Not Be Enough To Contain Biggest AI Risks",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2e2d1fd99d1fd47ea7baf528221087254e59ed5b5f7a5aef2d2b18224b08ebfa",
           "published_utc": "2026-09-19T16:34:51+00:00"
-        },
-        {
-          "headline": "Hyperliquid, Uniswap Tokens Surge as SEC Amends Tokenized Stock Trading Rules",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=130ef11de483316d9a2c2481ebca80de5dc7ff6e3bca5a5ff1adcb9ff8210827",
-          "published_utc": "2026-09-19T14:16:10+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 164378,
+      "quote_age_seconds": 166543,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 164378,
+      "quote_age_seconds": 166543,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -207,6 +207,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fc5fb076abfbc84d736a947b24f02cfd53069df4ba5a11f3ee8f9ebc605882e",
+          "published_utc": "2026-09-20T17:04:35+00:00"
+        },
         {
           "headline": "3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks",
           "source": "Yahoo",
@@ -218,12 +224,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=e626abd251e326fcb3191f5308cdd521d8161410b30c4b9c2d9de411fc7c1e5f",
           "published_utc": "2026-09-20T08:53:12+00:00"
-        },
-        {
-          "headline": "Jim Cramer sends a blunt message to AMD stock investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=47b4a991f26b331d6968e81cd37ab0db450e168925d8c0c128048106024d114b",
-          "published_utc": "2026-09-20T03:33:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
