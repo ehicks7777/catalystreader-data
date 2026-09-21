@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T12:17:25.849699+00:00",
+  "updated": "2026-09-21T12:43:55.107050+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 231444,
+      "quote_age_seconds": 233033,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
+          "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36a374b6ddbe765f9ab2b29e368471685d9f77fe27db24ccc12687c25908f830",
-          "published_utc": "2026-09-21T08:12:54+00:00"
+          "url": "https://finnhub.io/api/news?id=bca4fd6bbb0cb3fed4313f812c325339a47ea0b58edea93232223e7cad689085",
+          "published_utc": "2026-09-21T11:30:59+00:00"
         },
         {
-          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
-          "published_utc": "2026-09-21T08:04:42+00:00"
+          "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c0131c8f23770f96fad2e27c75de5ed5727bb3ac3a08d965954eeb3bc8349139",
+          "published_utc": "2026-09-21T10:55:00+00:00"
         },
         {
-          "headline": "Michael Saylor Hints at More MicroStrategy Bitcoin Buys After \u201cDead Cat Bounce\u201d Debate",
+          "headline": "Bitcoin Nears $85K, MSTR, ASST Stocks Rally As Crypto Bulls Return Amid Easing Oil Prices",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=464e75110d5dcffc2c2e0de1b25110672571db623840d367d9427ebc9e193dc1",
-          "published_utc": "2026-09-20T19:23:07+00:00"
+          "url": "https://finnhub.io/api/news?id=122945911cabf0b868a8b5064abbdd3048f44a5a41ffe48b58b2387ad7a4e4e5",
+          "published_utc": "2026-09-21T10:53:34+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 231444,
+      "quote_age_seconds": 233033,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -58,15 +58,8 @@
       "volume_status": "Unavailable: verified volume feed not connected",
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Bitcoin-Linked Stocks Rally, but Weak Relative Strength and Uneven Profits Keep Recovery Selective",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=b72a83064dc6b79856a9f4943b5d9d67f15b433657d341d5a0d8c76f9205cbb2",
-          "published_utc": "2026-09-19T12:36:04+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
+      "news": [],
+      "news_status": "No recent headlines returned"
     },
     {
       "symbol": "COIN",
@@ -75,7 +68,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 231444,
+      "quote_age_seconds": 233033,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -112,7 +105,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 231444,
+      "quote_age_seconds": 233033,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -149,7 +142,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 231444,
+      "quote_age_seconds": 233033,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -163,12 +156,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
           "published_utc": "2026-09-21T08:04:42+00:00"
-        },
-        {
-          "headline": "Bitcoin-Linked Stocks Rally, but Weak Relative Strength and Uneven Profits Keep Recovery Selective",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=b72a83064dc6b79856a9f4943b5d9d67f15b433657d341d5a0d8c76f9205cbb2",
-          "published_utc": "2026-09-19T12:36:04+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -180,7 +167,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 231444,
+      "quote_age_seconds": 233033,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
