@@ -1,412 +1,10 @@
 {
-  "updated": "2026-09-21T20:14:14.700508+00:00",
+  "updated": "2026-09-21T20:40:09.834250+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "META",
-      "price": 741.245,
-      "change_percent": 11.3398,
-      "previous_close": 665.75,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Monday's session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8dc65a87533f54ae58d8fefcc45dfb7d67a5bd4c66cf394114b9b5116ce49f36",
-          "published_utc": "2026-09-21T19:05:01+00:00"
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "Update: Market Chatter: Amazon Blocks Meta's Muse AI Agent From Retail Site",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=83ccb7579756ac608a7dd06b672302e922a7b64320a2e71ebfc35e8980af5bee",
-          "published_utc": "2026-09-21T17:52:37+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 615.52,
-      "change_percent": 9.9496,
-      "previous_close": 559.82,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
-          "published_utc": "2026-09-21T19:26:41+00:00"
-        },
-        {
-          "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87a1db9c600c746f45c0bd4ca875ad4cd8fd9221f84e45ddb5356495a8482270",
-          "published_utc": "2026-09-21T19:23:43+00:00"
-        },
-        {
-          "headline": "AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3e73849c9425e2e84620c409bca2a8cdb11457e694633c39845d070d5407dcd",
-          "published_utc": "2026-09-21T19:18:55+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSTR",
-      "price": 168.5,
-      "change_percent": 9.4725,
-      "previous_close": 153.92,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Strategy is buying bitcoin again! But this crypto treasury is buying more.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=73e201e5a0e36df96061237d7d447faa0afa280063e8d92eaec8d1f861fabc0b",
-          "published_utc": "2026-09-21T18:00:00+00:00"
-        },
-        {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
-        },
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 69.89,
-      "change_percent": 8.2391,
-      "previous_close": 64.57,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7623ba36129231004c8647289287e6e29a5d0fd74f16d9cfb488a536205a6ff6",
-          "published_utc": "2026-09-21T17:00:16+00:00"
-        },
-        {
-          "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e68d3b39a4d666c6366d61455837bfa37ac4e181ccefecd949ee9414864e794",
-          "published_utc": "2026-09-21T15:40:02+00:00"
-        },
-        {
-          "headline": "RKLB Stock In Focus: Cantor Stays Bullish As Iridium Acquisition Funding Falls Into Place",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=339ae540612b11c6638cbaac46247e7124ce83817ae979898e7f10547458a461",
-          "published_utc": "2026-09-21T15:22:02+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 61.89,
-      "change_percent": 5.7587,
-      "previous_close": 58.52,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "What's Going On with AST SpaceMobile Stock Monday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=19d7c2b03fab8909d641462cac80da6fdd150eb73dc40b926388d8a98bdfd5fe",
-          "published_utc": "2026-09-21T10:27:23+00:00"
-        },
-        {
-          "headline": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36a374b6ddbe765f9ab2b29e368471685d9f77fe27db24ccc12687c25908f830",
-          "published_utc": "2026-09-21T08:12:54+00:00"
-        },
-        {
-          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
-          "published_utc": "2026-09-21T08:04:42+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SMCI",
-      "price": 41.2,
-      "change_percent": 5.3978,
-      "previous_close": 39.09,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "Can SMCI's Record Backlog Sustain Revenue Momentum in FY27?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f0b979ec7143ff4ce94c703424d9b2018f86eb57aa0b8c5f6f5c3ec68a67a00",
-          "published_utc": "2026-09-21T16:29:00+00:00"
-        },
-        {
-          "headline": "DELL Rides on Growing AI Clientele: Can the Stock Outpace SMCI & CSCO?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b06b11b35dd399c4d6cd98b135edbee09102d1740f459d69af3bd8a95855795c",
-          "published_utc": "2026-09-21T15:22:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 16.53,
-      "change_percent": 4.8858,
-      "previous_close": 15.76,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rigetti Turned $10,000 Into Over $81,000 in 3 Years -- and It's Still 73% Off Its High. Here's Why I Still Wouldn't Touch It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a05c52aa222b318e26451bab9bd7609d9bd7acdc85c9d34f50f25e339a65a7a",
-          "published_utc": "2026-09-20T17:50:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SOUN",
-      "price": 6.17,
-      "change_percent": 4.0472,
-      "previous_close": 5.93,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [],
-      "news_status": "No recent headlines returned"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 40.51,
-      "change_percent": 3.5267,
-      "previous_close": 39.13,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "3 Things You Need to Know Before Buying IonQ Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=454ea923509fa628750ac44db1bb51b67ff52360196faf94796cc576209c50a5",
-          "published_utc": "2026-09-20T22:11:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "COIN",
-      "price": 201.05,
-      "change_percent": 3.5006,
-      "previous_close": 194.25,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6195e574cfd8d94ec1fa72d93734066f0762703e8811873396c0c92d3fdce4db",
-          "published_utc": "2026-09-21T19:26:49+00:00"
-        },
-        {
-          "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33dfe7f83e072d2b4c6874a1acde365f8e445ff5b267a7c35fb3f4e252f6429c",
-          "published_utc": "2026-09-21T18:36:56+00:00"
-        },
-        {
-          "headline": "Is it worth investing in bitcoin if I'm Gen X?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38ace275b88f9a24f2899096abec441977956726bb7297e362c3f548d67aa26b",
-          "published_utc": "2026-09-21T18:35:32+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 183.0701,
-      "change_percent": 3.0568,
-      "previous_close": 177.64,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=549978088471503f39ef8adfc2316186f5ce7fc93dab84136070f50605ea2d73",
-          "published_utc": "2026-09-21T12:10:00+00:00"
-        },
-        {
-          "headline": "Buy Top-Ranked DELL, SMCI & HPE to Form a Powerful AI-Server Portfolio",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58d2dee4734c154bb86c1a84e730b5fd4fc7a36ea6ed57ad60ae9457e6af75be",
-          "published_utc": "2026-09-21T11:55:00+00:00"
-        },
-        {
-          "headline": "Palantir CEO Alex Karp Says Only Washington Can Cap AI Liability: 'These Businesses Have to Be Nationalized'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3ebce33b3f259ee0819d9e3da82cd5fc6e9772633e75acf1db49966846dc118",
-          "published_utc": "2026-09-21T10:45:09+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 375.2096,
-      "change_percent": 3.0032,
-      "previous_close": 364.27,
-      "quote_timestamp": 1790020800.0,
-      "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "TSLA, RUN Stocks In Focus \u2014 580 MW Heat-Wave Battery Drop Lifts Tesla And Sunrun Despite 2026 Losses",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7ba9145980605ad6c18f9c34b5ee27e384c655c51f4fe14ced626b042853403",
-          "published_utc": "2026-09-21T17:35:25+00:00"
-        },
-        {
-          "headline": "Elon Musk wants to live on Mars: Maye Musk on her son's ambitions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e034b6232adbcbf4bff896ceb8f3f5df76da379c61fa9bff0fa0fdea51cd1eea",
-          "published_utc": "2026-09-21T17:00:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "META",
@@ -415,8 +13,8 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -425,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Monday's session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8dc65a87533f54ae58d8fefcc45dfb7d67a5bd4c66cf394114b9b5116ce49f36",
-          "published_utc": "2026-09-21T19:05:01+00:00"
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "Update: Market Chatter: Amazon Blocks Meta's Muse AI Agent From Retail Site",
+          "headline": "Meta stock jumps as Wells Fargo raises price target",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=83ccb7579756ac608a7dd06b672302e922a7b64320a2e71ebfc35e8980af5bee",
-          "published_utc": "2026-09-21T17:52:37+00:00"
+          "url": "https://finnhub.io/api/news?id=163ac05cb9893a0c19875072e3c4899ec8fcb4ea040753916e0106836fbce8ac",
+          "published_utc": "2026-09-21T19:52:00+00:00"
+        },
+        {
+          "headline": "META Stock Set For Best Day In 13 Months On Muse Popularity As Amazon Moves to Block It",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93a725f617c9537bffcf1f08dc38a61ce776208f7421d1a2bc4c4d0d2f6cc0de",
+          "published_utc": "2026-09-21T19:45:32+00:00"
+        },
+        {
+          "headline": "Stock Market Today: Nasdaq Roars As Micron Tests Entry; AMD In Buy Zone As It Eyes New High (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b53529fb4b4e50f832281391ee6152c1bd95ce2d1b0a9963b6ed300a46036f95",
+          "published_utc": "2026-09-21T19:38:19+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -452,8 +50,8 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -489,8 +87,8 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -499,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Tech Stocks Break Out: The Next Leg of the Bull Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dedb7be4c609936bd67822e42fd5867628cf95b99a3546b726fba762bf764518",
+          "published_utc": "2026-09-21T18:03:00+00:00"
+        },
+        {
           "headline": "Strategy is buying bitcoin again! But this crypto treasury is buying more.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=73e201e5a0e36df96061237d7d447faa0afa280063e8d92eaec8d1f861fabc0b",
           "published_utc": "2026-09-21T18:00:00+00:00"
         },
         {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
+          "headline": "AMD, Intel, Meta, Warner Bros., Moderna, Grail, Strategy, and More Stocks That Explain Today\u2019s Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
-        },
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
+          "url": "https://finnhub.io/api/news?id=6fbcbb5a7e6ea682df56383563517132a922b15f4fba981055d207ca7cc46039",
+          "published_utc": "2026-09-21T17:04:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -526,8 +124,8 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -536,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
+          "headline": "Archer Aviation vs. Rocket Lab: Which Aerospace Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7623ba36129231004c8647289287e6e29a5d0fd74f16d9cfb488a536205a6ff6",
-          "published_utc": "2026-09-21T17:00:16+00:00"
+          "url": "https://finnhub.io/api/news?id=866fe1916bf2316c72e249ed15dce5949d7a0fead2f744394c38adf1e1aa84e3",
+          "published_utc": "2026-09-21T19:23:23+00:00"
         },
         {
-          "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+          "headline": "Rocket Lab Poised to Become \u201cOnly Viable Alternative\u201d to SpaceX, Says Cantor Fitzgerald",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e68d3b39a4d666c6366d61455837bfa37ac4e181ccefecd949ee9414864e794",
-          "published_utc": "2026-09-21T15:40:02+00:00"
+          "url": "https://finnhub.io/api/news?id=efe8986e965be263627095d02bfbcfb3bbd5f9fccaa284d672f03aaaa2cac30a",
+          "published_utc": "2026-09-21T19:01:02+00:00"
         },
         {
-          "headline": "RKLB Stock In Focus: Cantor Stays Bullish As Iridium Acquisition Funding Falls Into Place",
+          "headline": "SpaceX IPO\u2019d at $1.8 Trillion, Crashed 32%, and Morgan Stanley Still Sees It Doubling",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=339ae540612b11c6638cbaac46247e7124ce83817ae979898e7f10547458a461",
-          "published_utc": "2026-09-21T15:22:02+00:00"
+          "url": "https://finnhub.io/api/news?id=dc9f7af91a2490516ce3c095c85a8e58033c5295bd4cc9e54f4e96f25bc6fe48",
+          "published_utc": "2026-09-21T19:00:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -563,8 +161,8 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -600,8 +198,8 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -616,16 +214,16 @@
           "published_utc": "2026-09-21T18:05:00+00:00"
         },
         {
+          "headline": "AMD, Intel, Meta, Warner Bros., Moderna, Grail, Strategy, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6fbcbb5a7e6ea682df56383563517132a922b15f4fba981055d207ca7cc46039",
+          "published_utc": "2026-09-21T17:04:00+00:00"
+        },
+        {
           "headline": "Can SMCI's Record Backlog Sustain Revenue Momentum in FY27?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6f0b979ec7143ff4ce94c703424d9b2018f86eb57aa0b8c5f6f5c3ec68a67a00",
           "published_utc": "2026-09-21T16:29:00+00:00"
-        },
-        {
-          "headline": "DELL Rides on Growing AI Clientele: Can the Stock Outpace SMCI & CSCO?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b06b11b35dd399c4d6cd98b135edbee09102d1740f459d69af3bd8a95855795c",
-          "published_utc": "2026-09-21T15:22:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -637,8 +235,8 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -662,8 +260,8 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -680,8 +278,8 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -705,8 +303,8 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -737,13 +335,13 @@
     },
     {
       "symbol": "PLTR",
-      "price": 183.0701,
-      "change_percent": 3.0568,
+      "price": 183.09,
+      "change_percent": 3.068,
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -752,35 +350,35 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
+          "headline": "Palantir Climbs as CEO Sends Blunt Message to AI Industry",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=549978088471503f39ef8adfc2316186f5ce7fc93dab84136070f50605ea2d73",
-          "published_utc": "2026-09-21T12:10:00+00:00"
+          "url": "https://finnhub.io/api/news?id=bf34d234c46bd14846ad89a43c89162c32895d56c1f335171af73ef9fd0811be",
+          "published_utc": "2026-09-21T19:48:44+00:00"
         },
         {
-          "headline": "Buy Top-Ranked DELL, SMCI & HPE to Form a Powerful AI-Server Portfolio",
+          "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58d2dee4734c154bb86c1a84e730b5fd4fc7a36ea6ed57ad60ae9457e6af75be",
-          "published_utc": "2026-09-21T11:55:00+00:00"
+          "url": "https://finnhub.io/api/news?id=87a1db9c600c746f45c0bd4ca875ad4cd8fd9221f84e45ddb5356495a8482270",
+          "published_utc": "2026-09-21T19:23:43+00:00"
         },
         {
-          "headline": "Palantir CEO Alex Karp Says Only Washington Can Cap AI Liability: 'These Businesses Have to Be Nationalized'",
+          "headline": "Palantir Stock Gets a Bullish Options Signal as Shares Jump 2.7%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3ebce33b3f259ee0819d9e3da82cd5fc6e9772633e75acf1db49966846dc118",
-          "published_utc": "2026-09-21T10:45:09+00:00"
+          "url": "https://finnhub.io/api/news?id=89e2f8fc8c9adb235303a16f8d5ce47d71a66b4151bbf0a76acd1a9fb65bd610",
+          "published_utc": "2026-09-21T19:16:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "TSLA",
-      "price": 375.2096,
-      "change_percent": 3.0032,
+      "price": 375.3,
+      "change_percent": 3.028,
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -789,22 +387,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
+          "headline": "Tesla Gains 3% as Fremont Bias Claims Reach Trial",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=362fc92b927c1734f1db770add08121b18631576eecb33a2a62ea2aab3b0e0a5",
+          "published_utc": "2026-09-21T19:46:11+00:00"
         },
         {
-          "headline": "TSLA, RUN Stocks In Focus \u2014 580 MW Heat-Wave Battery Drop Lifts Tesla And Sunrun Despite 2026 Losses",
+          "headline": "Maye Musk: Elon really wants to live on Mars in the coming decades",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7ba9145980605ad6c18f9c34b5ee27e384c655c51f4fe14ced626b042853403",
-          "published_utc": "2026-09-21T17:35:25+00:00"
+          "url": "https://finnhub.io/api/news?id=8c50af2b2e14cf897673c8a3a715a6cd7a350521821a842a8ec5a449a680793a",
+          "published_utc": "2026-09-21T19:34:21+00:00"
         },
         {
-          "headline": "Elon Musk wants to live on Mars: Maye Musk on her son's ambitions",
+          "headline": "Tesla Stock Rises After Major Self-Driving Win in Europe",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e034b6232adbcbf4bff896ceb8f3f5df76da379c61fa9bff0fa0fdea51cd1eea",
-          "published_utc": "2026-09-21T17:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=329fad1be5f184d6af0a4e86feaf0ef2aec5527dd0c936ead7a4dcf25b988921",
+          "published_utc": "2026-09-21T18:50:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -816,8 +414,8 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -853,8 +451,8 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 853,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2407,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -863,28 +461,28 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "These dow jones stocks are moving in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=6d60da61cbd8368a9385e258e82f236ed4c21589fd290338e6e3784639a7853c",
-          "published_utc": "2026-09-21T19:10:08+00:00"
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "Update: Equities Rise Intraday as Chip Stocks Rally",
+          "headline": "Intel's CEO Just Gave Micron Technology Investors Great News",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b262733ee6c782c155e41cbdd6d50ef1b925d6a49abec80257f11fb09f0b1a1",
-          "published_utc": "2026-09-21T17:52:29+00:00"
+          "url": "https://finnhub.io/api/news?id=1dda7270cfc8bd93e3e9c4c195f17681dc9577e5fec7b4a70c4f4518b1f96881",
+          "published_utc": "2026-09-21T19:50:01+00:00"
+        },
+        {
+          "headline": "Better AI Data Center Stock: Nebius vs. CoreWeave",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c679a5f71a5a6eb584b1e5eada3e4e0698efc1e7dfcc1b2281aee11bbda0a27e",
+          "published_utc": "2026-09-21T19:50:00+00:00"
+        },
+        {
+          "headline": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29e03bc18acca35b3f349c8868b819f3d181feaab90bafbb9c6543eee8b200b3",
+          "published_utc": "2026-09-21T19:47:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
