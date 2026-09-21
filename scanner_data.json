@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:40:57.740970+00:00",
+  "updated": "2026-09-21T20:14:14.700508+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "META",
-      "price": 748.39,
-      "change_percent": 12.4131,
+      "price": 741.245,
+      "change_percent": 11.3398,
       "previous_close": 665.75,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 615.89,
-      "change_percent": 10.0157,
+      "price": 615.52,
+      "change_percent": 9.9496,
       "previous_close": 559.82,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,34 +59,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Monday's session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8dc65a87533f54ae58d8fefcc45dfb7d67a5bd4c66cf394114b9b5116ce49f36",
-          "published_utc": "2026-09-21T19:05:01+00:00"
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "Update: Equities Rise Intraday as Chip Stocks Rally",
+          "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b262733ee6c782c155e41cbdd6d50ef1b925d6a49abec80257f11fb09f0b1a1",
-          "published_utc": "2026-09-21T17:52:29+00:00"
+          "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
+          "published_utc": "2026-09-21T19:26:41+00:00"
+        },
+        {
+          "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87a1db9c600c746f45c0bd4ca875ad4cd8fd9221f84e45ddb5356495a8482270",
+          "published_utc": "2026-09-21T19:23:43+00:00"
+        },
+        {
+          "headline": "AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3e73849c9425e2e84620c409bca2a8cdb11457e694633c39845d070d5407dcd",
+          "published_utc": "2026-09-21T19:18:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSTR",
-      "price": 169.15,
-      "change_percent": 9.8948,
+      "price": 168.5,
+      "change_percent": 9.4725,
       "previous_close": 153.92,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -118,12 +118,12 @@
     },
     {
       "symbol": "RKLB",
-      "price": 69.63,
-      "change_percent": 7.8365,
+      "price": 69.89,
+      "change_percent": 8.2391,
       "previous_close": 64.57,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -155,12 +155,12 @@
     },
     {
       "symbol": "ASTS",
-      "price": 61.98,
-      "change_percent": 5.9125,
+      "price": 61.89,
+      "change_percent": 5.7587,
       "previous_close": 58.52,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -192,12 +192,12 @@
     },
     {
       "symbol": "SMCI",
-      "price": 41.06,
-      "change_percent": 5.0397,
+      "price": 41.2,
+      "change_percent": 5.3978,
       "previous_close": 39.09,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -229,12 +229,12 @@
     },
     {
       "symbol": "RGTI",
-      "price": 16.52,
-      "change_percent": 4.8223,
+      "price": 16.53,
+      "change_percent": 4.8858,
       "previous_close": 15.76,
-      "quote_timestamp": 1790019639.0,
-      "quote_time_utc": "2026-09-21T19:40:39+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -254,12 +254,12 @@
     },
     {
       "symbol": "SOUN",
-      "price": 6.19,
-      "change_percent": 4.3845,
+      "price": 6.17,
+      "change_percent": 4.0472,
       "previous_close": 5.93,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -272,12 +272,12 @@
     },
     {
       "symbol": "IONQ",
-      "price": 40.84,
-      "change_percent": 4.37,
+      "price": 40.51,
+      "change_percent": 3.5267,
       "previous_close": 39.13,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -296,13 +296,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "HOOD",
-      "price": 124.67,
-      "change_percent": 4.0477,
-      "previous_close": 119.82,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "symbol": "COIN",
+      "price": 201.05,
+      "change_percent": 3.5006,
+      "previous_close": 194.25,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -312,34 +312,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "headline": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
+          "url": "https://finnhub.io/api/news?id=6195e574cfd8d94ec1fa72d93734066f0762703e8811873396c0c92d3fdce4db",
+          "published_utc": "2026-09-21T19:26:49+00:00"
         },
         {
-          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
+          "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
-          "published_utc": "2026-09-21T15:48:45+00:00"
+          "url": "https://finnhub.io/api/news?id=33dfe7f83e072d2b4c6874a1acde365f8e445ff5b267a7c35fb3f4e252f6429c",
+          "published_utc": "2026-09-21T18:36:56+00:00"
         },
         {
-          "headline": "Robinhood\u2019s Vlad Tenev: Trump Accounts Could Become \u201cThe Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade\u201d",
+          "headline": "Is it worth investing in bitcoin if I'm Gen X?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a313f9da0f5a6aa5e4a6001ba959bf947789d09ad271ae7951d9d8f08190680f",
-          "published_utc": "2026-09-21T14:47:27+00:00"
+          "url": "https://finnhub.io/api/news?id=38ace275b88f9a24f2899096abec441977956726bb7297e362c3f548d67aa26b",
+          "published_utc": "2026-09-21T18:35:32+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "COIN",
-      "price": 201.96,
-      "change_percent": 3.9691,
-      "previous_close": 194.25,
-      "quote_timestamp": 1790019638.0,
-      "quote_time_utc": "2026-09-21T19:40:38+00:00",
-      "quote_age_seconds": 18,
+      "symbol": "PLTR",
+      "price": 183.0701,
+      "change_percent": 3.0568,
+      "previous_close": 177.64,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -349,34 +349,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
+          "headline": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
+          "url": "https://finnhub.io/api/news?id=549978088471503f39ef8adfc2316186f5ce7fc93dab84136070f50605ea2d73",
+          "published_utc": "2026-09-21T12:10:00+00:00"
         },
         {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "headline": "Buy Top-Ranked DELL, SMCI & HPE to Form a Powerful AI-Server Portfolio",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
+          "url": "https://finnhub.io/api/news?id=58d2dee4734c154bb86c1a84e730b5fd4fc7a36ea6ed57ad60ae9457e6af75be",
+          "published_utc": "2026-09-21T11:55:00+00:00"
         },
         {
-          "headline": "Why Coinbase's CEO shouldn't be blamed for the failed Clarity Act",
+          "headline": "Palantir CEO Alex Karp Says Only Washington Can Cap AI Liability: 'These Businesses Have to Be Nationalized'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64d9ae5ff7f8738ebaa71483e26d9f9a17a483e051f3fdc132df39bee6916549",
-          "published_utc": "2026-09-21T16:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=c3ebce33b3f259ee0819d9e3da82cd5fc6e9772633e75acf1db49966846dc118",
+          "published_utc": "2026-09-21T10:45:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "TSLA",
-      "price": 375.98,
-      "change_percent": 3.2146,
+      "price": 375.2096,
+      "change_percent": 3.0032,
       "previous_close": 364.27,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -410,12 +410,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 748.39,
-      "change_percent": 12.4131,
+      "price": 741.245,
+      "change_percent": 11.3398,
       "previous_close": 665.75,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -447,12 +447,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 615.89,
-      "change_percent": 10.0157,
+      "price": 615.52,
+      "change_percent": 9.9496,
       "previous_close": 559.82,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -462,34 +462,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Monday's session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8dc65a87533f54ae58d8fefcc45dfb7d67a5bd4c66cf394114b9b5116ce49f36",
-          "published_utc": "2026-09-21T19:05:01+00:00"
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "Update: Equities Rise Intraday as Chip Stocks Rally",
+          "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1b262733ee6c782c155e41cbdd6d50ef1b925d6a49abec80257f11fb09f0b1a1",
-          "published_utc": "2026-09-21T17:52:29+00:00"
+          "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
+          "published_utc": "2026-09-21T19:26:41+00:00"
+        },
+        {
+          "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87a1db9c600c746f45c0bd4ca875ad4cd8fd9221f84e45ddb5356495a8482270",
+          "published_utc": "2026-09-21T19:23:43+00:00"
+        },
+        {
+          "headline": "AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3e73849c9425e2e84620c409bca2a8cdb11457e694633c39845d070d5407dcd",
+          "published_utc": "2026-09-21T19:18:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSTR",
-      "price": 169.15,
-      "change_percent": 9.8948,
+      "price": 168.5,
+      "change_percent": 9.4725,
       "previous_close": 153.92,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -521,12 +521,12 @@
     },
     {
       "symbol": "RKLB",
-      "price": 69.63,
-      "change_percent": 7.8365,
+      "price": 69.89,
+      "change_percent": 8.2391,
       "previous_close": 64.57,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -558,12 +558,12 @@
     },
     {
       "symbol": "ASTS",
-      "price": 61.98,
-      "change_percent": 5.9125,
+      "price": 61.89,
+      "change_percent": 5.7587,
       "previous_close": 58.52,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -595,12 +595,12 @@
     },
     {
       "symbol": "SMCI",
-      "price": 41.06,
-      "change_percent": 5.0397,
+      "price": 41.2,
+      "change_percent": 5.3978,
       "previous_close": 39.09,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -632,12 +632,12 @@
     },
     {
       "symbol": "RGTI",
-      "price": 16.52,
-      "change_percent": 4.8223,
+      "price": 16.53,
+      "change_percent": 4.8858,
       "previous_close": 15.76,
-      "quote_timestamp": 1790019639.0,
-      "quote_time_utc": "2026-09-21T19:40:39+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -657,12 +657,12 @@
     },
     {
       "symbol": "SOUN",
-      "price": 6.19,
-      "change_percent": 4.3845,
+      "price": 6.17,
+      "change_percent": 4.0472,
       "previous_close": 5.93,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -675,12 +675,12 @@
     },
     {
       "symbol": "IONQ",
-      "price": 40.84,
-      "change_percent": 4.37,
+      "price": 40.51,
+      "change_percent": 3.5267,
       "previous_close": 39.13,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -699,50 +699,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "HOOD",
-      "price": 124.67,
-      "change_percent": 4.0477,
-      "previous_close": 119.82,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
-        },
-        {
-          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
-          "published_utc": "2026-09-21T15:48:45+00:00"
-        },
-        {
-          "headline": "Robinhood\u2019s Vlad Tenev: Trump Accounts Could Become \u201cThe Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a313f9da0f5a6aa5e4a6001ba959bf947789d09ad271ae7951d9d8f08190680f",
-          "published_utc": "2026-09-21T14:47:27+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "COIN",
-      "price": 201.96,
-      "change_percent": 3.9691,
+      "price": 201.05,
+      "change_percent": 3.5006,
       "previous_close": 194.25,
-      "quote_timestamp": 1790019638.0,
-      "quote_time_utc": "2026-09-21T19:40:38+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -752,71 +715,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
+          "headline": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
+          "url": "https://finnhub.io/api/news?id=6195e574cfd8d94ec1fa72d93734066f0762703e8811873396c0c92d3fdce4db",
+          "published_utc": "2026-09-21T19:26:49+00:00"
         },
         {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
+          "url": "https://finnhub.io/api/news?id=33dfe7f83e072d2b4c6874a1acde365f8e445ff5b267a7c35fb3f4e252f6429c",
+          "published_utc": "2026-09-21T18:36:56+00:00"
         },
         {
-          "headline": "Why Coinbase's CEO shouldn't be blamed for the failed Clarity Act",
+          "headline": "Is it worth investing in bitcoin if I'm Gen X?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=64d9ae5ff7f8738ebaa71483e26d9f9a17a483e051f3fdc132df39bee6916549",
-          "published_utc": "2026-09-21T16:00:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 375.98,
-      "change_percent": 3.2146,
-      "previous_close": 364.27,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
-          "published_utc": "2026-09-21T18:05:00+00:00"
-        },
-        {
-          "headline": "TSLA, RUN Stocks In Focus \u2014 580 MW Heat-Wave Battery Drop Lifts Tesla And Sunrun Despite 2026 Losses",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b7ba9145980605ad6c18f9c34b5ee27e384c655c51f4fe14ced626b042853403",
-          "published_utc": "2026-09-21T17:35:25+00:00"
-        },
-        {
-          "headline": "Elon Musk wants to live on Mars: Maye Musk on her son's ambitions",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e034b6232adbcbf4bff896ceb8f3f5df76da379c61fa9bff0fa0fdea51cd1eea",
-          "published_utc": "2026-09-21T17:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=38ace275b88f9a24f2899096abec441977956726bb7297e362c3f548d67aa26b",
+          "published_utc": "2026-09-21T18:35:32+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 182.16,
-      "change_percent": 2.5445,
+      "price": 183.0701,
+      "change_percent": 3.0568,
       "previous_close": 177.64,
-      "quote_timestamp": 1790019640.0,
-      "quote_time_utc": "2026-09-21T19:40:40+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -847,13 +773,87 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "TSLA",
+      "price": 375.2096,
+      "change_percent": 3.0032,
+      "previous_close": 364.27,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "What's going on in today's session: S&P500 most active stocks",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=78008f7d707eb5f21379df62a98e6322755d2b80c1870701f50e454dbbdbc1b0",
+          "published_utc": "2026-09-21T18:05:00+00:00"
+        },
+        {
+          "headline": "TSLA, RUN Stocks In Focus \u2014 580 MW Heat-Wave Battery Drop Lifts Tesla And Sunrun Despite 2026 Losses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b7ba9145980605ad6c18f9c34b5ee27e384c655c51f4fe14ced626b042853403",
+          "published_utc": "2026-09-21T17:35:25+00:00"
+        },
+        {
+          "headline": "Elon Musk wants to live on Mars: Maye Musk on her son's ambitions",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e034b6232adbcbf4bff896ceb8f3f5df76da379c61fa9bff0fa0fdea51cd1eea",
+          "published_utc": "2026-09-21T17:00:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "HOOD",
+      "price": 123.3,
+      "change_percent": 2.9044,
+      "previous_close": 119.82,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
+          "published_utc": "2026-09-21T16:50:48+00:00"
+        },
+        {
+          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
+          "published_utc": "2026-09-21T15:48:45+00:00"
+        },
+        {
+          "headline": "Robinhood\u2019s Vlad Tenev: Trump Accounts Could Become \u201cThe Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a313f9da0f5a6aa5e4a6001ba959bf947789d09ad271ae7951d9d8f08190680f",
+          "published_utc": "2026-09-21T14:47:27+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "NVDA",
-      "price": 227.62,
-      "change_percent": 2.407,
+      "price": 227.38,
+      "change_percent": 2.299,
       "previous_close": 222.27,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790020800.0,
+      "quote_time_utc": "2026-09-21T20:00:00+00:00",
+      "quote_age_seconds": 853,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -879,80 +879,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1b262733ee6c782c155e41cbdd6d50ef1b925d6a49abec80257f11fb09f0b1a1",
           "published_utc": "2026-09-21T17:52:29+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RIOT",
-      "price": 24.32,
-      "change_percent": 2.4,
-      "previous_close": 23.75,
-      "quote_timestamp": 1790019639.0,
-      "quote_time_utc": "2026-09-21T19:40:39+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c1567262721a91b6b633e6ce3285c9df3c0345fea0f0f0188e8a5ad3cfdc5ad",
-          "published_utc": "2026-09-21T12:44:44+00:00"
-        },
-        {
-          "headline": "Top 6 Crypto Stocks Climbing with Bitcoin Right Now",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=1bae2460b27702ced0077fd1dd88d6a1e5b04c582f09ec4b2f7fe4e528881c3f",
-          "published_utc": "2026-09-21T09:32:04+00:00"
-        },
-        {
-          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
-          "published_utc": "2026-09-21T08:04:42+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMZN",
-      "price": 258.89,
-      "change_percent": 2.0417,
-      "previous_close": 253.71,
-      "quote_timestamp": 1790019641.0,
-      "quote_time_utc": "2026-09-21T19:40:41+00:00",
-      "quote_age_seconds": 15,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "These dow jones stocks are moving in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=6d60da61cbd8368a9385e258e82f236ed4c21589fd290338e6e3784639a7853c",
-          "published_utc": "2026-09-21T19:10:08+00:00"
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Gain Monday Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf5d5f64eb4c0e641f9955aa3ce69001be6d7aa8bb44887f109db1fcb34f6e50",
-          "published_utc": "2026-09-21T17:56:58+00:00"
-        },
-        {
-          "headline": "Update: Market Chatter: Amazon Blocks Meta's Muse AI Agent From Retail Site",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=83ccb7579756ac608a7dd06b672302e922a7b64320a2e71ebfc35e8980af5bee",
-          "published_utc": "2026-09-21T17:52:37+00:00"
         }
       ],
       "news_status": "Recent headlines found"
