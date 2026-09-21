@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:42:08.752025+00:00",
+  "updated": "2026-09-21T06:20:37.009075+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 207727,
+      "quote_age_seconds": 210036,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 207727,
+      "quote_age_seconds": 210036,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -81,7 +81,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 207727,
+      "quote_age_seconds": 210036,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -90,6 +90,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Coinbase Stock Jumped 12% Last Friday. Bitcoin\u2019s Breakout Wasn\u2019t the Only Reason.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3bb0c181e8525ad31e0e8e307cee7134952f0a46232caa2485cc27a6bbd8dfc5",
+          "published_utc": "2026-09-21T04:34:49+00:00"
+        },
         {
           "headline": "Robinhood CEO Says Crypto Event-Contracts Will Overtake Sports Markets",
           "source": "Yahoo",
@@ -101,12 +107,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c2ea13b23a104faf1ba4862c03c465c112e39302e58c02ec34ad001af012a740",
           "published_utc": "2026-09-20T23:47:03+00:00"
-        },
-        {
-          "headline": "3 Bullish Setups for the Week Ahead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=072ee7d50404bcc04383e2c7b77bfe3f5db84e29f64eecc110fe3f38be2da508",
-          "published_utc": "2026-09-20T21:14:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -118,7 +118,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 207727,
+      "quote_age_seconds": 210036,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -127,6 +127,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Coinbase Stock Jumped 12% Last Friday. Bitcoin\u2019s Breakout Wasn\u2019t the Only Reason.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3bb0c181e8525ad31e0e8e307cee7134952f0a46232caa2485cc27a6bbd8dfc5",
+          "published_utc": "2026-09-21T04:34:49+00:00"
+        },
         {
           "headline": "Robinhood CEO Says Crypto Event-Contracts Will Overtake Sports Markets",
           "source": "Yahoo",
@@ -138,12 +144,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c2ea13b23a104faf1ba4862c03c465c112e39302e58c02ec34ad001af012a740",
           "published_utc": "2026-09-20T23:47:03+00:00"
-        },
-        {
-          "headline": "Higher Rates Keep Robinhood Stock And Cash Sweep Platforms In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=70a1c41b30d20939e1d168bd23cedc0c697dc31dd29eff432da4d25c595956b3",
-          "published_utc": "2026-09-20T21:11:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -155,7 +155,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 207727,
+      "quote_age_seconds": 210036,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -180,7 +180,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 207727,
+      "quote_age_seconds": 210036,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -189,6 +189,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMD Stock Jumped 8% Last Week. It Could Bring 325% More, Here\u2019s How.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2197af758c06801cb32619bf5b7914c15c1ac8453ecfbec19cff45b914d8f83f",
+          "published_utc": "2026-09-21T05:06:09+00:00"
+        },
         {
           "headline": "Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",
           "source": "Yahoo",
@@ -200,12 +206,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c2ea13b23a104faf1ba4862c03c465c112e39302e58c02ec34ad001af012a740",
           "published_utc": "2026-09-20T23:47:03+00:00"
-        },
-        {
-          "headline": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c84e22fbe0e254393a24aaf0db3be974c990125346d29df5bca046dd5d66207b",
-          "published_utc": "2026-09-20T19:28:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
