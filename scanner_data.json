@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T08:42:49.099785+00:00",
+  "updated": "2026-09-21T09:15:36.363542+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 218567,
+      "quote_age_seconds": 220535,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
+          "published_utc": "2026-09-21T08:04:42+00:00"
+        },
         {
           "headline": "Michael Saylor Hints at More MicroStrategy Bitcoin Buys After \u201cDead Cat Bounce\u201d Debate",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ff4487eff605d03265939302454de141cee1e3f0d0c7d4ffa6fcf1576d0c2daa",
           "published_utc": "2026-09-20T10:50:00+00:00"
-        },
-        {
-          "headline": "Michael Saylor Calls CLARITY Act Rejection A \u2018Positive Inflection Point\u2019 For Crypto Industry",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c01e2287b4150716b34381a043f472bc616fe1b9c03029b86904fe3638b2289",
-          "published_utc": "2026-09-20T09:42:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 218567,
+      "quote_age_seconds": 220535,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -81,7 +81,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 218567,
+      "quote_age_seconds": 220535,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -90,6 +90,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
+          "published_utc": "2026-09-21T08:04:42+00:00"
+        },
         {
           "headline": "Coinbase Stock Jumped 12% Last Friday. Bitcoin\u2019s Breakout Wasn\u2019t the Only Reason.",
           "source": "Yahoo",
@@ -101,12 +107,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2463aaf00fdee02b102c496a36c2d73d9ec05fb7441f1be618c38e664c461364",
           "published_utc": "2026-09-21T02:19:44+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c2ea13b23a104faf1ba4862c03c465c112e39302e58c02ec34ad001af012a740",
-          "published_utc": "2026-09-20T23:47:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -118,7 +118,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 218567,
+      "quote_age_seconds": 220535,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -127,6 +127,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
+          "published_utc": "2026-09-21T08:04:42+00:00"
+        },
         {
           "headline": "These Recent Moves Are Brilliant. Here's Why Robinhood Is the Most Important Player in Crypto Right Now.",
           "source": "Yahoo",
@@ -138,12 +144,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3bb0c181e8525ad31e0e8e307cee7134952f0a46232caa2485cc27a6bbd8dfc5",
           "published_utc": "2026-09-21T04:34:49+00:00"
-        },
-        {
-          "headline": "Robinhood CEO Says Crypto Event-Contracts Will Overtake Sports Markets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2463aaf00fdee02b102c496a36c2d73d9ec05fb7441f1be618c38e664c461364",
-          "published_utc": "2026-09-21T02:19:44+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -155,7 +155,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 218567,
+      "quote_age_seconds": 220535,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -164,6 +164,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
+          "published_utc": "2026-09-21T08:04:42+00:00"
+        },
         {
           "headline": "Bitcoin-Linked Stocks Rally, but Weak Relative Strength and Uneven Profits Keep Recovery Selective",
           "source": "ChartMill",
@@ -180,7 +186,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 218567,
+      "quote_age_seconds": 220535,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
