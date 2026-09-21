@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T12:43:55.107050+00:00",
+  "updated": "2026-09-21T13:13:43.447955+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 233033,
+      "quote_age_seconds": 234822,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,25 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 233033,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [],
-      "news_status": "No recent headlines returned"
-    },
-    {
-      "symbol": "COIN",
-      "price": 194.25,
-      "change_percent": 11.6572,
-      "previous_close": 173.97,
-      "quote_timestamp": 1789761600.0,
-      "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 233033,
+      "quote_age_seconds": 234822,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -77,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9c1567262721a91b6b633e6ce3285c9df3c0345fea0f0f0188e8a5ad3cfdc5ad",
+          "published_utc": "2026-09-21T12:44:44+00:00"
+        },
         {
           "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
           "source": "Yahoo",
@@ -88,12 +76,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a221ce639b18de8045c422829b9d719f0ecdeed3048814ea95f6707c54efc265",
           "published_utc": "2026-09-21T10:46:07+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "COIN",
+      "price": 194.25,
+      "change_percent": 11.6572,
+      "previous_close": 173.97,
+      "quote_timestamp": 1789761600.0,
+      "quote_time_utc": "2026-09-18T20:00:00+00:00",
+      "quote_age_seconds": 234822,
+      "quote_freshness": "stale",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=02636e484de6e6f587ef50795b82bbefd0a0ea09b2e62d3c4bb2c1bb494f6c1f",
+          "published_utc": "2026-09-21T12:35:01+00:00"
         },
         {
-          "headline": "Bitcoin prices rip despite the Clarity Act failure",
+          "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=000fe36af3fa5080dc36fee8ad7a6d1fcf672948ed25d0944ac3efce16a98faf",
-          "published_utc": "2026-09-21T10:15:41+00:00"
+          "url": "https://finnhub.io/api/news?id=bca4fd6bbb0cb3fed4313f812c325339a47ea0b58edea93232223e7cad689085",
+          "published_utc": "2026-09-21T11:30:59+00:00"
+        },
+        {
+          "headline": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a221ce639b18de8045c422829b9d719f0ecdeed3048814ea95f6707c54efc265",
+          "published_utc": "2026-09-21T10:46:07+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -105,7 +124,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 233033,
+      "quote_age_seconds": 234822,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -114,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=02636e484de6e6f587ef50795b82bbefd0a0ea09b2e62d3c4bb2c1bb494f6c1f",
+          "published_utc": "2026-09-21T12:35:01+00:00"
+        },
         {
           "headline": "Oura seeks to raise up to $2.2 billion in Nasdaq IPO",
           "source": "Yahoo",
@@ -125,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bca4fd6bbb0cb3fed4313f812c325339a47ea0b58edea93232223e7cad689085",
           "published_utc": "2026-09-21T11:30:59+00:00"
-        },
-        {
-          "headline": "Bitcoin prices rip despite the Clarity Act failure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=000fe36af3fa5080dc36fee8ad7a6d1fcf672948ed25d0944ac3efce16a98faf",
-          "published_utc": "2026-09-21T10:15:41+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -142,7 +161,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 233033,
+      "quote_age_seconds": 234822,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -151,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9c1567262721a91b6b633e6ce3285c9df3c0345fea0f0f0188e8a5ad3cfdc5ad",
+          "published_utc": "2026-09-21T12:44:44+00:00"
+        },
         {
           "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
           "source": "ChartMill",
@@ -167,7 +192,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 233033,
+      "quote_age_seconds": 234822,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -176,6 +201,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=02636e484de6e6f587ef50795b82bbefd0a0ea09b2e62d3c4bb2c1bb494f6c1f",
+          "published_utc": "2026-09-21T12:35:01+00:00"
+        },
         {
           "headline": "Intel, AMD, Strategy, Meta, Warner Bros, and More Stocks That Explain Today\u2019s Market",
           "source": "Yahoo",
@@ -187,12 +218,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2197af758c06801cb32619bf5b7914c15c1ac8453ecfbec19cff45b914d8f83f",
           "published_utc": "2026-09-21T05:06:09+00:00"
-        },
-        {
-          "headline": "Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=838093a5a94167442ceaf330339f12062de3e1ea066f2e2dd6b1393315ed3a1b",
-          "published_utc": "2026-09-21T02:23:32+00:00"
         }
       ],
       "news_status": "Recent headlines found"
