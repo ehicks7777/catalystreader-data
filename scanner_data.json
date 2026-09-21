@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T22:13:47.666654+00:00",
+  "updated": "2026-09-21T22:40:53.591805+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Meta stock jumps as Wells Fargo raises price target",
+          "headline": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=163ac05cb9893a0c19875072e3c4899ec8fcb4ea040753916e0106836fbce8ac",
-          "published_utc": "2026-09-21T19:52:00+00:00"
+          "url": "https://finnhub.io/api/news?id=33112552d514cebd13c537152919d4e8b3e551bec9ac42be74177076db0ec0f9",
+          "published_utc": "2026-09-21T21:43:56+00:00"
         },
         {
-          "headline": "META Stock Set For Best Day In 13 Months On Muse Popularity As Amazon Moves to Block It",
+          "headline": "Meta Up 11% as Zuckerberg Bets Muse Will \u201cMake You Money and Save You Money\u201d",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93a725f617c9537bffcf1f08dc38a61ce776208f7421d1a2bc4c4d0d2f6cc0de",
-          "published_utc": "2026-09-21T19:45:32+00:00"
+          "url": "https://finnhub.io/api/news?id=acc65f6ecd20348f5dd7eb22ec27be1564ff8d2fc359ea61b64706d88ac52fea",
+          "published_utc": "2026-09-21T21:34:28+00:00"
         },
         {
-          "headline": "Stock Market Today: Nasdaq Roars As Micron Tests Entry; AMD In Buy Zone As It Eyes New High (Live Coverage)",
+          "headline": "Amazon kicks out Meta's Muse in split over AI shopping",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b53529fb4b4e50f832281391ee6152c1bd95ce2d1b0a9963b6ed300a46036f95",
-          "published_utc": "2026-09-21T19:38:19+00:00"
+          "url": "https://finnhub.io/api/news?id=74d01eb8a1a5d9a83df97648cecc5ff4d77a2ac97ce6fbb31359e564fb04ac98",
+          "published_utc": "2026-09-21T21:33:37+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Michael Saylor's Strategy restarts buying BTC",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=14a6065391f057dc456c70bb2d471ec304e3e82f6ef2fcfa1a480b0ec8b3c817",
+          "published_utc": "2026-09-21T20:28:19+00:00"
+        },
         {
           "headline": "Tech Stocks Break Out: The Next Leg of the Bull Market",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=73e201e5a0e36df96061237d7d447faa0afa280063e8d92eaec8d1f861fabc0b",
           "published_utc": "2026-09-21T18:00:00+00:00"
-        },
-        {
-          "headline": "AMD, Intel, Meta, Warner Bros., Moderna, Grail, Strategy, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6fbcbb5a7e6ea682df56383563517132a922b15f4fba981055d207ca7cc46039",
-          "published_utc": "2026-09-21T17:04:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
+          "published_utc": "2026-09-21T20:36:00+00:00"
+        },
         {
           "headline": "Archer Aviation vs. Rocket Lab: Which Aerospace Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=efe8986e965be263627095d02bfbcfb3bbd5f9fccaa284d672f03aaaa2cac30a",
           "published_utc": "2026-09-21T19:01:02+00:00"
-        },
-        {
-          "headline": "SpaceX IPO\u2019d at $1.8 Trillion, Crashed 32%, and Morgan Stanley Still Sees It Doubling",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc9f7af91a2490516ce3c095c85a8e58033c5295bd4cc9e54f4e96f25bc6fe48",
-          "published_utc": "2026-09-21T19:00:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -278,7 +278,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -303,7 +303,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -340,7 +340,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -349,6 +349,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Palantir's Alex Karp says AI's biggest names may never IPO \u2014 the play is telling Washington 'nationalize us, please'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=daa33eb86584345e72a20db7f989b9c925ed43991fdecc9e1e85b52f9fb43dbb",
+          "published_utc": "2026-09-21T21:30:00+00:00"
+        },
         {
           "headline": "Palantir Climbs as CEO Sends Blunt Message to AI Industry",
           "source": "Yahoo",
@@ -360,12 +366,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=87a1db9c600c746f45c0bd4ca875ad4cd8fd9221f84e45ddb5356495a8482270",
           "published_utc": "2026-09-21T19:23:43+00:00"
-        },
-        {
-          "headline": "Palantir Stock Gets a Bullish Options Signal as Shares Jump 2.7%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89e2f8fc8c9adb235303a16f8d5ce47d71a66b4151bbf0a76acd1a9fb65bd610",
-          "published_utc": "2026-09-21T19:16:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -377,7 +377,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -414,7 +414,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -451,7 +451,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 8026,
+      "quote_age_seconds": 9651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -461,22 +461,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Intel's CEO Just Gave Micron Technology Investors Great News",
+          "headline": "3 Chip Stocks Set to Win TSMC\u2019s Packaging Boom",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1dda7270cfc8bd93e3e9c4c195f17681dc9577e5fec7b4a70c4f4518b1f96881",
-          "published_utc": "2026-09-21T19:50:01+00:00"
+          "url": "https://finnhub.io/api/news?id=f275bd317b0b764600a2421b64c4269a9f7cb9b893845f90be3aa9d5a252b3bc",
+          "published_utc": "2026-09-21T21:45:35+00:00"
         },
         {
-          "headline": "Better AI Data Center Stock: Nebius vs. CoreWeave",
+          "headline": "Inflation. The Iran War. A Hawkish Fed. Soaring Bond Yields. And Concerns About Artificial Intelligence. The Stock Market Faces Many Hurdles, But Only 1 Metric Truly Matters Right Now",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c679a5f71a5a6eb584b1e5eada3e4e0698efc1e7dfcc1b2281aee11bbda0a27e",
-          "published_utc": "2026-09-21T19:50:00+00:00"
+          "url": "https://finnhub.io/api/news?id=060bb36df6b2d9ca737bed1fe002d3127c1c553c993d5f390394583688dce063",
+          "published_utc": "2026-09-21T21:35:00+00:00"
         },
         {
-          "headline": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027",
+          "headline": "Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29e03bc18acca35b3f349c8868b819f3d181feaab90bafbb9c6543eee8b200b3",
-          "published_utc": "2026-09-21T19:47:27+00:00"
+          "url": "https://finnhub.io/api/news?id=908c26e1c27ebaff207c2b8ffd54dd49e00662a665e92c19b5f7862f9dfcd80e",
+          "published_utc": "2026-09-21T21:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
