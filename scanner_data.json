@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T03:44:00.872071+00:00",
+  "updated": "2026-09-21T04:14:46.165560+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 200640,
+      "quote_age_seconds": 202484,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 200640,
+      "quote_age_seconds": 202484,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -81,7 +81,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 200640,
+      "quote_age_seconds": 202484,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -90,6 +90,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Robinhood CEO Says Crypto Event-Contracts Will Overtake Sports Markets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2463aaf00fdee02b102c496a36c2d73d9ec05fb7441f1be618c38e664c461364",
+          "published_utc": "2026-09-21T02:19:44+00:00"
+        },
         {
           "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "source": "Yahoo",
@@ -101,12 +107,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=072ee7d50404bcc04383e2c7b77bfe3f5db84e29f64eecc110fe3f38be2da508",
           "published_utc": "2026-09-20T21:14:00+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fc5fb076abfbc84d736a947b24f02cfd53069df4ba5a11f3ee8f9ebc605882e",
-          "published_utc": "2026-09-20T17:04:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -118,7 +118,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 200640,
+      "quote_age_seconds": 202484,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -127,6 +127,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Robinhood CEO Says Crypto Event-Contracts Will Overtake Sports Markets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2463aaf00fdee02b102c496a36c2d73d9ec05fb7441f1be618c38e664c461364",
+          "published_utc": "2026-09-21T02:19:44+00:00"
+        },
         {
           "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "source": "Yahoo",
@@ -138,12 +144,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=70a1c41b30d20939e1d168bd23cedc0c697dc31dd29eff432da4d25c595956b3",
           "published_utc": "2026-09-20T21:11:36+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fc5fb076abfbc84d736a947b24f02cfd53069df4ba5a11f3ee8f9ebc605882e",
-          "published_utc": "2026-09-20T17:04:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -155,7 +155,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 200640,
+      "quote_age_seconds": 202484,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -180,7 +180,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 200640,
+      "quote_age_seconds": 202484,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -189,6 +189,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=838093a5a94167442ceaf330339f12062de3e1ea066f2e2dd6b1393315ed3a1b",
+          "published_utc": "2026-09-21T02:23:32+00:00"
+        },
         {
           "headline": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "source": "Yahoo",
@@ -200,12 +206,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c84e22fbe0e254393a24aaf0db3be974c990125346d29df5bca046dd5d66207b",
           "published_utc": "2026-09-20T19:28:28+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fc5fb076abfbc84d736a947b24f02cfd53069df4ba5a11f3ee8f9ebc605882e",
-          "published_utc": "2026-09-20T17:04:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
