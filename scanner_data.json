@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T09:15:36.363542+00:00",
+  "updated": "2026-09-21T09:42:06.047375+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 220535,
+      "quote_age_seconds": 222125,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 220535,
+      "quote_age_seconds": 222125,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -64,12 +64,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=b72a83064dc6b79856a9f4943b5d9d67f15b433657d341d5a0d8c76f9205cbb2",
           "published_utc": "2026-09-19T12:36:04+00:00"
-        },
-        {
-          "headline": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don\u2019t Agree.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=44d3060b6bbbd4a6253f4e9541cfdfe92108ded11a2c766415c2b6888c3c461c",
-          "published_utc": "2026-09-19T09:28:52+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -81,7 +75,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 220535,
+      "quote_age_seconds": 222125,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -118,7 +112,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 220535,
+      "quote_age_seconds": 222125,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -155,7 +149,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 220535,
+      "quote_age_seconds": 222125,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -186,7 +180,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 220535,
+      "quote_age_seconds": 222125,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
