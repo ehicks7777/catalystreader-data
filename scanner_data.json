@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:41:00.833180+00:00",
+  "updated": "2026-09-21T16:14:59.454949+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "AMD",
-      "price": 610.31,
-      "change_percent": 9.019,
+      "price": 611.53,
+      "change_percent": 9.2369,
       "previous_close": 559.82,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,108 +22,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Monday's session: gap up and gap down stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bb1e82c03b2c4dd83d55cae74c37f851d80a18305d70a579433a1ed7e68a629e",
-          "published_utc": "2026-09-21T14:35:02+00:00"
+          "headline": "Meta AI agent \u2018Muse\u2019 triggers massive tech rally as chips and Wall Street soar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9075ac9e95fbb6fab37d5e4de15f6f8d2dfd9e5ce1c40f1ac2cdb5c6fe3038c7",
+          "published_utc": "2026-09-21T15:56:42+00:00"
         },
         {
-          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+          "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
-          "published_utc": "2026-09-21T13:50:33+00:00"
+          "url": "https://finnhub.io/api/news?id=68de9ca3fbb430570cdc5327497460236351da85c7a7ea6212ff2f1148d729a5",
+          "published_utc": "2026-09-21T15:55:02+00:00"
         },
         {
-          "headline": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+          "headline": "AMD Gains 8.7% as Muse Pulls Inference Beyond GPUs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fae669ecb6e184066d966bca9ef2e7bfed6d0b0685bbf660792d31f03bac5450",
-          "published_utc": "2026-09-21T13:37:53+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSTR",
-      "price": 166.44,
-      "change_percent": 8.1341,
-      "previous_close": 153.92,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
-          "published_utc": "2026-09-21T13:50:33+00:00"
-        },
-        {
-          "headline": "Strategy Buys $75 Million of Bitcoin As Price Rallies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=870c2f979bc403667db009033255c1179063603209ac6736d5c4ef9a070e4e23",
-          "published_utc": "2026-09-21T13:43:00+00:00"
-        },
-        {
-          "headline": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af9a769033a6225a1fb883b99cca8923fe2ef372e4a0b8e31d45859238c6eafd",
-          "published_utc": "2026-09-21T13:35:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 69.66,
-      "change_percent": 7.8829,
-      "previous_close": 64.57,
-      "quote_timestamp": 1790005228.0,
-      "quote_time_utc": "2026-09-21T15:40:28+00:00",
-      "quote_age_seconds": 31,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f042c16cd8391dd9b71222296019135752c8292f1a9fa8833775496f817ee2d5",
-          "published_utc": "2026-09-21T11:51:17+00:00"
-        },
-        {
-          "headline": "Rocket Lab (RKLB) Dropped, So What Is Behind Its Latest Move?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=48543bbecac2da344e2d7b2ac36bd6df3e5961db9aeb1c897a6ec9973edf57e9",
-          "published_utc": "2026-09-21T10:11:01+00:00"
-        },
-        {
-          "headline": "What's Going On With Rocket Lab Stock Monday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=a935b10d3be726ba71a55a9508671f3eb3991e57598f287b1072f38b37959593",
-          "published_utc": "2026-09-21T09:04:55+00:00"
+          "url": "https://finnhub.io/api/news?id=22c987ab509712daa879a6c9965c5a582e6f7b003dac6a4347a4fe793280c5b0",
+          "published_utc": "2026-09-21T15:46:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 716.41,
-      "change_percent": 7.6095,
+      "price": 724.8,
+      "change_percent": 8.8697,
       "previous_close": 665.75,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -154,13 +80,87 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "RKLB",
+      "price": 69.68,
+      "change_percent": 7.9139,
+      "previous_close": 64.57,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f042c16cd8391dd9b71222296019135752c8292f1a9fa8833775496f817ee2d5",
+          "published_utc": "2026-09-21T11:51:17+00:00"
+        },
+        {
+          "headline": "Rocket Lab (RKLB) Dropped, So What Is Behind Its Latest Move?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=48543bbecac2da344e2d7b2ac36bd6df3e5961db9aeb1c897a6ec9973edf57e9",
+          "published_utc": "2026-09-21T10:11:01+00:00"
+        },
+        {
+          "headline": "What's Going On With Rocket Lab Stock Monday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a935b10d3be726ba71a55a9508671f3eb3991e57598f287b1072f38b37959593",
+          "published_utc": "2026-09-21T09:04:55+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSTR",
+      "price": 165.57,
+      "change_percent": 7.5689,
+      "previous_close": 153.92,
+      "quote_timestamp": 1790007275.0,
+      "quote_time_utc": "2026-09-21T16:14:35+00:00",
+      "quote_age_seconds": 23,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
+          "published_utc": "2026-09-21T13:50:33+00:00"
+        },
+        {
+          "headline": "Strategy Buys $75 Million of Bitcoin As Price Rallies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=870c2f979bc403667db009033255c1179063603209ac6736d5c4ef9a070e4e23",
+          "published_utc": "2026-09-21T13:43:00+00:00"
+        },
+        {
+          "headline": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af9a769033a6225a1fb883b99cca8923fe2ef372e4a0b8e31d45859238c6eafd",
+          "published_utc": "2026-09-21T13:35:38+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "ASTS",
-      "price": 61.64,
-      "change_percent": 5.3315,
+      "price": 61.61,
+      "change_percent": 5.2802,
       "previous_close": 58.52,
-      "quote_timestamp": 1790005229.0,
-      "quote_time_utc": "2026-09-21T15:40:29+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1790007273.0,
+      "quote_time_utc": "2026-09-21T16:14:33+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -191,50 +191,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "COIN",
-      "price": 204.51,
-      "change_percent": 5.2819,
-      "previous_close": 194.25,
-      "quote_timestamp": 1790005229.0,
-      "quote_time_utc": "2026-09-21T15:40:29+00:00",
-      "quote_age_seconds": 30,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Monday's session: gap up and gap down stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bb1e82c03b2c4dd83d55cae74c37f851d80a18305d70a579433a1ed7e68a629e",
-          "published_utc": "2026-09-21T14:35:02+00:00"
-        },
-        {
-          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
-          "published_utc": "2026-09-21T13:50:33+00:00"
-        },
-        {
-          "headline": "Here is What to Know Beyond Why Coinbase Global, Inc. (COIN) is a Trending Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51269e9f042a059ce9bd1d331acd927f5cef39147eb8dac9a3e965c2b9fe43cf",
-          "published_utc": "2026-09-21T13:00:06+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SMCI",
-      "price": 41.04,
-      "change_percent": 4.9885,
+      "price": 41.0,
+      "change_percent": 4.8862,
       "previous_close": 39.09,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007275.0,
+      "quote_time_utc": "2026-09-21T16:14:35+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -265,13 +228,137 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "COIN",
+      "price": 202.2,
+      "change_percent": 4.0927,
+      "previous_close": 194.25,
+      "quote_timestamp": 1790007273.0,
+      "quote_time_utc": "2026-09-21T16:14:33+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Why Coinbase's CEO shouldn't be blamed for the failed Clarity Act",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=64d9ae5ff7f8738ebaa71483e26d9f9a17a483e051f3fdc132df39bee6916549",
+          "published_utc": "2026-09-21T16:00:00+00:00"
+        },
+        {
+          "headline": "COIN Stock Hits 4-Month High Amid Crypto Rally As Coinbase Makes IPO Allocations Available To Retail Traders",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e6904bf7fbc2a6fb72fdb6352deff55d3ac00130ec161a6a0e2b009c500350c",
+          "published_utc": "2026-09-21T15:52:42+00:00"
+        },
+        {
+          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
+          "published_utc": "2026-09-21T15:48:45+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "HOOD",
+      "price": 124.08,
+      "change_percent": 3.5553,
+      "previous_close": 119.82,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
+          "published_utc": "2026-09-21T15:48:45+00:00"
+        },
+        {
+          "headline": "Robinhood\u2019s Vlad Tenev: Trump Accounts Could Become \u201cThe Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a313f9da0f5a6aa5e4a6001ba959bf947789d09ad271ae7951d9d8f08190680f",
+          "published_utc": "2026-09-21T14:47:27+00:00"
+        },
+        {
+          "headline": "Robinhood Markets, Inc. (HOOD) Recently Broke Out Above the 20-Day Moving Average",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e6c5899e69dc5ca4d1d0d4386ea81b76cf8df628be6a6bbef6170de0e2ec80b",
+          "published_utc": "2026-09-21T13:35:02+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 40.49,
+      "change_percent": 3.4756,
+      "previous_close": 39.13,
+      "quote_timestamp": 1790007272.0,
+      "quote_time_utc": "2026-09-21T16:14:32+00:00",
+      "quote_age_seconds": 26,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "3 Things You Need to Know Before Buying IonQ Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=454ea923509fa628750ac44db1bb51b67ff52360196faf94796cc576209c50a5",
+          "published_utc": "2026-09-20T22:11:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 16.27,
+      "change_percent": 3.236,
+      "previous_close": 15.76,
+      "quote_timestamp": 1790007273.0,
+      "quote_time_utc": "2026-09-21T16:14:33+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rigetti Turned $10,000 Into Over $81,000 in 3 Years -- and It's Still 73% Off Its High. Here's Why I Still Wouldn't Touch It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a05c52aa222b318e26451bab9bd7609d9bd7acdc85c9d34f50f25e339a65a7a",
+          "published_utc": "2026-09-20T17:50:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "RIOT",
-      "price": 24.89,
-      "change_percent": 4.8,
+      "price": 24.47,
+      "change_percent": 3.0316,
       "previous_close": 23.75,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007265.0,
+      "quote_time_utc": "2026-09-21T16:14:25+00:00",
+      "quote_age_seconds": 33,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -297,99 +384,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
           "published_utc": "2026-09-21T08:04:42+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "HOOD",
-      "price": 124.18,
-      "change_percent": 3.6388,
-      "previous_close": 119.82,
-      "quote_timestamp": 1790005229.0,
-      "quote_time_utc": "2026-09-21T15:40:29+00:00",
-      "quote_age_seconds": 30,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Robinhood Markets, Inc. (HOOD) Recently Broke Out Above the 20-Day Moving Average",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e6c5899e69dc5ca4d1d0d4386ea81b76cf8df628be6a6bbef6170de0e2ec80b",
-          "published_utc": "2026-09-21T13:35:02+00:00"
-        },
-        {
-          "headline": "Prediction: Robinhood Will Launch Tokenized Stock Trading in the U.S. Before the End of 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0910949bc55814539c1b39ac438b417196fe71bee031ae87f26e1d61688eb2dc",
-          "published_utc": "2026-09-21T12:37:02+00:00"
-        },
-        {
-          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=02636e484de6e6f587ef50795b82bbefd0a0ea09b2e62d3c4bb2c1bb494f6c1f",
-          "published_utc": "2026-09-21T12:35:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 16.27,
-      "change_percent": 3.236,
-      "previous_close": 15.76,
-      "quote_timestamp": 1790005217.0,
-      "quote_time_utc": "2026-09-21T15:40:17+00:00",
-      "quote_age_seconds": 42,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rigetti Turned $10,000 Into Over $81,000 in 3 Years -- and It's Still 73% Off Its High. Here's Why I Still Wouldn't Touch It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a05c52aa222b318e26451bab9bd7609d9bd7acdc85c9d34f50f25e339a65a7a",
-          "published_utc": "2026-09-20T17:50:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 40.35,
-      "change_percent": 3.1178,
-      "previous_close": 39.13,
-      "quote_timestamp": 1790005226.0,
-      "quote_time_utc": "2026-09-21T15:40:26+00:00",
-      "quote_age_seconds": 33,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "3 Things You Need to Know Before Buying IonQ Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=454ea923509fa628750ac44db1bb51b67ff52360196faf94796cc576209c50a5",
-          "published_utc": "2026-09-20T22:11:00+00:00"
-        },
-        {
-          "headline": "IonQ's Options Are the Cheapest They've Been All Year. Here's the Trade That Takes Advantage.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4de5d5cb921dd12cb5af9a6c3b99f7aba4f2636a68f0f015b0f80146922a178",
-          "published_utc": "2026-09-19T15:58:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -398,12 +392,12 @@
   "swing_trading": [
     {
       "symbol": "AMD",
-      "price": 610.31,
-      "change_percent": 9.019,
+      "price": 611.53,
+      "change_percent": 9.2369,
       "previous_close": 559.82,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -413,108 +407,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Monday's session: gap up and gap down stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bb1e82c03b2c4dd83d55cae74c37f851d80a18305d70a579433a1ed7e68a629e",
-          "published_utc": "2026-09-21T14:35:02+00:00"
+          "headline": "Meta AI agent \u2018Muse\u2019 triggers massive tech rally as chips and Wall Street soar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9075ac9e95fbb6fab37d5e4de15f6f8d2dfd9e5ce1c40f1ac2cdb5c6fe3038c7",
+          "published_utc": "2026-09-21T15:56:42+00:00"
         },
         {
-          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+          "headline": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
-          "published_utc": "2026-09-21T13:50:33+00:00"
+          "url": "https://finnhub.io/api/news?id=68de9ca3fbb430570cdc5327497460236351da85c7a7ea6212ff2f1148d729a5",
+          "published_utc": "2026-09-21T15:55:02+00:00"
         },
         {
-          "headline": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+          "headline": "AMD Gains 8.7% as Muse Pulls Inference Beyond GPUs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fae669ecb6e184066d966bca9ef2e7bfed6d0b0685bbf660792d31f03bac5450",
-          "published_utc": "2026-09-21T13:37:53+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSTR",
-      "price": 166.44,
-      "change_percent": 8.1341,
-      "previous_close": 153.92,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
-          "published_utc": "2026-09-21T13:50:33+00:00"
-        },
-        {
-          "headline": "Strategy Buys $75 Million of Bitcoin As Price Rallies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=870c2f979bc403667db009033255c1179063603209ac6736d5c4ef9a070e4e23",
-          "published_utc": "2026-09-21T13:43:00+00:00"
-        },
-        {
-          "headline": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af9a769033a6225a1fb883b99cca8923fe2ef372e4a0b8e31d45859238c6eafd",
-          "published_utc": "2026-09-21T13:35:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 69.66,
-      "change_percent": 7.8829,
-      "previous_close": 64.57,
-      "quote_timestamp": 1790005228.0,
-      "quote_time_utc": "2026-09-21T15:40:28+00:00",
-      "quote_age_seconds": 31,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f042c16cd8391dd9b71222296019135752c8292f1a9fa8833775496f817ee2d5",
-          "published_utc": "2026-09-21T11:51:17+00:00"
-        },
-        {
-          "headline": "Rocket Lab (RKLB) Dropped, So What Is Behind Its Latest Move?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=48543bbecac2da344e2d7b2ac36bd6df3e5961db9aeb1c897a6ec9973edf57e9",
-          "published_utc": "2026-09-21T10:11:01+00:00"
-        },
-        {
-          "headline": "What's Going On With Rocket Lab Stock Monday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=a935b10d3be726ba71a55a9508671f3eb3991e57598f287b1072f38b37959593",
-          "published_utc": "2026-09-21T09:04:55+00:00"
+          "url": "https://finnhub.io/api/news?id=22c987ab509712daa879a6c9965c5a582e6f7b003dac6a4347a4fe793280c5b0",
+          "published_utc": "2026-09-21T15:46:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 716.41,
-      "change_percent": 7.6095,
+      "price": 724.8,
+      "change_percent": 8.8697,
       "previous_close": 665.75,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -545,13 +465,87 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "RKLB",
+      "price": 69.68,
+      "change_percent": 7.9139,
+      "previous_close": 64.57,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f042c16cd8391dd9b71222296019135752c8292f1a9fa8833775496f817ee2d5",
+          "published_utc": "2026-09-21T11:51:17+00:00"
+        },
+        {
+          "headline": "Rocket Lab (RKLB) Dropped, So What Is Behind Its Latest Move?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=48543bbecac2da344e2d7b2ac36bd6df3e5961db9aeb1c897a6ec9973edf57e9",
+          "published_utc": "2026-09-21T10:11:01+00:00"
+        },
+        {
+          "headline": "What's Going On With Rocket Lab Stock Monday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=a935b10d3be726ba71a55a9508671f3eb3991e57598f287b1072f38b37959593",
+          "published_utc": "2026-09-21T09:04:55+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSTR",
+      "price": 165.57,
+      "change_percent": 7.5689,
+      "previous_close": 153.92,
+      "quote_timestamp": 1790007275.0,
+      "quote_time_utc": "2026-09-21T16:14:35+00:00",
+      "quote_age_seconds": 23,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
+          "published_utc": "2026-09-21T13:50:33+00:00"
+        },
+        {
+          "headline": "Strategy Buys $75 Million of Bitcoin As Price Rallies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=870c2f979bc403667db009033255c1179063603209ac6736d5c4ef9a070e4e23",
+          "published_utc": "2026-09-21T13:43:00+00:00"
+        },
+        {
+          "headline": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af9a769033a6225a1fb883b99cca8923fe2ef372e4a0b8e31d45859238c6eafd",
+          "published_utc": "2026-09-21T13:35:38+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "ASTS",
-      "price": 61.64,
-      "change_percent": 5.3315,
+      "price": 61.61,
+      "change_percent": 5.2802,
       "previous_close": 58.52,
-      "quote_timestamp": 1790005229.0,
-      "quote_time_utc": "2026-09-21T15:40:29+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1790007273.0,
+      "quote_time_utc": "2026-09-21T16:14:33+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -582,50 +576,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "COIN",
-      "price": 204.51,
-      "change_percent": 5.2819,
-      "previous_close": 194.25,
-      "quote_timestamp": 1790005229.0,
-      "quote_time_utc": "2026-09-21T15:40:29+00:00",
-      "quote_age_seconds": 30,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Monday's session: gap up and gap down stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bb1e82c03b2c4dd83d55cae74c37f851d80a18305d70a579433a1ed7e68a629e",
-          "published_utc": "2026-09-21T14:35:02+00:00"
-        },
-        {
-          "headline": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d1d95511eedbc92b7b2ebb7be3b17222e33e51f9af5510ea2f308d15927830e8",
-          "published_utc": "2026-09-21T13:50:33+00:00"
-        },
-        {
-          "headline": "Here is What to Know Beyond Why Coinbase Global, Inc. (COIN) is a Trending Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51269e9f042a059ce9bd1d331acd927f5cef39147eb8dac9a3e965c2b9fe43cf",
-          "published_utc": "2026-09-21T13:00:06+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SMCI",
-      "price": 41.04,
-      "change_percent": 4.9885,
+      "price": 41.0,
+      "change_percent": 4.8862,
       "previous_close": 39.09,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007275.0,
+      "quote_time_utc": "2026-09-21T16:14:35+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -656,13 +613,137 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "COIN",
+      "price": 202.2,
+      "change_percent": 4.0927,
+      "previous_close": 194.25,
+      "quote_timestamp": 1790007273.0,
+      "quote_time_utc": "2026-09-21T16:14:33+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Why Coinbase's CEO shouldn't be blamed for the failed Clarity Act",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=64d9ae5ff7f8738ebaa71483e26d9f9a17a483e051f3fdc132df39bee6916549",
+          "published_utc": "2026-09-21T16:00:00+00:00"
+        },
+        {
+          "headline": "COIN Stock Hits 4-Month High Amid Crypto Rally As Coinbase Makes IPO Allocations Available To Retail Traders",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e6904bf7fbc2a6fb72fdb6352deff55d3ac00130ec161a6a0e2b009c500350c",
+          "published_utc": "2026-09-21T15:52:42+00:00"
+        },
+        {
+          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
+          "published_utc": "2026-09-21T15:48:45+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "HOOD",
+      "price": 124.08,
+      "change_percent": 3.5553,
+      "previous_close": 119.82,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
+          "published_utc": "2026-09-21T15:48:45+00:00"
+        },
+        {
+          "headline": "Robinhood\u2019s Vlad Tenev: Trump Accounts Could Become \u201cThe Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a313f9da0f5a6aa5e4a6001ba959bf947789d09ad271ae7951d9d8f08190680f",
+          "published_utc": "2026-09-21T14:47:27+00:00"
+        },
+        {
+          "headline": "Robinhood Markets, Inc. (HOOD) Recently Broke Out Above the 20-Day Moving Average",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e6c5899e69dc5ca4d1d0d4386ea81b76cf8df628be6a6bbef6170de0e2ec80b",
+          "published_utc": "2026-09-21T13:35:02+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 40.49,
+      "change_percent": 3.4756,
+      "previous_close": 39.13,
+      "quote_timestamp": 1790007272.0,
+      "quote_time_utc": "2026-09-21T16:14:32+00:00",
+      "quote_age_seconds": 26,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "3 Things You Need to Know Before Buying IonQ Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=454ea923509fa628750ac44db1bb51b67ff52360196faf94796cc576209c50a5",
+          "published_utc": "2026-09-20T22:11:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 16.27,
+      "change_percent": 3.236,
+      "previous_close": 15.76,
+      "quote_timestamp": 1790007273.0,
+      "quote_time_utc": "2026-09-21T16:14:33+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rigetti Turned $10,000 Into Over $81,000 in 3 Years -- and It's Still 73% Off Its High. Here's Why I Still Wouldn't Touch It.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a05c52aa222b318e26451bab9bd7609d9bd7acdc85c9d34f50f25e339a65a7a",
+          "published_utc": "2026-09-20T17:50:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "RIOT",
-      "price": 24.89,
-      "change_percent": 4.8,
+      "price": 24.47,
+      "change_percent": 3.0316,
       "previous_close": 23.75,
-      "quote_timestamp": 1790005230.0,
-      "quote_time_utc": "2026-09-21T15:40:30+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790007265.0,
+      "quote_time_utc": "2026-09-21T16:14:25+00:00",
+      "quote_age_seconds": 33,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -693,106 +774,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "HOOD",
-      "price": 124.18,
-      "change_percent": 3.6388,
-      "previous_close": 119.82,
-      "quote_timestamp": 1790005229.0,
-      "quote_time_utc": "2026-09-21T15:40:29+00:00",
-      "quote_age_seconds": 30,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Robinhood Markets, Inc. (HOOD) Recently Broke Out Above the 20-Day Moving Average",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e6c5899e69dc5ca4d1d0d4386ea81b76cf8df628be6a6bbef6170de0e2ec80b",
-          "published_utc": "2026-09-21T13:35:02+00:00"
-        },
-        {
-          "headline": "Prediction: Robinhood Will Launch Tokenized Stock Trading in the U.S. Before the End of 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0910949bc55814539c1b39ac438b417196fe71bee031ae87f26e1d61688eb2dc",
-          "published_utc": "2026-09-21T12:37:02+00:00"
-        },
-        {
-          "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=02636e484de6e6f587ef50795b82bbefd0a0ea09b2e62d3c4bb2c1bb494f6c1f",
-          "published_utc": "2026-09-21T12:35:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 16.27,
-      "change_percent": 3.236,
-      "previous_close": 15.76,
-      "quote_timestamp": 1790005217.0,
-      "quote_time_utc": "2026-09-21T15:40:17+00:00",
-      "quote_age_seconds": 42,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rigetti Turned $10,000 Into Over $81,000 in 3 Years -- and It's Still 73% Off Its High. Here's Why I Still Wouldn't Touch It.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a05c52aa222b318e26451bab9bd7609d9bd7acdc85c9d34f50f25e339a65a7a",
-          "published_utc": "2026-09-20T17:50:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 40.35,
-      "change_percent": 3.1178,
-      "previous_close": 39.13,
-      "quote_timestamp": 1790005226.0,
-      "quote_time_utc": "2026-09-21T15:40:26+00:00",
-      "quote_age_seconds": 33,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "3 Things You Need to Know Before Buying IonQ Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=454ea923509fa628750ac44db1bb51b67ff52360196faf94796cc576209c50a5",
-          "published_utc": "2026-09-20T22:11:00+00:00"
-        },
-        {
-          "headline": "IonQ's Options Are the Cheapest They've Been All Year. Here's the Trade That Takes Advantage.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4de5d5cb921dd12cb5af9a6c3b99f7aba4f2636a68f0f015b0f80146922a178",
-          "published_utc": "2026-09-19T15:58:11+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "TSLA",
-      "price": 374.69,
-      "change_percent": 2.8605,
+      "price": 375.16,
+      "change_percent": 2.9895,
       "previous_close": 364.27,
-      "quote_timestamp": 1790005229.0,
-      "quote_time_utc": "2026-09-21T15:40:29+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1790007274.0,
+      "quote_time_utc": "2026-09-21T16:14:34+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -823,13 +811,31 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "SOUN",
+      "price": 6.1,
+      "change_percent": 2.8668,
+      "previous_close": 5.93,
+      "quote_timestamp": 1790007270.0,
+      "quote_time_utc": "2026-09-21T16:14:30+00:00",
+      "quote_age_seconds": 28,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [],
+      "news_status": "No recent headlines returned"
+    },
+    {
       "symbol": "PLTR",
-      "price": 181.96,
-      "change_percent": 2.4319,
+      "price": 182.36,
+      "change_percent": 2.6571,
       "previous_close": 177.64,
-      "quote_timestamp": 1790005226.0,
-      "quote_time_utc": "2026-09-21T15:40:26+00:00",
-      "quote_age_seconds": 33,
+      "quote_timestamp": 1790007269.0,
+      "quote_time_utc": "2026-09-21T16:14:29+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -855,61 +861,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c3ebce33b3f259ee0819d9e3da82cd5fc6e9772633e75acf1db49966846dc118",
           "published_utc": "2026-09-21T10:45:09+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SOUN",
-      "price": 6.07,
-      "change_percent": 2.3609,
-      "previous_close": 5.93,
-      "quote_timestamp": 1790005226.0,
-      "quote_time_utc": "2026-09-21T15:40:26+00:00",
-      "quote_age_seconds": 33,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [],
-      "news_status": "No recent headlines returned"
-    },
-    {
-      "symbol": "MARA",
-      "price": 13.51,
-      "change_percent": 2.0393,
-      "previous_close": 13.24,
-      "quote_timestamp": 1790005228.0,
-      "quote_time_utc": "2026-09-21T15:40:28+00:00",
-      "quote_age_seconds": 31,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Strategy Jumps 6% as Bitcoin Hits Highest Level Since January; MARA Climbs 5%, Riot Rises 4%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c1567262721a91b6b633e6ce3285c9df3c0345fea0f0f0188e8a5ad3cfdc5ad",
-          "published_utc": "2026-09-21T12:44:44+00:00"
-        },
-        {
-          "headline": "Why Is Crypto Up Today? Oil Prices Drop, Short Sellers Squeezed, and Bitcoin Reclaims Key Level After 45 Weeks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bca4fd6bbb0cb3fed4313f812c325339a47ea0b58edea93232223e7cad689085",
-          "published_utc": "2026-09-21T11:30:59+00:00"
-        },
-        {
-          "headline": "Bitcoin, Ethereum, XRP Surge as $400 Million in Shorts Get Liquidated",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=2989f53f044fe54cf09bcf6eab6f3deb5b77d2894f8e469313c3d72523cd1db1",
-          "published_utc": "2026-09-21T10:48:43+00:00"
         }
       ],
       "news_status": "Recent headlines found"
