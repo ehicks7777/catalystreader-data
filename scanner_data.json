@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T21:40:09.393267+00:00",
+  "updated": "2026-09-21T22:13:47.666654+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
+          "headline": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
-          "published_utc": "2026-09-21T19:26:41+00:00"
+          "url": "https://finnhub.io/api/news?id=e47cb55db2b013246600f93235e702c47c4e8a8cf765e371861befd71a1cd2f7",
+          "published_utc": "2026-09-21T21:22:22+00:00"
         },
         {
-          "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
+          "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87a1db9c600c746f45c0bd4ca875ad4cd8fd9221f84e45ddb5356495a8482270",
-          "published_utc": "2026-09-21T19:23:43+00:00"
+          "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985",
+          "published_utc": "2026-09-21T21:13:25+00:00"
         },
         {
-          "headline": "AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
+          "headline": "Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3e73849c9425e2e84620c409bca2a8cdb11457e694633c39845d070d5407dcd",
-          "published_utc": "2026-09-21T19:18:55+00:00"
+          "url": "https://finnhub.io/api/news?id=8c9d7afe8453a5109358537a6d992fe1cc1160596d21bd8c4ceeec4c4616f090",
+          "published_utc": "2026-09-21T21:09:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -278,7 +278,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -303,7 +303,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -312,6 +312,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Bitcoin-related stocks are surging: The momentum is 'incredible'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1bfe868a173114ac860b0cf46f9e8e81777919e4a45c0820812bf0252eb2657c",
+          "published_utc": "2026-09-21T20:45:00+00:00"
+        },
         {
           "headline": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
           "source": "Yahoo",
@@ -323,12 +329,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=33dfe7f83e072d2b4c6874a1acde365f8e445ff5b267a7c35fb3f4e252f6429c",
           "published_utc": "2026-09-21T18:36:56+00:00"
-        },
-        {
-          "headline": "Is it worth investing in bitcoin if I'm Gen X?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38ace275b88f9a24f2899096abec441977956726bb7297e362c3f548d67aa26b",
-          "published_utc": "2026-09-21T18:35:32+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -340,7 +340,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -377,7 +377,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -414,7 +414,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -423,6 +423,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf2dbc9eb92834e2507b0ae36668743c805c89e80f037438d1e6cb51f6746b32",
+          "published_utc": "2026-09-21T21:46:03+00:00"
+        },
         {
           "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
           "source": "Yahoo",
@@ -434,12 +440,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
           "published_utc": "2026-09-21T15:48:45+00:00"
-        },
-        {
-          "headline": "Robinhood\u2019s Vlad Tenev: Trump Accounts Could Become \u201cThe Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a313f9da0f5a6aa5e4a6001ba959bf947789d09ad271ae7951d9d8f08190680f",
-          "published_utc": "2026-09-21T14:47:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -451,7 +451,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 6008,
+      "quote_age_seconds": 8026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
