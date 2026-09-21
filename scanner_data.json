@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T10:14:30.592364+00:00",
+  "updated": "2026-09-21T10:41:11.860629+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 132.25,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 224069,
+      "quote_age_seconds": 225670,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=36a374b6ddbe765f9ab2b29e368471685d9f77fe27db24ccc12687c25908f830",
+          "published_utc": "2026-09-21T08:12:54+00:00"
+        },
         {
           "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
           "source": "ChartMill",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=464e75110d5dcffc2c2e0de1b25110672571db623840d367d9427ebc9e193dc1",
           "published_utc": "2026-09-20T19:23:07+00:00"
-        },
-        {
-          "headline": "Strategy Is Up 53% in the Past Month. Here's the Bull and Bear Case for One of Wall Street's Most Polarizing Stocks.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff4487eff605d03265939302454de141cee1e3f0d0c7d4ffa6fcf1576d0c2daa",
-          "published_utc": "2026-09-20T10:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 11.64,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 224069,
+      "quote_age_seconds": 225670,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -75,7 +75,7 @@
       "previous_close": 173.97,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 224069,
+      "quote_age_seconds": 225670,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -112,7 +112,7 @@
       "previous_close": 109.81,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 224069,
+      "quote_age_seconds": 225670,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -149,7 +149,7 @@
       "previous_close": 21.88,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 224069,
+      "quote_age_seconds": 225670,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -180,7 +180,7 @@
       "previous_close": 545.09,
       "quote_timestamp": 1789761600.0,
       "quote_time_utc": "2026-09-18T20:00:00+00:00",
-      "quote_age_seconds": 224069,
+      "quote_age_seconds": 225670,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
