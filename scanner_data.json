@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T00:19:23.953176+00:00",
+  "updated": "2026-09-22T00:46:06.740537+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Why Strategy Stock Surged Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a78cfbaa72a76ef4f84427eb2e85df8739fd4769d1259b5f728961ec08668e8e",
+          "published_utc": "2026-09-21T23:23:42+00:00"
+        },
         {
           "headline": "Michael Saylor's Strategy restarts buying BTC",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dedb7be4c609936bd67822e42fd5867628cf95b99a3546b726fba762bf764518",
           "published_utc": "2026-09-21T18:03:00+00:00"
-        },
-        {
-          "headline": "Strategy is buying bitcoin again! But this crypto treasury is buying more.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=73e201e5a0e36df96061237d7d447faa0afa280063e8d92eaec8d1f861fabc0b",
-          "published_utc": "2026-09-21T18:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "What's Going On with AST SpaceMobile Stock Monday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=19d7c2b03fab8909d641462cac80da6fdd150eb73dc40b926388d8a98bdfd5fe",
-          "published_utc": "2026-09-21T10:27:23+00:00"
-        },
-        {
-          "headline": "US Stock Market Today: S&P 500 Futures Edge Up As Rising Yields Test Growth",
+          "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=36a374b6ddbe765f9ab2b29e368471685d9f77fe27db24ccc12687c25908f830",
-          "published_utc": "2026-09-21T08:12:54+00:00"
+          "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
+          "published_utc": "2026-09-21T20:36:00+00:00"
         },
         {
-          "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
-          "published_utc": "2026-09-21T08:04:42+00:00"
+          "headline": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7623ba36129231004c8647289287e6e29a5d0fd74f16d9cfb488a536205a6ff6",
+          "published_utc": "2026-09-21T17:00:16+00:00"
+        },
+        {
+          "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e68d3b39a4d666c6366d61455837bfa37ac4e181ccefecd949ee9414864e794",
+          "published_utc": "2026-09-21T15:40:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -310,7 +310,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -347,7 +347,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -356,6 +356,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "A Closer Look at the 'Big 3' Investing Styles",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06515fc5deb57dfa77d7800a87686791109c531843b4a7d755d8cda45062c003",
+          "published_utc": "2026-09-21T23:44:00+00:00"
+        },
         {
           "headline": "Palantir's Alex Karp says AI's biggest names may never IPO \u2014 the play is telling Washington 'nationalize us, please'",
           "source": "Yahoo",
@@ -367,12 +373,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bf34d234c46bd14846ad89a43c89162c32895d56c1f335171af73ef9fd0811be",
           "published_utc": "2026-09-21T19:48:44+00:00"
-        },
-        {
-          "headline": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87a1db9c600c746f45c0bd4ca875ad4cd8fd9221f84e45ddb5356495a8482270",
-          "published_utc": "2026-09-21T19:23:43+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -384,7 +384,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -421,7 +421,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -430,6 +430,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Why Robinhood Markets Crushed it on Monday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=883454bced2a3e0b2c2ac002f068b2a359d9fada3d3bdad21d13e45cdaa0bf62",
+          "published_utc": "2026-09-22T00:25:53+00:00"
+        },
         {
           "headline": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
           "source": "Yahoo",
@@ -441,12 +447,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
           "published_utc": "2026-09-21T16:50:48+00:00"
-        },
-        {
-          "headline": "Is Coinbase's Steadier Side Really A Cushion?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=089913c7a8575bcdbd74dbf8ce890b15829a0989933dd6ee9dcfdeea322efc27",
-          "published_utc": "2026-09-21T15:48:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -458,7 +458,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 15562,
+      "quote_age_seconds": 17165,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
