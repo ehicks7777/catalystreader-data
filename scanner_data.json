@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T02:14:15.378447+00:00",
+  "updated": "2026-09-22T02:41:55.365032+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=605961327fb1b61764e0ff9bc6b926029e90d102b39d7179305726b0388a7c39",
+          "published_utc": "2026-09-22T00:30:25+00:00"
+        },
         {
           "headline": "Why Strategy Stock Surged Today",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=14a6065391f057dc456c70bb2d471ec304e3e82f6ef2fcfa1a480b0ec8b3c817",
           "published_utc": "2026-09-21T20:28:19+00:00"
-        },
-        {
-          "headline": "Tech Stocks Break Out: The Next Leg of the Bull Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dedb7be4c609936bd67822e42fd5867628cf95b99a3546b726fba762bf764518",
-          "published_utc": "2026-09-21T18:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Why Are Rocket Lab (RKLB) Shares Soaring Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da8cc42077bb94afdcaff8a296e18d348333484fbfeb49807340f59572038ecc",
+          "published_utc": "2026-09-22T01:10:25+00:00"
+        },
         {
           "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=866fe1916bf2316c72e249ed15dce5949d7a0fead2f744394c38adf1e1aa84e3",
           "published_utc": "2026-09-21T19:23:23+00:00"
-        },
-        {
-          "headline": "Rocket Lab Poised to Become \u201cOnly Viable Alternative\u201d to SpaceX, Says Cantor Fitzgerald",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efe8986e965be263627095d02bfbcfb3bbd5f9fccaa284d672f03aaaa2cac30a",
-          "published_utc": "2026-09-21T19:01:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -406,22 +406,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "What Could A Space Exploration Technologies (SPCX) Merger Mean For Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fe047ca97c0dd028e8229782caa809efead63d8342be52d37ebacb8254cc5cec",
+          "published_utc": "2026-09-22T01:15:36+00:00"
+        },
+        {
+          "headline": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To \u2018Physical AI\u2019 Pivot Despite Optimus Delays",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bf07f205b00177c7b3d7628283de144060d1accdd7f867136ebcd757411d8908",
+          "published_utc": "2026-09-22T01:12:24+00:00"
+        },
+        {
           "headline": "Robotaxis crash less. So why isn't your insurance cheaper?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7ed71c80250c1c1ee3f2b40db70a25966630cdc75521f2143a3c1bfe83a25ad5",
           "published_utc": "2026-09-21T23:24:16+00:00"
-        },
-        {
-          "headline": "Tesla Audits Chinese Suppliers as Elon Musk\u2019s Optimus Robot Moves Closer to Mass Production: Report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6a009e7ca578324cb8db198e86e9283081d8054c3fcf36c6dfc6acb77a373152",
-          "published_utc": "2026-09-21T21:30:14+00:00"
-        },
-        {
-          "headline": "Tesla Gains 3% as Fremont Bias Claims Reach Trial",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=362fc92b927c1734f1db770add08121b18631576eecb33a2a62ea2aab3b0e0a5",
-          "published_utc": "2026-09-21T19:46:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 22454,
+      "quote_age_seconds": 24113,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
