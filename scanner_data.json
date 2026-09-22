@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:41:13.909750+00:00",
+  "updated": "2026-09-22T02:14:15.378447+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Meta (META) Stock Trades Up, Here Is Why",
+          "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40b760a0993b8974e7787396935db102ae7fb9b215c8147c8175919a64bad020",
-          "published_utc": "2026-09-21T23:50:25+00:00"
+          "url": "https://finnhub.io/api/news?id=d0eb2b00556f5ff54107e4cb4129531ff940c8b13d21e046be3f77e5fbe685d8",
+          "published_utc": "2026-09-22T01:50:51+00:00"
         },
         {
-          "headline": "Decibel hits $7 billion in total trading volume on Aptos",
+          "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd9c7c5fa0ba4dcad87607b43627c2cb2d6dc65b61544f70a2f332f59a394d7a",
-          "published_utc": "2026-09-21T22:43:13+00:00"
+          "url": "https://finnhub.io/api/news?id=e0e81c35f9dfab690733bf2e90c84e610216e4850d5c4e0f2f403dc7264ef223",
+          "published_utc": "2026-09-22T01:03:18+00:00"
         },
         {
-          "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
+          "headline": "Should Investors Chase the AI-Fueled Rally in AMD or META Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
-          "published_utc": "2026-09-21T22:04:54+00:00"
+          "url": "https://finnhub.io/api/news?id=1aad84d28efe9aaeecf9aeeb723b642f4d7c6a4e5ead51a7a934b32b644ba3de",
+          "published_utc": "2026-09-22T00:05:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
+          "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6965103b0fad8640ba1f5676336f1fb3908796c357668417d195d3cb9c56d230",
-          "published_utc": "2026-09-21T23:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=d0eb2b00556f5ff54107e4cb4129531ff940c8b13d21e046be3f77e5fbe685d8",
+          "published_utc": "2026-09-22T01:50:51+00:00"
         },
         {
-          "headline": "Advanced Micro Devices (AMD) Is Up 24.7% After Expanding Its Role In Regulated AI Infrastructure \u2013 Has The Bull Case Changed?",
+          "headline": "3 AI Chip Equipment Stocks Riding the Semiconductor Rally",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=86d150aa8e250c33b1ed6e5ea39d2c17d10fec74cbdc713c1ffed209d50afe78",
-          "published_utc": "2026-09-21T22:18:40+00:00"
+          "url": "https://finnhub.io/api/news?id=c6d2cf4f14e246ed7d01ee0240d6a176d0369c3d384d4f9a4a847299a6835492",
+          "published_utc": "2026-09-22T01:16:38+00:00"
         },
         {
-          "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
+          "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
-          "published_utc": "2026-09-21T22:04:54+00:00"
+          "url": "https://finnhub.io/api/news?id=e0e81c35f9dfab690733bf2e90c84e610216e4850d5c4e0f2f403dc7264ef223",
+          "published_utc": "2026-09-22T01:03:18+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -442,6 +442,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "HOOD Stock Dips Overnight: CEO Vlad Tenev Sells Shares Worth $31M",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=78582c51c28930ca3971e1478ca8f3d049e6dafca2580c02af03642d1f3d64a0",
+          "published_utc": "2026-09-22T01:13:35+00:00"
+        },
         {
           "headline": "Why Robinhood Markets Crushed it on Monday",
           "source": "Yahoo",
@@ -453,12 +459,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cf2dbc9eb92834e2507b0ae36668743c805c89e80f037438d1e6cb51f6746b32",
           "published_utc": "2026-09-21T21:46:03+00:00"
-        },
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 20471,
+      "quote_age_seconds": 22454,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -480,22 +480,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss What That Could Signal",
+          "headline": "Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here\u2019s What That Means for Netflix Investors.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1edd9302360af3e178a55192f1fc1bcf4856c49a61ea226edbe1b8bf11ee6588",
-          "published_utc": "2026-09-21T23:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=493c185d1f5c0af81162d0a3486134586257136063317d15955767c926f99e07",
+          "published_utc": "2026-09-22T01:43:20+00:00"
         },
         {
-          "headline": "Why ServiceNow Stock Inched Higher on Monday",
+          "headline": "Prediction: Here's What a $1,000 Investment in SpaceX Stock Could Be Worth in 2031",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1807b727413ecfc38076ff7c6328428fd37256bf98d5e1250a5da83281667d09",
-          "published_utc": "2026-09-21T23:31:40+00:00"
+          "url": "https://finnhub.io/api/news?id=9dc700730130a40015be40e086e8fbd154d9532a31790b6f910c9a13d1588f8c",
+          "published_utc": "2026-09-22T01:20:00+00:00"
         },
         {
-          "headline": "Why Strategy Stock Surged Today",
+          "headline": "Why Rackspace Technology (RXT) Is Up 15.8% After Joining NVIDIA\u2019s Cloud Partner Program",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a78cfbaa72a76ef4f84427eb2e85df8739fd4769d1259b5f728961ec08668e8e",
-          "published_utc": "2026-09-21T23:23:42+00:00"
+          "url": "https://finnhub.io/api/news?id=2fcf0d3a1b94bdf870447e2f00bb22096ba11709a8acd07248cf20665faf0e37",
+          "published_utc": "2026-09-22T01:14:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
