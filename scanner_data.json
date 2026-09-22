@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T05:41:26.149006+00:00",
+  "updated": "2026-09-22T06:18:26.167697+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
+          "headline": "Intel (INTC) Sees AI CPU Demand Squeeze As CEO Flags 50% Fulfillment",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b36fa55879fd1f7038d5b488a420d87ff228d8ac91dba1bb31c4e807cf29aa91",
-          "published_utc": "2026-09-22T03:21:33+00:00"
+          "url": "https://finnhub.io/api/news?id=fa2b16201e5d1fe2a43fcb83c511a1ca299b0482cb970ed2b9ac9ae3dd1fbbc4",
+          "published_utc": "2026-09-22T05:15:05+00:00"
         },
         {
-          "headline": "Stocks rise on AI buzz, drop in oil prices",
+          "headline": "Meta Stock Is Still Too Cheap",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82244b4db707ded382442c9428af04e1e8da32029e96cd2075dc0b364596c00c",
-          "published_utc": "2026-09-22T02:37:48+00:00"
+          "url": "https://finnhub.io/api/news?id=445d5b325b6be4bfd37be46d1921b7dfee5fa6a8dc01af029ddb874e9e169df0",
+          "published_utc": "2026-09-22T04:50:02+00:00"
         },
         {
-          "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+          "headline": "Meta Jumps 11% As Muse Shines and Investors Show an Appetite for Advancing AI",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0eb2b00556f5ff54107e4cb4129531ff940c8b13d21e046be3f77e5fbe685d8",
-          "published_utc": "2026-09-22T01:50:51+00:00"
+          "url": "https://finnhub.io/api/news?id=c30278051488c56fcc9c5d41f71c7f6865ca6553b3fbe4b183d0f0f0cc89b8a3",
+          "published_utc": "2026-09-22T04:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMD joins trillion-dollar chipmaker club as AI demand surges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=deec3e8265e020ac397b315e60894f76863921742558db862dd60119604f4ae2",
+          "published_utc": "2026-09-22T05:00:48+00:00"
+        },
         {
           "headline": "Why Did AMD, WBD, MRNA Stocks Surge To 52-Week Highs Today?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=843f1a57bd6bdeaa34f8cac407216ad99cabff52b6023b494ba774b8b7457dde",
           "published_utc": "2026-09-22T02:44:33+00:00"
-        },
-        {
-          "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0eb2b00556f5ff54107e4cb4129531ff940c8b13d21e046be3f77e5fbe685d8",
-          "published_utc": "2026-09-22T01:50:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -405,6 +405,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SPCX Stock Climbs Overnight: Analysts Tout SpaceX-Tesla \u2018Physical AI\u2019 Flywheel, Musk \u2018Effectively\u2019 Ships Grok 4.7 On Time",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5ff7294f62edfea0eda7afcfdc76735f8c49709a51cbb6045ab4acb91a73969d",
+          "published_utc": "2026-09-22T05:21:38+00:00"
+        },
         {
           "headline": "What Could A Space Exploration Technologies (SPCX) Merger Mean For Investors?",
           "source": "Yahoo",
@@ -416,12 +422,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bf07f205b00177c7b3d7628283de144060d1accdd7f867136ebcd757411d8908",
           "published_utc": "2026-09-22T01:12:24+00:00"
-        },
-        {
-          "headline": "Robotaxis crash less. So why isn't your insurance cheaper?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7ed71c80250c1c1ee3f2b40db70a25966630cdc75521f2143a3c1bfe83a25ad5",
-          "published_utc": "2026-09-21T23:24:16+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 34884,
+      "quote_age_seconds": 37104,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -480,22 +480,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nvidia's Forecast Assumes No Data Center Chip Sales to China. The Sept. 24 U.S.-China Summit Could Change That.",
+          "headline": "AMD joins trillion-dollar chipmaker club as AI demand surges",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2bc1c328715073b1e4b6795662793a592803c6f73e3e4900551a3c1b9900b2f8",
-          "published_utc": "2026-09-22T03:13:01+00:00"
+          "url": "https://finnhub.io/api/news?id=deec3e8265e020ac397b315e60894f76863921742558db862dd60119604f4ae2",
+          "published_utc": "2026-09-22T05:00:48+00:00"
         },
         {
-          "headline": "Apple Launches New Products in Time for New CEO",
+          "headline": "Meta Stock Is Still Too Cheap",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf2efce18859eea1529595a5679365d1169fbefc1cfa313e39fb46876872c446",
-          "published_utc": "2026-09-22T03:02:39+00:00"
+          "url": "https://finnhub.io/api/news?id=445d5b325b6be4bfd37be46d1921b7dfee5fa6a8dc01af029ddb874e9e169df0",
+          "published_utc": "2026-09-22T04:50:02+00:00"
         },
         {
-          "headline": "How Tim Cook Set Up Apple Stock's Next Growth Era, Explains Jim Cramer",
+          "headline": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf2b44f5c4ba89193aa41dc4b506576095b68c7505159386cf993a0f7f056036",
-          "published_utc": "2026-09-22T02:35:28+00:00"
+          "url": "https://finnhub.io/api/news?id=920d87108e773e8ca579984d9f539339e54eceb643203da7db0a1ab75cbfb3d0",
+          "published_utc": "2026-09-22T04:49:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
