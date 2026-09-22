@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:40:25.428681+00:00",
+  "updated": "2026-09-22T00:19:23.953176+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
+          "headline": "Meta (META) Stock Trades Up, Here Is Why",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33112552d514cebd13c537152919d4e8b3e551bec9ac42be74177076db0ec0f9",
-          "published_utc": "2026-09-21T21:43:56+00:00"
+          "url": "https://finnhub.io/api/news?id=40b760a0993b8974e7787396935db102ae7fb9b215c8147c8175919a64bad020",
+          "published_utc": "2026-09-21T23:50:25+00:00"
         },
         {
-          "headline": "Meta Up 11% as Zuckerberg Bets Muse Will \u201cMake You Money and Save You Money\u201d",
+          "headline": "Decibel hits $7 billion in total trading volume on Aptos",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=acc65f6ecd20348f5dd7eb22ec27be1564ff8d2fc359ea61b64706d88ac52fea",
-          "published_utc": "2026-09-21T21:34:28+00:00"
+          "url": "https://finnhub.io/api/news?id=fd9c7c5fa0ba4dcad87607b43627c2cb2d6dc65b61544f70a2f332f59a394d7a",
+          "published_utc": "2026-09-21T22:43:13+00:00"
         },
         {
-          "headline": "Amazon kicks out Meta's Muse in split over AI shopping",
+          "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=74d01eb8a1a5d9a83df97648cecc5ff4d77a2ac97ce6fbb31359e564fb04ac98",
-          "published_utc": "2026-09-21T21:33:37+00:00"
+          "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
+          "published_utc": "2026-09-21T22:04:54+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
+          "headline": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e47cb55db2b013246600f93235e702c47c4e8a8cf765e371861befd71a1cd2f7",
-          "published_utc": "2026-09-21T21:22:22+00:00"
+          "url": "https://finnhub.io/api/news?id=6965103b0fad8640ba1f5676336f1fb3908796c357668417d195d3cb9c56d230",
+          "published_utc": "2026-09-21T23:20:00+00:00"
         },
         {
-          "headline": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+          "headline": "Advanced Micro Devices (AMD) Is Up 24.7% After Expanding Its Role In Regulated AI Infrastructure \u2013 Has The Bull Case Changed?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985",
-          "published_utc": "2026-09-21T21:13:25+00:00"
+          "url": "https://finnhub.io/api/news?id=86d150aa8e250c33b1ed6e5ea39d2c17d10fec74cbdc713c1ffed209d50afe78",
+          "published_utc": "2026-09-21T22:18:40+00:00"
         },
         {
-          "headline": "Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",
+          "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c9d7afe8453a5109358537a6d992fe1cc1160596d21bd8c4ceeec4c4616f090",
-          "published_utc": "2026-09-21T21:09:45+00:00"
+          "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
+          "published_utc": "2026-09-21T22:04:54+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -207,6 +207,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Super Micro Computer (SMCI) Is Up 12.1% After Record AI Backlog Sparks Major Capacity Expansion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=417776abecf65742a1c386d504a0f2956254d722da39f3bc246a1f6df125d263",
+          "published_utc": "2026-09-21T22:18:02+00:00"
+        },
         {
           "headline": "What's going on in today's session: S&P500 most active stocks",
           "source": "ChartMill",
@@ -218,12 +224,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6fbcbb5a7e6ea682df56383563517132a922b15f4fba981055d207ca7cc46039",
           "published_utc": "2026-09-21T17:04:00+00:00"
-        },
-        {
-          "headline": "Can SMCI's Record Backlog Sustain Revenue Momentum in FY27?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f0b979ec7143ff4ce94c703424d9b2018f86eb57aa0b8c5f6f5c3ec68a67a00",
-          "published_utc": "2026-09-21T16:29:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -268,8 +268,15 @@
       "volume_status": "Unavailable: verified volume feed not connected",
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [],
-      "news_status": "No recent headlines returned"
+      "news": [
+        {
+          "headline": "SoundHound AI CEO Sells Thousands of Shares After 40% Stock Crash",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=03d1b3b8576362b8a458b56874603f891928362e9ebf2cf4c055af57e324ee8d",
+          "published_utc": "2026-09-21T14:42:42+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
     },
     {
       "symbol": "IONQ",
@@ -278,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -303,7 +310,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -312,6 +319,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Why Coinbase (COIN) Stock Is Trading Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ea4e6cbbd3594865918ad2c2a5a300d24a1e28df0f19d1945b734c3d426ae8ff",
+          "published_utc": "2026-09-21T23:10:25+00:00"
+        },
         {
           "headline": "Bitcoin-related stocks are surging: The momentum is 'incredible'",
           "source": "Yahoo",
@@ -323,12 +336,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6195e574cfd8d94ec1fa72d93734066f0762703e8811873396c0c92d3fdce4db",
           "published_utc": "2026-09-21T19:26:49+00:00"
-        },
-        {
-          "headline": "Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33dfe7f83e072d2b4c6874a1acde365f8e445ff5b267a7c35fb3f4e252f6429c",
-          "published_utc": "2026-09-21T18:36:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -340,7 +347,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -377,7 +384,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -387,22 +394,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Robotaxis crash less. So why isn't your insurance cheaper?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ed71c80250c1c1ee3f2b40db70a25966630cdc75521f2143a3c1bfe83a25ad5",
+          "published_utc": "2026-09-21T23:24:16+00:00"
+        },
+        {
+          "headline": "Tesla Audits Chinese Suppliers as Elon Musk\u2019s Optimus Robot Moves Closer to Mass Production: Report",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6a009e7ca578324cb8db198e86e9283081d8054c3fcf36c6dfc6acb77a373152",
+          "published_utc": "2026-09-21T21:30:14+00:00"
+        },
+        {
           "headline": "Tesla Gains 3% as Fremont Bias Claims Reach Trial",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=362fc92b927c1734f1db770add08121b18631576eecb33a2a62ea2aab3b0e0a5",
           "published_utc": "2026-09-21T19:46:11+00:00"
-        },
-        {
-          "headline": "Maye Musk: Elon really wants to live on Mars in the coming decades",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c50af2b2e14cf897673c8a3a715a6cd7a350521821a842a8ec5a449a680793a",
-          "published_utc": "2026-09-21T19:34:21+00:00"
-        },
-        {
-          "headline": "Tesla Stock Rises After Major Self-Driving Win in Europe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=329fad1be5f184d6af0a4e86feaf0ef2aec5527dd0c936ead7a4dcf25b988921",
-          "published_utc": "2026-09-21T18:50:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -414,7 +421,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -451,7 +458,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 13223,
+      "quote_age_seconds": 15562,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -461,22 +468,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "3 Chip Stocks Set to Win TSMC\u2019s Packaging Boom",
+          "headline": "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss What That Could Signal",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f275bd317b0b764600a2421b64c4269a9f7cb9b893845f90be3aa9d5a252b3bc",
-          "published_utc": "2026-09-21T21:45:35+00:00"
+          "url": "https://finnhub.io/api/news?id=1edd9302360af3e178a55192f1fc1bcf4856c49a61ea226edbe1b8bf11ee6588",
+          "published_utc": "2026-09-21T23:35:00+00:00"
         },
         {
-          "headline": "Inflation. The Iran War. A Hawkish Fed. Soaring Bond Yields. And Concerns About Artificial Intelligence. The Stock Market Faces Many Hurdles, But Only 1 Metric Truly Matters Right Now",
+          "headline": "Why ServiceNow Stock Inched Higher on Monday",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=060bb36df6b2d9ca737bed1fe002d3127c1c553c993d5f390394583688dce063",
-          "published_utc": "2026-09-21T21:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=1807b727413ecfc38076ff7c6328428fd37256bf98d5e1250a5da83281667d09",
+          "published_utc": "2026-09-21T23:31:40+00:00"
         },
         {
-          "headline": "Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead?",
+          "headline": "Why Strategy Stock Surged Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=908c26e1c27ebaff207c2b8ffd54dd49e00662a665e92c19b5f7862f9dfcd80e",
-          "published_utc": "2026-09-21T21:25:00+00:00"
+          "url": "https://finnhub.io/api/news?id=a78cfbaa72a76ef4f84427eb2e85df8739fd4769d1259b5f728961ec08668e8e",
+          "published_utc": "2026-09-21T23:23:42+00:00"
         }
       ],
       "news_status": "Recent headlines found"
