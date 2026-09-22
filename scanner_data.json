@@ -1,55 +1,18 @@
 {
-  "updated": "2026-09-22T14:44:08.796907+00:00",
+  "updated": "2026-09-22T15:14:29.559601+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "RIOT",
-      "price": 25.24,
-      "change_percent": 4.3838,
-      "previous_close": 24.18,
-      "quote_timestamp": 1790088234.0,
-      "quote_time_utc": "2026-09-22T14:43:54+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05d00b907d5bbe60ba4e43ee8aba4e01da02ef7ae17b40e7f378c3ca8dff29e8",
-          "published_utc": "2026-09-21T21:50:04+00:00"
-        },
-        {
-          "headline": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
-          "published_utc": "2026-09-21T14:56:28+00:00"
-        },
-        {
-          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
-          "published_utc": "2026-09-21T14:07:58+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "MARA",
-      "price": 13.8,
-      "change_percent": 3.9157,
+      "price": 13.72,
+      "change_percent": 3.3133,
       "previous_close": 13.28,
-      "quote_timestamp": 1790088234.0,
-      "quote_time_utc": "2026-09-22T14:43:54+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1790090042.0,
+      "quote_time_utc": "2026-09-22T15:14:02+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -82,50 +45,13 @@
   ],
   "swing_trading": [
     {
-      "symbol": "RIOT",
-      "price": 25.24,
-      "change_percent": 4.3838,
-      "previous_close": 24.18,
-      "quote_timestamp": 1790088234.0,
-      "quote_time_utc": "2026-09-22T14:43:54+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05d00b907d5bbe60ba4e43ee8aba4e01da02ef7ae17b40e7f378c3ca8dff29e8",
-          "published_utc": "2026-09-21T21:50:04+00:00"
-        },
-        {
-          "headline": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
-          "published_utc": "2026-09-21T14:56:28+00:00"
-        },
-        {
-          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
-          "published_utc": "2026-09-21T14:07:58+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "MARA",
-      "price": 13.8,
-      "change_percent": 3.9157,
+      "price": 13.72,
+      "change_percent": 3.3133,
       "previous_close": 13.28,
-      "quote_timestamp": 1790088234.0,
-      "quote_time_utc": "2026-09-22T14:43:54+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1790090042.0,
+      "quote_time_utc": "2026-09-22T15:14:02+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -151,6 +77,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
           "published_utc": "2026-09-21T16:50:48+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RIOT",
+      "price": 24.76,
+      "change_percent": 2.3987,
+      "previous_close": 24.18,
+      "quote_timestamp": 1790090040.0,
+      "quote_time_utc": "2026-09-22T15:14:00+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05d00b907d5bbe60ba4e43ee8aba4e01da02ef7ae17b40e7f378c3ca8dff29e8",
+          "published_utc": "2026-09-21T21:50:04+00:00"
+        },
+        {
+          "headline": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
+          "published_utc": "2026-09-21T14:56:28+00:00"
+        },
+        {
+          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
+          "published_utc": "2026-09-21T14:07:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
