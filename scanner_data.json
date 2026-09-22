@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T04:14:25.871119+00:00",
+  "updated": "2026-09-22T04:42:04.934786+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edaa9e8019256e906b925e62ce9ccb9058fa65fe67cacec902a53231731c507e",
+          "published_utc": "2026-09-22T03:58:10+00:00"
+        },
         {
           "headline": "Why Are Rocket Lab (RKLB) Shares Soaring Today",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
           "published_utc": "2026-09-21T20:36:00+00:00"
-        },
-        {
-          "headline": "Archer Aviation vs. Rocket Lab: Which Aerospace Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=866fe1916bf2316c72e249ed15dce5949d7a0fead2f744394c38adf1e1aa84e3",
-          "published_utc": "2026-09-21T19:23:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 29664,
+      "quote_age_seconds": 31323,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -480,22 +480,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here\u2019s What That Means for Netflix Investors.",
+          "headline": "Nvidia's Forecast Assumes No Data Center Chip Sales to China. The Sept. 24 U.S.-China Summit Could Change That.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=493c185d1f5c0af81162d0a3486134586257136063317d15955767c926f99e07",
-          "published_utc": "2026-09-22T01:43:20+00:00"
+          "url": "https://finnhub.io/api/news?id=2bc1c328715073b1e4b6795662793a592803c6f73e3e4900551a3c1b9900b2f8",
+          "published_utc": "2026-09-22T03:13:01+00:00"
         },
         {
-          "headline": "Prediction: Here's What a $1,000 Investment in SpaceX Stock Could Be Worth in 2031",
+          "headline": "Apple Launches New Products in Time for New CEO",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9dc700730130a40015be40e086e8fbd154d9532a31790b6f910c9a13d1588f8c",
-          "published_utc": "2026-09-22T01:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=bf2efce18859eea1529595a5679365d1169fbefc1cfa313e39fb46876872c446",
+          "published_utc": "2026-09-22T03:02:39+00:00"
         },
         {
-          "headline": "Why Rackspace Technology (RXT) Is Up 15.8% After Joining NVIDIA\u2019s Cloud Partner Program",
+          "headline": "How Tim Cook Set Up Apple Stock's Next Growth Era, Explains Jim Cramer",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2fcf0d3a1b94bdf870447e2f00bb22096ba11709a8acd07248cf20665faf0e37",
-          "published_utc": "2026-09-22T01:14:28+00:00"
+          "url": "https://finnhub.io/api/news?id=cf2b44f5c4ba89193aa41dc4b506576095b68c7505159386cf993a0f7f056036",
+          "published_utc": "2026-09-22T02:35:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
