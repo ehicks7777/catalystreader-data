@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T08:43:14.459730+00:00",
+  "updated": "2026-09-22T09:14:25.141637+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -72,10 +72,10 @@
           "published_utc": "2026-09-22T05:00:48+00:00"
         },
         {
-          "headline": "Why Did AMD, WBD, MRNA Stocks Surge To 52-Week Highs Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=629bdb7ab332b83d548b5ef085dc2f39182ec2ef115002a4fa53452d0abafd02",
-          "published_utc": "2026-09-22T03:39:24+00:00"
+          "headline": "PSI: A Semiconductor ETF Built Around More Than Nvidia",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=cd3677f2ec69b3afd17f247a1672d7d700401c3a50a5a43d6d0841277b2dfd54",
+          "published_utc": "2026-09-22T04:44:42+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -294,6 +294,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "IonQ Just Raised 2026 Revenue Guidance. This Quantum Computing Pure-Play Looks Like a Brilliant Buy Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d40981de427b71ac63ff1ec3c49ea1fa9228f1a414f493ac8155a52f3e7b423",
+          "published_utc": "2026-09-22T05:20:00+00:00"
+        },
         {
           "headline": "IONQ Stock Inches Higher After-Hours: IonQ Partners With South Korea-Based SDT, Inc. To Deploy Quantum Systems",
           "source": "Yahoo",
@@ -305,12 +311,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=58dcb940add95654dbac0c614abb798a282faf51a58f01857c9b4753a225a3d7",
           "published_utc": "2026-09-21T22:31:00+00:00"
-        },
-        {
-          "headline": "Meet the Quantum Computing Stock Growing Faster Than Nvidia",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a635c36b48336c6eb90795a3e4a90a6aaff2ebae7366a4ee3ffee7150ce9a03",
-          "published_utc": "2026-09-21T14:11:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 45793,
+      "quote_age_seconds": 47663,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
