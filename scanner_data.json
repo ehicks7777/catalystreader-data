@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T12:18:03.216504+00:00",
+  "updated": "2026-09-22T12:46:20.667348+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
+          "headline": "MSTR, COIN, CRCL Stocks Slip Despite Bitcoin Rally Above $86K, Crypto Liquidations Cross $800M",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=605961327fb1b61764e0ff9bc6b926029e90d102b39d7179305726b0388a7c39",
-          "published_utc": "2026-09-22T00:30:25+00:00"
+          "url": "https://finnhub.io/api/news?id=dd43977c72b01cad776fdeaf15d29f252c22c998fff647520692e9a88f4755b8",
+          "published_utc": "2026-09-22T11:11:48+00:00"
         },
         {
-          "headline": "Why Strategy Stock Surged Today",
+          "headline": "Bitcoin hits an 8-month high \u2014 and sends a clear message about risk appetite right now",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a78cfbaa72a76ef4f84427eb2e85df8739fd4769d1259b5f728961ec08668e8e",
-          "published_utc": "2026-09-21T23:23:42+00:00"
+          "url": "https://finnhub.io/api/news?id=c579c81a26c4129ff586e7ed7eb05d203ac30ba91386e9da9f501e3a650fecf4",
+          "published_utc": "2026-09-22T10:51:00+00:00"
         },
         {
-          "headline": "Michael Saylor's Strategy restarts buying BTC",
+          "headline": "Strategy Swings From $10B Unrealized Loss to $8B Profit as Bitcoin Hits $85K",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14a6065391f057dc456c70bb2d471ec304e3e82f6ef2fcfa1a480b0ec8b3c817",
-          "published_utc": "2026-09-21T20:28:19+00:00"
+          "url": "https://finnhub.io/api/news?id=df3f535ab1ca5787a432274770ca7bd35f885066b8a439133ee8d333b00e7645",
+          "published_utc": "2026-09-22T09:58:54+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -375,16 +375,16 @@
           "published_utc": "2026-09-22T09:11:05+00:00"
         },
         {
+          "headline": "The 3 Most Dangerous Investing Mistakes I Keep Seeing",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=64d367167015b117f4aaa9ed5b6145a3d13c44bad8b42e3c97e6fef3f4624240",
+          "published_utc": "2026-09-22T08:05:00+00:00"
+        },
+        {
           "headline": "A Closer Look at the 'Big 3' Investing Styles",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=06515fc5deb57dfa77d7800a87686791109c531843b4a7d755d8cda45062c003",
           "published_utc": "2026-09-21T23:44:00+00:00"
-        },
-        {
-          "headline": "Palantir's Alex Karp says AI's biggest names may never IPO \u2014 the play is telling Washington 'nationalize us, please'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=daa33eb86584345e72a20db7f989b9c925ed43991fdecc9e1e85b52f9fb43dbb",
-          "published_utc": "2026-09-21T21:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -406,22 +406,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "This Week In Energy Transition - Wind Energy Boom Challenges and Opportunities Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8a1a04c354071b10970cb8692acc4d843811036a97f6ce15384d733697af84a6",
+          "published_utc": "2026-09-22T11:37:02+00:00"
+        },
+        {
+          "headline": "Copart's Return To Growth Starts Now: Adair's $1.9B Bet On ACV Auctions",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ea29f1561f7ce63de8531b9407b5f929cc18d7b41cca8853150306f6bcb03122",
+          "published_utc": "2026-09-22T08:00:00+00:00"
+        },
+        {
           "headline": "September Stagnation Marked By Record-Low Yields, High Duration Risk And High Valuations",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=74a295e0272eaa2289eae1407bd3c1768cb42f9d93519bf8ed4fefe16a90a4ab",
           "published_utc": "2026-09-22T07:05:00+00:00"
-        },
-        {
-          "headline": "TSLA, SPCX, AAPL Could Be Next To \u2018Rip\u2019 After Meta\u2019s Muse Rally, Analyst Says \u2014 Here Are The Catalysts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58db7c94294a51aae6b99696a5e5030a3345e12f05e00d89eedf98071cadf731",
-          "published_utc": "2026-09-22T06:02:01+00:00"
-        },
-        {
-          "headline": "SPCX Stock Climbs Overnight: Analysts Tout SpaceX-Tesla \u2018Physical AI\u2019 Flywheel, Musk \u2018Effectively\u2019 Ships Grok 4.7 On Time",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ff7294f62edfea0eda7afcfdc76735f8c49709a51cbb6045ab4acb91a73969d",
-          "published_utc": "2026-09-22T05:21:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 58682,
+      "quote_age_seconds": 60379,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
