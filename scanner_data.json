@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:12:35.036655+00:00",
+  "updated": "2026-09-22T19:40:43.290373+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 64.86,
-      "change_percent": 4.7988,
+      "price": 64.53,
+      "change_percent": 4.2656,
       "previous_close": 61.89,
-      "quote_timestamp": 1790104333.0,
-      "quote_time_utc": "2026-09-22T19:12:13+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790106027.0,
+      "quote_time_utc": "2026-09-22T19:40:27+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,50 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MARA",
-      "price": 13.76,
-      "change_percent": 3.6145,
-      "previous_close": 13.28,
-      "quote_timestamp": 1790104332.0,
-      "quote_time_utc": "2026-09-22T19:12:12+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
-          "published_utc": "2026-09-21T19:55:01+00:00"
-        },
-        {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
-        },
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "RKLB",
-      "price": 72.38,
-      "change_percent": 3.5627,
+      "price": 72.35,
+      "change_percent": 3.5198,
       "previous_close": 69.89,
-      "quote_timestamp": 1790104330.0,
-      "quote_time_utc": "2026-09-22T19:12:10+00:00",
-      "quote_age_seconds": 23,
+      "quote_timestamp": 1790106026.0,
+      "quote_time_utc": "2026-09-22T19:40:26+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -112,6 +75,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d0960e7337de0784b64ee07bd86e058fa3a353ac3e6dac0595697e84cf93879c",
           "published_utc": "2026-09-22T16:57:28+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MARA",
+      "price": 13.73,
+      "change_percent": 3.3886,
+      "previous_close": 13.28,
+      "quote_timestamp": 1790106025.0,
+      "quote_time_utc": "2026-09-22T19:40:25+00:00",
+      "quote_age_seconds": 17,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
+          "published_utc": "2026-09-21T19:55:01+00:00"
+        },
+        {
+          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
+          "published_utc": "2026-09-21T16:51:00+00:00"
+        },
+        {
+          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
+          "published_utc": "2026-09-21T16:50:48+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 64.86,
-      "change_percent": 4.7988,
+      "price": 64.53,
+      "change_percent": 4.2656,
       "previous_close": 61.89,
-      "quote_timestamp": 1790104333.0,
-      "quote_time_utc": "2026-09-22T19:12:13+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790106027.0,
+      "quote_time_utc": "2026-09-22T19:40:27+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -156,50 +156,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MARA",
-      "price": 13.76,
-      "change_percent": 3.6145,
-      "previous_close": 13.28,
-      "quote_timestamp": 1790104332.0,
-      "quote_time_utc": "2026-09-22T19:12:12+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
-          "published_utc": "2026-09-21T19:55:01+00:00"
-        },
-        {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
-        },
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "RKLB",
-      "price": 72.38,
-      "change_percent": 3.5627,
+      "price": 72.35,
+      "change_percent": 3.5198,
       "previous_close": 69.89,
-      "quote_timestamp": 1790104330.0,
-      "quote_time_utc": "2026-09-22T19:12:10+00:00",
-      "quote_age_seconds": 23,
+      "quote_timestamp": 1790106026.0,
+      "quote_time_utc": "2026-09-22T19:40:26+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -225,6 +188,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d0960e7337de0784b64ee07bd86e058fa3a353ac3e6dac0595697e84cf93879c",
           "published_utc": "2026-09-22T16:57:28+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MARA",
+      "price": 13.73,
+      "change_percent": 3.3886,
+      "previous_close": 13.28,
+      "quote_timestamp": 1790106025.0,
+      "quote_time_utc": "2026-09-22T19:40:25+00:00",
+      "quote_age_seconds": 17,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
+          "published_utc": "2026-09-21T19:55:01+00:00"
+        },
+        {
+          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
+          "published_utc": "2026-09-21T16:51:00+00:00"
+        },
+        {
+          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
+          "published_utc": "2026-09-21T16:50:48+00:00"
         }
       ],
       "news_status": "Recent headlines found"
