@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T09:41:10.410080+00:00",
+  "updated": "2026-09-22T10:15:25.476576+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Oil Dictating All Assets Over Short-Term: Market Analysis",
+          "headline": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c530f9e3a70fddd3d3fb133e90e21ea72c21f00dd7416c2c233d22724477076",
-          "published_utc": "2026-09-22T07:03:37+00:00"
+          "url": "https://finnhub.io/api/news?id=1359989ddb282a28ff616aed4e03d27fed5988f084dfe68a0993ae741cf3f63e",
+          "published_utc": "2026-09-22T09:48:53+00:00"
         },
         {
-          "headline": "TSLA, SPCX, AAPL Could Be Next To \u2018Rip\u2019 After Meta\u2019s Muse Rally, Analyst Says \u2014 Here Are The Catalysts",
+          "headline": "Why AMD's new $1 trillion valuation makes perfect sense",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=58db7c94294a51aae6b99696a5e5030a3345e12f05e00d89eedf98071cadf731",
-          "published_utc": "2026-09-22T06:02:01+00:00"
+          "url": "https://finnhub.io/api/news?id=422419a53a360445127ff2a42df5598366ea2cf37e514585899419ea084be2db",
+          "published_utc": "2026-09-22T09:34:53+00:00"
         },
         {
-          "headline": "Intel (INTC) Sees AI CPU Demand Squeeze As CEO Flags 50% Fulfillment",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa2b16201e5d1fe2a43fcb83c511a1ca299b0482cb970ed2b9ac9ae3dd1fbbc4",
-          "published_utc": "2026-09-22T05:15:05+00:00"
+          "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33",
+          "published_utc": "2026-09-22T09:29:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Astera Labs Stock Jumped 12% Yesterday. The Street Sees 14% More Upside, Here\u2019s Why.",
+          "headline": "Why AMD's new $1 trillion valuation makes perfect sense",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f10f4c60a643d1f29cc50362be3e660b0f39807dfffdfbb233f767d633dc9fb2",
-          "published_utc": "2026-09-22T06:18:21+00:00"
+          "url": "https://finnhub.io/api/news?id=422419a53a360445127ff2a42df5598366ea2cf37e514585899419ea084be2db",
+          "published_utc": "2026-09-22T09:34:53+00:00"
         },
         {
-          "headline": "AMD joins trillion-dollar chipmaker club as AI demand surges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=deec3e8265e020ac397b315e60894f76863921742558db862dd60119604f4ae2",
-          "published_utc": "2026-09-22T05:00:48+00:00"
+          "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33",
+          "published_utc": "2026-09-22T09:29:28+00:00"
         },
         {
-          "headline": "PSI: A Semiconductor ETF Built Around More Than Nvidia",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=cd3677f2ec69b3afd17f247a1672d7d700401c3a50a5a43d6d0841277b2dfd54",
-          "published_utc": "2026-09-22T04:44:42+00:00"
+          "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=437dc95f29447b323c9d24d29bad316ba1e3cbbf109052f17785814758da6eab",
+          "published_utc": "2026-09-22T08:32:18+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 49269,
+      "quote_age_seconds": 51324,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -480,22 +480,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+          "headline": "Should You Invest $1,000 in SCHD Right Now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79b31008476e529a527fee4a068b68bef860ccbee97a6aac67b0034bf58b50dd",
-          "published_utc": "2026-09-22T07:34:01+00:00"
+          "url": "https://finnhub.io/api/news?id=08d6137b792a5eff2300f06655f3c6761651d99746897a524b6a9a5fcdd24ddd",
+          "published_utc": "2026-09-22T09:40:00+00:00"
         },
         {
-          "headline": "Not Micron. Not Alphabet. Here's My Top Artificial Intelligence (AI) Stock Pick for the Next 3 Years.",
+          "headline": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3df408093d046894dbd6c6df702a0494d7608d568a42261f25db680ddc5c2ea",
-          "published_utc": "2026-09-22T06:50:00+00:00"
+          "url": "https://finnhub.io/api/news?id=a1fd12c33f71f11feaac20b876e7640cea0e9005955442e6249177dd32d89c16",
+          "published_utc": "2026-09-22T09:36:00+00:00"
         },
         {
-          "headline": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028",
+          "headline": "If You Invest $150 Per Month in Altria Group Stock, Here's the Passive Dividend Income It Could Generate Over 10 Years",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=160d003eed7a36a1b364589bd607551f11706ae4cac1ca83d4c2025f5bbc6d6c",
-          "published_utc": "2026-09-22T06:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=3e5ddafdd7416433b4941abd480b6945039c236ba4034ed748d67c95ff2d3a23",
+          "published_utc": "2026-09-22T09:35:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
