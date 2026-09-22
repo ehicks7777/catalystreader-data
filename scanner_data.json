@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:41:19.393857+00:00",
+  "updated": "2026-09-22T16:14:45.827316+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "MARA",
-      "price": 13.85,
-      "change_percent": 4.2922,
+      "price": 13.76,
+      "change_percent": 3.6145,
       "previous_close": 13.28,
-      "quote_timestamp": 1790091668.0,
-      "quote_time_utc": "2026-09-22T15:41:08+00:00",
-      "quote_age_seconds": 10,
+      "quote_timestamp": 1790093673.0,
+      "quote_time_utc": "2026-09-22T16:14:33+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "MARA",
-      "price": 13.85,
-      "change_percent": 4.2922,
+      "price": 13.76,
+      "change_percent": 3.6145,
       "previous_close": 13.28,
-      "quote_timestamp": 1790091668.0,
-      "quote_time_utc": "2026-09-22T15:41:08+00:00",
-      "quote_age_seconds": 10,
+      "quote_timestamp": 1790093673.0,
+      "quote_time_utc": "2026-09-22T16:14:33+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +83,12 @@
     },
     {
       "symbol": "RIOT",
-      "price": 24.82,
-      "change_percent": 2.6468,
+      "price": 24.74,
+      "change_percent": 2.316,
       "previous_close": 24.18,
-      "quote_timestamp": 1790091668.0,
-      "quote_time_utc": "2026-09-22T15:41:08+00:00",
-      "quote_age_seconds": 10,
+      "quote_timestamp": 1790093672.0,
+      "quote_time_utc": "2026-09-22T16:14:32+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -114,6 +114,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
           "published_utc": "2026-09-21T14:07:58+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 71.38,
+      "change_percent": 2.1319,
+      "previous_close": 69.89,
+      "quote_timestamp": 1790093673.0,
+      "quote_time_utc": "2026-09-22T16:14:33+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Analyst Calls Neutron Launch the \u2018Most Material Catalyst\u2019",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5942d0912653b57538da6446869547d520753da73e2ad8ef1e3f063de5998faf",
+          "published_utc": "2026-09-22T09:22:20+00:00"
+        },
+        {
+          "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79b31008476e529a527fee4a068b68bef860ccbee97a6aac67b0034bf58b50dd",
+          "published_utc": "2026-09-22T07:34:01+00:00"
+        },
+        {
+          "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edaa9e8019256e906b925e62ce9ccb9058fa65fe67cacec902a53231731c507e",
+          "published_utc": "2026-09-22T03:58:10+00:00"
         }
       ],
       "news_status": "Recent headlines found"
