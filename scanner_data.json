@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:42:17.892172+00:00",
+  "updated": "2026-09-22T04:14:25.871119+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b36fa55879fd1f7038d5b488a420d87ff228d8ac91dba1bb31c4e807cf29aa91",
+          "published_utc": "2026-09-22T03:21:33+00:00"
+        },
+        {
+          "headline": "Stocks rise on AI buzz, drop in oil prices",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82244b4db707ded382442c9428af04e1e8da32029e96cd2075dc0b364596c00c",
+          "published_utc": "2026-09-22T02:37:48+00:00"
+        },
+        {
           "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d0eb2b00556f5ff54107e4cb4129531ff940c8b13d21e046be3f77e5fbe685d8",
           "published_utc": "2026-09-22T01:50:51+00:00"
-        },
-        {
-          "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0e81c35f9dfab690733bf2e90c84e610216e4850d5c4e0f2f403dc7264ef223",
-          "published_utc": "2026-09-22T01:03:18+00:00"
-        },
-        {
-          "headline": "Should Investors Chase the AI-Fueled Rally in AMD or META Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1aad84d28efe9aaeecf9aeeb723b642f4d7c6a4e5ead51a7a934b32b644ba3de",
-          "published_utc": "2026-09-22T00:05:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Why Did AMD, WBD, MRNA Stocks Surge To 52-Week Highs Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=629bdb7ab332b83d548b5ef085dc2f39182ec2ef115002a4fa53452d0abafd02",
+          "published_utc": "2026-09-22T03:39:24+00:00"
+        },
+        {
+          "headline": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=843f1a57bd6bdeaa34f8cac407216ad99cabff52b6023b494ba774b8b7457dde",
+          "published_utc": "2026-09-22T02:44:33+00:00"
+        },
+        {
           "headline": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d0eb2b00556f5ff54107e4cb4129531ff940c8b13d21e046be3f77e5fbe685d8",
           "published_utc": "2026-09-22T01:50:51+00:00"
-        },
-        {
-          "headline": "3 AI Chip Equipment Stocks Riding the Semiconductor Rally",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6d2cf4f14e246ed7d01ee0240d6a176d0369c3d384d4f9a4a847299a6835492",
-          "published_utc": "2026-09-22T01:16:38+00:00"
-        },
-        {
-          "headline": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0e81c35f9dfab690733bf2e90c84e610216e4850d5c4e0f2f403dc7264ef223",
-          "published_utc": "2026-09-22T01:03:18+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 27736,
+      "quote_age_seconds": 29664,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
