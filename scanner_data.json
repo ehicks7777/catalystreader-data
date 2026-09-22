@@ -1,48 +1,10 @@
 {
-  "updated": "2026-09-22T20:13:48.432324+00:00",
+  "updated": "2026-09-22T20:41:45.646868+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "RIOT",
-      "price": 24.93,
-      "change_percent": 3.1017,
-      "previous_close": 24.18,
-      "quote_timestamp": 1790107200.0,
-      "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 825,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05d00b907d5bbe60ba4e43ee8aba4e01da02ef7ae17b40e7f378c3ca8dff29e8",
-          "published_utc": "2026-09-21T21:50:04+00:00"
-        },
-        {
-          "headline": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
-          "published_utc": "2026-09-21T14:56:28+00:00"
-        },
-        {
-          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
-          "published_utc": "2026-09-21T14:07:58+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "RIOT",
@@ -51,8 +13,8 @@
       "previous_close": 24.18,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 825,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2504,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -88,8 +50,8 @@
       "previous_close": 69.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 825,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2504,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -125,8 +87,8 @@
       "previous_close": 61.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 825,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2504,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -162,8 +124,8 @@
       "previous_close": 13.28,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 825,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2504,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -193,7 +155,7 @@
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
