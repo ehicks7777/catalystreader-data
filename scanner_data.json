@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:41:50.353838+00:00",
+  "updated": "2026-09-22T12:18:03.216504+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 665.75,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
+          "headline": "Shopify Embraces Meta\u2019s Muse Across All Stores as Amazon Blocks It \u2013 and the Merchant Landscape Splits in Two",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1359989ddb282a28ff616aed4e03d27fed5988f084dfe68a0993ae741cf3f63e",
-          "published_utc": "2026-09-22T09:48:53+00:00"
+          "url": "https://finnhub.io/api/news?id=18ae460167c97c233df81cec95633af14350ec61f1059f2185b0cd5da087dbb8",
+          "published_utc": "2026-09-22T11:34:01+00:00"
         },
         {
-          "headline": "Why AMD's new $1 trillion valuation makes perfect sense",
+          "headline": "Beyond Meta, Cathie Wood\u2019s ARKG Loads Up On These 4 Biotech Names",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=422419a53a360445127ff2a42df5598366ea2cf37e514585899419ea084be2db",
-          "published_utc": "2026-09-22T09:34:53+00:00"
+          "url": "https://finnhub.io/api/news?id=aa301be7380290cb3549100a94a50ed15300090cae7ec2f4d3e307125f58e209",
+          "published_utc": "2026-09-22T11:10:05+00:00"
         },
         {
-          "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33",
-          "published_utc": "2026-09-22T09:29:28+00:00"
+          "headline": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e22045835555b3eee9e6d66a8fe33baed03779e2c9354ec23d146665f7d3d730",
+          "published_utc": "2026-09-22T11:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 559.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Why AMD's new $1 trillion valuation makes perfect sense",
+          "headline": "United States Integrated Circuits Market to Reach US$330 Billion by 2035 as AI and Domestic Manufacturing Accelerate Growth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=422419a53a360445127ff2a42df5598366ea2cf37e514585899419ea084be2db",
-          "published_utc": "2026-09-22T09:34:53+00:00"
+          "url": "https://finnhub.io/api/news?id=1c3bfcda672a7f44b28dfd3f01a3cc496a0f667768e58ec1fa375d9fa35949f2",
+          "published_utc": "2026-09-22T11:49:00+00:00"
         },
         {
-          "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33",
-          "published_utc": "2026-09-22T09:29:28+00:00"
+          "headline": "12 S&P 500 Stocks Hit Trillion-Dollar Club \u2014 What Could Go Wrong?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5cd123fb197784b4d9e12e9da7ef0d20df16c98419e92f716e2022a14e806ead",
+          "published_utc": "2026-09-22T11:28:11+00:00"
         },
         {
-          "headline": "Nasdaq, S&P 500 Futures Pause After Record AI-Driven Rally: AMD, META, BABA, GME, HOOD, GRAB, VKTX Stocks In Focus",
+          "headline": "AMD Just Joined the $1 Trillion Club. Here's Why Investors Are Betting Big on the Chipmaker.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=437dc95f29447b323c9d24d29bad316ba1e3cbbf109052f17785814758da6eab",
-          "published_utc": "2026-09-22T08:32:18+00:00"
+          "url": "https://finnhub.io/api/news?id=fe1f6c96dc5e8852556454d2e7c80958f074f2508911e323f79e0c9590fda0e1",
+          "published_utc": "2026-09-22T11:25:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 153.92,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 64.57,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 58.52,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 39.09,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 15.76,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -260,7 +260,7 @@
       "previous_close": 5.93,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -285,7 +285,7 @@
       "previous_close": 39.13,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -322,7 +322,7 @@
       "previous_close": 194.25,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -332,22 +332,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "MSTR, COIN, CRCL Stocks Slip Despite Bitcoin Rally Above $86K, Crypto Liquidations Cross $800M",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dd43977c72b01cad776fdeaf15d29f252c22c998fff647520692e9a88f4755b8",
+          "published_utc": "2026-09-22T11:11:48+00:00"
+        },
+        {
+          "headline": "Crypto Crash Panic: Coinbase Goes Down as Bitcoin Hits $85K and $919M Shorts Get Wiped Out",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e7a07d13978e3d91110f0bb2df8883a9f01756814271555c69c16c5a3db4893f",
+          "published_utc": "2026-09-22T11:02:17+00:00"
+        },
+        {
           "headline": "Why Coinbase (COIN) Stock Is Trading Up Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ea4e6cbbd3594865918ad2c2a5a300d24a1e28df0f19d1945b734c3d426ae8ff",
           "published_utc": "2026-09-21T23:10:25+00:00"
-        },
-        {
-          "headline": "Bitcoin-related stocks are surging: The momentum is 'incredible'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bfe868a173114ac860b0cf46f9e8e81777919e4a45c0820812bf0252eb2657c",
-          "published_utc": "2026-09-21T20:45:00+00:00"
-        },
-        {
-          "headline": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6195e574cfd8d94ec1fa72d93734066f0762703e8811873396c0c92d3fdce4db",
-          "published_utc": "2026-09-21T19:26:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -359,7 +359,7 @@
       "previous_close": 177.64,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -396,7 +396,7 @@
       "previous_close": 364.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -433,7 +433,7 @@
       "previous_close": 119.82,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -470,7 +470,7 @@
       "previous_close": 222.27,
       "quote_timestamp": 1790020800.0,
       "quote_time_utc": "2026-09-21T20:00:00+00:00",
-      "quote_age_seconds": 56508,
+      "quote_age_seconds": 58682,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -480,22 +480,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Should You Invest $1,000 in SCHD Right Now?",
+          "headline": "United States Integrated Circuits Market to Reach US$330 Billion by 2035 as AI and Domestic Manufacturing Accelerate Growth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=08d6137b792a5eff2300f06655f3c6761651d99746897a524b6a9a5fcdd24ddd",
-          "published_utc": "2026-09-22T09:40:00+00:00"
+          "url": "https://finnhub.io/api/news?id=1c3bfcda672a7f44b28dfd3f01a3cc496a0f667768e58ec1fa375d9fa35949f2",
+          "published_utc": "2026-09-22T11:49:00+00:00"
         },
         {
-          "headline": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History.",
+          "headline": "Coca-Cola's \u201c$10 Billion\u201d Investment Announcement Is Smaller Than It Sounds. Here's the Math.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a1fd12c33f71f11feaac20b876e7640cea0e9005955442e6249177dd32d89c16",
-          "published_utc": "2026-09-22T09:36:00+00:00"
+          "url": "https://finnhub.io/api/news?id=6ca2a2debb8736b2ecbb5b528a3e9b08828727555c0107ff4eecf4334b8d8671",
+          "published_utc": "2026-09-22T11:35:01+00:00"
         },
         {
-          "headline": "If You Invest $150 Per Month in Altria Group Stock, Here's the Passive Dividend Income It Could Generate Over 10 Years",
+          "headline": "Freeport-McMoRan's Low-Cost Secret to Take Advantage of Record Copper Prices",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3e5ddafdd7416433b4941abd480b6945039c236ba4034ed748d67c95ff2d3a23",
-          "published_utc": "2026-09-22T09:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=84a81050704124ce1af077f4fee5e72fae9dbe534d682d7ff4b3aa14c1d80846",
+          "published_utc": "2026-09-22T11:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
