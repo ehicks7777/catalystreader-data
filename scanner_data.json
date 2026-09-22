@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:13:23.637968+00:00",
+  "updated": "2026-09-22T17:40:26.002230+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "MARA",
-      "price": 13.81,
-      "change_percent": 3.991,
+      "price": 13.84,
+      "change_percent": 4.2169,
       "previous_close": 13.28,
-      "quote_timestamp": 1790097162.0,
-      "quote_time_utc": "2026-09-22T17:12:42+00:00",
-      "quote_age_seconds": 39,
+      "quote_timestamp": 1790098797.0,
+      "quote_time_utc": "2026-09-22T17:39:57+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -38,205 +38,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
           "published_utc": "2026-09-21T16:50:48+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 64.08,
-      "change_percent": 3.5385,
-      "previous_close": 61.89,
-      "quote_timestamp": 1790097163.0,
-      "quote_time_utc": "2026-09-22T17:12:43+00:00",
-      "quote_age_seconds": 38,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
-          "published_utc": "2026-09-21T20:36:00+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7623ba36129231004c8647289287e6e29a5d0fd74f16d9cfb488a536205a6ff6",
-          "published_utc": "2026-09-21T17:00:16+00:00"
-        },
-        {
-          "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e68d3b39a4d666c6366d61455837bfa37ac4e181ccefecd949ee9414864e794",
-          "published_utc": "2026-09-21T15:40:02+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 72.07,
-      "change_percent": 3.1192,
-      "previous_close": 69.89,
-      "quote_timestamp": 1790097163.0,
-      "quote_time_utc": "2026-09-22T17:12:43+00:00",
-      "quote_age_seconds": 38,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab Analyst Calls Neutron Launch the \u2018Most Material Catalyst\u2019",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5942d0912653b57538da6446869547d520753da73e2ad8ef1e3f063de5998faf",
-          "published_utc": "2026-09-22T09:22:20+00:00"
-        },
-        {
-          "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79b31008476e529a527fee4a068b68bef860ccbee97a6aac67b0034bf58b50dd",
-          "published_utc": "2026-09-22T07:34:01+00:00"
-        },
-        {
-          "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=edaa9e8019256e906b925e62ce9ccb9058fa65fe67cacec902a53231731c507e",
-          "published_utc": "2026-09-22T03:58:10+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "swing_trading": [
-    {
-      "symbol": "MARA",
-      "price": 13.81,
-      "change_percent": 3.991,
-      "previous_close": 13.28,
-      "quote_timestamp": 1790097162.0,
-      "quote_time_utc": "2026-09-22T17:12:42+00:00",
-      "quote_age_seconds": 39,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
-          "published_utc": "2026-09-21T19:55:01+00:00"
-        },
-        {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
-        },
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 64.08,
-      "change_percent": 3.5385,
-      "previous_close": 61.89,
-      "quote_timestamp": 1790097163.0,
-      "quote_time_utc": "2026-09-22T17:12:43+00:00",
-      "quote_age_seconds": 38,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
-          "published_utc": "2026-09-21T20:36:00+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7623ba36129231004c8647289287e6e29a5d0fd74f16d9cfb488a536205a6ff6",
-          "published_utc": "2026-09-21T17:00:16+00:00"
-        },
-        {
-          "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e68d3b39a4d666c6366d61455837bfa37ac4e181ccefecd949ee9414864e794",
-          "published_utc": "2026-09-21T15:40:02+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 72.07,
-      "change_percent": 3.1192,
-      "previous_close": 69.89,
-      "quote_timestamp": 1790097163.0,
-      "quote_time_utc": "2026-09-22T17:12:43+00:00",
-      "quote_age_seconds": 38,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab Analyst Calls Neutron Launch the \u2018Most Material Catalyst\u2019",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5942d0912653b57538da6446869547d520753da73e2ad8ef1e3f063de5998faf",
-          "published_utc": "2026-09-22T09:22:20+00:00"
-        },
-        {
-          "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79b31008476e529a527fee4a068b68bef860ccbee97a6aac67b0034bf58b50dd",
-          "published_utc": "2026-09-22T07:34:01+00:00"
-        },
-        {
-          "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=edaa9e8019256e906b925e62ce9ccb9058fa65fe67cacec902a53231731c507e",
-          "published_utc": "2026-09-22T03:58:10+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RIOT",
-      "price": 24.81,
-      "change_percent": 2.6055,
+      "price": 24.97,
+      "change_percent": 3.2672,
       "previous_close": 24.18,
-      "quote_timestamp": 1790097169.0,
-      "quote_time_utc": "2026-09-22T17:12:49+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1790098796.0,
+      "quote_time_utc": "2026-09-22T17:39:56+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -262,6 +75,156 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
           "published_utc": "2026-09-21T14:07:58+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "MARA",
+      "price": 13.84,
+      "change_percent": 4.2169,
+      "previous_close": 13.28,
+      "quote_timestamp": 1790098797.0,
+      "quote_time_utc": "2026-09-22T17:39:57+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
+          "published_utc": "2026-09-21T19:55:01+00:00"
+        },
+        {
+          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
+          "published_utc": "2026-09-21T16:51:00+00:00"
+        },
+        {
+          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
+          "published_utc": "2026-09-21T16:50:48+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RIOT",
+      "price": 24.97,
+      "change_percent": 3.2672,
+      "previous_close": 24.18,
+      "quote_timestamp": 1790098796.0,
+      "quote_time_utc": "2026-09-22T17:39:56+00:00",
+      "quote_age_seconds": 28,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05d00b907d5bbe60ba4e43ee8aba4e01da02ef7ae17b40e7f378c3ca8dff29e8",
+          "published_utc": "2026-09-21T21:50:04+00:00"
+        },
+        {
+          "headline": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
+          "published_utc": "2026-09-21T14:56:28+00:00"
+        },
+        {
+          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
+          "published_utc": "2026-09-21T14:07:58+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "ASTS",
+      "price": 63.73,
+      "change_percent": 2.973,
+      "previous_close": 61.89,
+      "quote_timestamp": 1790098792.0,
+      "quote_time_utc": "2026-09-22T17:39:52+00:00",
+      "quote_age_seconds": 32,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
+          "published_utc": "2026-09-21T20:36:00+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7623ba36129231004c8647289287e6e29a5d0fd74f16d9cfb488a536205a6ff6",
+          "published_utc": "2026-09-21T17:00:16+00:00"
+        },
+        {
+          "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9e68d3b39a4d666c6366d61455837bfa37ac4e181ccefecd949ee9414864e794",
+          "published_utc": "2026-09-21T15:40:02+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 71.61,
+      "change_percent": 2.461,
+      "previous_close": 69.89,
+      "quote_timestamp": 1790098794.0,
+      "quote_time_utc": "2026-09-22T17:39:54+00:00",
+      "quote_age_seconds": 30,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Analyst Calls Neutron Launch the \u2018Most Material Catalyst\u2019",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5942d0912653b57538da6446869547d520753da73e2ad8ef1e3f063de5998faf",
+          "published_utc": "2026-09-22T09:22:20+00:00"
+        },
+        {
+          "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79b31008476e529a527fee4a068b68bef860ccbee97a6aac67b0034bf58b50dd",
+          "published_utc": "2026-09-22T07:34:01+00:00"
+        },
+        {
+          "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edaa9e8019256e906b925e62ce9ccb9058fa65fe67cacec902a53231731c507e",
+          "published_utc": "2026-09-22T03:58:10+00:00"
         }
       ],
       "news_status": "Recent headlines found"
