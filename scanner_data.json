@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-22T13:42:47.671259+00:00",
+  "updated": "2026-09-22T14:15:16.715067+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "SOFI",
-      "price": 17.64,
-      "change_percent": 3.9481,
-      "previous_close": 16.97,
-      "quote_timestamp": 1790084560.0,
-      "quote_time_utc": "2026-09-22T13:42:40+00:00",
-      "quote_age_seconds": 6,
+      "symbol": "MARA",
+      "price": 13.92,
+      "change_percent": 4.8193,
+      "previous_close": 13.28,
+      "quote_timestamp": 1790086488.0,
+      "quote_time_utc": "2026-09-22T14:14:48+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,22 +22,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "How Far Could PayPal Stock Fall While Its Turnaround Plays Out?",
+          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f4e9c8548c01280ea6c4b8f8a070db5dc26a479557972f9fa73dba9229b8a46",
-          "published_utc": "2026-09-21T18:24:33+00:00"
+          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
+          "published_utc": "2026-09-21T19:55:01+00:00"
         },
         {
-          "headline": "Digital Payment Today - FMPay Revolutionizes Payments With New Acquiring Model",
+          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9bbdbd06ac6f65aabb518e313d29ef6e243561c2926b217fbc44c31a9b85c4d5",
-          "published_utc": "2026-09-21T12:37:36+00:00"
+          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
+          "published_utc": "2026-09-21T16:51:00+00:00"
         },
         {
-          "headline": "Bitcoin Hit $85,000 Today \u2014 SoFi Stock Barely Moved",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b85ea29eea1aa28f228bf7f2f36b3f2b3a81dc8ec013cdc33ef7ab3610d8f511",
-          "published_utc": "2026-09-21T10:13:20+00:00"
+          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
+          "published_utc": "2026-09-21T16:50:48+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RIOT",
+      "price": 25.29,
+      "change_percent": 4.5906,
+      "previous_close": 24.18,
+      "quote_timestamp": 1790086488.0,
+      "quote_time_utc": "2026-09-22T14:14:48+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05d00b907d5bbe60ba4e43ee8aba4e01da02ef7ae17b40e7f378c3ca8dff29e8",
+          "published_utc": "2026-09-21T21:50:04+00:00"
+        },
+        {
+          "headline": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
+          "published_utc": "2026-09-21T14:56:28+00:00"
+        },
+        {
+          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
+          "published_utc": "2026-09-21T14:07:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -45,13 +82,13 @@
   ],
   "swing_trading": [
     {
-      "symbol": "SOFI",
-      "price": 17.64,
-      "change_percent": 3.9481,
-      "previous_close": 16.97,
-      "quote_timestamp": 1790084560.0,
-      "quote_time_utc": "2026-09-22T13:42:40+00:00",
-      "quote_age_seconds": 6,
+      "symbol": "MARA",
+      "price": 13.92,
+      "change_percent": 4.8193,
+      "previous_close": 13.28,
+      "quote_timestamp": 1790086488.0,
+      "quote_time_utc": "2026-09-22T14:14:48+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -61,22 +98,96 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "How Far Could PayPal Stock Fall While Its Turnaround Plays Out?",
+          "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f4e9c8548c01280ea6c4b8f8a070db5dc26a479557972f9fa73dba9229b8a46",
-          "published_utc": "2026-09-21T18:24:33+00:00"
+          "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
+          "published_utc": "2026-09-21T19:55:01+00:00"
         },
         {
-          "headline": "Digital Payment Today - FMPay Revolutionizes Payments With New Acquiring Model",
+          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9bbdbd06ac6f65aabb518e313d29ef6e243561c2926b217fbc44c31a9b85c4d5",
-          "published_utc": "2026-09-21T12:37:36+00:00"
+          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
+          "published_utc": "2026-09-21T16:51:00+00:00"
         },
         {
-          "headline": "Bitcoin Hit $85,000 Today \u2014 SoFi Stock Barely Moved",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b85ea29eea1aa28f228bf7f2f36b3f2b3a81dc8ec013cdc33ef7ab3610d8f511",
-          "published_utc": "2026-09-21T10:13:20+00:00"
+          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
+          "published_utc": "2026-09-21T16:50:48+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RIOT",
+      "price": 25.29,
+      "change_percent": 4.5906,
+      "previous_close": 24.18,
+      "quote_timestamp": 1790086488.0,
+      "quote_time_utc": "2026-09-22T14:14:48+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05d00b907d5bbe60ba4e43ee8aba4e01da02ef7ae17b40e7f378c3ca8dff29e8",
+          "published_utc": "2026-09-21T21:50:04+00:00"
+        },
+        {
+          "headline": "Riot Platforms Is Building a Data Center Business Inside a Bitcoin Miner. Is RIOT Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
+          "published_utc": "2026-09-21T14:56:28+00:00"
+        },
+        {
+          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
+          "published_utc": "2026-09-21T14:07:58+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 71.57,
+      "change_percent": 2.4038,
+      "previous_close": 69.89,
+      "quote_timestamp": 1790086487.0,
+      "quote_time_utc": "2026-09-22T14:14:47+00:00",
+      "quote_age_seconds": 28,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79b31008476e529a527fee4a068b68bef860ccbee97a6aac67b0034bf58b50dd",
+          "published_utc": "2026-09-22T07:34:01+00:00"
+        },
+        {
+          "headline": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=edaa9e8019256e906b925e62ce9ccb9058fa65fe67cacec902a53231731c507e",
+          "published_utc": "2026-09-22T03:58:10+00:00"
+        },
+        {
+          "headline": "Why Are Rocket Lab (RKLB) Shares Soaring Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da8cc42077bb94afdcaff8a296e18d348333484fbfeb49807340f59572038ecc",
+          "published_utc": "2026-09-22T01:10:25+00:00"
         }
       ],
       "news_status": "Recent headlines found"
