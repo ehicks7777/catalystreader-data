@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T14:43:45.414012+00:00",
+  "updated": "2026-09-23T15:43:11.844960+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.58,
-      "change_percent": 4.5164,
+      "price": 42.82,
+      "change_percent": 5.1055,
       "previous_close": 40.74,
-      "quote_timestamp": 1790174606.0,
-      "quote_time_utc": "2026-09-23T14:43:26+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1790178164.0,
+      "quote_time_utc": "2026-09-23T15:42:44+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -34,61 +34,22 @@
           "published_utc": "2026-09-23T10:18:00+00:00"
         },
         {
-          "headline": "IonQ Shares Rise 11.8% After Quantum Error Correction Decoder Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=230c377ed726024be7a70dc3da42b9b55d388e0eccda732a5c9a87cc0d5a7f62",
-          "published_utc": "2026-09-23T10:13:13+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "swing_trading": [
-    {
-      "symbol": "IONQ",
-      "price": 42.58,
-      "change_percent": 4.5164,
-      "previous_close": 40.74,
-      "quote_timestamp": 1790174606.0,
-      "quote_time_utc": "2026-09-23T14:43:26+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a392367390471904795390b2bdbabef791c93936b060dfd86985bc0f09d050b2",
-          "published_utc": "2026-09-23T11:00:00+00:00"
-        },
-        {
-          "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
-          "published_utc": "2026-09-23T10:18:00+00:00"
-        },
-        {
-          "headline": "IonQ Shares Rise 11.8% After Quantum Error Correction Decoder Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=230c377ed726024be7a70dc3da42b9b55d388e0eccda732a5c9a87cc0d5a7f62",
-          "published_utc": "2026-09-23T10:13:13+00:00"
+          "headline": "IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ef0ac7b8b3fa076e23d9109502184bb447f338808f3f9cc49997490a07f255bb",
+          "published_utc": "2026-09-23T10:16:47+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 190.21,
-      "change_percent": 2.8218,
+      "price": 192.15,
+      "change_percent": 3.8705,
       "previous_close": 184.99,
-      "quote_timestamp": 1790174607.0,
-      "quote_time_utc": "2026-09-23T14:43:27+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1790178166.0,
+      "quote_time_utc": "2026-09-23T15:42:46+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -114,6 +75,119 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d8b672088e2f37f1ae4c5a750a021468a84c8b60ddb1094462e0a45c820ac960",
           "published_utc": "2026-09-23T12:34:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "IONQ",
+      "price": 42.82,
+      "change_percent": 5.1055,
+      "previous_close": 40.74,
+      "quote_timestamp": 1790178164.0,
+      "quote_time_utc": "2026-09-23T15:42:44+00:00",
+      "quote_age_seconds": 26,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a392367390471904795390b2bdbabef791c93936b060dfd86985bc0f09d050b2",
+          "published_utc": "2026-09-23T11:00:00+00:00"
+        },
+        {
+          "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
+          "published_utc": "2026-09-23T10:18:00+00:00"
+        },
+        {
+          "headline": "IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ef0ac7b8b3fa076e23d9109502184bb447f338808f3f9cc49997490a07f255bb",
+          "published_utc": "2026-09-23T10:16:47+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "PLTR",
+      "price": 192.15,
+      "change_percent": 3.8705,
+      "previous_close": 184.99,
+      "quote_timestamp": 1790178166.0,
+      "quote_time_utc": "2026-09-23T15:42:46+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "What Is Really Driving Palantir's Growth?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20841415b59305f0a3982b4d731dcacc5ee1f8a327aaa79c7172d87f70f9f90d",
+          "published_utc": "2026-09-23T13:32:09+00:00"
+        },
+        {
+          "headline": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=484dfa974983d0c9f0c10bd8bb308965cef3f97c9c4dab3cc46ae996f67f38e2",
+          "published_utc": "2026-09-23T12:41:00+00:00"
+        },
+        {
+          "headline": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8b672088e2f37f1ae4c5a750a021468a84c8b60ddb1094462e0a45c820ac960",
+          "published_utc": "2026-09-23T12:34:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "META",
+      "price": 755.41,
+      "change_percent": 2.5543,
+      "previous_close": 736.595,
+      "quote_timestamp": 1790178166.0,
+      "quote_time_utc": "2026-09-23T15:42:46+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ea5b0bff04916568a2bee0e2537e6f866d7ac8d9e402f61dd2ef67f633793a7c",
+          "published_utc": "2026-09-23T13:53:23+00:00"
+        },
+        {
+          "headline": "Meta\u2019s Muse Tests Show Human Callers Outperform AI Alone",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=86c7eaf9e9551fc36ab026e93d379f7560d7fed877b8371b9818a8c2f2c2864f",
+          "published_utc": "2026-09-23T13:51:06+00:00"
+        },
+        {
+          "headline": "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b686a144139d3a2ad1739d1a4f2d1bfd2e6b6029783d366a9d92601e5c8499fd",
+          "published_utc": "2026-09-23T13:42:57+00:00"
         }
       ],
       "news_status": "Recent headlines found"
