@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:13:04.318358+00:00",
+  "updated": "2026-09-23T19:41:24.179322+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.67,
-      "change_percent": 4.7374,
+      "price": 42.66,
+      "change_percent": 4.7128,
       "previous_close": 40.74,
-      "quote_timestamp": 1790190757.0,
-      "quote_time_utc": "2026-09-23T19:12:37+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1790192454.0,
+      "quote_time_utc": "2026-09-23T19:40:54+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "PLTR",
-      "price": 192.0,
-      "change_percent": 3.7894,
+      "price": 191.81,
+      "change_percent": 3.6867,
       "previous_close": 184.99,
-      "quote_timestamp": 1790190758.0,
-      "quote_time_utc": "2026-09-23T19:12:38+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790192450.0,
+      "quote_time_utc": "2026-09-23T19:40:50+00:00",
+      "quote_age_seconds": 33,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -58,6 +58,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "These S&P500 stocks are moving in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=08b8181a534560cc6ffd8f2e5a97e2a046c76202a3cde624208fdef926de7df0",
+          "published_utc": "2026-09-23T19:05:01+00:00"
+        },
         {
           "headline": "Which S&P500 stocks are the most active on Wednesday?",
           "source": "ChartMill",
@@ -69,12 +75,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=93cca0efb3d0cd361e0c0b6f927cfb174d41ae843a4dc4319c93445654e9feda",
           "published_utc": "2026-09-23T16:49:23+00:00"
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 movers",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=605977504757e7e3e80d88506dbb7320e228bde5306828633fe3b5b1a8169658",
-          "published_utc": "2026-09-23T16:35:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.67,
-      "change_percent": 4.7374,
+      "price": 42.66,
+      "change_percent": 4.7128,
       "previous_close": 40.74,
-      "quote_timestamp": 1790190757.0,
-      "quote_time_utc": "2026-09-23T19:12:37+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1790192454.0,
+      "quote_time_utc": "2026-09-23T19:40:54+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +120,12 @@
     },
     {
       "symbol": "PLTR",
-      "price": 192.0,
-      "change_percent": 3.7894,
+      "price": 191.81,
+      "change_percent": 3.6867,
       "previous_close": 184.99,
-      "quote_timestamp": 1790190758.0,
-      "quote_time_utc": "2026-09-23T19:12:38+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790192450.0,
+      "quote_time_utc": "2026-09-23T19:40:50+00:00",
+      "quote_age_seconds": 33,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -134,6 +134,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "These S&P500 stocks are moving in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=08b8181a534560cc6ffd8f2e5a97e2a046c76202a3cde624208fdef926de7df0",
+          "published_utc": "2026-09-23T19:05:01+00:00"
+        },
         {
           "headline": "Which S&P500 stocks are the most active on Wednesday?",
           "source": "ChartMill",
@@ -145,12 +151,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=93cca0efb3d0cd361e0c0b6f927cfb174d41ae843a4dc4319c93445654e9feda",
           "published_utc": "2026-09-23T16:49:23+00:00"
-        },
-        {
-          "headline": "What's going on in today's session: S&P500 movers",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=605977504757e7e3e80d88506dbb7320e228bde5306828633fe3b5b1a8169658",
-          "published_utc": "2026-09-23T16:35:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
