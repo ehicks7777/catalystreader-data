@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T04:14:57.983857+00:00",
+  "updated": "2026-09-23T04:42:31.599227+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 24.18,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 29697,
+      "quote_age_seconds": 31350,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 69.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 29697,
+      "quote_age_seconds": 31350,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Rocket Lab (RKLB) Stock Could Be A Bargain Despite Its Big Run",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a440a5a4a36bacf59bcdc3781354794cd07b872458fefa3fa453cb9a1d46ce80",
+          "published_utc": "2026-09-23T03:21:42+00:00"
+        },
+        {
+          "headline": "Rocket Lab CEO Puts Iridium Deal Alongside SpaceX And Amazon\u2019s Spectrum Bets: \u2018You Can\u2019t Just Magic Up Spectrum\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=16dc459eeb2d7d33b12671b94607b1492f983a81c7cac00222339b030b0b97c3",
+          "published_utc": "2026-09-23T02:28:22+00:00"
+        },
+        {
           "headline": "Rocket Lab Corporation (RKLB) Stock Moves 2.99%: What You Should Know",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6cbf011e4385876b6b0d51902e088916b765a32b5ae7cd324389041b9d29110f",
           "published_utc": "2026-09-22T22:15:07+00:00"
-        },
-        {
-          "headline": "Why Rocket Lab Is Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f45dc76208ceec550193008f3a31f5cee9e8d2f4864b96a99dcbf4f3c9670839",
-          "published_utc": "2026-09-22T21:11:19+00:00"
-        },
-        {
-          "headline": "Wall Street Thinks Rocket Lab Is a Buy. Here's Why I'm Not So Sure.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d5da23193072d052e76f9814ce801afae5f774ac418c5ff3d1a04afdf4ca693",
-          "published_utc": "2026-09-22T17:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 61.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 29697,
+      "quote_age_seconds": 31350,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 13.28,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 29697,
+      "quote_age_seconds": 31350,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
