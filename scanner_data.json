@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T13:43:33.826952+00:00",
+  "updated": "2026-09-23T14:14:58.919240+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.42,
-      "change_percent": 4.1237,
+      "price": 42.52,
+      "change_percent": 4.3692,
       "previous_close": 40.74,
-      "quote_timestamp": 1790170980.0,
-      "quote_time_utc": "2026-09-23T13:43:00+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1790172872.0,
+      "quote_time_utc": "2026-09-23T14:14:32+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -38,43 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=230c377ed726024be7a70dc3da42b9b55d388e0eccda732a5c9a87cc0d5a7f62",
           "published_utc": "2026-09-23T10:13:13+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 191.9,
-      "change_percent": 3.7353,
-      "previous_close": 184.99,
-      "quote_timestamp": 1790170981.0,
-      "quote_time_utc": "2026-09-23T13:43:01+00:00",
-      "quote_age_seconds": 31,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=484dfa974983d0c9f0c10bd8bb308965cef3f97c9c4dab3cc46ae996f67f38e2",
-          "published_utc": "2026-09-23T12:41:00+00:00"
-        },
-        {
-          "headline": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8b672088e2f37f1ae4c5a750a021468a84c8b60ddb1094462e0a45c820ac960",
-          "published_utc": "2026-09-23T12:34:00+00:00"
-        },
-        {
-          "headline": "Michael Burry Just Sent a New Warning to AI Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c03ecfba112fa5546c2bd8b08d486bcc5c8d8fe85496f95aac26772d266d500",
-          "published_utc": "2026-09-23T12:16:32+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.42,
-      "change_percent": 4.1237,
+      "price": 42.52,
+      "change_percent": 4.3692,
       "previous_close": 40.74,
-      "quote_timestamp": 1790170980.0,
-      "quote_time_utc": "2026-09-23T13:43:00+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1790172872.0,
+      "quote_time_utc": "2026-09-23T14:14:32+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -114,80 +77,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=230c377ed726024be7a70dc3da42b9b55d388e0eccda732a5c9a87cc0d5a7f62",
           "published_utc": "2026-09-23T10:13:13+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 191.9,
-      "change_percent": 3.7353,
-      "previous_close": 184.99,
-      "quote_timestamp": 1790170981.0,
-      "quote_time_utc": "2026-09-23T13:43:01+00:00",
-      "quote_age_seconds": 31,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=484dfa974983d0c9f0c10bd8bb308965cef3f97c9c4dab3cc46ae996f67f38e2",
-          "published_utc": "2026-09-23T12:41:00+00:00"
-        },
-        {
-          "headline": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8b672088e2f37f1ae4c5a750a021468a84c8b60ddb1094462e0a45c820ac960",
-          "published_utc": "2026-09-23T12:34:00+00:00"
-        },
-        {
-          "headline": "Michael Burry Just Sent a New Warning to AI Investors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c03ecfba112fa5546c2bd8b08d486bcc5c8d8fe85496f95aac26772d266d500",
-          "published_utc": "2026-09-23T12:16:32+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSFT",
-      "price": 508.09,
-      "change_percent": 2.0261,
-      "previous_close": 498.0,
-      "quote_timestamp": 1790170980.0,
-      "quote_time_utc": "2026-09-23T13:43:00+00:00",
-      "quote_age_seconds": 32,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "IREN Has Microsoft and $14 Billion of Funding. Execution Is the Real Test",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4ece9a09de680d2baa4aa9871cd2014e38ac7c9fa3600dbe66189993d54b617a",
-          "published_utc": "2026-09-23T13:14:03+00:00"
-        },
-        {
-          "headline": "Flywire Appoints Sabrina Farmer to its Board of Directors",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8e3a35947312cf251351a52e672b45d1bc235e375b2b1b31b95bae8413776b84",
-          "published_utc": "2026-09-23T13:00:00+00:00"
-        },
-        {
-          "headline": "Verizon Commits $70 Million to Nationwide AI Training Initiative",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=367bbbd6c16fb94d4f5363b0c20fa2e25140640a45a365427970ea15501e6a6c",
-          "published_utc": "2026-09-23T12:48:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
