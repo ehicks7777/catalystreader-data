@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:18:56.375307+00:00",
+  "updated": "2026-09-23T00:45:27.572114+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 24.18,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 15535,
+      "quote_age_seconds": 17126,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 69.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 15535,
+      "quote_age_seconds": 17126,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rocket Lab Corporation (RKLB) Stock Moves 2.99%: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6cbf011e4385876b6b0d51902e088916b765a32b5ae7cd324389041b9d29110f",
+          "published_utc": "2026-09-22T22:15:07+00:00"
+        },
         {
           "headline": "Why Rocket Lab Is Up Today",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8d5da23193072d052e76f9814ce801afae5f774ac418c5ff3d1a04afdf4ca693",
           "published_utc": "2026-09-22T17:50:00+00:00"
-        },
-        {
-          "headline": "Redwire vs. Rocket Lab: Which Space Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=452d15c6b21f57d07f7475e1654555ab677289a0f02ebb4acfce1733b2049d18",
-          "published_utc": "2026-09-22T17:19:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 61.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 15535,
+      "quote_age_seconds": 17126,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AST SpaceMobile, Inc. (ASTS) Stock Moves 2.91%: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6c634362322b26c96e81e8391673a6ed3cd7fa92298f5fa80f3a1f01ef8cdaf4",
+          "published_utc": "2026-09-22T22:15:06+00:00"
+        },
+        {
+          "headline": "Prediction: AST SpaceMobile Will Be the Best-Performing Space Stock of 2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=629e54960e73ef9e5d986f8ca8ad58080699ac6fb60e0e8fb6c7d46943445329",
+          "published_utc": "2026-09-22T10:30:00+00:00"
+        },
+        {
           "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
           "published_utc": "2026-09-21T20:36:00+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7623ba36129231004c8647289287e6e29a5d0fd74f16d9cfb488a536205a6ff6",
-          "published_utc": "2026-09-21T17:00:16+00:00"
-        },
-        {
-          "headline": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e68d3b39a4d666c6366d61455837bfa37ac4e181ccefecd949ee9414864e794",
-          "published_utc": "2026-09-21T15:40:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 13.28,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 15535,
+      "quote_age_seconds": 17126,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
