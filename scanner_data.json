@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:18:06.179040+00:00",
+  "updated": "2026-09-23T18:44:07.147412+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.79,
-      "change_percent": 5.0319,
+      "price": 42.67,
+      "change_percent": 4.7374,
       "previous_close": 40.74,
-      "quote_timestamp": 1790187456.0,
-      "quote_time_utc": "2026-09-23T18:17:36+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790189028.0,
+      "quote_time_utc": "2026-09-23T18:43:48+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Discover the most active stocks in Wednesday's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2e7bcd8f833fbb4c7fd6a483127bf63d67080ae146ed737fa561ad7151125c97",
+          "published_utc": "2026-09-23T18:00:00+00:00"
+        },
         {
           "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
           "source": "Yahoo",
@@ -32,24 +38,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
           "published_utc": "2026-09-23T10:18:00+00:00"
-        },
-        {
-          "headline": "IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ef0ac7b8b3fa076e23d9109502184bb447f338808f3f9cc49997490a07f255bb",
-          "published_utc": "2026-09-23T10:16:47+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 190.73,
-      "change_percent": 3.1029,
+      "price": 190.82,
+      "change_percent": 3.1515,
       "previous_close": 184.99,
-      "quote_timestamp": 1790187457.0,
-      "quote_time_utc": "2026-09-23T18:17:37+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1790189026.0,
+      "quote_time_utc": "2026-09-23T18:43:46+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,22 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Which S&P500 stocks are the most active on Wednesday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=77d40aed57071508e8157760e057cc6b6eaca73aff3c0b8aafb307643d38ccc0",
+          "published_utc": "2026-09-23T18:05:02+00:00"
+        },
+        {
+          "headline": "Palantir Just Got a Major Vote of Confidence From the FAA",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93cca0efb3d0cd361e0c0b6f927cfb174d41ae843a4dc4319c93445654e9feda",
+          "published_utc": "2026-09-23T16:49:23+00:00"
+        },
+        {
           "headline": "What's going on in today's session: S&P500 movers",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=605977504757e7e3e80d88506dbb7320e228bde5306828633fe3b5b1a8169658",
           "published_utc": "2026-09-23T16:35:01+00:00"
-        },
-        {
-          "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2401f59549f6dc5e3161f972089484183590ddc78650f70febdf139cb10d8587",
-          "published_utc": "2026-09-23T15:41:02+00:00"
-        },
-        {
-          "headline": "Michael Burry Doubles Down Against Micron Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d409581369af0b5ac7529df02e571405dafd4c24cb393082dddf0631035fa7fa",
-          "published_utc": "2026-09-23T15:34:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.79,
-      "change_percent": 5.0319,
+      "price": 42.67,
+      "change_percent": 4.7374,
       "previous_close": 40.74,
-      "quote_timestamp": 1790187456.0,
-      "quote_time_utc": "2026-09-23T18:17:36+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790189028.0,
+      "quote_time_utc": "2026-09-23T18:43:48+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -97,6 +97,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Discover the most active stocks in Wednesday's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2e7bcd8f833fbb4c7fd6a483127bf63d67080ae146ed737fa561ad7151125c97",
+          "published_utc": "2026-09-23T18:00:00+00:00"
+        },
         {
           "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
           "source": "Yahoo",
@@ -108,24 +114,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
           "published_utc": "2026-09-23T10:18:00+00:00"
-        },
-        {
-          "headline": "IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ef0ac7b8b3fa076e23d9109502184bb447f338808f3f9cc49997490a07f255bb",
-          "published_utc": "2026-09-23T10:16:47+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 190.73,
-      "change_percent": 3.1029,
+      "price": 190.82,
+      "change_percent": 3.1515,
       "previous_close": 184.99,
-      "quote_timestamp": 1790187457.0,
-      "quote_time_utc": "2026-09-23T18:17:37+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1790189026.0,
+      "quote_time_utc": "2026-09-23T18:43:46+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,22 +135,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Which S&P500 stocks are the most active on Wednesday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=77d40aed57071508e8157760e057cc6b6eaca73aff3c0b8aafb307643d38ccc0",
+          "published_utc": "2026-09-23T18:05:02+00:00"
+        },
+        {
+          "headline": "Palantir Just Got a Major Vote of Confidence From the FAA",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93cca0efb3d0cd361e0c0b6f927cfb174d41ae843a4dc4319c93445654e9feda",
+          "published_utc": "2026-09-23T16:49:23+00:00"
+        },
+        {
           "headline": "What's going on in today's session: S&P500 movers",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=605977504757e7e3e80d88506dbb7320e228bde5306828633fe3b5b1a8169658",
           "published_utc": "2026-09-23T16:35:01+00:00"
-        },
-        {
-          "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2401f59549f6dc5e3161f972089484183590ddc78650f70febdf139cb10d8587",
-          "published_utc": "2026-09-23T15:41:02+00:00"
-        },
-        {
-          "headline": "Michael Burry Doubles Down Against Micron Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d409581369af0b5ac7529df02e571405dafd4c24cb393082dddf0631035fa7fa",
-          "published_utc": "2026-09-23T15:34:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
