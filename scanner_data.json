@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:15:50.979236+00:00",
+  "updated": "2026-09-23T16:43:14.897351+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,11 +7,11 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.77,
-      "change_percent": 4.9828,
+      "price": 42.83,
+      "change_percent": 5.1301,
       "previous_close": 40.74,
-      "quote_timestamp": 1790180138.0,
-      "quote_time_utc": "2026-09-23T16:15:38+00:00",
+      "quote_timestamp": 1790181782.0,
+      "quote_time_utc": "2026-09-23T16:43:02+00:00",
       "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
@@ -38,43 +38,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=ef0ac7b8b3fa076e23d9109502184bb447f338808f3f9cc49997490a07f255bb",
           "published_utc": "2026-09-23T10:16:47+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 191.81,
-      "change_percent": 3.6867,
-      "previous_close": 184.99,
-      "quote_timestamp": 1790180138.0,
-      "quote_time_utc": "2026-09-23T16:15:38+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "What Is Really Driving Palantir's Growth?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20841415b59305f0a3982b4d731dcacc5ee1f8a327aaa79c7172d87f70f9f90d",
-          "published_utc": "2026-09-23T13:32:09+00:00"
-        },
-        {
-          "headline": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=484dfa974983d0c9f0c10bd8bb308965cef3f97c9c4dab3cc46ae996f67f38e2",
-          "published_utc": "2026-09-23T12:41:00+00:00"
-        },
-        {
-          "headline": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8b672088e2f37f1ae4c5a750a021468a84c8b60ddb1094462e0a45c820ac960",
-          "published_utc": "2026-09-23T12:34:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,11 +46,11 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.77,
-      "change_percent": 4.9828,
+      "price": 42.83,
+      "change_percent": 5.1301,
       "previous_close": 40.74,
-      "quote_timestamp": 1790180138.0,
-      "quote_time_utc": "2026-09-23T16:15:38+00:00",
+      "quote_timestamp": 1790181782.0,
+      "quote_time_utc": "2026-09-23T16:43:02+00:00",
       "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
@@ -120,11 +83,11 @@
     },
     {
       "symbol": "PLTR",
-      "price": 191.81,
-      "change_percent": 3.6867,
+      "price": 190.51,
+      "change_percent": 2.9839,
       "previous_close": 184.99,
-      "quote_timestamp": 1790180138.0,
-      "quote_time_utc": "2026-09-23T16:15:38+00:00",
+      "quote_timestamp": 1790181782.0,
+      "quote_time_utc": "2026-09-23T16:43:02+00:00",
       "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
@@ -135,34 +98,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "What Is Really Driving Palantir's Growth?",
+          "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20841415b59305f0a3982b4d731dcacc5ee1f8a327aaa79c7172d87f70f9f90d",
-          "published_utc": "2026-09-23T13:32:09+00:00"
+          "url": "https://finnhub.io/api/news?id=2401f59549f6dc5e3161f972089484183590ddc78650f70febdf139cb10d8587",
+          "published_utc": "2026-09-23T15:41:02+00:00"
         },
         {
-          "headline": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI",
+          "headline": "Michael Burry Doubles Down Against Micron Stock",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=484dfa974983d0c9f0c10bd8bb308965cef3f97c9c4dab3cc46ae996f67f38e2",
-          "published_utc": "2026-09-23T12:41:00+00:00"
+          "url": "https://finnhub.io/api/news?id=d409581369af0b5ac7529df02e571405dafd4c24cb393082dddf0631035fa7fa",
+          "published_utc": "2026-09-23T15:34:31+00:00"
         },
         {
-          "headline": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
+          "headline": "Michael Burry Shorts Micron, Palantir; Famed Investor Expects Chip 'Down Cycle'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8b672088e2f37f1ae4c5a750a021468a84c8b60ddb1094462e0a45c820ac960",
-          "published_utc": "2026-09-23T12:34:00+00:00"
+          "url": "https://finnhub.io/api/news?id=2f28a7b24c2fb292ffa8a6a4c625c17869f40c6ef2478b15088f329e058481a3",
+          "published_utc": "2026-09-23T15:18:48+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 753.09,
-      "change_percent": 2.2394,
+      "price": 756.81,
+      "change_percent": 2.7444,
       "previous_close": 736.595,
-      "quote_timestamp": 1790180138.0,
-      "quote_time_utc": "2026-09-23T16:15:38+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790181781.0,
+      "quote_time_utc": "2026-09-23T16:43:01+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -172,22 +135,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+          "headline": "Agentic Commerce Could Hurt Booking, Intuit While Helping Meta, Microsoft, Joseph Carlson Says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ea5b0bff04916568a2bee0e2537e6f866d7ac8d9e402f61dd2ef67f633793a7c",
-          "published_utc": "2026-09-23T13:53:23+00:00"
+          "url": "https://finnhub.io/api/news?id=7eaa7c8373f6e6a6537a62745967c81917a61887543dee45b2522a77d48fbce6",
+          "published_utc": "2026-09-23T15:43:28+00:00"
         },
         {
-          "headline": "Meta\u2019s Muse Tests Show Human Callers Outperform AI Alone",
+          "headline": "Strength Seen in Innodata Inc (INOD): Can Its 14.6% Jump Turn into More Strength?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=86c7eaf9e9551fc36ab026e93d379f7560d7fed877b8371b9818a8c2f2c2864f",
-          "published_utc": "2026-09-23T13:51:06+00:00"
+          "url": "https://finnhub.io/api/news?id=14e4ef546e66e316074b902aa4e4d2f5f87df65028e964388afab713f9ece0ad",
+          "published_utc": "2026-09-23T15:37:00+00:00"
         },
         {
-          "headline": "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+          "headline": "KeyBanc Resets Meta Stock Target As Muse Takes off",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b686a144139d3a2ad1739d1a4f2d1bfd2e6b6029783d366a9d92601e5c8499fd",
-          "published_utc": "2026-09-23T13:42:57+00:00"
+          "url": "https://finnhub.io/api/news?id=98957fddbbef884f6ef1cdbd0f8fb769373b038075f313f2924c6235e83a20b8",
+          "published_utc": "2026-09-23T15:28:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
