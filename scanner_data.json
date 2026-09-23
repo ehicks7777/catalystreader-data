@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:43:14.897351+00:00",
+  "updated": "2026-09-23T17:14:17.231795+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,51 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.83,
-      "change_percent": 5.1301,
+      "price": 42.85,
+      "change_percent": 5.1792,
       "previous_close": 40.74,
-      "quote_timestamp": 1790181782.0,
-      "quote_time_utc": "2026-09-23T16:43:02+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a392367390471904795390b2bdbabef791c93936b060dfd86985bc0f09d050b2",
-          "published_utc": "2026-09-23T11:00:00+00:00"
-        },
-        {
-          "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
-          "published_utc": "2026-09-23T10:18:00+00:00"
-        },
-        {
-          "headline": "IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ef0ac7b8b3fa076e23d9109502184bb447f338808f3f9cc49997490a07f255bb",
-          "published_utc": "2026-09-23T10:16:47+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "swing_trading": [
-    {
-      "symbol": "IONQ",
-      "price": 42.83,
-      "change_percent": 5.1301,
-      "previous_close": 40.74,
-      "quote_timestamp": 1790181782.0,
-      "quote_time_utc": "2026-09-23T16:43:02+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790183638.0,
+      "quote_time_utc": "2026-09-23T17:13:58+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +44,12 @@
     },
     {
       "symbol": "PLTR",
-      "price": 190.51,
-      "change_percent": 2.9839,
+      "price": 190.59,
+      "change_percent": 3.0272,
       "previous_close": 184.99,
-      "quote_timestamp": 1790181782.0,
-      "quote_time_utc": "2026-09-23T16:43:02+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790183636.0,
+      "quote_time_utc": "2026-09-23T17:13:56+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -97,6 +58,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "What's going on in today's session: S&P500 movers",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=605977504757e7e3e80d88506dbb7320e228bde5306828633fe3b5b1a8169658",
+          "published_utc": "2026-09-23T16:35:01+00:00"
+        },
         {
           "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
           "source": "Yahoo",
@@ -108,24 +75,20 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d409581369af0b5ac7529df02e571405dafd4c24cb393082dddf0631035fa7fa",
           "published_utc": "2026-09-23T15:34:31+00:00"
-        },
-        {
-          "headline": "Michael Burry Shorts Micron, Palantir; Famed Investor Expects Chip 'Down Cycle'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f28a7b24c2fb292ffa8a6a4c625c17869f40c6ef2478b15088f329e058481a3",
-          "published_utc": "2026-09-23T15:18:48+00:00"
         }
       ],
       "news_status": "Recent headlines found"
-    },
+    }
+  ],
+  "swing_trading": [
     {
-      "symbol": "META",
-      "price": 756.81,
-      "change_percent": 2.7444,
-      "previous_close": 736.595,
-      "quote_timestamp": 1790181781.0,
-      "quote_time_utc": "2026-09-23T16:43:01+00:00",
-      "quote_age_seconds": 12,
+      "symbol": "IONQ",
+      "price": 42.85,
+      "change_percent": 5.1792,
+      "previous_close": 40.74,
+      "quote_timestamp": 1790183638.0,
+      "quote_time_utc": "2026-09-23T17:13:58+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,22 +98,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Agentic Commerce Could Hurt Booking, Intuit While Helping Meta, Microsoft, Joseph Carlson Says",
+          "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7eaa7c8373f6e6a6537a62745967c81917a61887543dee45b2522a77d48fbce6",
-          "published_utc": "2026-09-23T15:43:28+00:00"
+          "url": "https://finnhub.io/api/news?id=a392367390471904795390b2bdbabef791c93936b060dfd86985bc0f09d050b2",
+          "published_utc": "2026-09-23T11:00:00+00:00"
         },
         {
-          "headline": "Strength Seen in Innodata Inc (INOD): Can Its 14.6% Jump Turn into More Strength?",
+          "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14e4ef546e66e316074b902aa4e4d2f5f87df65028e964388afab713f9ece0ad",
-          "published_utc": "2026-09-23T15:37:00+00:00"
+          "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
+          "published_utc": "2026-09-23T10:18:00+00:00"
         },
         {
-          "headline": "KeyBanc Resets Meta Stock Target As Muse Takes off",
+          "headline": "IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ef0ac7b8b3fa076e23d9109502184bb447f338808f3f9cc49997490a07f255bb",
+          "published_utc": "2026-09-23T10:16:47+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "PLTR",
+      "price": 190.59,
+      "change_percent": 3.0272,
+      "previous_close": 184.99,
+      "quote_timestamp": 1790183636.0,
+      "quote_time_utc": "2026-09-23T17:13:56+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "What's going on in today's session: S&P500 movers",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=605977504757e7e3e80d88506dbb7320e228bde5306828633fe3b5b1a8169658",
+          "published_utc": "2026-09-23T16:35:01+00:00"
+        },
+        {
+          "headline": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98957fddbbef884f6ef1cdbd0f8fb769373b038075f313f2924c6235e83a20b8",
-          "published_utc": "2026-09-23T15:28:31+00:00"
+          "url": "https://finnhub.io/api/news?id=2401f59549f6dc5e3161f972089484183590ddc78650f70febdf139cb10d8587",
+          "published_utc": "2026-09-23T15:41:02+00:00"
+        },
+        {
+          "headline": "Michael Burry Doubles Down Against Micron Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d409581369af0b5ac7529df02e571405dafd4c24cb393082dddf0631035fa7fa",
+          "published_utc": "2026-09-23T15:34:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
