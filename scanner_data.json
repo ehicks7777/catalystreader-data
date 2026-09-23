@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T20:15:25.517660+00:00",
+  "updated": "2026-09-23T20:41:06.022323+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 40.74,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 924,
+      "quote_age_seconds": 2464,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 184.99,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 924,
+      "quote_age_seconds": 2464,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Palantir Jumps Over 4% as Karp Makes AI Liability the Product Test",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=82279f3a21452d457741ac0f43f82b182e3c0480571bc8a9a81fa861687ae6d0",
+          "published_utc": "2026-09-23T19:11:26+00:00"
+        },
         {
           "headline": "These S&P500 stocks are moving in today's session",
           "source": "ChartMill",
@@ -70,12 +76,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=77d40aed57071508e8157760e057cc6b6eaca73aff3c0b8aafb307643d38ccc0",
           "published_utc": "2026-09-23T18:05:02+00:00"
-        },
-        {
-          "headline": "Palantir Just Got a Major Vote of Confidence From the FAA",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93cca0efb3d0cd361e0c0b6f927cfb174d41ae843a4dc4319c93445654e9feda",
-          "published_utc": "2026-09-23T16:49:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
