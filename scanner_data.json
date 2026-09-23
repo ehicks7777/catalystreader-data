@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T14:14:58.919240+00:00",
+  "updated": "2026-09-23T14:43:45.414012+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.52,
-      "change_percent": 4.3692,
+      "price": 42.58,
+      "change_percent": 4.5164,
       "previous_close": 40.74,
-      "quote_timestamp": 1790172872.0,
-      "quote_time_utc": "2026-09-23T14:14:32+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1790174606.0,
+      "quote_time_utc": "2026-09-23T14:43:26+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.52,
-      "change_percent": 4.3692,
+      "price": 42.58,
+      "change_percent": 4.5164,
       "previous_close": 40.74,
-      "quote_timestamp": 1790172872.0,
-      "quote_time_utc": "2026-09-23T14:14:32+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1790174606.0,
+      "quote_time_utc": "2026-09-23T14:43:26+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -77,6 +77,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=230c377ed726024be7a70dc3da42b9b55d388e0eccda732a5c9a87cc0d5a7f62",
           "published_utc": "2026-09-23T10:13:13+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "PLTR",
+      "price": 190.21,
+      "change_percent": 2.8218,
+      "previous_close": 184.99,
+      "quote_timestamp": 1790174607.0,
+      "quote_time_utc": "2026-09-23T14:43:27+00:00",
+      "quote_age_seconds": 17,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "What Is Really Driving Palantir's Growth?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=20841415b59305f0a3982b4d731dcacc5ee1f8a327aaa79c7172d87f70f9f90d",
+          "published_utc": "2026-09-23T13:32:09+00:00"
+        },
+        {
+          "headline": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=484dfa974983d0c9f0c10bd8bb308965cef3f97c9c4dab3cc46ae996f67f38e2",
+          "published_utc": "2026-09-23T12:41:00+00:00"
+        },
+        {
+          "headline": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8b672088e2f37f1ae4c5a750a021468a84c8b60ddb1094462e0a45c820ac960",
+          "published_utc": "2026-09-23T12:34:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
