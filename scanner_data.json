@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T02:14:25.894584+00:00",
+  "updated": "2026-09-23T02:42:02.737423+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 24.18,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 22464,
+      "quote_age_seconds": 24122,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "MSTR, HOOD, RIOT Stocks Lead Gains In Fundstrat's Granny Shots ETF Last Week, Says Tom Lee",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f1a8cae95ed2c44c77b1039d5fa715aa1db14e73eb8ea483f5e8a4817df9920",
+          "published_utc": "2026-09-22T17:33:00+00:00"
+        },
         {
           "headline": "Riot Platforms, Inc. (RIOT) Outperforms Broader Market: What You Need to Know",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6243e6bf93bd5cc2bcb979d4e08b59b200fa205706adc913a0210ab01ae9475b",
           "published_utc": "2026-09-21T14:56:28+00:00"
-        },
-        {
-          "headline": "Is MARA Stock A Buy Today, Before Any AI Leases Are Signed?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5dd014e746b61f45af0ea4dfb9800aa20edd7c75832bc68d708d318bbc4639b",
-          "published_utc": "2026-09-21T14:07:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 69.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 22464,
+      "quote_age_seconds": 24122,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 61.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 22464,
+      "quote_age_seconds": 24122,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 13.28,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 22464,
+      "quote_age_seconds": 24122,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Marathon Digital Holdings, Inc. (MARA) Stock Moves 2.64%: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e8fb6e55c5167e423d155ed026384ece7df9b27d0677720c356f82890c9c24a4",
+          "published_utc": "2026-09-22T21:45:05+00:00"
+        },
+        {
+          "headline": "Bitcoin ETFs Just Pulled In $1 Billion in a Day as Investors Break Even",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a2012d1b98622a6dd58a0ee2972174d2c61d2229b4f9846d80ddbfcb45f0b1d2",
+          "published_utc": "2026-09-22T20:59:56+00:00"
+        },
+        {
           "headline": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c5f6f8a6de1342e09e99bc73c32d19728a3c10598740b9d0d4fdf60040e1e3fa",
           "published_utc": "2026-09-21T19:55:01+00:00"
-        },
-        {
-          "headline": "Crypto-linked stocks surge as bitcoin breaks through May highs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b22ae34cfa8d61fa655ab1d20fc9d25e4d689dd4f88b9716e478883997a2066",
-          "published_utc": "2026-09-21T16:51:00+00:00"
-        },
-        {
-          "headline": "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC\u2019s Game-Changing Exemption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=20bf25136e07ea8d11cf6d87e3f65372e59e8fe67b081edb18539aa57b6e3895",
-          "published_utc": "2026-09-21T16:50:48+00:00"
         }
       ],
       "news_status": "Recent headlines found"
