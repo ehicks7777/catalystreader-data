@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:18:21.011951+00:00",
+  "updated": "2026-09-23T12:46:41.835396+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 24.18,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 58699,
+      "quote_age_seconds": 60400,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 69.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 58699,
+      "quote_age_seconds": 60400,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Cathie Wood Loads Up On RKLB Stock \u2014 Cantor Pegs Iridium And Neutron As Major Catalysts For Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd3aab745f8bc432ed1a50459500701e225b266fbc4980d45c39c78faa257581",
+          "published_utc": "2026-09-23T11:32:15+00:00"
+        },
         {
           "headline": "2 Large-Cap Stocks on Our Buy List and 1 We Question",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f75640302851dc6cb9e9b55641f18be0e155f09b1e5da513ee8f6eabbc4cd704",
           "published_utc": "2026-09-23T06:25:00+00:00"
-        },
-        {
-          "headline": "Rocket Lab (RKLB) Stock Could Be A Bargain Despite Its Big Run",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a440a5a4a36bacf59bcdc3781354794cd07b872458fefa3fa453cb9a1d46ce80",
-          "published_utc": "2026-09-23T03:21:42+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 61.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 58699,
+      "quote_age_seconds": 60400,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 13.28,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 58699,
+      "quote_age_seconds": 60400,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
