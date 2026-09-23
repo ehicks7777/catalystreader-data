@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:46:41.835396+00:00",
+  "updated": "2026-09-23T13:16:02.797395+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 24.18,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 60400,
+      "quote_age_seconds": 62161,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 69.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 60400,
+      "quote_age_seconds": 62161,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Space Stocks Rally Looks Top-Heavy as Smaller Names Play Catch-Up",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=eebf62c6aaa2e4a8d50899e09344c9d97e0315433a6e559a6f0285ec11dd7203",
+          "published_utc": "2026-09-23T12:36:47+00:00"
+        },
         {
           "headline": "Cathie Wood Loads Up On RKLB Stock \u2014 Cantor Pegs Iridium And Neutron As Major Catalysts For Rocket Lab",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a794613479c7200c9bdf3f530291c76535464ac4c508ba22af6466a6e8d097e7",
           "published_utc": "2026-09-23T07:49:02+00:00"
-        },
-        {
-          "headline": "If the Market Crashes, This Is the 1 Space Stock I Can't Wait to Buy",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f75640302851dc6cb9e9b55641f18be0e155f09b1e5da513ee8f6eabbc4cd704",
-          "published_utc": "2026-09-23T06:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 61.89,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 60400,
+      "quote_age_seconds": 62161,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Space Stocks Rally Looks Top-Heavy as Smaller Names Play Catch-Up",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=eebf62c6aaa2e4a8d50899e09344c9d97e0315433a6e559a6f0285ec11dd7203",
+          "published_utc": "2026-09-23T12:36:47+00:00"
+        },
         {
           "headline": "AST SpaceMobile, Inc. (ASTS) Stock Moves 2.91%: What You Should Know",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=629e54960e73ef9e5d986f8ca8ad58080699ac6fb60e0e8fb6c7d46943445329",
           "published_utc": "2026-09-22T10:30:00+00:00"
-        },
-        {
-          "headline": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3ac47c786631d8d04c7286a13e99dd61cb0acf35f6739b92e910b78c0eade42",
-          "published_utc": "2026-09-21T20:36:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 13.28,
       "quote_timestamp": 1790107200.0,
       "quote_time_utc": "2026-09-22T20:00:00+00:00",
-      "quote_age_seconds": 60400,
+      "quote_age_seconds": 62161,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
