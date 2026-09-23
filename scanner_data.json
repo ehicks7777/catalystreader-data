@@ -1,95 +1,20 @@
 {
-  "updated": "2026-09-23T19:41:24.179322+00:00",
+  "updated": "2026-09-23T20:15:25.517660+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "IONQ",
-      "price": 42.66,
-      "change_percent": 4.7128,
-      "previous_close": 40.74,
-      "quote_timestamp": 1790192454.0,
-      "quote_time_utc": "2026-09-23T19:40:54+00:00",
-      "quote_age_seconds": 29,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Discover the most active stocks in Wednesday's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2e7bcd8f833fbb4c7fd6a483127bf63d67080ae146ed737fa561ad7151125c97",
-          "published_utc": "2026-09-23T18:00:00+00:00"
-        },
-        {
-          "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a392367390471904795390b2bdbabef791c93936b060dfd86985bc0f09d050b2",
-          "published_utc": "2026-09-23T11:00:00+00:00"
-        },
-        {
-          "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
-          "published_utc": "2026-09-23T10:18:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 191.81,
-      "change_percent": 3.6867,
-      "previous_close": 184.99,
-      "quote_timestamp": 1790192450.0,
-      "quote_time_utc": "2026-09-23T19:40:50+00:00",
-      "quote_age_seconds": 33,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "These S&P500 stocks are moving in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=08b8181a534560cc6ffd8f2e5a97e2a046c76202a3cde624208fdef926de7df0",
-          "published_utc": "2026-09-23T19:05:01+00:00"
-        },
-        {
-          "headline": "Which S&P500 stocks are the most active on Wednesday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=77d40aed57071508e8157760e057cc6b6eaca73aff3c0b8aafb307643d38ccc0",
-          "published_utc": "2026-09-23T18:05:02+00:00"
-        },
-        {
-          "headline": "Palantir Just Got a Major Vote of Confidence From the FAA",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93cca0efb3d0cd361e0c0b6f927cfb174d41ae843a4dc4319c93445654e9feda",
-          "published_utc": "2026-09-23T16:49:23+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 42.66,
-      "change_percent": 4.7128,
+      "price": 42.54,
+      "change_percent": 4.4183,
       "previous_close": 40.74,
-      "quote_timestamp": 1790192454.0,
-      "quote_time_utc": "2026-09-23T19:40:54+00:00",
-      "quote_age_seconds": 29,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790193600.0,
+      "quote_time_utc": "2026-09-23T20:00:00+00:00",
+      "quote_age_seconds": 924,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -120,13 +45,13 @@
     },
     {
       "symbol": "PLTR",
-      "price": 191.81,
-      "change_percent": 3.6867,
+      "price": 191.79,
+      "change_percent": 3.6759,
       "previous_close": 184.99,
-      "quote_timestamp": 1790192450.0,
-      "quote_time_utc": "2026-09-23T19:40:50+00:00",
-      "quote_age_seconds": 33,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790193600.0,
+      "quote_time_utc": "2026-09-23T20:00:00+00:00",
+      "quote_age_seconds": 924,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -156,7 +81,7 @@
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
