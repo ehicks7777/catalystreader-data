@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T22:14:20.961259+00:00",
+  "updated": "2026-09-23T22:40:49.471085+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 40.74,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 8059,
+      "quote_age_seconds": 9648,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 184.99,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 8059,
+      "quote_age_seconds": 9648,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Palantir Jumps Over 4% as Karp Makes AI Liability the Product Test",
+          "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82279f3a21452d457741ac0f43f82b182e3c0480571bc8a9a81fa861687ae6d0",
-          "published_utc": "2026-09-23T19:11:26+00:00"
+          "url": "https://finnhub.io/api/news?id=14fce845009e2bbd329d4ffdc04dc3fd9163475359aa9aa16ee9efc47f27cea5",
+          "published_utc": "2026-09-23T21:25:01+00:00"
         },
         {
-          "headline": "These S&P500 stocks are moving in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=08b8181a534560cc6ffd8f2e5a97e2a046c76202a3cde624208fdef926de7df0",
-          "published_utc": "2026-09-23T19:05:01+00:00"
+          "headline": "3 Large Cap Stocks Investors Are Watching As Policy Shifts Reshape Demand",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eb1919c8de5361a6942dfea67a0ba988ccf8d7f717e237c7cdfd5851f0a79520",
+          "published_utc": "2026-09-23T21:18:44+00:00"
         },
         {
-          "headline": "Which S&P500 stocks are the most active on Wednesday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=77d40aed57071508e8157760e057cc6b6eaca73aff3c0b8aafb307643d38ccc0",
-          "published_utc": "2026-09-23T18:05:02+00:00"
+          "headline": "Palantir Stock Rises 3% Despite Losing $875 Million FAA AI Deal: Here\u2019s Why",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce53829547394e02bc8c847ad24c9ca6f66bbbe3981bcffe21b97ef91ef84712",
+          "published_utc": "2026-09-23T20:05:29+00:00"
         }
       ],
       "news_status": "Recent headlines found"
