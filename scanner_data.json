@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T08:16:05.213467+00:00",
+  "updated": "2026-09-24T08:43:50.185144+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 40.74,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 44163,
+      "quote_age_seconds": 45829,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
+          "published_utc": "2026-09-24T07:14:31+00:00"
+        },
         {
           "headline": "Discover the most active stocks in Wednesday's session.",
           "source": "ChartMill",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a392367390471904795390b2bdbabef791c93936b060dfd86985bc0f09d050b2",
           "published_utc": "2026-09-23T11:00:00+00:00"
-        },
-        {
-          "headline": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=581127825b02f6757ed307c06611c91bf051d42cbdb5303100593e7b283df0fa",
-          "published_utc": "2026-09-23T10:18:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 184.99,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 44163,
+      "quote_age_seconds": 45829,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
