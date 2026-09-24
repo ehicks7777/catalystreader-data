@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T20:15:44.659215+00:00",
+  "updated": "2026-09-24T20:42:54.265549+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 942,
+      "quote_age_seconds": 2573,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 942,
+      "quote_age_seconds": 2573,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1f5d67f611824f319e364a7fc27db61541d67d2d5a98614037172c1256da8dd1",
+          "published_utc": "2026-09-24T17:52:56+00:00"
+        },
         {
           "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
           "published_utc": "2026-09-24T13:13:26+00:00"
-        },
-        {
-          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
-          "published_utc": "2026-09-24T12:05:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 942,
+      "quote_age_seconds": 2573,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 942,
+      "quote_age_seconds": 2573,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 942,
+      "quote_age_seconds": 2573,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
