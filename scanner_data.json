@@ -1,132 +1,20 @@
 {
-  "updated": "2026-09-24T19:40:50.864876+00:00",
+  "updated": "2026-09-24T20:15:44.659215+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "IONQ",
-      "price": 44.73,
-      "change_percent": 5.1481,
-      "previous_close": 42.54,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
-          "published_utc": "2026-09-24T12:05:46+00:00"
-        },
-        {
-          "headline": "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a14c85c25cfa026bbb4520ac02d5c1d9774e94fe08260b053f25a411cdbf29a",
-          "published_utc": "2026-09-24T10:45:46+00:00"
-        },
-        {
-          "headline": "IonQ Cleared One of Quantum Computing's Biggest Hurdles. Should You Buy the Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7808be3feee5f12a7b5f4ed493f183835873b35cf4fbeecea8f130b7672d1d6d",
-          "published_utc": "2026-09-24T08:12:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 73.55,
-      "change_percent": 4.6082,
-      "previous_close": 70.31,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
-          "published_utc": "2026-09-24T13:20:22+00:00"
-        },
-        {
-          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
-          "published_utc": "2026-09-24T13:13:26+00:00"
-        },
-        {
-          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
-          "published_utc": "2026-09-24T12:05:51+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "META",
-      "price": 776.43,
-      "change_percent": 4.3448,
-      "previous_close": 744.1,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=35d975302038afe17dfd89592297804d0b874cf4dcb84469f57501ca58302323",
-          "published_utc": "2026-09-24T18:05:02+00:00"
-        },
-        {
-          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873",
-          "published_utc": "2026-09-24T17:34:52+00:00"
-        },
-        {
-          "headline": "Muse is expanding Meta's moat, consumer exposure to tech products",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1b61396166e2eb5dcdacd2998878405cd164a6f862fc6ebd57b3d832020d663",
-          "published_utc": "2026-09-24T17:25:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 44.73,
-      "change_percent": 5.1481,
+      "price": 44.98,
+      "change_percent": 5.7358,
       "previous_close": 42.54,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790280000.0,
+      "quote_time_utc": "2026-09-24T20:00:00+00:00",
+      "quote_age_seconds": 942,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -157,13 +45,13 @@
     },
     {
       "symbol": "RKLB",
-      "price": 73.55,
-      "change_percent": 4.6082,
+      "price": 73.61,
+      "change_percent": 4.6935,
       "previous_close": 70.31,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790280000.0,
+      "quote_time_utc": "2026-09-24T20:00:00+00:00",
+      "quote_age_seconds": 942,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -194,13 +82,13 @@
     },
     {
       "symbol": "META",
-      "price": 776.43,
-      "change_percent": 4.3448,
+      "price": 777.59,
+      "change_percent": 4.5007,
       "previous_close": 744.1,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790280000.0,
+      "quote_time_utc": "2026-09-24T20:00:00+00:00",
+      "quote_age_seconds": 942,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -209,72 +97,35 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "These S&P500 stocks are the most active in today's session",
+          "headline": "Meta's stock surges as it moves from AI laggard to leader",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8bc1131f3881f4cbbb80b3ae0a6f777028b61663aa789fe84b1a9b455ad243f",
+          "published_utc": "2026-09-24T19:40:25+00:00"
+        },
+        {
+          "headline": "Constellation Says Meta Cracked Consumer AI Formula",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85184762ebfc5b378719b6791236d98e8161608573a641266d6f58f63a268c64",
+          "published_utc": "2026-09-24T19:32:36+00:00"
+        },
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Thursday.",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=35d975302038afe17dfd89592297804d0b874cf4dcb84469f57501ca58302323",
-          "published_utc": "2026-09-24T18:05:02+00:00"
-        },
-        {
-          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873",
-          "published_utc": "2026-09-24T17:34:52+00:00"
-        },
-        {
-          "headline": "Muse is expanding Meta's moat, consumer exposure to tech products",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1b61396166e2eb5dcdacd2998878405cd164a6f862fc6ebd57b3d832020d663",
-          "published_utc": "2026-09-24T17:25:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 628.51,
-      "change_percent": 2.2616,
-      "previous_close": 614.61,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fdeff4c9aab391acae60ab9f176f6e57f1cd7661d2c57e4b1e95723f41f833e",
-          "published_utc": "2026-09-24T17:36:04+00:00"
-        },
-        {
-          "headline": "AMD Move Lower as $1 Trillion Raises the Execution Bar",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ab987fa8af2ce1a66ccb86feb744f092404fdca0ca3c53590feffd0cf8c2ab8",
-          "published_utc": "2026-09-24T17:32:39+00:00"
-        },
-        {
-          "headline": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2cec0f0c8333b446c11655aa85db6859126e1e6b45ba6a647111b808895bcc9",
-          "published_utc": "2026-09-24T16:09:57+00:00"
+          "url": "https://finnhub.io/api/news?id=f6f2a26b9f5647288b5da04eda91284fe1679478b8b585e97013ed1ba637efe8",
+          "published_utc": "2026-09-24T19:05:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RGTI",
-      "price": 16.36,
-      "change_percent": 2.2181,
+      "price": 16.5,
+      "change_percent": 3.0928,
       "previous_close": 16.005,
-      "quote_timestamp": 1790278831.0,
-      "quote_time_utc": "2026-09-24T19:40:31+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790280000.0,
+      "quote_time_utc": "2026-09-24T20:00:00+00:00",
+      "quote_age_seconds": 942,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -302,9 +153,46 @@
         }
       ],
       "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMD",
+      "price": 629.26,
+      "change_percent": 2.3836,
+      "previous_close": 614.61,
+      "quote_timestamp": 1790280000.0,
+      "quote_time_utc": "2026-09-24T20:00:00+00:00",
+      "quote_age_seconds": 942,
+      "quote_freshness": "stale",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Nebius Stock Soars 8% as BNP Paribas Delivers Massive Price Target Hike",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=558df3407e7fd71dc983b5e803b4279c2ca5337091f1fd9fb2b24f903e6e0463",
+          "published_utc": "2026-09-24T18:05:50+00:00"
+        },
+        {
+          "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fdeff4c9aab391acae60ab9f176f6e57f1cd7661d2c57e4b1e95723f41f833e",
+          "published_utc": "2026-09-24T17:36:04+00:00"
+        },
+        {
+          "headline": "AMD Move Lower as $1 Trillion Raises the Execution Bar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0ab987fa8af2ce1a66ccb86feb744f092404fdca0ca3c53590feffd0cf8c2ab8",
+          "published_utc": "2026-09-24T17:32:39+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
