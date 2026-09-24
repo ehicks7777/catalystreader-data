@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T14:15:23.251049+00:00",
+  "updated": "2026-09-24T14:44:38.335453+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 763.48,
-      "change_percent": 2.6045,
+      "price": 765.76,
+      "change_percent": 2.9109,
       "previous_close": 744.1,
-      "quote_timestamp": 1790259310.0,
-      "quote_time_utc": "2026-09-24T14:15:10+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790261048.0,
+      "quote_time_utc": "2026-09-24T14:44:08+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Wall Street sees Muse as Meta\u2019s next big catalyst after Connect event",
+          "headline": "Meta's Mark Zuckerberg is in 'founder mode': Adviser and former longtime top exec",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4afa6fe81d67b9f6ea055101d41c893779e880eeaa42cbc3908f637c4d4e9ab",
-          "published_utc": "2026-09-24T12:16:02+00:00"
+          "url": "https://finnhub.io/api/news?id=81d1bf11accff14ad93b95abb29d6cd0ce94576e1085031fe15541fe7834f642",
+          "published_utc": "2026-09-24T13:54:01+00:00"
         },
         {
-          "headline": "Walmart (WMT) Stock Looks About Right As AI Shopping Ties Expand",
+          "headline": "Barron's 400 ETF (BFOR) Adds Energy and Materials, Reduces Utilities and Consumer Discretionary in Fall Rebalance",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=615ab1240fd9aa007432a78d620e66040d09183f43c840297b3f4b6715795021",
-          "published_utc": "2026-09-24T12:14:15+00:00"
+          "url": "https://finnhub.io/api/news?id=de7a7fb8877f3fae14b4e4a574480c5812b0f81795adb3ef7270a6faf7b57bc1",
+          "published_utc": "2026-09-24T13:45:00+00:00"
         },
         {
-          "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
+          "headline": "'Muse over Metaverse is a good thing for Meta investors': A look at the new product lineup",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a1968f7dfdc35eb701af6355cb35cf6d4ecba067b0a422de48c6d7a39b18964b",
-          "published_utc": "2026-09-24T11:49:13+00:00"
+          "url": "https://finnhub.io/api/news?id=c72022f87e6b2f5211bc0855038ee39f6e469e672f919db2599afdb611fe0f58",
+          "published_utc": "2026-09-24T13:40:30+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 71.99,
+      "change_percent": 2.3894,
+      "previous_close": 70.31,
+      "quote_timestamp": 1790261047.0,
+      "quote_time_utc": "2026-09-24T14:44:07+00:00",
+      "quote_age_seconds": 30,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
+          "published_utc": "2026-09-24T12:05:51+00:00"
+        },
+        {
+          "headline": "Our Pick Of The Best Defense Stocks In September 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=10627dea7caae689d2a0ac8542bf4ed8d008aec3c6adaed4ff80303e03e860b3",
+          "published_utc": "2026-09-24T11:16:52+00:00"
+        },
+        {
+          "headline": "Rocket Lab (RKLB) Neutron Could Fill A Medium Lift Launch Gap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=864600109d9bf36579a130dfee6117b9d17fe79b77d10f7faf42da7d579e46e4",
+          "published_utc": "2026-09-23T20:18:39+00:00"
         }
       ],
       "news_status": "Recent headlines found"
