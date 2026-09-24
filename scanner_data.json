@@ -1,18 +1,19 @@
 {
-  "updated": "2026-09-24T15:43:08.950836+00:00",
+  "updated": "2026-09-24T16:15:34.982504+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
+  "day_trading": [],
+  "swing_trading": [
     {
-      "symbol": "META",
-      "price": 767.04,
-      "change_percent": 3.0829,
-      "previous_close": 744.1,
-      "quote_timestamp": 1790264566.0,
-      "quote_time_utc": "2026-09-24T15:42:46+00:00",
-      "quote_age_seconds": 21,
+      "symbol": "RKLB",
+      "price": 72.24,
+      "change_percent": 2.745,
+      "previous_close": 70.31,
+      "quote_timestamp": 1790266520.0,
+      "quote_time_utc": "2026-09-24T16:15:20+00:00",
+      "quote_age_seconds": 13,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,36 +23,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Meta's Mark Zuckerberg is in 'founder mode': Adviser and former longtime top exec",
+          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81d1bf11accff14ad93b95abb29d6cd0ce94576e1085031fe15541fe7834f642",
-          "published_utc": "2026-09-24T13:54:01+00:00"
+          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
+          "published_utc": "2026-09-24T13:20:22+00:00"
         },
         {
-          "headline": "Barron's 400 ETF (BFOR) Adds Energy and Materials, Reduces Utilities and Consumer Discretionary in Fall Rebalance",
+          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de7a7fb8877f3fae14b4e4a574480c5812b0f81795adb3ef7270a6faf7b57bc1",
-          "published_utc": "2026-09-24T13:45:00+00:00"
+          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
+          "published_utc": "2026-09-24T13:13:26+00:00"
         },
         {
-          "headline": "'Muse over Metaverse is a good thing for Meta investors': A look at the new product lineup",
+          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c72022f87e6b2f5211bc0855038ee39f6e469e672f919db2599afdb611fe0f58",
-          "published_utc": "2026-09-24T13:40:30+00:00"
+          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
+          "published_utc": "2026-09-24T12:05:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
-    }
-  ],
-  "swing_trading": [
+    },
     {
       "symbol": "META",
-      "price": 767.04,
-      "change_percent": 3.0829,
+      "price": 762.7,
+      "change_percent": 2.4997,
       "previous_close": 744.1,
-      "quote_timestamp": 1790264566.0,
-      "quote_time_utc": "2026-09-24T15:42:46+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790266521.0,
+      "quote_time_utc": "2026-09-24T16:15:21+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
