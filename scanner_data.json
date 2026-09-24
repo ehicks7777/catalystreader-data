@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:14:24.528743+00:00",
+  "updated": "2026-09-24T22:40:25.137879+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 8063,
+      "quote_age_seconds": 9623,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 8063,
+      "quote_age_seconds": 9623,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Iridium Stockholders Approve Acquisition by Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9ea956a5fa9143d5d2d255a369848ed5079e39c3dd7b0c43826656c120af0e1",
+          "published_utc": "2026-09-24T20:30:00+00:00"
+        },
         {
           "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
           "published_utc": "2026-09-24T13:20:22+00:00"
-        },
-        {
-          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
-          "published_utc": "2026-09-24T13:13:26+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 8063,
+      "quote_age_seconds": 9623,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 8063,
+      "quote_age_seconds": 9623,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Being Picky With Stocks More Important Than Ever",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
+          "published_utc": "2026-09-24T18:06:00+00:00"
+        },
         {
           "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
           "published_utc": "2026-09-24T10:45:59+00:00"
-        },
-        {
-          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
-          "published_utc": "2026-09-24T07:14:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 8063,
+      "quote_age_seconds": 9623,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
