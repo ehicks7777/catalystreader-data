@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:14:02.220587+00:00",
+  "updated": "2026-09-24T02:42:44.355585+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 40.74,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 22440,
+      "quote_age_seconds": 24163,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 184.99,
       "quote_timestamp": 1790193600.0,
       "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 22440,
+      "quote_age_seconds": 24163,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=118c30e7f0c2409f02a6b8ada7b3e6d9f11d2a762681f0acb19b7e98ccc64c9b",
+          "published_utc": "2026-09-24T01:49:36+00:00"
+        },
+        {
+          "headline": "Palantir Stock Hits Yearly High at $190. What\u2019s Driving the Price?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4921f5d9dd237b1661c0d1c045391170bea9984b5bd58577ce51831a22b4a43",
+          "published_utc": "2026-09-23T23:43:48+00:00"
+        },
+        {
           "headline": "Palantir's CEO just sent a message Silicon Valley won't ignore",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c0e9412e63d22254fb45c107db845cde00284510a98c81b8057a9759f2c6e7e9",
           "published_utc": "2026-09-23T22:17:00+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=14fce845009e2bbd329d4ffdc04dc3fd9163475359aa9aa16ee9efc47f27cea5",
-          "published_utc": "2026-09-23T21:25:01+00:00"
-        },
-        {
-          "headline": "3 Large Cap Stocks Investors Are Watching As Policy Shifts Reshape Demand",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eb1919c8de5361a6942dfea67a0ba988ccf8d7f717e237c7cdfd5851f0a79520",
-          "published_utc": "2026-09-23T21:18:44+00:00"
         }
       ],
       "news_status": "Recent headlines found"
