@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T21:40:24.943578+00:00",
+  "updated": "2026-09-24T22:14:24.528743+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 6023,
+      "quote_age_seconds": 8063,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 6023,
+      "quote_age_seconds": 8063,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 6023,
+      "quote_age_seconds": 8063,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Meta's stock surges as it moves from AI laggard to leader",
+          "headline": "META Stock Hits One-Year High \u2014 Meta Launches Tool To Let Users Build Games Through AI",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8bc1131f3881f4cbbb80b3ae0a6f777028b61663aa789fe84b1a9b455ad243f",
-          "published_utc": "2026-09-24T19:40:25+00:00"
+          "url": "https://finnhub.io/api/news?id=bd814f6628a27934f2b2b189e9f66b1cd206969007917b63443508d5276df3c4",
+          "published_utc": "2026-09-24T21:18:53+00:00"
         },
         {
-          "headline": "Constellation Says Meta Cracked Consumer AI Formula",
+          "headline": "Is Meta (META) Quietly Rewriting Its Hardware Strategy Through Muse-Powered Ray-Ban AI Glasses?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=85184762ebfc5b378719b6791236d98e8161608573a641266d6f58f63a268c64",
-          "published_utc": "2026-09-24T19:32:36+00:00"
+          "url": "https://finnhub.io/api/news?id=4b83cdbef595178e85bccde61417fa00b65e3e4f9dc88ffc2f9c77cddeb72eee",
+          "published_utc": "2026-09-24T21:17:30+00:00"
         },
         {
-          "headline": "Discover which S&P500 stocks are making waves on Thursday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=f6f2a26b9f5647288b5da04eda91284fe1679478b8b585e97013ed1ba637efe8",
-          "published_utc": "2026-09-24T19:05:01+00:00"
+          "headline": "Is Meta\u2019s (META) Stock Still Cheap After Its AI-Fueled Rally?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e71dd6ae2a327feeaf7f3ccf72c5f08f9b666d32cbf030ad635273991686ef53",
+          "published_utc": "2026-09-24T20:57:14+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 6023,
+      "quote_age_seconds": 8063,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 6023,
+      "quote_age_seconds": 8063,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nebius Stock Soars 8% as BNP Paribas Delivers Massive Price Target Hike",
+          "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=558df3407e7fd71dc983b5e803b4279c2ca5337091f1fd9fb2b24f903e6e0463",
-          "published_utc": "2026-09-24T18:05:50+00:00"
+          "url": "https://finnhub.io/api/news?id=d5b75373b66054785a1984a9e812dc22175aebf99874965a79ace4a3539b441f",
+          "published_utc": "2026-09-24T20:05:01+00:00"
         },
         {
-          "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
+          "headline": "AMD Investors Must Pay Attention to This Huge Warning Sign",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9fdeff4c9aab391acae60ab9f176f6e57f1cd7661d2c57e4b1e95723f41f833e",
-          "published_utc": "2026-09-24T17:36:04+00:00"
+          "url": "https://finnhub.io/api/news?id=0dcae70e13a155df9ad7a6e08e316b69b02dd4748ccf1d204feceb7134c3f17c",
+          "published_utc": "2026-09-24T20:03:00+00:00"
         },
         {
-          "headline": "AMD Move Lower as $1 Trillion Raises the Execution Bar",
+          "headline": "AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0ab987fa8af2ce1a66ccb86feb744f092404fdca0ca3c53590feffd0cf8c2ab8",
-          "published_utc": "2026-09-24T17:32:39+00:00"
+          "url": "https://finnhub.io/api/news?id=a77092667763a6686667b304e1e56c6858ddde875ebf7e710878f36fc7934f24",
+          "published_utc": "2026-09-24T20:01:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
