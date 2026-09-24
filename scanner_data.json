@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T13:44:40.986824+00:00",
+  "updated": "2026-09-24T14:15:23.251049+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 759.36,
-      "change_percent": 2.0508,
+      "price": 763.48,
+      "change_percent": 2.6045,
       "previous_close": 744.1,
-      "quote_timestamp": 1790257476.0,
-      "quote_time_utc": "2026-09-24T13:44:36+00:00",
-      "quote_age_seconds": 4,
+      "quote_timestamp": 1790259310.0,
+      "quote_time_utc": "2026-09-24T14:15:10+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
