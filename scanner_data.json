@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:44:40.816848+00:00",
+  "updated": "2026-09-24T19:13:19.103849+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 45.49,
-      "change_percent": 6.9346,
+      "price": 44.46,
+      "change_percent": 4.5134,
       "previous_close": 42.54,
-      "quote_timestamp": 1790275458.0,
-      "quote_time_utc": "2026-09-24T18:44:18+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790277178.0,
+      "quote_time_utc": "2026-09-24T19:12:58+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,50 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RKLB",
-      "price": 74.2,
-      "change_percent": 5.5326,
-      "previous_close": 70.31,
-      "quote_timestamp": 1790275453.0,
-      "quote_time_utc": "2026-09-24T18:44:13+00:00",
-      "quote_age_seconds": 26,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
-          "published_utc": "2026-09-24T13:20:22+00:00"
-        },
-        {
-          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
-          "published_utc": "2026-09-24T13:13:26+00:00"
-        },
-        {
-          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
-          "published_utc": "2026-09-24T12:05:51+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "META",
-      "price": 776.6,
-      "change_percent": 4.3677,
+      "price": 776.64,
+      "change_percent": 4.3731,
       "previous_close": 744.1,
-      "quote_timestamp": 1790275458.0,
-      "quote_time_utc": "2026-09-24T18:44:18+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790277179.0,
+      "quote_time_utc": "2026-09-24T19:12:59+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -117,13 +80,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "ASTS",
-      "price": 62.16,
-      "change_percent": 3.6345,
-      "previous_close": 59.98,
-      "quote_timestamp": 1790275454.0,
-      "quote_time_utc": "2026-09-24T18:44:14+00:00",
-      "quote_age_seconds": 25,
+      "symbol": "RKLB",
+      "price": 73.33,
+      "change_percent": 4.2953,
+      "previous_close": 70.31,
+      "quote_timestamp": 1790277179.0,
+      "quote_time_utc": "2026-09-24T19:12:59+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -133,59 +96,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile: The Moat SpaceX Can't Copy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7ea8af8e601ff296b2c2b63ca1fb2c46af761e251c3e169f6496bf058472ddba",
-          "published_utc": "2026-09-24T13:19:41+00:00"
+          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
+          "published_utc": "2026-09-24T13:20:22+00:00"
         },
         {
-          "headline": "AST SpaceMobile Pushed Commercial Launch to 2027. Here's How Long Its Cash Lasts Until Then",
+          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef89254443c7d7b1c4645613ed910d2f3382afd261623665956f6817dbf167e8",
-          "published_utc": "2026-09-24T02:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
+          "published_utc": "2026-09-24T13:13:26+00:00"
         },
         {
-          "headline": "SpaceX Drops 4% Amid Share Supply and Valuation Concerns; AST SpaceMobile Falls 6%",
+          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ade6d4757362cdc762e8c3be709d1fb85af00016b63fc106c970e2ad54c113d2",
-          "published_utc": "2026-09-23T20:02:58+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 16.51,
-      "change_percent": 3.1553,
-      "previous_close": 16.005,
-      "quote_timestamp": 1790275458.0,
-      "quote_time_utc": "2026-09-24T18:44:18+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
-          "published_utc": "2026-09-24T12:05:46+00:00"
-        },
-        {
-          "headline": "Rigetti Stock Is Down 49% This Year. Here\u2019s What the Street\u2019s Target Looks Like Now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
-          "published_utc": "2026-09-24T10:45:59+00:00"
-        },
-        {
-          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
-          "published_utc": "2026-09-24T07:14:31+00:00"
+          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
+          "published_utc": "2026-09-24T12:05:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -194,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 45.49,
-      "change_percent": 6.9346,
+      "price": 44.46,
+      "change_percent": 4.5134,
       "previous_close": 42.54,
-      "quote_timestamp": 1790275458.0,
-      "quote_time_utc": "2026-09-24T18:44:18+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790277178.0,
+      "quote_time_utc": "2026-09-24T19:12:58+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -230,50 +156,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RKLB",
-      "price": 74.2,
-      "change_percent": 5.5326,
-      "previous_close": 70.31,
-      "quote_timestamp": 1790275453.0,
-      "quote_time_utc": "2026-09-24T18:44:13+00:00",
-      "quote_age_seconds": 26,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
-          "published_utc": "2026-09-24T13:20:22+00:00"
-        },
-        {
-          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
-          "published_utc": "2026-09-24T13:13:26+00:00"
-        },
-        {
-          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
-          "published_utc": "2026-09-24T12:05:51+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "META",
-      "price": 776.6,
-      "change_percent": 4.3677,
+      "price": 776.64,
+      "change_percent": 4.3731,
       "previous_close": 744.1,
-      "quote_timestamp": 1790275458.0,
-      "quote_time_utc": "2026-09-24T18:44:18+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790277179.0,
+      "quote_time_utc": "2026-09-24T19:12:59+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -304,13 +193,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "RKLB",
+      "price": 73.33,
+      "change_percent": 4.2953,
+      "previous_close": 70.31,
+      "quote_timestamp": 1790277179.0,
+      "quote_time_utc": "2026-09-24T19:12:59+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
+          "published_utc": "2026-09-24T13:20:22+00:00"
+        },
+        {
+          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
+          "published_utc": "2026-09-24T13:13:26+00:00"
+        },
+        {
+          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
+          "published_utc": "2026-09-24T12:05:51+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "ASTS",
-      "price": 62.16,
-      "change_percent": 3.6345,
+      "price": 61.46,
+      "change_percent": 2.4675,
       "previous_close": 59.98,
-      "quote_timestamp": 1790275454.0,
-      "quote_time_utc": "2026-09-24T18:44:14+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790277167.0,
+      "quote_time_utc": "2026-09-24T19:12:47+00:00",
+      "quote_age_seconds": 31,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -336,43 +262,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ade6d4757362cdc762e8c3be709d1fb85af00016b63fc106c970e2ad54c113d2",
           "published_utc": "2026-09-23T20:02:58+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 16.51,
-      "change_percent": 3.1553,
-      "previous_close": 16.005,
-      "quote_timestamp": 1790275458.0,
-      "quote_time_utc": "2026-09-24T18:44:18+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
-          "published_utc": "2026-09-24T12:05:46+00:00"
-        },
-        {
-          "headline": "Rigetti Stock Is Down 49% This Year. Here\u2019s What the Street\u2019s Target Looks Like Now.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
-          "published_utc": "2026-09-24T10:45:59+00:00"
-        },
-        {
-          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
-          "published_utc": "2026-09-24T07:14:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
