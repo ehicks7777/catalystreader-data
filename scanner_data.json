@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T13:15:57.397334+00:00",
+  "updated": "2026-09-24T13:44:40.986824+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,14 +7,14 @@
   "day_trading": [],
   "swing_trading": [
     {
-      "symbol": "IONQ",
-      "price": 42.54,
-      "change_percent": 4.4183,
-      "previous_close": 40.74,
-      "quote_timestamp": 1790193600.0,
-      "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 62156,
-      "quote_freshness": "stale",
+      "symbol": "META",
+      "price": 759.36,
+      "change_percent": 2.0508,
+      "previous_close": 744.1,
+      "quote_timestamp": 1790257476.0,
+      "quote_time_utc": "2026-09-24T13:44:36+00:00",
+      "quote_age_seconds": 4,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,65 +23,28 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
-          "published_utc": "2026-09-24T07:14:31+00:00"
-        },
-        {
-          "headline": "Discover the most active stocks in Wednesday's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2e7bcd8f833fbb4c7fd6a483127bf63d67080ae146ed737fa561ad7151125c97",
-          "published_utc": "2026-09-23T18:00:00+00:00"
-        },
-        {
-          "headline": "Classiq, Israel Natural Gas Lines and IonQ Advance Quantum Optimization for Natural Gas Networks",
+          "headline": "Wall Street sees Muse as Meta\u2019s next big catalyst after Connect event",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a392367390471904795390b2bdbabef791c93936b060dfd86985bc0f09d050b2",
-          "published_utc": "2026-09-23T11:00:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 191.79,
-      "change_percent": 3.6759,
-      "previous_close": 184.99,
-      "quote_timestamp": 1790193600.0,
-      "quote_time_utc": "2026-09-23T20:00:00+00:00",
-      "quote_age_seconds": 62156,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
+          "url": "https://finnhub.io/api/news?id=c4afa6fe81d67b9f6ea055101d41c893779e880eeaa42cbc3908f637c4d4e9ab",
+          "published_utc": "2026-09-24T12:16:02+00:00"
+        },
+        {
+          "headline": "Walmart (WMT) Stock Looks About Right As AI Shopping Ties Expand",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=615ab1240fd9aa007432a78d620e66040d09183f43c840297b3f4b6715795021",
+          "published_utc": "2026-09-24T12:14:15+00:00"
+        },
         {
           "headline": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a1968f7dfdc35eb701af6355cb35cf6d4ecba067b0a422de48c6d7a39b18964b",
           "published_utc": "2026-09-24T11:49:13+00:00"
-        },
-        {
-          "headline": "Palantir Technologies (NASDAQ:PLTR) Shows Explosive Growth and Strengthening Fundamentals Across the Board",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=278fa9f523be5b545ef3d2877acd934802c4d9acddf0720e2a0b95775d7821b2",
-          "published_utc": "2026-09-24T11:01:01+00:00"
-        },
-        {
-          "headline": "UBS Says This Bargain Stock Is the \"Best AI Enabler in the Market\" and Sees Shares Surging 30%+",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2334931e151c59e4ffb4ee7ab2f8d51828138e4c01ad9b3a2e7ab6e0f069ff2",
-          "published_utc": "2026-09-24T10:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
