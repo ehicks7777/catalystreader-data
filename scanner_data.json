@@ -1,19 +1,18 @@
 {
-  "updated": "2026-09-24T16:15:34.982504+00:00",
+  "updated": "2026-09-24T16:42:59.123101+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
       "symbol": "RKLB",
-      "price": 72.24,
-      "change_percent": 2.745,
+      "price": 74.74,
+      "change_percent": 6.3007,
       "previous_close": 70.31,
-      "quote_timestamp": 1790266520.0,
-      "quote_time_utc": "2026-09-24T16:15:20+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1790268156.0,
+      "quote_time_utc": "2026-09-24T16:42:36+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,13 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "META",
-      "price": 762.7,
-      "change_percent": 2.4997,
-      "previous_close": 744.1,
-      "quote_timestamp": 1790266521.0,
-      "quote_time_utc": "2026-09-24T16:15:21+00:00",
-      "quote_age_seconds": 12,
+      "symbol": "IONQ",
+      "price": 44.49,
+      "change_percent": 4.5839,
+      "previous_close": 42.54,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +59,320 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Meta's Mark Zuckerberg is in 'founder mode': Adviser and former longtime top exec",
+          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81d1bf11accff14ad93b95abb29d6cd0ce94576e1085031fe15541fe7834f642",
-          "published_utc": "2026-09-24T13:54:01+00:00"
+          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
+          "published_utc": "2026-09-24T12:05:46+00:00"
         },
         {
-          "headline": "Barron's 400 ETF (BFOR) Adds Energy and Materials, Reduces Utilities and Consumer Discretionary in Fall Rebalance",
+          "headline": "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=de7a7fb8877f3fae14b4e4a574480c5812b0f81795adb3ef7270a6faf7b57bc1",
-          "published_utc": "2026-09-24T13:45:00+00:00"
+          "url": "https://finnhub.io/api/news?id=0a14c85c25cfa026bbb4520ac02d5c1d9774e94fe08260b053f25a411cdbf29a",
+          "published_utc": "2026-09-24T10:45:46+00:00"
         },
         {
-          "headline": "'Muse over Metaverse is a good thing for Meta investors': A look at the new product lineup",
+          "headline": "IonQ Cleared One of Quantum Computing's Biggest Hurdles. Should You Buy the Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c72022f87e6b2f5211bc0855038ee39f6e469e672f919db2599afdb611fe0f58",
-          "published_utc": "2026-09-24T13:40:30+00:00"
+          "url": "https://finnhub.io/api/news?id=7808be3feee5f12a7b5f4ed493f183835873b35cf4fbeecea8f130b7672d1d6d",
+          "published_utc": "2026-09-24T08:12:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "ASTS",
+      "price": 62.42,
+      "change_percent": 4.068,
+      "previous_close": 59.98,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "AST SpaceMobile Pushed Commercial Launch to 2027. Here's How Long Its Cash Lasts Until Then",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef89254443c7d7b1c4645613ed910d2f3382afd261623665956f6817dbf167e8",
+          "published_utc": "2026-09-24T02:35:00+00:00"
+        },
+        {
+          "headline": "SpaceX Drops 4% Amid Share Supply and Valuation Concerns; AST SpaceMobile Falls 6%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ade6d4757362cdc762e8c3be709d1fb85af00016b63fc106c970e2ad54c113d2",
+          "published_utc": "2026-09-23T20:02:58+00:00"
+        },
+        {
+          "headline": "SPCX, RKLB, LUNR, ASTS In Focus \u2014 Space Economy Investment Surges To $23B In Year Ending June, A Near 140% Jump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1919ec2dbf061fc499fcdaf857b657024135fea30542837726f75f805753c38a",
+          "published_utc": "2026-09-23T17:27:08+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "META",
+      "price": 768.47,
+      "change_percent": 3.2751,
+      "previous_close": 744.1,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Meta's $14 billion AI bet looks like it's finally paying off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3599d1df83080e909e5fe28b63cbaa21c96e96d196acd7a5adfa1abaaeacdd5b",
+          "published_utc": "2026-09-24T15:51:39+00:00"
+        },
+        {
+          "headline": "Meta Platforms (META) Gets Blocked From AI Shopping Access as Commerce Tensions Rise",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a89bb83dfe3a7770c98180eb32b09f37f707bf8c5a7715f890d84b649852eb93",
+          "published_utc": "2026-09-24T15:13:20+00:00"
+        },
+        {
+          "headline": "Meta Muse's E-Commerce Adoption Remains Uncertain, Wedbush Says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4efaa100099ba973f776ffb3e48a2bd8032c06254b97acc005cb54e4e2e79d60",
+          "published_utc": "2026-09-24T15:12:51+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 16.52,
+      "change_percent": 3.2177,
+      "previous_close": 16.005,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
+          "published_utc": "2026-09-24T12:05:46+00:00"
+        },
+        {
+          "headline": "Rigetti Stock Is Down 49% This Year. Here\u2019s What the Street\u2019s Target Looks Like Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
+          "published_utc": "2026-09-24T10:45:59+00:00"
+        },
+        {
+          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
+          "published_utc": "2026-09-24T07:14:31+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "RKLB",
+      "price": 74.74,
+      "change_percent": 6.3007,
+      "previous_close": 70.31,
+      "quote_timestamp": 1790268156.0,
+      "quote_time_utc": "2026-09-24T16:42:36+00:00",
+      "quote_age_seconds": 21,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
+          "published_utc": "2026-09-24T13:20:22+00:00"
+        },
+        {
+          "headline": "Why Cathie Wood Is Trimming the World\u2019s Biggest Tech Stock to Bet on a Space Company",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7e7489e594c033b57aa4a409553d618842d8b18842a78520f318dfb1c2ff4028",
+          "published_utc": "2026-09-24T13:13:26+00:00"
+        },
+        {
+          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
+          "published_utc": "2026-09-24T12:05:51+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 44.49,
+      "change_percent": 4.5839,
+      "previous_close": 42.54,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
+          "published_utc": "2026-09-24T12:05:46+00:00"
+        },
+        {
+          "headline": "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a14c85c25cfa026bbb4520ac02d5c1d9774e94fe08260b053f25a411cdbf29a",
+          "published_utc": "2026-09-24T10:45:46+00:00"
+        },
+        {
+          "headline": "IonQ Cleared One of Quantum Computing's Biggest Hurdles. Should You Buy the Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7808be3feee5f12a7b5f4ed493f183835873b35cf4fbeecea8f130b7672d1d6d",
+          "published_utc": "2026-09-24T08:12:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "ASTS",
+      "price": 62.42,
+      "change_percent": 4.068,
+      "previous_close": 59.98,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "AST SpaceMobile Pushed Commercial Launch to 2027. Here's How Long Its Cash Lasts Until Then",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ef89254443c7d7b1c4645613ed910d2f3382afd261623665956f6817dbf167e8",
+          "published_utc": "2026-09-24T02:35:00+00:00"
+        },
+        {
+          "headline": "SpaceX Drops 4% Amid Share Supply and Valuation Concerns; AST SpaceMobile Falls 6%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ade6d4757362cdc762e8c3be709d1fb85af00016b63fc106c970e2ad54c113d2",
+          "published_utc": "2026-09-23T20:02:58+00:00"
+        },
+        {
+          "headline": "SPCX, RKLB, LUNR, ASTS In Focus \u2014 Space Economy Investment Surges To $23B In Year Ending June, A Near 140% Jump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1919ec2dbf061fc499fcdaf857b657024135fea30542837726f75f805753c38a",
+          "published_utc": "2026-09-23T17:27:08+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "META",
+      "price": 768.47,
+      "change_percent": 3.2751,
+      "previous_close": 744.1,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Meta's $14 billion AI bet looks like it's finally paying off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3599d1df83080e909e5fe28b63cbaa21c96e96d196acd7a5adfa1abaaeacdd5b",
+          "published_utc": "2026-09-24T15:51:39+00:00"
+        },
+        {
+          "headline": "Meta Platforms (META) Gets Blocked From AI Shopping Access as Commerce Tensions Rise",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a89bb83dfe3a7770c98180eb32b09f37f707bf8c5a7715f890d84b649852eb93",
+          "published_utc": "2026-09-24T15:13:20+00:00"
+        },
+        {
+          "headline": "Meta Muse's E-Commerce Adoption Remains Uncertain, Wedbush Says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4efaa100099ba973f776ffb3e48a2bd8032c06254b97acc005cb54e4e2e79d60",
+          "published_utc": "2026-09-24T15:12:51+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 16.52,
+      "change_percent": 3.2177,
+      "previous_close": 16.005,
+      "quote_timestamp": 1790268157.0,
+      "quote_time_utc": "2026-09-24T16:42:37+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
+          "published_utc": "2026-09-24T12:05:46+00:00"
+        },
+        {
+          "headline": "Rigetti Stock Is Down 49% This Year. Here\u2019s What the Street\u2019s Target Looks Like Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
+          "published_utc": "2026-09-24T10:45:59+00:00"
+        },
+        {
+          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
+          "published_utc": "2026-09-24T07:14:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
