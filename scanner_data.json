@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:13:35.541986+00:00",
+  "updated": "2026-09-24T17:40:56.681396+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "RKLB",
-      "price": 74.74,
-      "change_percent": 6.3007,
+      "price": 74.56,
+      "change_percent": 6.0447,
       "previous_close": 70.31,
-      "quote_timestamp": 1790269996.0,
-      "quote_time_utc": "2026-09-24T17:13:16+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1790271633.0,
+      "quote_time_utc": "2026-09-24T17:40:33+00:00",
+      "quote_age_seconds": 22,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,11 +44,11 @@
     },
     {
       "symbol": "ASTS",
-      "price": 62.4,
-      "change_percent": 4.0347,
+      "price": 62.66,
+      "change_percent": 4.4682,
       "previous_close": 59.98,
-      "quote_timestamp": 1790269984.0,
-      "quote_time_utc": "2026-09-24T17:13:04+00:00",
+      "quote_timestamp": 1790271625.0,
+      "quote_time_utc": "2026-09-24T17:40:25+00:00",
       "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
@@ -58,6 +58,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AST SpaceMobile: The Moat SpaceX Can't Copy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7ea8af8e601ff296b2c2b63ca1fb2c46af761e251c3e169f6496bf058472ddba",
+          "published_utc": "2026-09-24T13:19:41+00:00"
+        },
         {
           "headline": "AST SpaceMobile Pushed Commercial Launch to 2027. Here's How Long Its Cash Lasts Until Then",
           "source": "Yahoo",
@@ -69,61 +75,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ade6d4757362cdc762e8c3be709d1fb85af00016b63fc106c970e2ad54c113d2",
           "published_utc": "2026-09-23T20:02:58+00:00"
-        },
-        {
-          "headline": "SPCX, RKLB, LUNR, ASTS In Focus \u2014 Space Economy Investment Surges To $23B In Year Ending June, A Near 140% Jump",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1919ec2dbf061fc499fcdaf857b657024135fea30542837726f75f805753c38a",
-          "published_utc": "2026-09-23T17:27:08+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "META",
-      "price": 771.74,
-      "change_percent": 3.7146,
-      "previous_close": 744.1,
-      "quote_timestamp": 1790269997.0,
-      "quote_time_utc": "2026-09-24T17:13:17+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=dc1a57203f768e8c465d0c09732c290a21cef549361c1549da309d17b77fc56a",
-          "published_utc": "2026-09-24T16:35:01+00:00"
-        },
-        {
-          "headline": "Meta's $14 billion AI bet looks like it's finally paying off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3599d1df83080e909e5fe28b63cbaa21c96e96d196acd7a5adfa1abaaeacdd5b",
-          "published_utc": "2026-09-24T15:51:39+00:00"
-        },
-        {
-          "headline": "Meta Platforms (META) Gets Blocked From AI Shopping Access as Commerce Tensions Rise",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a89bb83dfe3a7770c98180eb32b09f37f707bf8c5a7715f890d84b649852eb93",
-          "published_utc": "2026-09-24T15:13:20+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "IONQ",
-      "price": 43.88,
-      "change_percent": 3.15,
+      "price": 44.27,
+      "change_percent": 4.0668,
       "previous_close": 42.54,
-      "quote_timestamp": 1790269996.0,
-      "quote_time_utc": "2026-09-24T17:13:16+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1790271635.0,
+      "quote_time_utc": "2026-09-24T17:40:35+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -149,6 +112,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7808be3feee5f12a7b5f4ed493f183835873b35cf4fbeecea8f130b7672d1d6d",
           "published_utc": "2026-09-24T08:12:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "META",
+      "price": 769.95,
+      "change_percent": 3.474,
+      "previous_close": 744.1,
+      "quote_timestamp": 1790271635.0,
+      "quote_time_utc": "2026-09-24T17:40:35+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=dc1a57203f768e8c465d0c09732c290a21cef549361c1549da309d17b77fc56a",
+          "published_utc": "2026-09-24T16:35:01+00:00"
+        },
+        {
+          "headline": "Meta's $14 billion AI bet looks like it's finally paying off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3599d1df83080e909e5fe28b63cbaa21c96e96d196acd7a5adfa1abaaeacdd5b",
+          "published_utc": "2026-09-24T15:51:39+00:00"
+        },
+        {
+          "headline": "Meta Platforms (META) Gets Blocked From AI Shopping Access as Commerce Tensions Rise",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a89bb83dfe3a7770c98180eb32b09f37f707bf8c5a7715f890d84b649852eb93",
+          "published_utc": "2026-09-24T15:13:20+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -157,12 +157,12 @@
   "swing_trading": [
     {
       "symbol": "RKLB",
-      "price": 74.74,
-      "change_percent": 6.3007,
+      "price": 74.56,
+      "change_percent": 6.0447,
       "previous_close": 70.31,
-      "quote_timestamp": 1790269996.0,
-      "quote_time_utc": "2026-09-24T17:13:16+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1790271633.0,
+      "quote_time_utc": "2026-09-24T17:40:33+00:00",
+      "quote_age_seconds": 22,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -194,11 +194,11 @@
     },
     {
       "symbol": "ASTS",
-      "price": 62.4,
-      "change_percent": 4.0347,
+      "price": 62.66,
+      "change_percent": 4.4682,
       "previous_close": 59.98,
-      "quote_timestamp": 1790269984.0,
-      "quote_time_utc": "2026-09-24T17:13:04+00:00",
+      "quote_timestamp": 1790271625.0,
+      "quote_time_utc": "2026-09-24T17:40:25+00:00",
       "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
@@ -208,6 +208,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AST SpaceMobile: The Moat SpaceX Can't Copy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7ea8af8e601ff296b2c2b63ca1fb2c46af761e251c3e169f6496bf058472ddba",
+          "published_utc": "2026-09-24T13:19:41+00:00"
+        },
         {
           "headline": "AST SpaceMobile Pushed Commercial Launch to 2027. Here's How Long Its Cash Lasts Until Then",
           "source": "Yahoo",
@@ -219,24 +225,55 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ade6d4757362cdc762e8c3be709d1fb85af00016b63fc106c970e2ad54c113d2",
           "published_utc": "2026-09-23T20:02:58+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 44.27,
+      "change_percent": 4.0668,
+      "previous_close": 42.54,
+      "quote_timestamp": 1790271635.0,
+      "quote_time_utc": "2026-09-24T17:40:35+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
+          "published_utc": "2026-09-24T12:05:46+00:00"
         },
         {
-          "headline": "SPCX, RKLB, LUNR, ASTS In Focus \u2014 Space Economy Investment Surges To $23B In Year Ending June, A Near 140% Jump",
+          "headline": "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1919ec2dbf061fc499fcdaf857b657024135fea30542837726f75f805753c38a",
-          "published_utc": "2026-09-23T17:27:08+00:00"
+          "url": "https://finnhub.io/api/news?id=0a14c85c25cfa026bbb4520ac02d5c1d9774e94fe08260b053f25a411cdbf29a",
+          "published_utc": "2026-09-24T10:45:46+00:00"
+        },
+        {
+          "headline": "IonQ Cleared One of Quantum Computing's Biggest Hurdles. Should You Buy the Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7808be3feee5f12a7b5f4ed493f183835873b35cf4fbeecea8f130b7672d1d6d",
+          "published_utc": "2026-09-24T08:12:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 771.74,
-      "change_percent": 3.7146,
+      "price": 769.95,
+      "change_percent": 3.474,
       "previous_close": 744.1,
-      "quote_timestamp": 1790269997.0,
-      "quote_time_utc": "2026-09-24T17:13:17+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1790271635.0,
+      "quote_time_utc": "2026-09-24T17:40:35+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -267,13 +304,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "IONQ",
-      "price": 43.88,
-      "change_percent": 3.15,
-      "previous_close": 42.54,
-      "quote_timestamp": 1790269996.0,
-      "quote_time_utc": "2026-09-24T17:13:16+00:00",
-      "quote_age_seconds": 18,
+      "symbol": "RGTI",
+      "price": 16.37,
+      "change_percent": 2.2805,
+      "previous_close": 16.005,
+      "quote_timestamp": 1790271634.0,
+      "quote_time_utc": "2026-09-24T17:40:34+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -289,16 +326,16 @@
           "published_utc": "2026-09-24T12:05:46+00:00"
         },
         {
-          "headline": "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
+          "headline": "Rigetti Stock Is Down 49% This Year. Here\u2019s What the Street\u2019s Target Looks Like Now.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a14c85c25cfa026bbb4520ac02d5c1d9774e94fe08260b053f25a411cdbf29a",
-          "published_utc": "2026-09-24T10:45:46+00:00"
+          "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
+          "published_utc": "2026-09-24T10:45:59+00:00"
         },
         {
-          "headline": "IonQ Cleared One of Quantum Computing's Biggest Hurdles. Should You Buy the Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7808be3feee5f12a7b5f4ed493f183835873b35cf4fbeecea8f130b7672d1d6d",
-          "published_utc": "2026-09-24T08:12:01+00:00"
+          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
+          "published_utc": "2026-09-24T07:14:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
