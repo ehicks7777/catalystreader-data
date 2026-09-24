@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T19:13:19.103849+00:00",
+  "updated": "2026-09-24T19:40:50.864876+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 44.46,
-      "change_percent": 4.5134,
+      "price": 44.73,
+      "change_percent": 5.1481,
       "previous_close": 42.54,
-      "quote_timestamp": 1790277178.0,
-      "quote_time_utc": "2026-09-24T19:12:58+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,50 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "META",
-      "price": 776.64,
-      "change_percent": 4.3731,
-      "previous_close": 744.1,
-      "quote_timestamp": 1790277179.0,
-      "quote_time_utc": "2026-09-24T19:12:59+00:00",
-      "quote_age_seconds": 19,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=35d975302038afe17dfd89592297804d0b874cf4dcb84469f57501ca58302323",
-          "published_utc": "2026-09-24T18:05:02+00:00"
-        },
-        {
-          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873",
-          "published_utc": "2026-09-24T17:34:52+00:00"
-        },
-        {
-          "headline": "Muse is expanding Meta's moat, consumer exposure to tech products",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1b61396166e2eb5dcdacd2998878405cd164a6f862fc6ebd57b3d832020d663",
-          "published_utc": "2026-09-24T17:25:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "RKLB",
-      "price": 73.33,
-      "change_percent": 4.2953,
+      "price": 73.55,
+      "change_percent": 4.6082,
       "previous_close": 70.31,
-      "quote_timestamp": 1790277179.0,
-      "quote_time_utc": "2026-09-24T19:12:59+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -112,6 +75,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
           "published_utc": "2026-09-24T12:05:51+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "META",
+      "price": 776.43,
+      "change_percent": 4.3448,
+      "previous_close": 744.1,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=35d975302038afe17dfd89592297804d0b874cf4dcb84469f57501ca58302323",
+          "published_utc": "2026-09-24T18:05:02+00:00"
+        },
+        {
+          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873",
+          "published_utc": "2026-09-24T17:34:52+00:00"
+        },
+        {
+          "headline": "Muse is expanding Meta's moat, consumer exposure to tech products",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e1b61396166e2eb5dcdacd2998878405cd164a6f862fc6ebd57b3d832020d663",
+          "published_utc": "2026-09-24T17:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 44.46,
-      "change_percent": 4.5134,
+      "price": 44.73,
+      "change_percent": 5.1481,
       "previous_close": 42.54,
-      "quote_timestamp": 1790277178.0,
-      "quote_time_utc": "2026-09-24T19:12:58+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -156,50 +156,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "META",
-      "price": 776.64,
-      "change_percent": 4.3731,
-      "previous_close": 744.1,
-      "quote_timestamp": 1790277179.0,
-      "quote_time_utc": "2026-09-24T19:12:59+00:00",
-      "quote_age_seconds": 19,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=35d975302038afe17dfd89592297804d0b874cf4dcb84469f57501ca58302323",
-          "published_utc": "2026-09-24T18:05:02+00:00"
-        },
-        {
-          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873",
-          "published_utc": "2026-09-24T17:34:52+00:00"
-        },
-        {
-          "headline": "Muse is expanding Meta's moat, consumer exposure to tech products",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e1b61396166e2eb5dcdacd2998878405cd164a6f862fc6ebd57b3d832020d663",
-          "published_utc": "2026-09-24T17:25:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "RKLB",
-      "price": 73.33,
-      "change_percent": 4.2953,
+      "price": 73.55,
+      "change_percent": 4.6082,
       "previous_close": 70.31,
-      "quote_timestamp": 1790277179.0,
-      "quote_time_utc": "2026-09-24T19:12:59+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -230,13 +193,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "ASTS",
-      "price": 61.46,
-      "change_percent": 2.4675,
-      "previous_close": 59.98,
-      "quote_timestamp": 1790277167.0,
-      "quote_time_utc": "2026-09-24T19:12:47+00:00",
-      "quote_age_seconds": 31,
+      "symbol": "META",
+      "price": 776.43,
+      "change_percent": 4.3448,
+      "previous_close": 744.1,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -246,22 +209,96 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile: The Moat SpaceX Can't Copy",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7ea8af8e601ff296b2c2b63ca1fb2c46af761e251c3e169f6496bf058472ddba",
-          "published_utc": "2026-09-24T13:19:41+00:00"
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=35d975302038afe17dfd89592297804d0b874cf4dcb84469f57501ca58302323",
+          "published_utc": "2026-09-24T18:05:02+00:00"
         },
         {
-          "headline": "AST SpaceMobile Pushed Commercial Launch to 2027. Here's How Long Its Cash Lasts Until Then",
+          "headline": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef89254443c7d7b1c4645613ed910d2f3382afd261623665956f6817dbf167e8",
-          "published_utc": "2026-09-24T02:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=c7490e1cb2aca8f4de2138e1bb82a4f093f3b7da1ae3efd7d89337ea38ef1873",
+          "published_utc": "2026-09-24T17:34:52+00:00"
         },
         {
-          "headline": "SpaceX Drops 4% Amid Share Supply and Valuation Concerns; AST SpaceMobile Falls 6%",
+          "headline": "Muse is expanding Meta's moat, consumer exposure to tech products",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ade6d4757362cdc762e8c3be709d1fb85af00016b63fc106c970e2ad54c113d2",
-          "published_utc": "2026-09-23T20:02:58+00:00"
+          "url": "https://finnhub.io/api/news?id=e1b61396166e2eb5dcdacd2998878405cd164a6f862fc6ebd57b3d832020d663",
+          "published_utc": "2026-09-24T17:25:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMD",
+      "price": 628.51,
+      "change_percent": 2.2616,
+      "previous_close": 614.61,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9fdeff4c9aab391acae60ab9f176f6e57f1cd7661d2c57e4b1e95723f41f833e",
+          "published_utc": "2026-09-24T17:36:04+00:00"
+        },
+        {
+          "headline": "AMD Move Lower as $1 Trillion Raises the Execution Bar",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0ab987fa8af2ce1a66ccb86feb744f092404fdca0ca3c53590feffd0cf8c2ab8",
+          "published_utc": "2026-09-24T17:32:39+00:00"
+        },
+        {
+          "headline": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b2cec0f0c8333b446c11655aa85db6859126e1e6b45ba6a647111b808895bcc9",
+          "published_utc": "2026-09-24T16:09:57+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 16.36,
+      "change_percent": 2.2181,
+      "previous_close": 16.005,
+      "quote_timestamp": 1790278831.0,
+      "quote_time_utc": "2026-09-24T19:40:31+00:00",
+      "quote_age_seconds": 18,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
+          "published_utc": "2026-09-24T12:05:46+00:00"
+        },
+        {
+          "headline": "Rigetti Stock Is Down 49% This Year. Here\u2019s What the Street\u2019s Target Looks Like Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
+          "published_utc": "2026-09-24T10:45:59+00:00"
+        },
+        {
+          "headline": "The 5% Wall: Treasury Yields Take the Air Out of Wall Street's Muse Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=0518a6ef61f86a74163e1b534a000dc6875b5aad3965135408a293d3293d3fcb",
+          "published_utc": "2026-09-24T07:14:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
