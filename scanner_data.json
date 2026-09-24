@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T14:44:38.335453+00:00",
+  "updated": "2026-09-24T15:15:27.275810+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 765.76,
-      "change_percent": 2.9109,
+      "price": 764.74,
+      "change_percent": 2.7738,
       "previous_close": 744.1,
-      "quote_timestamp": 1790261048.0,
-      "quote_time_utc": "2026-09-24T14:44:08+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1790262916.0,
+      "quote_time_utc": "2026-09-24T15:15:16+00:00",
+      "quote_age_seconds": 10,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -39,43 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c72022f87e6b2f5211bc0855038ee39f6e469e672f919db2599afdb611fe0f58",
           "published_utc": "2026-09-24T13:40:30+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 71.99,
-      "change_percent": 2.3894,
-      "previous_close": 70.31,
-      "quote_timestamp": 1790261047.0,
-      "quote_time_utc": "2026-09-24T14:44:07+00:00",
-      "quote_age_seconds": 30,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Cathie Wood Just Made Another Big Bet on Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01ab2eb6f08d80fa8bd023e02d71e7f10a473d373cc747207b1c072d3e1a6f63",
-          "published_utc": "2026-09-24T12:05:51+00:00"
-        },
-        {
-          "headline": "Our Pick Of The Best Defense Stocks In September 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=10627dea7caae689d2a0ac8542bf4ed8d008aec3c6adaed4ff80303e03e860b3",
-          "published_utc": "2026-09-24T11:16:52+00:00"
-        },
-        {
-          "headline": "Rocket Lab (RKLB) Neutron Could Fill A Medium Lift Launch Gap",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=864600109d9bf36579a130dfee6117b9d17fe79b77d10f7faf42da7d579e46e4",
-          "published_utc": "2026-09-23T20:18:39+00:00"
         }
       ],
       "news_status": "Recent headlines found"
