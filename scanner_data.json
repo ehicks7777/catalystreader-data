@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:16:05.345955+00:00",
+  "updated": "2026-09-25T18:44:05.835326+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "SMCI",
-      "price": 43.61,
-      "change_percent": 5.059,
+      "price": 43.17,
+      "change_percent": 3.999,
       "previous_close": 41.51,
-      "quote_timestamp": 1790360149.0,
-      "quote_time_utc": "2026-09-25T18:15:49+00:00",
-      "quote_age_seconds": 14,
+      "quote_timestamp": 1790361827.0,
+      "quote_time_utc": "2026-09-25T18:43:47+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,34 +22,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Most active S&P500 stocks in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
+          "published_utc": "2026-09-25T18:05:02+00:00"
+        },
+        {
+          "headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04564b07bb60bbfe659da1b0465ba3a8bb7d6b893f29d3db40b2f3b1f0554720",
+          "published_utc": "2026-09-25T17:09:38+00:00"
+        },
+        {
           "headline": "What's Going On With Super Micro Computer Stock Friday?",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=07ca3aac9ab2bedbbc19e8bf39a51bf64239035750fd8707641686572e63c193",
           "published_utc": "2026-09-25T08:23:14+00:00"
-        },
-        {
-          "headline": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b59b90ff93e808b790d56c442be5a04f67955c14351b35e2a9cfc9b1b6be3571",
-          "published_utc": "2026-09-25T04:27:51+00:00"
-        },
-        {
-          "headline": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39836344faf1e4980c4536461fd6eba74ef51484cf4ac98062d956698094a069",
-          "published_utc": "2026-09-24T21:51:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
-      "price": 518.06,
-      "change_percent": 4.0427,
+      "price": 517.71,
+      "change_percent": 3.9724,
       "previous_close": 497.93,
-      "quote_timestamp": 1790360149.0,
-      "quote_time_utc": "2026-09-25T18:15:49+00:00",
-      "quote_age_seconds": 14,
+      "quote_timestamp": 1790361828.0,
+      "quote_time_utc": "2026-09-25T18:43:48+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,22 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "headline": "Most active S&P500 stocks in Friday's session",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2bb379a0e085fe926e4df4505a50b7891baf5b4d9746f8f1933645b4da23d707",
-          "published_utc": "2026-09-25T16:40:11+00:00"
+          "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
+          "published_utc": "2026-09-25T18:05:02+00:00"
         },
         {
-          "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
+          "headline": "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7",
-          "published_utc": "2026-09-25T15:40:22+00:00"
+          "url": "https://finnhub.io/api/news?id=a96166b07efe4619d5673e2f54c99a871d330f7c2e51d5b4039f5308e7cc9120",
+          "published_utc": "2026-09-25T17:41:49+00:00"
         },
         {
-          "headline": "Bill Gates Warns AI Powerful Enough to Lead to \u2018a Billion Deaths\u2019",
+          "headline": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e220c076504f1a7c64f870f94edf56f9f7ea14e776662e1de73b71baba7de788",
-          "published_utc": "2026-09-25T15:00:39+00:00"
+          "url": "https://finnhub.io/api/news?id=54dc124f4721978bf66124fdc4e6b489da76d59b9565af35e1e6f4fbbec03a65",
+          "published_utc": "2026-09-25T17:25:05+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 43.61,
-      "change_percent": 5.059,
+      "price": 43.17,
+      "change_percent": 3.999,
       "previous_close": 41.51,
-      "quote_timestamp": 1790360149.0,
-      "quote_time_utc": "2026-09-25T18:15:49+00:00",
-      "quote_age_seconds": 14,
+      "quote_timestamp": 1790361827.0,
+      "quote_time_utc": "2026-09-25T18:43:47+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,34 +98,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Most active S&P500 stocks in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
+          "published_utc": "2026-09-25T18:05:02+00:00"
+        },
+        {
+          "headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04564b07bb60bbfe659da1b0465ba3a8bb7d6b893f29d3db40b2f3b1f0554720",
+          "published_utc": "2026-09-25T17:09:38+00:00"
+        },
+        {
           "headline": "What's Going On With Super Micro Computer Stock Friday?",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=07ca3aac9ab2bedbbc19e8bf39a51bf64239035750fd8707641686572e63c193",
           "published_utc": "2026-09-25T08:23:14+00:00"
-        },
-        {
-          "headline": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b59b90ff93e808b790d56c442be5a04f67955c14351b35e2a9cfc9b1b6be3571",
-          "published_utc": "2026-09-25T04:27:51+00:00"
-        },
-        {
-          "headline": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39836344faf1e4980c4536461fd6eba74ef51484cf4ac98062d956698094a069",
-          "published_utc": "2026-09-24T21:51:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
-      "price": 518.06,
-      "change_percent": 4.0427,
+      "price": 517.71,
+      "change_percent": 3.9724,
       "previous_close": 497.93,
-      "quote_timestamp": 1790360149.0,
-      "quote_time_utc": "2026-09-25T18:15:49+00:00",
-      "quote_age_seconds": 14,
+      "quote_timestamp": 1790361828.0,
+      "quote_time_utc": "2026-09-25T18:43:48+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,34 +135,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "headline": "Most active S&P500 stocks in Friday's session",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2bb379a0e085fe926e4df4505a50b7891baf5b4d9746f8f1933645b4da23d707",
-          "published_utc": "2026-09-25T16:40:11+00:00"
+          "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
+          "published_utc": "2026-09-25T18:05:02+00:00"
         },
         {
-          "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
+          "headline": "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7",
-          "published_utc": "2026-09-25T15:40:22+00:00"
+          "url": "https://finnhub.io/api/news?id=a96166b07efe4619d5673e2f54c99a871d330f7c2e51d5b4039f5308e7cc9120",
+          "published_utc": "2026-09-25T17:41:49+00:00"
         },
         {
-          "headline": "Bill Gates Warns AI Powerful Enough to Lead to \u2018a Billion Deaths\u2019",
+          "headline": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e220c076504f1a7c64f870f94edf56f9f7ea14e776662e1de73b71baba7de788",
-          "published_utc": "2026-09-25T15:00:39+00:00"
+          "url": "https://finnhub.io/api/news?id=54dc124f4721978bf66124fdc4e6b489da76d59b9565af35e1e6f4fbbec03a65",
+          "published_utc": "2026-09-25T17:25:05+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RGTI",
-      "price": 16.85,
-      "change_percent": 2.1212,
+      "price": 16.83,
+      "change_percent": 2.0,
       "previous_close": 16.5,
-      "quote_timestamp": 1790360148.0,
-      "quote_time_utc": "2026-09-25T18:15:48+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790361821.0,
+      "quote_time_utc": "2026-09-25T18:43:41+00:00",
+      "quote_age_seconds": 22,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
