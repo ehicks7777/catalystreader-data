@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:42:45.224015+00:00",
+  "updated": "2026-09-25T12:18:32.139608+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 56564,
+      "quote_age_seconds": 58711,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 56564,
+      "quote_age_seconds": 58711,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 56564,
+      "quote_age_seconds": 58711,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Meta\u2019s Muse AI Downloads Are Soaring. Is It Time to Buy This Bargain AI Stock?",
+          "headline": "Meta (META) Stock Looks Cheap Enough To Back Its Cash Flow Story",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e00b38db8953dfa6ad5956b787673cb68a59bd103c2e087f85d27e188550e954",
-          "published_utc": "2026-09-25T09:22:01+00:00"
+          "url": "https://finnhub.io/api/news?id=d5a0ebfaa43517f8d122b69e7da124a88921e40c4a54dde8c18ae300b15217bc",
+          "published_utc": "2026-09-25T11:11:38+00:00"
         },
         {
-          "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
+          "headline": "Meta\u2019s AI Strategy Runs From Hearing Aids to a $1,299 Cinema: JPMorgan Sees a Giant Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afdf730dc80ff089abc10d5a5e828ae5b4b436d20f3c9a1b1642c7d4ca8e9ab6",
-          "published_utc": "2026-09-25T07:32:56+00:00"
+          "url": "https://finnhub.io/api/news?id=57f0f006104ac98bac0c39c608e3ad8d367cb0528100b07413e15af0063f7af9",
+          "published_utc": "2026-09-25T10:51:55+00:00"
         },
         {
-          "headline": "AI fears serious, but frontier slowdown unlikely: BMO",
+          "headline": "Jim Cramer Turned Out Right About This AI Stock Making Big Gains",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3f63015b9ad040143d35d154d92a8dc81579ba9bd09179bf0b755466dea353c",
-          "published_utc": "2026-09-25T06:34:59+00:00"
+          "url": "https://finnhub.io/api/news?id=8df26bd6abd2bbab6429bedce369ff110a021110c92472b6abb92fc56b9cf13d",
+          "published_utc": "2026-09-25T09:57:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 56564,
+      "quote_age_seconds": 58711,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 56564,
+      "quote_age_seconds": 58711,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
+          "headline": "Nvidia Vs. AMD: Who Wins The Critical Coming 6 Month Period?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=464c155eaf42e2f6a75fb5446883d2f0913dbf22cc42b3a8780439cfbc23cfc4",
-          "published_utc": "2026-09-25T08:29:10+00:00"
+          "url": "https://finnhub.io/api/news?id=b5b7b7ed026c4821cbc78be8340f5b7f2d79fa8a0ffbf0638d3215d7a037b98f",
+          "published_utc": "2026-09-25T11:46:42+00:00"
         },
         {
-          "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
+          "headline": "AMD Just Joined Nvidia in the $1 Trillion Club. At $614, Wall Street Is Paying Too Much for a Distant No. 2.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afdf730dc80ff089abc10d5a5e828ae5b4b436d20f3c9a1b1642c7d4ca8e9ab6",
-          "published_utc": "2026-09-25T07:32:56+00:00"
+          "url": "https://finnhub.io/api/news?id=dad3a4651f31a14be8d86d8c788706994c2f4ebfffea1061c7ff69705465b98c",
+          "published_utc": "2026-09-25T11:23:00+00:00"
         },
         {
-          "headline": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
+          "headline": "I've Changed My Mind on AMD. The AI Supercycle Has Room for More Than Just Nvidia.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8fed0b7c8ee2defc13adaa142517a4d4d3e3a0d13e781bd896da7a1c82aa9e63",
-          "published_utc": "2026-09-25T03:59:09+00:00"
+          "url": "https://finnhub.io/api/news?id=0acda86a3f25c028313f3af66123daedaa283494cb77b2be4d672c0c3ad17158",
+          "published_utc": "2026-09-25T11:22:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
