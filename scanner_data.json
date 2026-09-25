@@ -1,19 +1,55 @@
 {
-  "updated": "2026-09-25T14:15:44.522055+00:00",
+  "updated": "2026-09-25T14:43:56.940967+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
+    {
+      "symbol": "MSFT",
+      "price": 514.04,
+      "change_percent": 3.2354,
+      "previous_close": 497.93,
+      "quote_timestamp": 1790347412.0,
+      "quote_time_utc": "2026-09-25T14:43:32+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Michael Burry Drops Stark Message For AI Stock Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f40091b2968862e71e52b39492fefd53651e89f0de7c78031d365f79a8c69f5",
+          "published_utc": "2026-09-25T13:54:51+00:00"
+        },
+        {
+          "headline": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd09eb8882e4846082ebb850cddc1fab151baedc7d4fcca9ad329d864c0e4ee1",
+          "published_utc": "2026-09-25T13:51:07+00:00"
+        },
+        {
+          "headline": "Satya Nadella sees that China and the US both want AI to help their citizens",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b9138eff38889262b624eee55e023567c1c15abad45c181bbd97746764e9e381",
+          "published_utc": "2026-09-25T13:48:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
     {
       "symbol": "SMCI",
-      "price": 42.64,
-      "change_percent": 2.7222,
+      "price": 42.85,
+      "change_percent": 3.2281,
       "previous_close": 41.51,
-      "quote_timestamp": 1790345715.0,
-      "quote_time_utc": "2026-09-25T14:15:15+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790347411.0,
+      "quote_time_utc": "2026-09-25T14:43:31+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -42,15 +78,17 @@
         }
       ],
       "news_status": "Recent headlines found"
-    },
+    }
+  ],
+  "swing_trading": [
     {
       "symbol": "MSFT",
-      "price": 511.0,
-      "change_percent": 2.6249,
+      "price": 514.04,
+      "change_percent": 3.2354,
       "previous_close": 497.93,
-      "quote_timestamp": 1790345715.0,
-      "quote_time_utc": "2026-09-25T14:15:15+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790347412.0,
+      "quote_time_utc": "2026-09-25T14:43:32+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +98,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "'Trump Tells OpenAI, Anthropic to Withhold Models From UK Agency' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=1dbcae1408972a9a92e78be4f9ee541391807a2231bbb68e0562ebc524249b51",
-          "published_utc": "2026-09-25T09:14:27+00:00"
+          "headline": "Michael Burry Drops Stark Message For AI Stock Investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0f40091b2968862e71e52b39492fefd53651e89f0de7c78031d365f79a8c69f5",
+          "published_utc": "2026-09-25T13:54:51+00:00"
         },
         {
-          "headline": "'Goldman Sees Hyperscaler AI Capex Rising 50% to $1.2 Trillion' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=26af80254c1cae0a2b7f6180bc4fbaeacf4317b01ad1d07064937545c8178719",
-          "published_utc": "2026-09-25T08:22:47+00:00"
+          "headline": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd09eb8882e4846082ebb850cddc1fab151baedc7d4fcca9ad329d864c0e4ee1",
+          "published_utc": "2026-09-25T13:51:07+00:00"
         },
         {
-          "headline": "Microsoft Announces New Copilot With Home, Code, And Autopilot Agent; Says Cowork, Code, And Autopilot Run On Usage-Based Billing",
+          "headline": "Satya Nadella sees that China and the US both want AI to help their citizens",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b9138eff38889262b624eee55e023567c1c15abad45c181bbd97746764e9e381",
+          "published_utc": "2026-09-25T13:48:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SMCI",
+      "price": 42.85,
+      "change_percent": 3.2281,
+      "previous_close": 41.51,
+      "quote_timestamp": 1790347411.0,
+      "quote_time_utc": "2026-09-25T14:43:31+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "What's Going On With Super Micro Computer Stock Friday?",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=63536f77b2d24b8b4d3269d239b2cb6caf0a96e951ff2e0c4e16472b758419b9",
-          "published_utc": "2026-09-25T08:08:35+00:00"
+          "url": "https://finnhub.io/api/news?id=07ca3aac9ab2bedbbc19e8bf39a51bf64239035750fd8707641686572e63c193",
+          "published_utc": "2026-09-25T08:23:14+00:00"
+        },
+        {
+          "headline": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b59b90ff93e808b790d56c442be5a04f67955c14351b35e2a9cfc9b1b6be3571",
+          "published_utc": "2026-09-25T04:27:51+00:00"
+        },
+        {
+          "headline": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39836344faf1e4980c4536461fd6eba74ef51484cf4ac98062d956698094a069",
+          "published_utc": "2026-09-24T21:51:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
