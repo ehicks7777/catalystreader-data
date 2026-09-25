@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:21:09.940885+00:00",
+  "updated": "2026-09-25T00:45:51.129885+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 15669,
+      "quote_age_seconds": 17149,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 15669,
+      "quote_age_seconds": 17149,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Cathie Wood buys $25 million in tumbling tech stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=15852a2f1e6bb4e16fe009f3a7601535d7b976d927f8d304c0fd37068a5b4681",
+          "published_utc": "2026-09-24T23:17:00+00:00"
+        },
+        {
+          "headline": "IRDM Shareholders Approve Acquisition By RKLB In $54-A-Share Deal \u2014 Iridium-Rocket Lab Merger Expected To Close By Mid-2027",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9f5c6f1683bfa26c5cadd2d5d6fe0d049c5b85fb6ad422f71bc1507910f0311a",
+          "published_utc": "2026-09-24T22:12:11+00:00"
+        },
+        {
           "headline": "Iridium Stockholders Approve Acquisition by Rocket Lab",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a9ea956a5fa9143d5d2d255a369848ed5079e39c3dd7b0c43826656c120af0e1",
           "published_utc": "2026-09-24T20:30:00+00:00"
-        },
-        {
-          "headline": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f5d67f611824f319e364a7fc27db61541d67d2d5a98614037172c1256da8dd1",
-          "published_utc": "2026-09-24T17:52:56+00:00"
-        },
-        {
-          "headline": "Trump Bought SpaceX Stock Weeks After the IPO, Filing Shows",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=792381c87dbd77c9bf1d1ccc48e3b69038f2b8413721e1c95ffa62d7568b4ee8",
-          "published_utc": "2026-09-24T13:20:22+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 15669,
+      "quote_age_seconds": 17149,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 15669,
+      "quote_age_seconds": 17149,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 15669,
+      "quote_age_seconds": 17149,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
