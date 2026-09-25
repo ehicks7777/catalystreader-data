@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:43:48.630608+00:00",
+  "updated": "2026-09-25T09:15:03.487859+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 45827,
+      "quote_age_seconds": 47702,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 45827,
+      "quote_age_seconds": 47702,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 45827,
+      "quote_age_seconds": 47702,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 45827,
+      "quote_age_seconds": 47702,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 45827,
+      "quote_age_seconds": 47702,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=464c155eaf42e2f6a75fb5446883d2f0913dbf22cc42b3a8780439cfbc23cfc4",
+          "published_utc": "2026-09-25T08:29:10+00:00"
+        },
         {
           "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8fed0b7c8ee2defc13adaa142517a4d4d3e3a0d13e781bd896da7a1c82aa9e63",
           "published_utc": "2026-09-25T03:59:09+00:00"
-        },
-        {
-          "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3298b332bf6a6a18a9675f56e98f1333aadc8c43944bd1ce7c05d5222092b6a",
-          "published_utc": "2026-09-25T03:30:05+00:00"
         }
       ],
       "news_status": "Recent headlines found"
