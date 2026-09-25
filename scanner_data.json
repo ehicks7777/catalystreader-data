@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:42:53.151117+00:00",
+  "updated": "2026-09-25T04:14:35.582754+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 27772,
+      "quote_age_seconds": 29674,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 27772,
+      "quote_age_seconds": 29674,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 27772,
+      "quote_age_seconds": 29674,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3298b332bf6a6a18a9675f56e98f1333aadc8c43944bd1ce7c05d5222092b6a",
+          "published_utc": "2026-09-25T03:30:05+00:00"
+        },
+        {
+          "headline": "JPMorgan sends strong message to Meta stock investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e4c9a010d5351c919685a4460b6e1b3cf6b97ce4492c2751e619d1a53c646749",
+          "published_utc": "2026-09-25T02:33:00+00:00"
+        },
+        {
           "headline": "PayPal Holdings (PYPL), What Is Behind The Fresh Attention?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=67d0810c6e025722f5dc614f9fcda5eaa56382eb04eb564ed757548c14638bfb",
           "published_utc": "2026-09-25T01:14:37+00:00"
-        },
-        {
-          "headline": "Why Etsy (ETSY) Stock Is Trading Lower Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e5f5444185887203e63c316d0667bca5b405178946456562a71ba9cfbc65e24c",
-          "published_utc": "2026-09-25T00:40:58+00:00"
-        },
-        {
-          "headline": "Meta (META) Stock Is Up, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2fee4a6058cc51539ab2d089035fd0dcd5be83d4d1a61ce5b8fb6dc9e62f11f4",
-          "published_utc": "2026-09-25T00:24:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 27772,
+      "quote_age_seconds": 29674,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 27772,
+      "quote_age_seconds": 29674,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3298b332bf6a6a18a9675f56e98f1333aadc8c43944bd1ce7c05d5222092b6a",
+          "published_utc": "2026-09-25T03:30:05+00:00"
+        },
         {
           "headline": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d5b75373b66054785a1984a9e812dc22175aebf99874965a79ace4a3539b441f",
           "published_utc": "2026-09-24T20:05:01+00:00"
-        },
-        {
-          "headline": "AMD Investors Must Pay Attention to This Huge Warning Sign",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0dcae70e13a155df9ad7a6e08e316b69b02dd4748ccf1d204feceb7134c3f17c",
-          "published_utc": "2026-09-24T20:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
