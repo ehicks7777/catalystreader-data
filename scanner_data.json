@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:15:28.506575+00:00",
+  "updated": "2026-09-25T08:43:48.630608+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 44127,
+      "quote_age_seconds": 45827,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 44127,
+      "quote_age_seconds": 45827,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80317a1b56351172d7ca147d1dc6e70c26d792d0a0e09f134b402a648de48362",
+          "published_utc": "2026-09-25T07:58:37+00:00"
+        },
         {
           "headline": "Cathie Wood buys $25 million in tumbling tech stock",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9f5c6f1683bfa26c5cadd2d5d6fe0d049c5b85fb6ad422f71bc1507910f0311a",
           "published_utc": "2026-09-24T22:12:11+00:00"
-        },
-        {
-          "headline": "Iridium Stockholders Approve Acquisition by Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9ea956a5fa9143d5d2d255a369848ed5079e39c3dd7b0c43826656c120af0e1",
-          "published_utc": "2026-09-24T20:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 44127,
+      "quote_age_seconds": 45827,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 44127,
+      "quote_age_seconds": 45827,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 44127,
+      "quote_age_seconds": 45827,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
