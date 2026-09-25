@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T01:40:37.843870+00:00",
+  "updated": "2026-09-25T02:13:20.514739+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 20436,
+      "quote_age_seconds": 22399,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 20436,
+      "quote_age_seconds": 22399,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 20436,
+      "quote_age_seconds": 22399,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "PayPal Holdings (PYPL), What Is Behind The Fresh Attention?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=67d0810c6e025722f5dc614f9fcda5eaa56382eb04eb564ed757548c14638bfb",
+          "published_utc": "2026-09-25T01:14:37+00:00"
+        },
         {
           "headline": "Why Etsy (ETSY) Stock Is Trading Lower Today",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2fee4a6058cc51539ab2d089035fd0dcd5be83d4d1a61ce5b8fb6dc9e62f11f4",
           "published_utc": "2026-09-25T00:24:58+00:00"
-        },
-        {
-          "headline": "Unity Software (U) Opens Day One VR Glasses Tools For Next Hardware Launch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eee037fb99b810f9fa92732e7072fe73fd5b67ba626142e7ac0d0b2fcafd4d32",
-          "published_utc": "2026-09-25T00:17:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 20436,
+      "quote_age_seconds": 22399,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -140,16 +140,16 @@
           "published_utc": "2026-09-24T18:06:00+00:00"
         },
         {
-          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
-          "published_utc": "2026-09-24T12:05:46+00:00"
+          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
+          "published_utc": "2026-09-24T18:00:00+00:00"
         },
         {
-          "headline": "Rigetti Stock Is Down 49% This Year. Here\u2019s What the Street\u2019s Target Looks Like Now.",
+          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2cb482da4896451a8b478b3a483b3814ff64ab5cd442cba4e684378cbace58a0",
-          "published_utc": "2026-09-24T10:45:59+00:00"
+          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
+          "published_utc": "2026-09-24T17:14:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 20436,
+      "quote_age_seconds": 22399,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
