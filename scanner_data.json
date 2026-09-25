@@ -1,85 +1,10 @@
 {
-  "updated": "2026-09-25T20:13:12.517449+00:00",
+  "updated": "2026-09-25T20:42:42.579704+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "SMCI",
-      "price": 43.26,
-      "change_percent": 4.2159,
-      "previous_close": 41.51,
-      "quote_timestamp": 1790366400.0,
-      "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 791,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Most active S&P500 stocks in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
-          "published_utc": "2026-09-25T18:05:02+00:00"
-        },
-        {
-          "headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04564b07bb60bbfe659da1b0465ba3a8bb7d6b893f29d3db40b2f3b1f0554720",
-          "published_utc": "2026-09-25T17:09:38+00:00"
-        },
-        {
-          "headline": "What's Going On With Super Micro Computer Stock Friday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=07ca3aac9ab2bedbbc19e8bf39a51bf64239035750fd8707641686572e63c193",
-          "published_utc": "2026-09-25T08:23:14+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSFT",
-      "price": 516.17,
-      "change_percent": 3.6632,
-      "previous_close": 497.93,
-      "quote_timestamp": 1790366400.0,
-      "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 791,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Exploring the top movers within the dow jones index during today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=57fe018b3402c0dd7a0c4f897a79d04dab37b2ed6e6f995fcb25f081db824dbe",
-          "published_utc": "2026-09-25T19:10:09+00:00"
-        },
-        {
-          "headline": "Most active S&P500 stocks in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
-          "published_utc": "2026-09-25T18:05:02+00:00"
-        },
-        {
-          "headline": "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a96166b07efe4619d5673e2f54c99a871d330f7c2e51d5b4039f5308e7cc9120",
-          "published_utc": "2026-09-25T17:41:49+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "SMCI",
@@ -88,8 +13,8 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 791,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2562,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -97,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "What's Going On With Super Micro Stock Thursday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da3ad5d2664aa7737e7fe974133b91cb61cb5cbe2c1b8f91d2c20b09a5d73377",
+          "published_utc": "2026-09-25T18:28:24+00:00"
+        },
         {
           "headline": "Most active S&P500 stocks in Friday's session",
           "source": "ChartMill",
@@ -108,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=04564b07bb60bbfe659da1b0465ba3a8bb7d6b893f29d3db40b2f3b1f0554720",
           "published_utc": "2026-09-25T17:09:38+00:00"
-        },
-        {
-          "headline": "What's Going On With Super Micro Computer Stock Friday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=07ca3aac9ab2bedbbc19e8bf39a51bf64239035750fd8707641686572e63c193",
-          "published_utc": "2026-09-25T08:23:14+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -125,8 +50,8 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 791,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2562,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -135,28 +60,28 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "What's different about Microsoft's Copilot AI reboot",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b42b1c794a056425ea221ab1584b5ff16fb0b268fa8f528f0d37b0c349d10810",
+          "published_utc": "2026-09-25T19:54:23+00:00"
+        },
+        {
+          "headline": "Microsoft Just Raised Its Dividend by 8%: Is It the Best Magnificent Seven Dividend to Own?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc8a7fe2181e5a5962472dbbaf82e3452808c7ac88cec1fa8a817e447eb5b4c0",
+          "published_utc": "2026-09-25T19:50:01+00:00"
+        },
+        {
           "headline": "Exploring the top movers within the dow jones index during today's session.",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=57fe018b3402c0dd7a0c4f897a79d04dab37b2ed6e6f995fcb25f081db824dbe",
           "published_utc": "2026-09-25T19:10:09+00:00"
-        },
-        {
-          "headline": "Most active S&P500 stocks in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
-          "published_utc": "2026-09-25T18:05:02+00:00"
-        },
-        {
-          "headline": "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a96166b07efe4619d5673e2f54c99a871d330f7c2e51d5b4039f5308e7cc9120",
-          "published_utc": "2026-09-25T17:41:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
