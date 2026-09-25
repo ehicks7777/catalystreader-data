@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:40:39.992154+00:00",
+  "updated": "2026-09-25T00:21:09.940885+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 13238,
+      "quote_age_seconds": 15669,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e0344ec28f1f5146ca3a61efa3f6a06e51319180fa46fa72924e884b6dfa8e03",
-          "published_utc": "2026-09-24T12:05:46+00:00"
+          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
+          "published_utc": "2026-09-24T18:00:00+00:00"
         },
         {
-          "headline": "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
+          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a14c85c25cfa026bbb4520ac02d5c1d9774e94fe08260b053f25a411cdbf29a",
-          "published_utc": "2026-09-24T10:45:46+00:00"
+          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
+          "published_utc": "2026-09-24T17:14:38+00:00"
         },
         {
-          "headline": "IonQ Cleared One of Quantum Computing's Biggest Hurdles. Should You Buy the Stock?",
+          "headline": "Miami's first quantum computer coming to FIU",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7808be3feee5f12a7b5f4ed493f183835873b35cf4fbeecea8f130b7672d1d6d",
-          "published_utc": "2026-09-24T08:12:01+00:00"
+          "url": "https://finnhub.io/api/news?id=e05039a813d88fe29357aa044b2f7a37ebad51dc2d84b8053b417af7053d6439",
+          "published_utc": "2026-09-24T16:22:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 13238,
+      "quote_age_seconds": 15669,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 13238,
+      "quote_age_seconds": 15669,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "META Stock Hits One-Year High \u2014 Meta Launches Tool To Let Users Build Games Through AI",
+          "headline": "S&P 500's Recent Flat Close Hides a Brutal Split Underneath",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd814f6628a27934f2b2b189e9f66b1cd206969007917b63443508d5276df3c4",
-          "published_utc": "2026-09-24T21:18:53+00:00"
+          "url": "https://finnhub.io/api/news?id=7fbefb100973557a50ef97cec01d821d672cde2d76396df89e13b198fdf823ec",
+          "published_utc": "2026-09-24T23:51:54+00:00"
         },
         {
-          "headline": "Is Meta (META) Quietly Rewriting Its Hardware Strategy Through Muse-Powered Ray-Ban AI Glasses?",
+          "headline": "META Stock Is Set For Its Best Month In Over 13 Years \u2014 It\u2019s Inches Away From $2 Trillion Market Cap",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b83cdbef595178e85bccde61417fa00b65e3e4f9dc88ffc2f9c77cddeb72eee",
-          "published_utc": "2026-09-24T21:17:30+00:00"
+          "url": "https://finnhub.io/api/news?id=3b11eb838e6c60a7e1156cf17e341dceee4633839a3a92200ecfce7c0405b9cf",
+          "published_utc": "2026-09-24T23:16:20+00:00"
         },
         {
-          "headline": "Is Meta\u2019s (META) Stock Still Cheap After Its AI-Fueled Rally?",
+          "headline": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e71dd6ae2a327feeaf7f3ccf72c5f08f9b666d32cbf030ad635273991686ef53",
-          "published_utc": "2026-09-24T20:57:14+00:00"
+          "url": "https://finnhub.io/api/news?id=c6adff90cd3c00aa847b35ad41efaac7e4c040fe040177a20b843f9eaa587899",
+          "published_utc": "2026-09-24T23:11:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 13238,
+      "quote_age_seconds": 15669,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 13238,
+      "quote_age_seconds": 15669,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
