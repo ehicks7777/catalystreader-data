@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T04:43:55.927213+00:00",
+  "updated": "2026-09-25T05:13:37.299632+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 31435,
+      "quote_age_seconds": 33216,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "How IonQ\u2019s On\u2011Prem Quantum System At NVIDIA (NVDA) Has Changed Its Investment Story",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4784373fb8232e480a49640a551fa8f29166563af084adccb7b708ebaa5e58fd",
+          "published_utc": "2026-09-25T00:21:15+00:00"
+        },
         {
           "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
           "published_utc": "2026-09-24T17:14:38+00:00"
-        },
-        {
-          "headline": "Miami's first quantum computer coming to FIU",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e05039a813d88fe29357aa044b2f7a37ebad51dc2d84b8053b417af7053d6439",
-          "published_utc": "2026-09-24T16:22:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 31435,
+      "quote_age_seconds": 33216,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 31435,
+      "quote_age_seconds": 33216,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 31435,
+      "quote_age_seconds": 33216,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 31435,
+      "quote_age_seconds": 33216,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
