@@ -1,20 +1,19 @@
 {
-  "updated": "2026-09-25T13:15:59.915558+00:00",
+  "updated": "2026-09-25T13:43:37.442370+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
-      "symbol": "IONQ",
-      "price": 44.98,
-      "change_percent": 5.7358,
-      "previous_close": 42.54,
-      "quote_timestamp": 1790280000.0,
-      "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 62158,
-      "quote_freshness": "stale",
+      "symbol": "SMCI",
+      "price": 42.76,
+      "change_percent": 3.0113,
+      "previous_close": 41.51,
+      "quote_timestamp": 1790343794.0,
+      "quote_time_utc": "2026-09-25T13:43:14+00:00",
+      "quote_age_seconds": 22,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,176 +22,104 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "How IonQ\u2019s On\u2011Prem Quantum System At NVIDIA (NVDA) Has Changed Its Investment Story",
+          "headline": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4784373fb8232e480a49640a551fa8f29166563af084adccb7b708ebaa5e58fd",
-          "published_utc": "2026-09-25T00:21:15+00:00"
+          "url": "https://finnhub.io/api/news?id=b59b90ff93e808b790d56c442be5a04f67955c14351b35e2a9cfc9b1b6be3571",
+          "published_utc": "2026-09-25T04:27:51+00:00"
         },
         {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
+          "headline": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=39836344faf1e4980c4536461fd6eba74ef51484cf4ac98062d956698094a069",
+          "published_utc": "2026-09-24T21:51:06+00:00"
         },
         {
-          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+          "headline": "Super Micro Stock Slips as New NVIDIA AI Systems Enter the Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
-          "published_utc": "2026-09-24T17:14:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 73.61,
-      "change_percent": 4.6935,
-      "previous_close": 70.31,
-      "quote_timestamp": 1790280000.0,
-      "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 62158,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80317a1b56351172d7ca147d1dc6e70c26d792d0a0e09f134b402a648de48362",
-          "published_utc": "2026-09-25T07:58:37+00:00"
-        },
-        {
-          "headline": "Why Rocket Lab Wants To Pay Up Big For Iridium",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=a28a1846ea47f9dabec66573288592d6fd7496372ee6809bb684a55a5052527f",
-          "published_utc": "2026-09-25T06:54:01+00:00"
-        },
-        {
-          "headline": "Cathie Wood buys $25 million in tumbling tech stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15852a2f1e6bb4e16fe009f3a7601535d7b976d927f8d304c0fd37068a5b4681",
-          "published_utc": "2026-09-24T23:17:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "META",
-      "price": 777.59,
-      "change_percent": 4.5007,
-      "previous_close": 744.1,
-      "quote_timestamp": 1790280000.0,
-      "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 62158,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Meta (META) Stock Looks Cheap Enough To Back Its Cash Flow Story",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5a0ebfaa43517f8d122b69e7da124a88921e40c4a54dde8c18ae300b15217bc",
-          "published_utc": "2026-09-25T11:11:38+00:00"
-        },
-        {
-          "headline": "Meta\u2019s AI Strategy Runs From Hearing Aids to a $1,299 Cinema: JPMorgan Sees a Giant Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=57f0f006104ac98bac0c39c608e3ad8d367cb0528100b07413e15af0063f7af9",
-          "published_utc": "2026-09-25T10:51:55+00:00"
-        },
-        {
-          "headline": "Jim Cramer Turned Out Right About This AI Stock Making Big Gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8df26bd6abd2bbab6429bedce369ff110a021110c92472b6abb92fc56b9cf13d",
-          "published_utc": "2026-09-25T09:57:06+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 16.5,
-      "change_percent": 3.0928,
-      "previous_close": 16.005,
-      "quote_timestamp": 1790280000.0,
-      "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 62158,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Being Picky With Stocks More Important Than Ever",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
-          "published_utc": "2026-09-24T18:06:00+00:00"
-        },
-        {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
-        },
-        {
-          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
-          "published_utc": "2026-09-24T17:14:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 629.26,
-      "change_percent": 2.3836,
-      "previous_close": 614.61,
-      "quote_timestamp": 1790280000.0,
-      "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 62158,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Nvidia Vs. AMD: Who Wins The Critical Coming 6 Month Period?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5b7b7ed026c4821cbc78be8340f5b7f2d79fa8a0ffbf0638d3215d7a037b98f",
-          "published_utc": "2026-09-25T11:46:42+00:00"
-        },
-        {
-          "headline": "AMD Just Joined Nvidia in the $1 Trillion Club. At $614, Wall Street Is Paying Too Much for a Distant No. 2.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dad3a4651f31a14be8d86d8c788706994c2f4ebfffea1061c7ff69705465b98c",
-          "published_utc": "2026-09-25T11:23:00+00:00"
-        },
-        {
-          "headline": "I've Changed My Mind on AMD. The AI Supercycle Has Room for More Than Just Nvidia.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0acda86a3f25c028313f3af66123daedaa283494cb77b2be4d672c0c3ad17158",
-          "published_utc": "2026-09-25T11:22:00+00:00"
+          "url": "https://finnhub.io/api/news?id=cd0056006ad115260ae2b6469c2bc2e0bd1aebf8f5d604f0520367c956ee4a8c",
+          "published_utc": "2026-09-24T17:46:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "swing_trading": [
+    {
+      "symbol": "SMCI",
+      "price": 42.76,
+      "change_percent": 3.0113,
+      "previous_close": 41.51,
+      "quote_timestamp": 1790343794.0,
+      "quote_time_utc": "2026-09-25T13:43:14+00:00",
+      "quote_age_seconds": 22,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b59b90ff93e808b790d56c442be5a04f67955c14351b35e2a9cfc9b1b6be3571",
+          "published_utc": "2026-09-25T04:27:51+00:00"
+        },
+        {
+          "headline": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39836344faf1e4980c4536461fd6eba74ef51484cf4ac98062d956698094a069",
+          "published_utc": "2026-09-24T21:51:06+00:00"
+        },
+        {
+          "headline": "Super Micro Stock Slips as New NVIDIA AI Systems Enter the Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cd0056006ad115260ae2b6469c2bc2e0bd1aebf8f5d604f0520367c956ee4a8c",
+          "published_utc": "2026-09-24T17:46:02+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSFT",
+      "price": 512.62,
+      "change_percent": 2.9502,
+      "previous_close": 497.93,
+      "quote_timestamp": 1790343794.0,
+      "quote_time_utc": "2026-09-25T13:43:14+00:00",
+      "quote_age_seconds": 22,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Can Plug Power\u2019s (PLUG) NZ Electrolyzer Win Offset Questions Raised by a COO Exit?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1481c43bdda2696f04f336cc3f72f688eb3faf1a881a5bfefd0f94feb3fd0f84",
+          "published_utc": "2026-09-25T07:12:25+00:00"
+        },
+        {
+          "headline": "Do Cloudflare\u2019s (NET) New AI Crawler Controls Quietly Strengthen Its Data-Moat Narrative?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cd2c4d10920a5ed7a5a104b8aa0251941ad181d80aee3a990a5f5198c55e8254",
+          "published_utc": "2026-09-25T06:09:20+00:00"
+        },
+        {
+          "headline": "Microsoft: Risk And Reward Skewed To The Downside",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ad82ae9400d4aac1751d7ebc9e779371edd5a8c7ff8235bad6cab11541f5b304",
+          "published_utc": "2026-09-25T06:03:06+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
