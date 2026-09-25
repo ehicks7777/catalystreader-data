@@ -1,55 +1,18 @@
 {
-  "updated": "2026-09-25T16:15:37.357579+00:00",
+  "updated": "2026-09-25T16:44:40.976351+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "RGTI",
-      "price": 17.21,
-      "change_percent": 4.303,
-      "previous_close": 16.5,
-      "quote_timestamp": 1790352915.0,
-      "quote_time_utc": "2026-09-25T16:15:15+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Being Picky With Stocks More Important Than Ever",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
-          "published_utc": "2026-09-24T18:06:00+00:00"
-        },
-        {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
-        },
-        {
-          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
-          "published_utc": "2026-09-24T17:14:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SMCI",
-      "price": 43.18,
-      "change_percent": 4.0231,
+      "price": 43.43,
+      "change_percent": 4.6254,
       "previous_close": 41.51,
-      "quote_timestamp": 1790352917.0,
-      "quote_time_utc": "2026-09-25T16:15:17+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1790354668.0,
+      "quote_time_utc": "2026-09-25T16:44:28+00:00",
+      "quote_age_seconds": 10,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -81,12 +44,12 @@
     },
     {
       "symbol": "MSFT",
-      "price": 515.59,
-      "change_percent": 3.5467,
+      "price": 516.93,
+      "change_percent": 3.8158,
       "previous_close": 497.93,
-      "quote_timestamp": 1790352916.0,
-      "quote_time_utc": "2026-09-25T16:15:16+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790354669.0,
+      "quote_time_utc": "2026-09-25T16:44:29+00:00",
+      "quote_age_seconds": 9,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -96,96 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Michael Burry Drops Stark Message For AI Stock Investors",
+          "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f40091b2968862e71e52b39492fefd53651e89f0de7c78031d365f79a8c69f5",
-          "published_utc": "2026-09-25T13:54:51+00:00"
+          "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7",
+          "published_utc": "2026-09-25T15:40:22+00:00"
         },
         {
-          "headline": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
+          "headline": "Bill Gates Warns AI Powerful Enough to Lead to \u2018a Billion Deaths\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd09eb8882e4846082ebb850cddc1fab151baedc7d4fcca9ad329d864c0e4ee1",
-          "published_utc": "2026-09-25T13:51:07+00:00"
+          "url": "https://finnhub.io/api/news?id=e220c076504f1a7c64f870f94edf56f9f7ea14e776662e1de73b71baba7de788",
+          "published_utc": "2026-09-25T15:00:39+00:00"
         },
         {
-          "headline": "Satya Nadella sees that China and the US both want AI to help their citizens",
+          "headline": "Oppenheimer resets Microsoft stock price target after HQ visit",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9138eff38889262b624eee55e023567c1c15abad45c181bbd97746764e9e381",
-          "published_utc": "2026-09-25T13:48:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 62.94,
-      "change_percent": 3.0789,
-      "previous_close": 61.06,
-      "quote_timestamp": 1790352914.0,
-      "quote_time_utc": "2026-09-25T16:15:14+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "AST SpaceMobile, Inc. (ASTS) Increases Despite Market Slip: Here's What You Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6582273900948ac98a7f86b09a72603ddbaffed7a4a3f8e4a010e2385b33dc54",
-          "published_utc": "2026-09-24T21:00:05+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3f1f1ec3b9b7cd7c47053f66ecacb04812a5c4006890bfb7dc957d7844e4fee",
-          "published_utc": "2026-09-24T19:54:01+00:00"
-        },
-        {
-          "headline": "Being Picky With Stocks More Important Than Ever",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
-          "published_utc": "2026-09-24T18:06:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 46.34,
-      "change_percent": 3.0236,
-      "previous_close": 44.98,
-      "quote_timestamp": 1790352915.0,
-      "quote_time_utc": "2026-09-25T16:15:15+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "IonQ: Nvidia QPU Catalyst Isn't Enough",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=25bf35b21d061862effbac91ebe02a017b8d7abed692b77cf561d6bb0ee9a443",
-          "published_utc": "2026-09-25T09:55:16+00:00"
-        },
-        {
-          "headline": "How IonQ\u2019s On\u2011Prem Quantum System At NVIDIA (NVDA) Has Changed Its Investment Story",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4784373fb8232e480a49640a551fa8f29166563af084adccb7b708ebaa5e58fd",
-          "published_utc": "2026-09-25T00:21:15+00:00"
-        },
-        {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=4d5c8112564b6b5602d1ace7fb1e44a4252db7c403d2a018516a37a1cb415ce8",
+          "published_utc": "2026-09-25T14:37:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -193,50 +82,13 @@
   ],
   "swing_trading": [
     {
-      "symbol": "RGTI",
-      "price": 17.21,
-      "change_percent": 4.303,
-      "previous_close": 16.5,
-      "quote_timestamp": 1790352915.0,
-      "quote_time_utc": "2026-09-25T16:15:15+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Being Picky With Stocks More Important Than Ever",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
-          "published_utc": "2026-09-24T18:06:00+00:00"
-        },
-        {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
-        },
-        {
-          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
-          "published_utc": "2026-09-24T17:14:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SMCI",
-      "price": 43.18,
-      "change_percent": 4.0231,
+      "price": 43.43,
+      "change_percent": 4.6254,
       "previous_close": 41.51,
-      "quote_timestamp": 1790352917.0,
-      "quote_time_utc": "2026-09-25T16:15:17+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1790354668.0,
+      "quote_time_utc": "2026-09-25T16:44:28+00:00",
+      "quote_age_seconds": 10,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -268,12 +120,12 @@
     },
     {
       "symbol": "MSFT",
-      "price": 515.59,
-      "change_percent": 3.5467,
+      "price": 516.93,
+      "change_percent": 3.8158,
       "previous_close": 497.93,
-      "quote_timestamp": 1790352916.0,
-      "quote_time_utc": "2026-09-25T16:15:16+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790354669.0,
+      "quote_time_utc": "2026-09-25T16:44:29+00:00",
+      "quote_age_seconds": 9,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -283,34 +135,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Michael Burry Drops Stark Message For AI Stock Investors",
+          "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f40091b2968862e71e52b39492fefd53651e89f0de7c78031d365f79a8c69f5",
-          "published_utc": "2026-09-25T13:54:51+00:00"
+          "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7",
+          "published_utc": "2026-09-25T15:40:22+00:00"
         },
         {
-          "headline": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
+          "headline": "Bill Gates Warns AI Powerful Enough to Lead to \u2018a Billion Deaths\u2019",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd09eb8882e4846082ebb850cddc1fab151baedc7d4fcca9ad329d864c0e4ee1",
-          "published_utc": "2026-09-25T13:51:07+00:00"
+          "url": "https://finnhub.io/api/news?id=e220c076504f1a7c64f870f94edf56f9f7ea14e776662e1de73b71baba7de788",
+          "published_utc": "2026-09-25T15:00:39+00:00"
         },
         {
-          "headline": "Satya Nadella sees that China and the US both want AI to help their citizens",
+          "headline": "Oppenheimer resets Microsoft stock price target after HQ visit",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9138eff38889262b624eee55e023567c1c15abad45c181bbd97746764e9e381",
-          "published_utc": "2026-09-25T13:48:00+00:00"
+          "url": "https://finnhub.io/api/news?id=4d5c8112564b6b5602d1ace7fb1e44a4252db7c403d2a018516a37a1cb415ce8",
+          "published_utc": "2026-09-25T14:37:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "ASTS",
-      "price": 62.94,
-      "change_percent": 3.0789,
-      "previous_close": 61.06,
-      "quote_timestamp": 1790352914.0,
-      "quote_time_utc": "2026-09-25T16:15:14+00:00",
-      "quote_age_seconds": 22,
+      "symbol": "RGTI",
+      "price": 16.95,
+      "change_percent": 2.7273,
+      "previous_close": 16.5,
+      "quote_timestamp": 1790354668.0,
+      "quote_time_utc": "2026-09-25T16:44:28+00:00",
+      "quote_age_seconds": 10,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -320,34 +172,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile, Inc. (ASTS) Increases Despite Market Slip: Here's What You Need to Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6582273900948ac98a7f86b09a72603ddbaffed7a4a3f8e4a010e2385b33dc54",
-          "published_utc": "2026-09-24T21:00:05+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3f1f1ec3b9b7cd7c47053f66ecacb04812a5c4006890bfb7dc957d7844e4fee",
-          "published_utc": "2026-09-24T19:54:01+00:00"
-        },
-        {
           "headline": "Being Picky With Stocks More Important Than Ever",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
           "published_utc": "2026-09-24T18:06:00+00:00"
+        },
+        {
+          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
+          "published_utc": "2026-09-24T18:00:00+00:00"
+        },
+        {
+          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
+          "published_utc": "2026-09-24T17:14:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "IONQ",
-      "price": 46.34,
-      "change_percent": 3.0236,
+      "price": 46.18,
+      "change_percent": 2.6679,
       "previous_close": 44.98,
-      "quote_timestamp": 1790352915.0,
-      "quote_time_utc": "2026-09-25T16:15:15+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790354665.0,
+      "quote_time_utc": "2026-09-25T16:44:25+00:00",
+      "quote_age_seconds": 13,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
