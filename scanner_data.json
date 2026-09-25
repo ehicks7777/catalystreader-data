@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:42:51.157221+00:00",
+  "updated": "2026-09-25T11:14:24.095454+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 52969,
+      "quote_age_seconds": 54863,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 52969,
+      "quote_age_seconds": 54863,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -66,16 +66,16 @@
           "published_utc": "2026-09-25T07:58:37+00:00"
         },
         {
+          "headline": "Why Rocket Lab Wants To Pay Up Big For Iridium",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=a28a1846ea47f9dabec66573288592d6fd7496372ee6809bb684a55a5052527f",
+          "published_utc": "2026-09-25T06:54:01+00:00"
+        },
+        {
           "headline": "Cathie Wood buys $25 million in tumbling tech stock",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=15852a2f1e6bb4e16fe009f3a7601535d7b976d927f8d304c0fd37068a5b4681",
           "published_utc": "2026-09-24T23:17:00+00:00"
-        },
-        {
-          "headline": "IRDM Shareholders Approve Acquisition By RKLB In $54-A-Share Deal \u2014 Iridium-Rocket Lab Merger Expected To Close By Mid-2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9f5c6f1683bfa26c5cadd2d5d6fe0d049c5b85fb6ad422f71bc1507910f0311a",
-          "published_utc": "2026-09-24T22:12:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 52969,
+      "quote_age_seconds": 54863,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 52969,
+      "quote_age_seconds": 54863,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 52969,
+      "quote_age_seconds": 54863,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
