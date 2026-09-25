@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:42:58.695114+00:00",
+  "updated": "2026-09-25T08:15:28.506575+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 42177,
+      "quote_age_seconds": 44127,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 42177,
+      "quote_age_seconds": 44127,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 42177,
+      "quote_age_seconds": 44127,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tech Companies\u2019 Cash Burn Isn\u2019t the Problem You Might Think",
+          "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eacbe6e0ad9871dc46884ff9eae5a0967988e2e9c02ed8db4f6e15bf8e140bd7",
-          "published_utc": "2026-09-25T05:30:00+00:00"
+          "url": "https://finnhub.io/api/news?id=afdf730dc80ff089abc10d5a5e828ae5b4b436d20f3c9a1b1642c7d4ca8e9ab6",
+          "published_utc": "2026-09-25T07:32:56+00:00"
         },
         {
-          "headline": "Why Did OKTA, S, META Stocks Jump To 52-Week Highs Today?",
+          "headline": "AI fears serious, but frontier slowdown unlikely: BMO",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3684259c769f8159010d45f6dba2fd8f1606c6753c2a1c5a73dc726f1fcafb0e",
-          "published_utc": "2026-09-25T05:03:19+00:00"
+          "url": "https://finnhub.io/api/news?id=c3f63015b9ad040143d35d154d92a8dc81579ba9bd09179bf0b755466dea353c",
+          "published_utc": "2026-09-25T06:34:59+00:00"
         },
         {
-          "headline": "Meta Has Lost More Than $85 Billion on Its Glasses and Headsets. Here's What Would Stop It.",
+          "headline": "Meta's Muse Agent Makes Waves: Market Snapshot",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11e8d85aa2a5900a697d224ad3124ec17e4b0428f216e6ef132020d4bfafff6a",
-          "published_utc": "2026-09-25T04:54:01+00:00"
+          "url": "https://finnhub.io/api/news?id=d2e2288d43ba84d0e6f4d9d06c7eb3a77c0d0582f1b0c8ba3825f63fe2b337ba",
+          "published_utc": "2026-09-25T06:29:46+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 42177,
+      "quote_age_seconds": 44127,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 42177,
+      "quote_age_seconds": 44127,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afdf730dc80ff089abc10d5a5e828ae5b4b436d20f3c9a1b1642c7d4ca8e9ab6",
+          "published_utc": "2026-09-25T07:32:56+00:00"
+        },
         {
           "headline": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c3298b332bf6a6a18a9675f56e98f1333aadc8c43944bd1ce7c05d5222092b6a",
           "published_utc": "2026-09-25T03:30:05+00:00"
-        },
-        {
-          "headline": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bacbc7bbdfb056628af57fb2c506c3609de6baafa584ca4f0fd3e0b134f7302f",
-          "published_utc": "2026-09-24T23:50:26+00:00"
         }
       ],
       "news_status": "Recent headlines found"
