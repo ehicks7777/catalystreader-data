@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:13:26.865639+00:00",
+  "updated": "2026-09-25T17:42:34.893050+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "SMCI",
-      "price": 43.37,
-      "change_percent": 4.4808,
+      "price": 43.13,
+      "change_percent": 3.9027,
       "previous_close": 41.51,
-      "quote_timestamp": 1790356389.0,
-      "quote_time_utc": "2026-09-25T17:13:09+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790358120.0,
+      "quote_time_utc": "2026-09-25T17:42:00+00:00",
+      "quote_age_seconds": 32,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "MSFT",
-      "price": 517.03,
-      "change_percent": 3.8359,
+      "price": 516.12,
+      "change_percent": 3.6531,
       "previous_close": 497.93,
-      "quote_timestamp": 1790356385.0,
-      "quote_time_utc": "2026-09-25T17:13:05+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790358120.0,
+      "quote_time_utc": "2026-09-25T17:42:00+00:00",
+      "quote_age_seconds": 32,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -58,6 +58,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2bb379a0e085fe926e4df4505a50b7891baf5b4d9746f8f1933645b4da23d707",
+          "published_utc": "2026-09-25T16:40:11+00:00"
+        },
         {
           "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
           "source": "Yahoo",
@@ -69,49 +75,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e220c076504f1a7c64f870f94edf56f9f7ea14e776662e1de73b71baba7de788",
           "published_utc": "2026-09-25T15:00:39+00:00"
-        },
-        {
-          "headline": "Oppenheimer resets Microsoft stock price target after HQ visit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d5c8112564b6b5602d1ace7fb1e44a4252db7c403d2a018516a37a1cb415ce8",
-          "published_utc": "2026-09-25T14:37:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 17.09,
-      "change_percent": 3.5758,
-      "previous_close": 16.5,
-      "quote_timestamp": 1790356388.0,
-      "quote_time_utc": "2026-09-25T17:13:08+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Being Picky With Stocks More Important Than Ever",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
-          "published_utc": "2026-09-24T18:06:00+00:00"
-        },
-        {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
-        },
-        {
-          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
-          "published_utc": "2026-09-24T17:14:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 43.37,
-      "change_percent": 4.4808,
+      "price": 43.13,
+      "change_percent": 3.9027,
       "previous_close": 41.51,
-      "quote_timestamp": 1790356389.0,
-      "quote_time_utc": "2026-09-25T17:13:09+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790358120.0,
+      "quote_time_utc": "2026-09-25T17:42:00+00:00",
+      "quote_age_seconds": 32,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -157,12 +120,12 @@
     },
     {
       "symbol": "MSFT",
-      "price": 517.03,
-      "change_percent": 3.8359,
+      "price": 516.12,
+      "change_percent": 3.6531,
       "previous_close": 497.93,
-      "quote_timestamp": 1790356385.0,
-      "quote_time_utc": "2026-09-25T17:13:05+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790358120.0,
+      "quote_time_utc": "2026-09-25T17:42:00+00:00",
+      "quote_age_seconds": 32,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -171,6 +134,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2bb379a0e085fe926e4df4505a50b7891baf5b4d9746f8f1933645b4da23d707",
+          "published_utc": "2026-09-25T16:40:11+00:00"
+        },
         {
           "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
           "source": "Yahoo",
@@ -182,24 +151,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e220c076504f1a7c64f870f94edf56f9f7ea14e776662e1de73b71baba7de788",
           "published_utc": "2026-09-25T15:00:39+00:00"
-        },
-        {
-          "headline": "Oppenheimer resets Microsoft stock price target after HQ visit",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d5c8112564b6b5602d1ace7fb1e44a4252db7c403d2a018516a37a1cb415ce8",
-          "published_utc": "2026-09-25T14:37:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RGTI",
-      "price": 17.09,
-      "change_percent": 3.5758,
+      "price": 16.84,
+      "change_percent": 2.0606,
       "previous_close": 16.5,
-      "quote_timestamp": 1790356388.0,
-      "quote_time_utc": "2026-09-25T17:13:08+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1790358119.0,
+      "quote_time_utc": "2026-09-25T17:41:59+00:00",
+      "quote_age_seconds": 33,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -225,43 +188,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
           "published_utc": "2026-09-24T17:14:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 46.19,
-      "change_percent": 2.6901,
-      "previous_close": 44.98,
-      "quote_timestamp": 1790356381.0,
-      "quote_time_utc": "2026-09-25T17:13:01+00:00",
-      "quote_age_seconds": 24,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "IonQ: Nvidia QPU Catalyst Isn't Enough",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=25bf35b21d061862effbac91ebe02a017b8d7abed692b77cf561d6bb0ee9a443",
-          "published_utc": "2026-09-25T09:55:16+00:00"
-        },
-        {
-          "headline": "How IonQ\u2019s On\u2011Prem Quantum System At NVIDIA (NVDA) Has Changed Its Investment Story",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4784373fb8232e480a49640a551fa8f29166563af084adccb7b708ebaa5e58fd",
-          "published_utc": "2026-09-25T00:21:15+00:00"
-        },
-        {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
