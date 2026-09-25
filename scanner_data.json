@@ -1,17 +1,54 @@
 {
-  "updated": "2026-09-25T15:16:06.848521+00:00",
+  "updated": "2026-09-25T15:42:04.807192+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
+      "symbol": "RGTI",
+      "price": 17.11,
+      "change_percent": 3.697,
+      "previous_close": 16.5,
+      "quote_timestamp": 1790350898.0,
+      "quote_time_utc": "2026-09-25T15:41:38+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Being Picky With Stocks More Important Than Ever",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
+          "published_utc": "2026-09-24T18:06:00+00:00"
+        },
+        {
+          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
+          "published_utc": "2026-09-24T18:00:00+00:00"
+        },
+        {
+          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
+          "published_utc": "2026-09-24T17:14:38+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "SMCI",
-      "price": 43.1,
-      "change_percent": 3.8304,
+      "price": 42.92,
+      "change_percent": 3.3968,
       "previous_close": 41.51,
-      "quote_timestamp": 1790349336.0,
-      "quote_time_utc": "2026-09-25T15:15:36+00:00",
+      "quote_timestamp": 1790350894.0,
+      "quote_time_utc": "2026-09-25T15:41:34+00:00",
       "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
@@ -44,12 +81,12 @@
     },
     {
       "symbol": "MSFT",
-      "price": 514.71,
-      "change_percent": 3.37,
+      "price": 513.66,
+      "change_percent": 3.1591,
       "previous_close": 497.93,
-      "quote_timestamp": 1790349335.0,
-      "quote_time_utc": "2026-09-25T15:15:35+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1790350898.0,
+      "quote_time_utc": "2026-09-25T15:41:38+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -82,12 +119,49 @@
   ],
   "swing_trading": [
     {
+      "symbol": "RGTI",
+      "price": 17.11,
+      "change_percent": 3.697,
+      "previous_close": 16.5,
+      "quote_timestamp": 1790350898.0,
+      "quote_time_utc": "2026-09-25T15:41:38+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Being Picky With Stocks More Important Than Ever",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
+          "published_utc": "2026-09-24T18:06:00+00:00"
+        },
+        {
+          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
+          "published_utc": "2026-09-24T18:00:00+00:00"
+        },
+        {
+          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
+          "published_utc": "2026-09-24T17:14:38+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "SMCI",
-      "price": 43.1,
-      "change_percent": 3.8304,
+      "price": 42.92,
+      "change_percent": 3.3968,
       "previous_close": 41.51,
-      "quote_timestamp": 1790349336.0,
-      "quote_time_utc": "2026-09-25T15:15:36+00:00",
+      "quote_timestamp": 1790350894.0,
+      "quote_time_utc": "2026-09-25T15:41:34+00:00",
       "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
@@ -120,12 +194,12 @@
     },
     {
       "symbol": "MSFT",
-      "price": 514.71,
-      "change_percent": 3.37,
+      "price": 513.66,
+      "change_percent": 3.1591,
       "previous_close": 497.93,
-      "quote_timestamp": 1790349335.0,
-      "quote_time_utc": "2026-09-25T15:15:35+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1790350898.0,
+      "quote_time_utc": "2026-09-25T15:41:38+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -156,13 +230,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RGTI",
-      "price": 16.94,
-      "change_percent": 2.6667,
-      "previous_close": 16.5,
-      "quote_timestamp": 1790349337.0,
-      "quote_time_utc": "2026-09-25T15:15:37+00:00",
-      "quote_age_seconds": 28,
+      "symbol": "ASTS",
+      "price": 62.32,
+      "change_percent": 2.0635,
+      "previous_close": 61.06,
+      "quote_timestamp": 1790350893.0,
+      "quote_time_utc": "2026-09-25T15:41:33+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -172,22 +246,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AST SpaceMobile, Inc. (ASTS) Increases Despite Market Slip: Here's What You Need to Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6582273900948ac98a7f86b09a72603ddbaffed7a4a3f8e4a010e2385b33dc54",
+          "published_utc": "2026-09-24T21:00:05+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3f1f1ec3b9b7cd7c47053f66ecacb04812a5c4006890bfb7dc957d7844e4fee",
+          "published_utc": "2026-09-24T19:54:01+00:00"
+        },
+        {
           "headline": "Being Picky With Stocks More Important Than Ever",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=bf472f7453f7c37d53adb31334c76b7de73692922f9a2f40bdd747addd16baeb",
           "published_utc": "2026-09-24T18:06:00+00:00"
-        },
-        {
-          "headline": "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b1cc6e1a30317dfe2a368c63613058bf60183c084fef4c4eeb08c928c9b2a5fe",
-          "published_utc": "2026-09-24T18:00:00+00:00"
-        },
-        {
-          "headline": "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d907bacef242c90f66ab08c9762c0f8e081aa404e81f42d0e95f2bd2737e81bc",
-          "published_utc": "2026-09-24T17:14:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
