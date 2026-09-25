@@ -1,57 +1,19 @@
 {
-  "updated": "2026-09-25T13:43:37.442370+00:00",
+  "updated": "2026-09-25T14:15:44.522055+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "SMCI",
-      "price": 42.76,
-      "change_percent": 3.0113,
-      "previous_close": 41.51,
-      "quote_timestamp": 1790343794.0,
-      "quote_time_utc": "2026-09-25T13:43:14+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b59b90ff93e808b790d56c442be5a04f67955c14351b35e2a9cfc9b1b6be3571",
-          "published_utc": "2026-09-25T04:27:51+00:00"
-        },
-        {
-          "headline": "SPY\u2019s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39836344faf1e4980c4536461fd6eba74ef51484cf4ac98062d956698094a069",
-          "published_utc": "2026-09-24T21:51:06+00:00"
-        },
-        {
-          "headline": "Super Micro Stock Slips as New NVIDIA AI Systems Enter the Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd0056006ad115260ae2b6469c2bc2e0bd1aebf8f5d604f0520367c956ee4a8c",
-          "published_utc": "2026-09-24T17:46:02+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 42.76,
-      "change_percent": 3.0113,
+      "price": 42.64,
+      "change_percent": 2.7222,
       "previous_close": 41.51,
-      "quote_timestamp": 1790343794.0,
-      "quote_time_utc": "2026-09-25T13:43:14+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790345715.0,
+      "quote_time_utc": "2026-09-25T14:15:15+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "What's Going On With Super Micro Computer Stock Friday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=07ca3aac9ab2bedbbc19e8bf39a51bf64239035750fd8707641686572e63c193",
+          "published_utc": "2026-09-25T08:23:14+00:00"
+        },
         {
           "headline": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
           "source": "Yahoo",
@@ -71,24 +39,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=39836344faf1e4980c4536461fd6eba74ef51484cf4ac98062d956698094a069",
           "published_utc": "2026-09-24T21:51:06+00:00"
-        },
-        {
-          "headline": "Super Micro Stock Slips as New NVIDIA AI Systems Enter the Market",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd0056006ad115260ae2b6469c2bc2e0bd1aebf8f5d604f0520367c956ee4a8c",
-          "published_utc": "2026-09-24T17:46:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
-      "price": 512.62,
-      "change_percent": 2.9502,
+      "price": 511.0,
+      "change_percent": 2.6249,
       "previous_close": 497.93,
-      "quote_timestamp": 1790343794.0,
-      "quote_time_utc": "2026-09-25T13:43:14+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790345715.0,
+      "quote_time_utc": "2026-09-25T14:15:15+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Can Plug Power\u2019s (PLUG) NZ Electrolyzer Win Offset Questions Raised by a COO Exit?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1481c43bdda2696f04f336cc3f72f688eb3faf1a881a5bfefd0f94feb3fd0f84",
-          "published_utc": "2026-09-25T07:12:25+00:00"
+          "headline": "'Trump Tells OpenAI, Anthropic to Withhold Models From UK Agency' - Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=1dbcae1408972a9a92e78be4f9ee541391807a2231bbb68e0562ebc524249b51",
+          "published_utc": "2026-09-25T09:14:27+00:00"
         },
         {
-          "headline": "Do Cloudflare\u2019s (NET) New AI Crawler Controls Quietly Strengthen Its Data-Moat Narrative?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd2c4d10920a5ed7a5a104b8aa0251941ad181d80aee3a990a5f5198c55e8254",
-          "published_utc": "2026-09-25T06:09:20+00:00"
+          "headline": "'Goldman Sees Hyperscaler AI Capex Rising 50% to $1.2 Trillion' - Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=26af80254c1cae0a2b7f6180bc4fbaeacf4317b01ad1d07064937545c8178719",
+          "published_utc": "2026-09-25T08:22:47+00:00"
         },
         {
-          "headline": "Microsoft: Risk And Reward Skewed To The Downside",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ad82ae9400d4aac1751d7ebc9e779371edd5a8c7ff8235bad6cab11541f5b304",
-          "published_utc": "2026-09-25T06:03:06+00:00"
+          "headline": "Microsoft Announces New Copilot With Home, Code, And Autopilot Agent; Says Cowork, Code, And Autopilot Run On Usage-Based Billing",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=63536f77b2d24b8b4d3269d239b2cb6caf0a96e951ff2e0c4e16472b758419b9",
+          "published_utc": "2026-09-25T08:08:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
