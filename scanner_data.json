@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:45:51.129885+00:00",
+  "updated": "2026-09-25T01:12:56.490768+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 17149,
+      "quote_age_seconds": 18775,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 17149,
+      "quote_age_seconds": 18775,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 17149,
+      "quote_age_seconds": 18775,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "S&P 500's Recent Flat Close Hides a Brutal Split Underneath",
+          "headline": "Why Etsy (ETSY) Stock Is Trading Lower Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fbefb100973557a50ef97cec01d821d672cde2d76396df89e13b198fdf823ec",
-          "published_utc": "2026-09-24T23:51:54+00:00"
+          "url": "https://finnhub.io/api/news?id=e5f5444185887203e63c316d0667bca5b405178946456562a71ba9cfbc65e24c",
+          "published_utc": "2026-09-25T00:40:58+00:00"
         },
         {
-          "headline": "META Stock Is Set For Its Best Month In Over 13 Years \u2014 It\u2019s Inches Away From $2 Trillion Market Cap",
+          "headline": "Meta (META) Stock Is Up, What You Need To Know",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b11eb838e6c60a7e1156cf17e341dceee4633839a3a92200ecfce7c0405b9cf",
-          "published_utc": "2026-09-24T23:16:20+00:00"
+          "url": "https://finnhub.io/api/news?id=2fee4a6058cc51539ab2d089035fd0dcd5be83d4d1a61ce5b8fb6dc9e62f11f4",
+          "published_utc": "2026-09-25T00:24:58+00:00"
         },
         {
-          "headline": "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
+          "headline": "Unity Software (U) Opens Day One VR Glasses Tools For Next Hardware Launch",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6adff90cd3c00aa847b35ad41efaac7e4c040fe040177a20b843f9eaa587899",
-          "published_utc": "2026-09-24T23:11:56+00:00"
+          "url": "https://finnhub.io/api/news?id=eee037fb99b810f9fa92732e7072fe73fd5b67ba626142e7ac0d0b2fcafd4d32",
+          "published_utc": "2026-09-25T00:17:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 17149,
+      "quote_age_seconds": 18775,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 17149,
+      "quote_age_seconds": 18775,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
