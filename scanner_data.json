@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T01:12:56.490768+00:00",
+  "updated": "2026-09-25T01:40:37.843870+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 18775,
+      "quote_age_seconds": 20436,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 18775,
+      "quote_age_seconds": 20436,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 18775,
+      "quote_age_seconds": 20436,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 18775,
+      "quote_age_seconds": 20436,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 18775,
+      "quote_age_seconds": 20436,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bacbc7bbdfb056628af57fb2c506c3609de6baafa584ca4f0fd3e0b134f7302f",
+          "published_utc": "2026-09-24T23:50:26+00:00"
+        },
         {
           "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0dcae70e13a155df9ad7a6e08e316b69b02dd4748ccf1d204feceb7134c3f17c",
           "published_utc": "2026-09-24T20:03:00+00:00"
-        },
-        {
-          "headline": "AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a77092667763a6686667b304e1e56c6858ddde875ebf7e710878f36fc7934f24",
-          "published_utc": "2026-09-24T20:01:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
