@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:14:46.735614+00:00",
+  "updated": "2026-09-25T10:42:51.157221+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 51285,
+      "quote_age_seconds": 52969,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 51285,
+      "quote_age_seconds": 52969,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 51285,
+      "quote_age_seconds": 52969,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Meta\u2019s Muse AI Downloads Are Soaring. Is It Time to Buy This Bargain AI Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e00b38db8953dfa6ad5956b787673cb68a59bd103c2e087f85d27e188550e954",
+          "published_utc": "2026-09-25T09:22:01+00:00"
+        },
         {
           "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c3f63015b9ad040143d35d154d92a8dc81579ba9bd09179bf0b755466dea353c",
           "published_utc": "2026-09-25T06:34:59+00:00"
-        },
-        {
-          "headline": "Meta's Muse Agent Makes Waves: Market Snapshot",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2e2288d43ba84d0e6f4d9d06c7eb3a77c0d0582f1b0c8ba3825f63fe2b337ba",
-          "published_utc": "2026-09-25T06:29:46+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 51285,
+      "quote_age_seconds": 52969,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 51285,
+      "quote_age_seconds": 52969,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
