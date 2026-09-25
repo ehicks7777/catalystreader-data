@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T22:13:30.318191+00:00",
+  "updated": "2026-09-25T22:41:46.470711+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 8009,
+      "quote_age_seconds": 9705,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 8009,
+      "quote_age_seconds": 9705,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "What's different about Microsoft's Copilot AI reboot",
+          "headline": "Stock Market Today, Sept. 25: Microsoft Stock Jumps 4% After Revamping Copilot With Code Generation and Agentic AI Tools",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b42b1c794a056425ea221ab1584b5ff16fb0b268fa8f528f0d37b0c349d10810",
-          "published_utc": "2026-09-25T19:54:23+00:00"
+          "url": "https://finnhub.io/api/news?id=5af716348162f6e0cba94cdad83449b12132b595d08b8595f5010b4b889a261e",
+          "published_utc": "2026-09-25T21:45:49+00:00"
         },
         {
-          "headline": "Microsoft Just Raised Its Dividend by 8%: Is It the Best Magnificent Seven Dividend to Own?",
+          "headline": "Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc8a7fe2181e5a5962472dbbaf82e3452808c7ac88cec1fa8a817e447eb5b4c0",
-          "published_utc": "2026-09-25T19:50:01+00:00"
+          "url": "https://finnhub.io/api/news?id=eeece272a477a62d68d0ae1351ee65f7d0b8e29e9b93a00ca14ca35a2a7829e7",
+          "published_utc": "2026-09-25T21:04:06+00:00"
         },
         {
-          "headline": "Exploring the top movers within the dow jones index during today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=57fe018b3402c0dd7a0c4f897a79d04dab37b2ed6e6f995fcb25f081db824dbe",
-          "published_utc": "2026-09-25T19:10:09+00:00"
+          "headline": "Microsoft Rises as It Unifies Copilot AI | Closing Bell",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2919eb1b52906eb20c36fa9c6b28b09392fdd5ec0641aa8cf1ea194f0deeae51",
+          "published_utc": "2026-09-25T20:45:30+00:00"
         }
       ],
       "news_status": "Recent headlines found"
