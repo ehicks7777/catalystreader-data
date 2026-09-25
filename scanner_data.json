@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T05:42:35.412711+00:00",
+  "updated": "2026-09-25T06:18:38.348698+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 42.54,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 34954,
+      "quote_age_seconds": 37116,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 70.31,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 34954,
+      "quote_age_seconds": 37116,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 744.1,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 34954,
+      "quote_age_seconds": 37116,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+          "headline": "Tech Companies\u2019 Cash Burn Isn\u2019t the Problem You Might Think",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3298b332bf6a6a18a9675f56e98f1333aadc8c43944bd1ce7c05d5222092b6a",
-          "published_utc": "2026-09-25T03:30:05+00:00"
+          "url": "https://finnhub.io/api/news?id=eacbe6e0ad9871dc46884ff9eae5a0967988e2e9c02ed8db4f6e15bf8e140bd7",
+          "published_utc": "2026-09-25T05:30:00+00:00"
         },
         {
-          "headline": "JPMorgan sends strong message to Meta stock investors",
+          "headline": "Why Did OKTA, S, META Stocks Jump To 52-Week Highs Today?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e4c9a010d5351c919685a4460b6e1b3cf6b97ce4492c2751e619d1a53c646749",
-          "published_utc": "2026-09-25T02:33:00+00:00"
+          "url": "https://finnhub.io/api/news?id=3684259c769f8159010d45f6dba2fd8f1606c6753c2a1c5a73dc726f1fcafb0e",
+          "published_utc": "2026-09-25T05:03:19+00:00"
         },
         {
-          "headline": "PayPal Holdings (PYPL), What Is Behind The Fresh Attention?",
+          "headline": "Meta Has Lost More Than $85 Billion on Its Glasses and Headsets. Here's What Would Stop It.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67d0810c6e025722f5dc614f9fcda5eaa56382eb04eb564ed757548c14638bfb",
-          "published_utc": "2026-09-25T01:14:37+00:00"
+          "url": "https://finnhub.io/api/news?id=11e8d85aa2a5900a697d224ad3124ec17e4b0428f216e6ef132020d4bfafff6a",
+          "published_utc": "2026-09-25T04:54:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 16.005,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 34954,
+      "quote_age_seconds": 37116,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 614.61,
       "quote_timestamp": 1790280000.0,
       "quote_time_utc": "2026-09-24T20:00:00+00:00",
-      "quote_age_seconds": 34954,
+      "quote_age_seconds": 37116,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8fed0b7c8ee2defc13adaa142517a4d4d3e3a0d13e781bd896da7a1c82aa9e63",
+          "published_utc": "2026-09-25T03:59:09+00:00"
+        },
         {
           "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bacbc7bbdfb056628af57fb2c506c3609de6baafa584ca4f0fd3e0b134f7302f",
           "published_utc": "2026-09-24T23:50:26+00:00"
-        },
-        {
-          "headline": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5b75373b66054785a1984a9e812dc22175aebf99874965a79ace4a3539b441f",
-          "published_utc": "2026-09-24T20:05:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
