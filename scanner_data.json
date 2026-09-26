@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:40:51.086184+00:00",
+  "updated": "2026-09-26T14:13:46.165894+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 63649,
+      "quote_age_seconds": 65625,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 63649,
+      "quote_age_seconds": 65625,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=053da01eba36705473a9b4b4c9e75141d39342703b81027ab5f0c5976622ba7c",
+          "published_utc": "2026-09-26T13:02:00+00:00"
+        },
         {
           "headline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6505d74393df0c0c2a81ed76d5ec8a02616396237c7770daa1212da64acf10cb",
           "published_utc": "2026-09-26T10:59:10+00:00"
-        },
-        {
-          "headline": "How Investors May Respond To Toho (TSE:9602) Raising Its Interim Dividend To \u00a511 Per Share",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7013d39afcdb4dfe15f74b8f7dcd7721cabbe951673668f8dbf54bd8ea3a852a",
-          "published_utc": "2026-09-26T08:08:21+00:00"
         }
       ],
       "news_status": "Recent headlines found"
