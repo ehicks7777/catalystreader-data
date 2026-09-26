@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:45:09.997271+00:00",
+  "updated": "2026-09-26T13:12:59.626884+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 60308,
+      "quote_age_seconds": 61978,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -21,8 +21,27 @@
       "volume_status": "Unavailable: verified volume feed not connected",
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [],
-      "news_status": "No recent headlines returned"
+      "news": [
+        {
+          "headline": "Super Micro Computer (NASDAQ:SMCI): Affordable Growth at a Reasonable Valuation",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=6271268b9ae70a2a88cf9c9b8f5f66150886683266f05bc7e97f0d3144889197",
+          "published_utc": "2026-09-26T09:20:28+00:00"
+        },
+        {
+          "headline": "Is Super Micro Computer a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d49a522f3517e78e738968db57ac23711c0e4f43577674e6d43618a07d0d5da",
+          "published_utc": "2026-09-25T23:20:00+00:00"
+        },
+        {
+          "headline": "What's Going On With Super Micro Stock Thursday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da3ad5d2664aa7737e7fe974133b91cb61cb5cbe2c1b8f91d2c20b09a5d73377",
+          "published_utc": "2026-09-25T18:28:24+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
@@ -31,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 60308,
+      "quote_age_seconds": 61978,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -39,8 +58,27 @@
       "volume_status": "Unavailable: verified volume feed not connected",
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [],
-      "news_status": "No recent headlines returned"
+      "news": [
+        {
+          "headline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8535ac7ca25b6b220a760ca1f8d5345397a8d7287a31c97a627adec65559eba5",
+          "published_utc": "2026-09-26T11:41:02+00:00"
+        },
+        {
+          "headline": "Microsoft Copilot Is Turning Into An \u2018AI Operating System\u2019 \u2014 Here\u2019s What It Means For MSFT Stock, According To Oppenheimer\u2019s Brian Schwartz",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6505d74393df0c0c2a81ed76d5ec8a02616396237c7770daa1212da64acf10cb",
+          "published_utc": "2026-09-26T10:59:10+00:00"
+        },
+        {
+          "headline": "How Investors May Respond To Toho (TSE:9602) Raising Its Interim Dividend To \u00a511 Per Share",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7013d39afcdb4dfe15f74b8f7dcd7721cabbe951673668f8dbf54bd8ea3a852a",
+          "published_utc": "2026-09-26T08:08:21+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
     }
   ],
   "stale_quotes": 20,
