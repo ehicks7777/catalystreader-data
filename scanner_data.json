@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:12:15.122977+00:00",
+  "updated": "2026-09-26T01:41:24.182841+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 18733,
+      "quote_age_seconds": 20483,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 18733,
+      "quote_age_seconds": 20483,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Should You Buy Microsoft Stock Now That It's Back Within 6% of Its Record?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bb98902fceb39774ff88af6fcf39523fcc20f36fb3721613698ff2e43e4ad107",
+          "published_utc": "2026-09-26T01:01:01+00:00"
+        },
+        {
+          "headline": "Disney (DIS) Names its First Technology Chief. Can AI Investment Deliver Returns?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2dc2ecd7f5105615798de2cfafd400e0d152e395a20688aef30a9784458193a",
+          "published_utc": "2026-09-26T00:13:04+00:00"
+        },
+        {
           "headline": "Azure\u2019s Inflection Point: Can Microsoft (MSFT) Balance AI Growth With Capex Risk?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e72a73080fe4550c43a495517f402a4adcde9b3b65634a131b74c078b4bf9ef1",
           "published_utc": "2026-09-25T23:13:47+00:00"
-        },
-        {
-          "headline": "What Is Microsoft (MSFT) Planning With Its $10 Billion Gulf Cloud And AI Push?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=294102c74c3afe0d34d3e966ebe77e66ba18bda2482fbc2dd6b4694a2de7cfc8",
-          "published_utc": "2026-09-25T23:09:41+00:00"
-        },
-        {
-          "headline": "Market Chatter: US Appeals Court Upholds Pentagon's Anthropic Ban",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c6cdc12948ad8ba70f83cb2ad662783ce54dd1dc4e583a08c2ec47848878ece",
-          "published_utc": "2026-09-25T22:58:59+00:00"
         }
       ],
       "news_status": "Recent headlines found"
