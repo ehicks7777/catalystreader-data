@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:40:59.720315+00:00",
+  "updated": "2026-09-26T18:15:56.850860+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 78059,
+      "quote_age_seconds": 80155,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 78059,
+      "quote_age_seconds": 80155,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.",
+          "headline": "JPMorgan Predicts IREN Will Generate $24 Billion in Annual Revenue by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=053da01eba36705473a9b4b4c9e75141d39342703b81027ab5f0c5976622ba7c",
-          "published_utc": "2026-09-26T13:02:00+00:00"
+          "url": "https://finnhub.io/api/news?id=0043abad6fbea128d5e47f87a507ebf2f921ed445b80c7c5aeb54857087e9de4",
+          "published_utc": "2026-09-26T15:59:44+00:00"
         },
         {
-          "headline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+          "headline": "3 Elite Dividend Stocks Hiding in the Nasdaq-100",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8535ac7ca25b6b220a760ca1f8d5345397a8d7287a31c97a627adec65559eba5",
-          "published_utc": "2026-09-26T11:41:02+00:00"
+          "url": "https://finnhub.io/api/news?id=5423b41d525b5d427c974c3fa6e4ee096922ded73202f5df7e64c263fc64d832",
+          "published_utc": "2026-09-26T15:58:22+00:00"
         },
         {
-          "headline": "Microsoft Copilot Is Turning Into An \u2018AI Operating System\u2019 \u2014 Here\u2019s What It Means For MSFT Stock, According To Oppenheimer\u2019s Brian Schwartz",
+          "headline": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6505d74393df0c0c2a81ed76d5ec8a02616396237c7770daa1212da64acf10cb",
-          "published_utc": "2026-09-26T10:59:10+00:00"
+          "url": "https://finnhub.io/api/news?id=2b5166a182adcc0ae68ee08893cc938f55d81d7ccd3d29278e36df06bfc30bd9",
+          "published_utc": "2026-09-26T15:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
