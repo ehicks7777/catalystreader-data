@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:45:41.954593+00:00",
+  "updated": "2026-09-27T13:13:17.009280+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 146741,
+      "quote_age_seconds": 148395,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 146741,
+      "quote_age_seconds": 148395,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -66,16 +66,16 @@
           "published_utc": "2026-09-27T11:50:22+00:00"
         },
         {
+          "headline": "Earn 10-15% Potential Income: Monthly Options Series (Oct. 2026)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7c1a0aeb6277c151d4fccec96b9399cf1676fb428cb2d9bf97e8b20a119ac724",
+          "published_utc": "2026-09-27T08:30:00+00:00"
+        },
+        {
           "headline": "What Will Micron's Gross Margin Guide Be?",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=67581fec95f390c66d92cb1294d8371b4254bbd1c43e2f401772c0993fd6aca9",
           "published_utc": "2026-09-27T05:00:00+00:00"
-        },
-        {
-          "headline": "3 Cloud And AI Stocks Retail Investors Are Watching After Microsoft Copilot Expansion",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a09bfac553002f3ea861ace87be7502828022018d1c71179b57318773dc80b0b",
-          "published_utc": "2026-09-27T04:16:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
