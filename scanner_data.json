@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T11:41:21.989055+00:00",
+  "updated": "2026-09-27T12:17:27.741048+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 142881,
+      "quote_age_seconds": 145046,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "3 Founder Led Stocks To Own In September 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=469b466e38226660d2cc579186f65bfe6a40b1ff25c4b53d03d754af40fb2209",
+          "published_utc": "2026-09-27T11:11:31+00:00"
+        },
         {
           "headline": "Super Micro Computer (NASDAQ:SMCI): Affordable Growth at a Reasonable Valuation",
           "source": "ChartMill",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8d49a522f3517e78e738968db57ac23711c0e4f43577674e6d43618a07d0d5da",
           "published_utc": "2026-09-25T23:20:00+00:00"
-        },
-        {
-          "headline": "What's Going On With Super Micro Stock Thursday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da3ad5d2664aa7737e7fe974133b91cb61cb5cbe2c1b8f91d2c20b09a5d73377",
-          "published_utc": "2026-09-25T18:28:24+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 142881,
+      "quote_age_seconds": 145046,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1da21b88573d0925b8cea64ec80cad580d88d41182b420c03fb11f15e81ad799",
+          "published_utc": "2026-09-27T11:50:22+00:00"
+        },
         {
           "headline": "What Will Micron's Gross Margin Guide Be?",
           "source": "SeekingAlpha",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a09bfac553002f3ea861ace87be7502828022018d1c71179b57318773dc80b0b",
           "published_utc": "2026-09-27T04:16:02+00:00"
-        },
-        {
-          "headline": "Anthropic's IPO is a $300 billion test for Amazon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff1f8ea5a0b56499ddcde47ef5a6e66d429e37cd5c511db2a0c7e6f82a5552e9",
-          "published_utc": "2026-09-27T01:47:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
