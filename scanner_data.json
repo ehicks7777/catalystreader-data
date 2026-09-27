@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T17:40:59.329227+00:00",
+  "updated": "2026-09-27T18:16:46.218821+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 164457,
+      "quote_age_seconds": 166605,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 164457,
+      "quote_age_seconds": 166605,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Michael Burry sends a stark warning to Big Tech stock investors",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4aedc10a23791f458218d790acdcafff36bdbe453290209dc4865e95a6ad71cb",
+          "published_utc": "2026-09-27T17:33:00+00:00"
+        },
+        {
+          "headline": "Microsoft just sent a strong message to Anthropic",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f1b134e3d76b5076d4d3afacf1aafe3aa67645acf33419ca5a853832dcda863e",
+          "published_utc": "2026-09-27T17:17:00+00:00"
+        },
+        {
           "headline": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bd0271285021a1a76ce7f02a66b573353e4cd07aec46209dfa3772f1501ed346",
           "published_utc": "2026-09-27T15:38:12+00:00"
-        },
-        {
-          "headline": "Microsoft\u2019s AI Investment Could Pay Off for Years. Here\u2019s My Price Target",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bdbf48f623093393ca21dbd7f7d4c32194dec430bd2269d4698f8b2381165af8",
-          "published_utc": "2026-09-27T15:30:44+00:00"
-        },
-        {
-          "headline": "This Magnificent Seven Stock Could Reach a New All-Time High",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e58c15ef6ad774e881e3d06e24d940f42da1c60c6a856ba7622b9c61570f0dfd",
-          "published_utc": "2026-09-27T13:30:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
