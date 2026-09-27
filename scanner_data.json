@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T13:41:25.652484+00:00",
+  "updated": "2026-09-27T14:12:58.342716+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 150084,
+      "quote_age_seconds": 151977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 150084,
+      "quote_age_seconds": 151977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "This Magnificent Seven Stock Could Reach a New All-Time High",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e58c15ef6ad774e881e3d06e24d940f42da1c60c6a856ba7622b9c61570f0dfd",
+          "published_utc": "2026-09-27T13:30:06+00:00"
+        },
+        {
+          "headline": "Does the S&P 500 Have a \"Magnificent Seven\" Problem? Here's What Investors Need to Know.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=213bfc858854e6d27f4b0edd8bd131894038b5764b5a8db54ac7a6fb770898ac",
+          "published_utc": "2026-09-27T13:09:00+00:00"
+        },
+        {
           "headline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1da21b88573d0925b8cea64ec80cad580d88d41182b420c03fb11f15e81ad799",
           "published_utc": "2026-09-27T11:50:22+00:00"
-        },
-        {
-          "headline": "Earn 10-15% Potential Income: Monthly Options Series (Oct. 2026)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7c1a0aeb6277c151d4fccec96b9399cf1676fb428cb2d9bf97e8b20a119ac724",
-          "published_utc": "2026-09-27T08:30:00+00:00"
-        },
-        {
-          "headline": "What Will Micron's Gross Margin Guide Be?",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=67581fec95f390c66d92cb1294d8371b4254bbd1c43e2f401772c0993fd6aca9",
-          "published_utc": "2026-09-27T05:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
