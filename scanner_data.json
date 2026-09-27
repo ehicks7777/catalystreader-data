@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:40:13.423775+00:00",
+  "updated": "2026-09-27T20:14:01.653662+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 171612,
+      "quote_age_seconds": 173640,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 171612,
+      "quote_age_seconds": 173640,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Michael Burry sends a stark warning to Big Tech stock investors",
+          "headline": "Microsoft (MSFT) Puts GitHub\u2019s Coding Engine Inside the App Office Workers Already Use",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4aedc10a23791f458218d790acdcafff36bdbe453290209dc4865e95a6ad71cb",
-          "published_utc": "2026-09-27T17:33:00+00:00"
+          "url": "https://finnhub.io/api/news?id=06121958f1a88dc0d98bc249496af276fef4a3360b55a0bbbeee04f4601dc5d6",
+          "published_utc": "2026-09-27T19:39:53+00:00"
         },
         {
-          "headline": "Microsoft just sent a strong message to Anthropic",
+          "headline": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f1b134e3d76b5076d4d3afacf1aafe3aa67645acf33419ca5a853832dcda863e",
-          "published_utc": "2026-09-27T17:17:00+00:00"
+          "url": "https://finnhub.io/api/news?id=e7b04b219bdb4304f2daf3e88e243a774a914db8d02a09aa8375d095b76a2c8f",
+          "published_utc": "2026-09-27T19:15:23+00:00"
         },
         {
-          "headline": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+          "headline": "Bill Gates doubles down on AI warning after decades of optimism",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd0271285021a1a76ce7f02a66b573353e4cd07aec46209dfa3772f1501ed346",
-          "published_utc": "2026-09-27T15:38:12+00:00"
+          "url": "https://finnhub.io/api/news?id=eb30133ff28fdc276ed25947bbbf365e73beb27a005bcc7ee59276f458ed17ed",
+          "published_utc": "2026-09-27T18:33:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
