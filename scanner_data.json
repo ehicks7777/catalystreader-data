@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T05:44:17.581596+00:00",
+  "updated": "2026-09-28T06:20:58.471802+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 207856,
+      "quote_age_seconds": 210057,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 207856,
+      "quote_age_seconds": 210057,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Microsoft Corporation (MSFT) Wants AI to Do More. Can Customers Keep Up?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d327bde520903a90b6ac70b921ccbb6fb81f55874e62a459f78bf6b574c3a4c",
+          "published_utc": "2026-09-28T03:51:56+00:00"
+        },
+        {
+          "headline": "Bill Gates warns AI global framework talks harder than Cold War-era nuclear negotiations",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8d75c1a067e47e798f8ee58885610e3f541516d662f7b6411ff7a0dc33cde770",
+          "published_utc": "2026-09-28T01:40:00+00:00"
+        },
+        {
           "headline": "Microsoft (MSFT) Reportedly Plans a Vast Data Center Expansion. Can Azure Justify the Cost?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=31aedf5bb26828645e0002701178d42008c9a690fc7929e6135c16c1b8151429",
           "published_utc": "2026-09-28T00:11:44+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c4e5d7d93e1f6a44e54678aeac97ff63423105e5c537ac63c9276dfeaadecbc",
-          "published_utc": "2026-09-27T23:52:46+00:00"
-        },
-        {
-          "headline": "Michael Burry just put a date on Big Tech's AI reckoning, and Oracle's $664 billion lands in crosshairs",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a784045f174387c69128bf330aa2d021a4ada7f854b57af5e895a66fcecffcac",
-          "published_utc": "2026-09-27T21:47:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
