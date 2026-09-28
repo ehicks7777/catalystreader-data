@@ -1,19 +1,24 @@
 {
-  "updated": "2026-09-28T17:43:40.734374+00:00",
+  "updated": "2026-09-28T18:17:46.449648+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
-  "stocks_scanned": 20,
-  "errors": [],
+  "stocks_scanned": 19,
+  "errors": [
+    {
+      "symbol": "MSFT",
+      "error": "URLError"
+    }
+  ],
   "day_trading": [],
   "swing_trading": [
     {
       "symbol": "NVDA",
-      "price": 230.18,
-      "change_percent": 2.2704,
+      "price": 230.34,
+      "change_percent": 2.3415,
       "previous_close": 225.07,
-      "quote_timestamp": 1790617405.0,
-      "quote_time_utc": "2026-09-28T17:43:25+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1790619420.0,
+      "quote_time_utc": "2026-09-28T18:17:00+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +28,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=6c56b5887c380fd32f9a884079e1fe3cbcc341a5694652b43eb419128632c5bd",
-          "published_utc": "2026-09-28T16:40:14+00:00"
-        },
-        {
-          "headline": "Which S&P500 stocks are moving on Monday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=9ff638211af9695af811e0b0c8a54eeb199d3613c1b0baba17d91732994a3931",
-          "published_utc": "2026-09-28T16:35:01+00:00"
-        },
-        {
-          "headline": "Why Boeing Stock Just Dropped",
+          "headline": "3 Things to Know About RMDs Before You're Forced to Take Them",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=43b16289ac557060c75f8d230386bc7100536edafb32a65ecc97d39bcfd90207",
-          "published_utc": "2026-09-28T15:44:52+00:00"
+          "url": "https://finnhub.io/api/news?id=01c28a3a4c09626fd3377ab2157960717dc9a73c4516fb08e20dcc273660c2ff",
+          "published_utc": "2026-09-28T17:48:00+00:00"
+        },
+        {
+          "headline": "Jim Cramer on Nvidia's $150 billion buyback expansion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9dac7aa046e17a5052d3e22bd1f7b57733fd6259ca024a9835084ac1aebec675",
+          "published_utc": "2026-09-28T17:46:47+00:00"
+        },
+        {
+          "headline": "Update: US Equity Indexes Fall in Midday Trading as Treasury Yields Rise Amid US-Iran Deadlock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d7e0427dcae96ca3d8f26dc08bffab97f881185c065ade94a9770dba9285272d",
+          "published_utc": "2026-09-28T17:38:59+00:00"
         }
       ],
       "news_status": "Recent headlines found"
