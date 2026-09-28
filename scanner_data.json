@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T20:13:45.823464+00:00",
+  "updated": "2026-09-28T20:44:11.640923+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
   "swing_trading": [],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
