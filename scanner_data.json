@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:14:31.746676+00:00",
+  "updated": "2026-09-28T17:43:40.734374+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "NVDA",
-      "price": 231.09,
-      "change_percent": 2.6747,
+      "price": 230.18,
+      "change_percent": 2.2704,
       "previous_close": 225.07,
-      "quote_timestamp": 1790615648.0,
-      "quote_time_utc": "2026-09-28T17:14:08+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790617405.0,
+      "quote_time_utc": "2026-09-28T17:43:25+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
