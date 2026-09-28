@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:49:45.524418+00:00",
+  "updated": "2026-09-28T13:16:08.561814+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 233384,
+      "quote_age_seconds": 234967,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 233384,
+      "quote_age_seconds": 234967,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why.",
+          "headline": "AI\u2019s hidden $3tn bill could wreck the world economy",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5021ab32b249699f3d99fe30d8626a97ed33ea746712d3d7ebc283900dfe0971",
-          "published_utc": "2026-09-28T11:47:03+00:00"
+          "url": "https://finnhub.io/api/news?id=23884c4b7ceef3515e4c3849e894664f8f642f4882679ee747dee97cb34d85d8",
+          "published_utc": "2026-09-28T12:36:14+00:00"
         },
         {
-          "headline": "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
+          "headline": "The $600 Billion AI Opportunity Behind Oracle, We See 51% Upside",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=868e87f345de9719288c13cee9940271f3ec5dd7ca75e1c9fd1f9b0323dff49c",
-          "published_utc": "2026-09-28T11:42:25+00:00"
+          "url": "https://finnhub.io/api/news?id=f1824f315a077d0c6be1c827011ca35ae01be77ff6492d57cb82fd27b67a00ff",
+          "published_utc": "2026-09-28T12:30:59+00:00"
         },
         {
-          "headline": "IREN\u2019s Yearlong Downward Trend Continues: A Prominent Wall Street Firm Says It Will Double and Then Some",
+          "headline": "Amazon\u2019s AI Capex Is Paying Off and I\u2019m Buying",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=790ae10a47c5069405b6ff375c0997daefabfc41ab8a1ec4b6447ed5cd257970",
-          "published_utc": "2026-09-28T11:09:32+00:00"
+          "url": "https://finnhub.io/api/news?id=808d854c8eab75bae56807253ffecaf816062dbcc5184e4bd2bd0355de1b24ae",
+          "published_utc": "2026-09-28T12:28:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
