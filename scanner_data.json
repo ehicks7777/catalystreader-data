@@ -1,20 +1,19 @@
 {
-  "updated": "2026-09-28T13:16:08.561814+00:00",
+  "updated": "2026-09-28T13:46:46.712695+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
-      "symbol": "SMCI",
-      "price": 43.26,
-      "change_percent": 4.2159,
-      "previous_close": 41.51,
-      "quote_timestamp": 1790366400.0,
-      "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 234967,
-      "quote_freshness": "stale",
+      "symbol": "IONQ",
+      "price": 47.36,
+      "change_percent": 4.1337,
+      "previous_close": 45.48,
+      "quote_timestamp": 1790603184.0,
+      "quote_time_utc": "2026-09-28T13:46:24+00:00",
+      "quote_age_seconds": 21,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,35 +22,35 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Western Digital Stock Is Just One Of 3 Top AI Infrastructure Picks",
+          "headline": "IonQ Takes Quantum Computing to NVIDIA's Research Center: What's Next?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5d6945d425e3576b7960a0f138dc09eef9ce0de81de3624fdeff265d2d864bb",
-          "published_utc": "2026-09-28T01:09:48+00:00"
+          "url": "https://finnhub.io/api/news?id=911697f2abaf84e517bb5dcb2d90f92b8d238331ebfbb0e877f616ca2f31d87f",
+          "published_utc": "2026-09-28T11:58:00+00:00"
         },
         {
-          "headline": "3 Founder Led Stocks To Own In September 2026",
+          "headline": "5 Millionaire-Maker Quantum Computing Stocks to Buy Now",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=469b466e38226660d2cc579186f65bfe6a40b1ff25c4b53d03d754af40fb2209",
-          "published_utc": "2026-09-27T11:11:31+00:00"
+          "url": "https://finnhub.io/api/news?id=e476e378449e145447a0e946578db431978ec629f85305c99a82d952e41cab1c",
+          "published_utc": "2026-09-28T11:50:00+00:00"
         },
         {
-          "headline": "Consumer Tech (Sep 21-25): Meta Launches Muse & Smart Glasses, US-China Ensure AI Remains \"Under Human Control,\" & More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=142429652b4b89b62233cd633806f53fb114bb0359bac8ceb16dd4b4e6e2a150",
-          "published_utc": "2026-09-27T07:30:14+00:00"
+          "headline": "Enterprise Quantum Computing Global Market Report 2026: Capitalize on 31.1% CAGR as Revenue Hits $18.54B by 2030\u2014Benchmark IBM, Google, Microsoft, AWS and IonQ to Secure Cloud Quantum ROI Before Rivals Scale",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=be4e0200bb55fdaa61f57cbb69c539f7f611afd20a289cb78baa6936ac27d154",
+          "published_utc": "2026-09-28T09:24:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MSFT",
-      "price": 516.17,
-      "change_percent": 3.6632,
-      "previous_close": 497.93,
-      "quote_timestamp": 1790366400.0,
-      "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 234967,
-      "quote_freshness": "stale",
+      "symbol": "NVDA",
+      "price": 232.3,
+      "change_percent": 3.2123,
+      "previous_close": 225.07,
+      "quote_timestamp": 1790603185.0,
+      "quote_time_utc": "2026-09-28T13:46:25+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -60,28 +59,104 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AI\u2019s hidden $3tn bill could wreck the world economy",
+          "headline": "Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=23884c4b7ceef3515e4c3849e894664f8f642f4882679ee747dee97cb34d85d8",
-          "published_utc": "2026-09-28T12:36:14+00:00"
+          "url": "https://finnhub.io/api/news?id=24f7bf047e05b3ce89a8b94321f0aa35213d09f653799ac5cd4f04720b67b30a",
+          "published_utc": "2026-09-28T12:13:42+00:00"
         },
         {
-          "headline": "The $600 Billion AI Opportunity Behind Oracle, We See 51% Upside",
+          "headline": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF (VOO) 10 Years Ago, Here's How Much You'd Have Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f1824f315a077d0c6be1c827011ca35ae01be77ff6492d57cb82fd27b67a00ff",
-          "published_utc": "2026-09-28T12:30:59+00:00"
+          "url": "https://finnhub.io/api/news?id=dc690c095cd26cc8b7dc2f80fd26d20f2d0f2949677ac66f115a1d9f57f572bf",
+          "published_utc": "2026-09-28T12:05:00+00:00"
         },
         {
-          "headline": "Amazon\u2019s AI Capex Is Paying Off and I\u2019m Buying",
+          "headline": "Dell's AI Server Backlog Has Ballooned to $95 Billion. Here's What a $1,000 Investment Today Could Be Worth by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=808d854c8eab75bae56807253ffecaf816062dbcc5184e4bd2bd0355de1b24ae",
-          "published_utc": "2026-09-28T12:28:11+00:00"
+          "url": "https://finnhub.io/api/news?id=0800c7744c2bb21090cd8b8e0fe153c44afe4666d379f9546616110a880b8d73",
+          "published_utc": "2026-09-28T12:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "swing_trading": [
+    {
+      "symbol": "IONQ",
+      "price": 47.36,
+      "change_percent": 4.1337,
+      "previous_close": 45.48,
+      "quote_timestamp": 1790603184.0,
+      "quote_time_utc": "2026-09-28T13:46:24+00:00",
+      "quote_age_seconds": 21,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "IonQ Takes Quantum Computing to NVIDIA's Research Center: What's Next?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=911697f2abaf84e517bb5dcb2d90f92b8d238331ebfbb0e877f616ca2f31d87f",
+          "published_utc": "2026-09-28T11:58:00+00:00"
+        },
+        {
+          "headline": "5 Millionaire-Maker Quantum Computing Stocks to Buy Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e476e378449e145447a0e946578db431978ec629f85305c99a82d952e41cab1c",
+          "published_utc": "2026-09-28T11:50:00+00:00"
+        },
+        {
+          "headline": "Enterprise Quantum Computing Global Market Report 2026: Capitalize on 31.1% CAGR as Revenue Hits $18.54B by 2030\u2014Benchmark IBM, Google, Microsoft, AWS and IonQ to Secure Cloud Quantum ROI Before Rivals Scale",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=be4e0200bb55fdaa61f57cbb69c539f7f611afd20a289cb78baa6936ac27d154",
+          "published_utc": "2026-09-28T09:24:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "NVDA",
+      "price": 232.3,
+      "change_percent": 3.2123,
+      "previous_close": 225.07,
+      "quote_timestamp": 1790603185.0,
+      "quote_time_utc": "2026-09-28T13:46:25+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=24f7bf047e05b3ce89a8b94321f0aa35213d09f653799ac5cd4f04720b67b30a",
+          "published_utc": "2026-09-28T12:13:42+00:00"
+        },
+        {
+          "headline": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF (VOO) 10 Years Ago, Here's How Much You'd Have Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc690c095cd26cc8b7dc2f80fd26d20f2d0f2949677ac66f115a1d9f57f572bf",
+          "published_utc": "2026-09-28T12:05:00+00:00"
+        },
+        {
+          "headline": "Dell's AI Server Backlog Has Ballooned to $95 Billion. Here's What a $1,000 Investment Today Could Be Worth by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0800c7744c2bb21090cd8b8e0fe153c44afe4666d379f9546616110a880b8d73",
+          "published_utc": "2026-09-28T12:03:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
