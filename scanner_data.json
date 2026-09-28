@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T13:46:46.712695+00:00",
+  "updated": "2026-09-28T14:16:54.008471+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 47.36,
-      "change_percent": 4.1337,
+      "price": 47.09,
+      "change_percent": 3.54,
       "previous_close": 45.48,
-      "quote_timestamp": 1790603184.0,
-      "quote_time_utc": "2026-09-28T13:46:24+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790604990.0,
+      "quote_time_utc": "2026-09-28T14:16:30+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -38,43 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=be4e0200bb55fdaa61f57cbb69c539f7f611afd20a289cb78baa6936ac27d154",
           "published_utc": "2026-09-28T09:24:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "NVDA",
-      "price": 232.3,
-      "change_percent": 3.2123,
-      "previous_close": 225.07,
-      "quote_timestamp": 1790603185.0,
-      "quote_time_utc": "2026-09-28T13:46:25+00:00",
-      "quote_age_seconds": 20,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24f7bf047e05b3ce89a8b94321f0aa35213d09f653799ac5cd4f04720b67b30a",
-          "published_utc": "2026-09-28T12:13:42+00:00"
-        },
-        {
-          "headline": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF (VOO) 10 Years Ago, Here's How Much You'd Have Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc690c095cd26cc8b7dc2f80fd26d20f2d0f2949677ac66f115a1d9f57f572bf",
-          "published_utc": "2026-09-28T12:05:00+00:00"
-        },
-        {
-          "headline": "Dell's AI Server Backlog Has Ballooned to $95 Billion. Here's What a $1,000 Investment Today Could Be Worth by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0800c7744c2bb21090cd8b8e0fe153c44afe4666d379f9546616110a880b8d73",
-          "published_utc": "2026-09-28T12:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "IONQ",
-      "price": 47.36,
-      "change_percent": 4.1337,
+      "price": 47.09,
+      "change_percent": 3.54,
       "previous_close": 45.48,
-      "quote_timestamp": 1790603184.0,
-      "quote_time_utc": "2026-09-28T13:46:24+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790604990.0,
+      "quote_time_utc": "2026-09-28T14:16:30+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +83,12 @@
     },
     {
       "symbol": "NVDA",
-      "price": 232.3,
-      "change_percent": 3.2123,
+      "price": 231.08,
+      "change_percent": 2.6703,
       "previous_close": 225.07,
-      "quote_timestamp": 1790603185.0,
-      "quote_time_utc": "2026-09-28T13:46:25+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790604991.0,
+      "quote_time_utc": "2026-09-28T14:16:31+00:00",
+      "quote_age_seconds": 22,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,22 +98,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history",
+          "headline": "Prediction: This Will Be Micron Technology\u2019s Stock Price by the End of 2026",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24f7bf047e05b3ce89a8b94321f0aa35213d09f653799ac5cd4f04720b67b30a",
-          "published_utc": "2026-09-28T12:13:42+00:00"
+          "url": "https://finnhub.io/api/news?id=0f1c62dfeab437a939ce690589d4dc95a2a25d0bbe71ffbc421fbb4d17bcba93",
+          "published_utc": "2026-09-28T13:52:01+00:00"
         },
         {
-          "headline": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF (VOO) 10 Years Ago, Here's How Much You'd Have Today",
+          "headline": "Trump hosted Anthropic's CEO for dinner at the White House. Here's why that matters.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc690c095cd26cc8b7dc2f80fd26d20f2d0f2949677ac66f115a1d9f57f572bf",
-          "published_utc": "2026-09-28T12:05:00+00:00"
+          "url": "https://finnhub.io/api/news?id=15b686e9f0d13738a28fa3494dd55c3b53ab78e48b4a6d2e4f1b649063843889",
+          "published_utc": "2026-09-28T13:50:33+00:00"
         },
         {
-          "headline": "Dell's AI Server Backlog Has Ballooned to $95 Billion. Here's What a $1,000 Investment Today Could Be Worth by 2030",
+          "headline": "Is QuantumScape a Lost Cause?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0800c7744c2bb21090cd8b8e0fe153c44afe4666d379f9546616110a880b8d73",
-          "published_utc": "2026-09-28T12:03:00+00:00"
+          "url": "https://finnhub.io/api/news?id=6fd7549b608512f7a9d51d69bdb5a2a87625185b7ee731e8a9bb9b5b72fb48b8",
+          "published_utc": "2026-09-28T13:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
