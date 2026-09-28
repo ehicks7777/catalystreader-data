@@ -1,49 +1,11 @@
 {
-  "updated": "2026-09-28T19:14:10.625585+00:00",
+  "updated": "2026-09-28T19:43:51.104109+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "NVDA",
-      "price": 230.1,
-      "change_percent": 2.2349,
-      "previous_close": 225.07,
-      "quote_timestamp": 1790622841.0,
-      "quote_time_utc": "2026-09-28T19:14:01+00:00",
-      "quote_age_seconds": 8,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "What's going on in today's session: S&P500 most active stocks",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=e93f8bbdaf9e27b5576156150c176c8ec6a78c8e81bd48cdc72fc49106290908",
-          "published_utc": "2026-09-28T18:05:03+00:00"
-        },
-        {
-          "headline": "Check out the stocks that are attracting the most attention and driving market activity.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=aa5c01df4e86fe33abb5dc1f0841723fa722fd7bc72975919bdc2c8e410531f8",
-          "published_utc": "2026-09-28T18:00:00+00:00"
-        },
-        {
-          "headline": "3 Things to Know About RMDs Before You're Forced to Take Them",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01c28a3a4c09626fd3377ab2157960717dc9a73c4516fb08e20dcc273660c2ff",
-          "published_utc": "2026-09-28T17:48:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "swing_trading": [],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
