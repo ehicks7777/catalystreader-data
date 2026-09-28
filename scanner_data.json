@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T11:45:52.782964+00:00",
+  "updated": "2026-09-28T12:19:42.968261+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 229551,
+      "quote_age_seconds": 231582,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 229551,
+      "quote_age_seconds": 231582,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Computer Vision Global Market Report 2026: Secure Your Share of a $37.1 Billion Market Growing 15.9% Annually by 2030\u2014Benchmark Microsoft, Sony, Intel, Texas Instruments and MediaTek as AI, Edge Vision and Automation Disrupt Operations",
+          "headline": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=466e72eda9d3ce0ac7473abf0a66463f4e2fd5eac2e75107f4d5905d61948025",
-          "published_utc": "2026-09-28T09:28:00+00:00"
+          "url": "https://finnhub.io/api/news?id=5021ab32b249699f3d99fe30d8626a97ed33ea746712d3d7ebc283900dfe0971",
+          "published_utc": "2026-09-28T11:47:03+00:00"
         },
         {
-          "headline": "Virtual Desktop Infrastructure Market Report 2026: Capitalize on the $24.14 Billion Revenue Surge to $50.03 Billion by 2030\u2014Benchmark AWS, Microsoft, VMware, Citrix and Nutanix to Capture Share in a 17.9% CAGR Market",
+          "headline": "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac8434089321a778049a233a51f940c4489191f45db0bcb5f55ac8b702383da0",
-          "published_utc": "2026-09-28T09:26:00+00:00"
+          "url": "https://finnhub.io/api/news?id=868e87f345de9719288c13cee9940271f3ec5dd7ca75e1c9fd1f9b0323dff49c",
+          "published_utc": "2026-09-28T11:42:25+00:00"
         },
         {
-          "headline": "Enterprise Quantum Computing Global Market Report 2026: Capitalize on 31.1% CAGR as Revenue Hits $18.54B by 2030\u2014Benchmark IBM, Google, Microsoft, AWS and IonQ to Secure Cloud Quantum ROI Before Rivals Scale",
+          "headline": "IREN\u2019s Yearlong Downward Trend Continues: A Prominent Wall Street Firm Says It Will Double and Then Some",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=be4e0200bb55fdaa61f57cbb69c539f7f611afd20a289cb78baa6936ac27d154",
-          "published_utc": "2026-09-28T09:24:00+00:00"
+          "url": "https://finnhub.io/api/news?id=790ae10a47c5069405b6ff375c0997daefabfc41ab8a1ec4b6447ed5cd257970",
+          "published_utc": "2026-09-28T11:09:32+00:00"
         }
       ],
       "news_status": "Recent headlines found"
