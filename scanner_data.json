@@ -1,56 +1,18 @@
 {
-  "updated": "2026-09-28T16:17:24.087823+00:00",
+  "updated": "2026-09-28T16:45:18.444730+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "NVDA",
-      "price": 230.64,
-      "change_percent": 2.4748,
-      "previous_close": 225.07,
-      "quote_timestamp": 1790612215.0,
-      "quote_time_utc": "2026-09-28T16:16:55+00:00",
-      "quote_age_seconds": 12,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Prediction: This Will Be Micron Technology\u2019s Stock Price by the End of 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0f1c62dfeab437a939ce690589d4dc95a2a25d0bbe71ffbc421fbb4d17bcba93",
-          "published_utc": "2026-09-28T13:52:01+00:00"
-        },
-        {
-          "headline": "Trump hosted Anthropic's CEO for dinner at the White House. Here's why that matters.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=15b686e9f0d13738a28fa3494dd55c3b53ab78e48b4a6d2e4f1b649063843889",
-          "published_utc": "2026-09-28T13:50:33+00:00"
-        },
-        {
-          "headline": "Is QuantumScape a Lost Cause?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6fd7549b608512f7a9d51d69bdb5a2a87625185b7ee731e8a9bb9b5b72fb48b8",
-          "published_utc": "2026-09-28T13:50:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
+  "day_trading": [
     {
       "symbol": "IONQ",
-      "price": 46.58,
-      "change_percent": 2.4186,
+      "price": 46.91,
+      "change_percent": 3.1442,
       "previous_close": 45.48,
-      "quote_timestamp": 1790612215.0,
-      "quote_time_utc": "2026-09-28T16:16:55+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1790613893.0,
+      "quote_time_utc": "2026-09-28T16:44:53+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -76,6 +38,82 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=8611aa1dd0d9a6cfc3caf4c64ec4c32e25bc970fb09bf0f3bf8ec00605ef6d38",
           "published_utc": "2026-09-28T10:44:06+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "IONQ",
+      "price": 46.91,
+      "change_percent": 3.1442,
+      "previous_close": 45.48,
+      "quote_timestamp": 1790613893.0,
+      "quote_time_utc": "2026-09-28T16:44:53+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "IonQ Takes Quantum Computing to NVIDIA's Research Center: What's Next?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=911697f2abaf84e517bb5dcb2d90f92b8d238331ebfbb0e877f616ca2f31d87f",
+          "published_utc": "2026-09-28T11:58:00+00:00"
+        },
+        {
+          "headline": "5 Millionaire-Maker Quantum Computing Stocks to Buy Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e476e378449e145447a0e946578db431978ec629f85305c99a82d952e41cab1c",
+          "published_utc": "2026-09-28T11:50:00+00:00"
+        },
+        {
+          "headline": "IonQ Stock Climbs Monday: What's Happening?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8611aa1dd0d9a6cfc3caf4c64ec4c32e25bc970fb09bf0f3bf8ec00605ef6d38",
+          "published_utc": "2026-09-28T10:44:06+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "NVDA",
+      "price": 231.1,
+      "change_percent": 2.6792,
+      "previous_close": 225.07,
+      "quote_timestamp": 1790613893.0,
+      "quote_time_utc": "2026-09-28T16:44:53+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Why Boeing Stock Just Dropped",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=43b16289ac557060c75f8d230386bc7100536edafb32a65ecc97d39bcfd90207",
+          "published_utc": "2026-09-28T15:44:52+00:00"
+        },
+        {
+          "headline": "Top Midday Stories: MongoDB CEO Leaves to Lead Meta Enterprise Platform; Nvidia Ups Buyback Program by $150 Billion",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=925d218bbcf391db7d1a0c02450291bd167231636df926ea16e07c27b24610c4",
+          "published_utc": "2026-09-28T15:37:32+00:00"
+        },
+        {
+          "headline": "Forget LNG Exporters: EQT Is the Natural Gas Stock I'd Buy Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f788dc35acc7194ae15cac9a2e070d772fc7a14e77ac400392934aefa5d0fce",
+          "published_utc": "2026-09-28T15:35:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
