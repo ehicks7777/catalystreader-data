@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T09:45:39.762642+00:00",
+  "updated": "2026-09-28T10:16:16.845887+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 41.51,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 222338,
+      "quote_age_seconds": 224175,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 497.93,
       "quote_timestamp": 1790366400.0,
       "quote_time_utc": "2026-09-25T20:00:00+00:00",
-      "quote_age_seconds": 222338,
+      "quote_age_seconds": 224175,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Copilot Reboot Sends Microsoft Soaring, but Trump's No to Iran Hangs Over Monday",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=a2b7dc9eeea5d94aaba6a7c3f389b01e95bb8333f1593ffa51f07c8d174b3473",
-          "published_utc": "2026-09-28T08:16:41+00:00"
+          "headline": "Computer Vision Global Market Report 2026: Secure Your Share of a $37.1 Billion Market Growing 15.9% Annually by 2030\u2014Benchmark Microsoft, Sony, Intel, Texas Instruments and MediaTek as AI, Edge Vision and Automation Disrupt Operations",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=466e72eda9d3ce0ac7473abf0a66463f4e2fd5eac2e75107f4d5905d61948025",
+          "published_utc": "2026-09-28T09:28:00+00:00"
         },
         {
-          "headline": "Microsoft Corporation (MSFT) Wants AI to Do More. Can Customers Keep Up?",
+          "headline": "Virtual Desktop Infrastructure Market Report 2026: Capitalize on the $24.14 Billion Revenue Surge to $50.03 Billion by 2030\u2014Benchmark AWS, Microsoft, VMware, Citrix and Nutanix to Capture Share in a 17.9% CAGR Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5d327bde520903a90b6ac70b921ccbb6fb81f55874e62a459f78bf6b574c3a4c",
-          "published_utc": "2026-09-28T03:51:56+00:00"
+          "url": "https://finnhub.io/api/news?id=ac8434089321a778049a233a51f940c4489191f45db0bcb5f55ac8b702383da0",
+          "published_utc": "2026-09-28T09:26:00+00:00"
         },
         {
-          "headline": "Bill Gates warns AI global framework talks harder than Cold War-era nuclear negotiations",
+          "headline": "Enterprise Quantum Computing Global Market Report 2026: Capitalize on 31.1% CAGR as Revenue Hits $18.54B by 2030\u2014Benchmark IBM, Google, Microsoft, AWS and IonQ to Secure Cloud Quantum ROI Before Rivals Scale",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8d75c1a067e47e798f8ee58885610e3f541516d662f7b6411ff7a0dc33cde770",
-          "published_utc": "2026-09-28T01:40:00+00:00"
+          "url": "https://finnhub.io/api/news?id=be4e0200bb55fdaa61f57cbb69c539f7f611afd20a289cb78baa6936ac27d154",
+          "published_utc": "2026-09-28T09:24:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
