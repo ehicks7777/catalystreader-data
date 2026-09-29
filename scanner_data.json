@@ -1,49 +1,11 @@
 {
-  "updated": "2026-09-29T13:46:43.621548+00:00",
+  "updated": "2026-09-29T14:16:03.272685+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "ASTS",
-      "price": 62.55,
-      "change_percent": 2.541,
-      "previous_close": 61.0,
-      "quote_timestamp": 1790689586.0,
-      "quote_time_utc": "2026-09-29T13:46:26+00:00",
-      "quote_age_seconds": 16,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Nasdaq Futures Tread Water After Monday Rout: MU, NVTS, NVO, KOD, SMMT, ASTS Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3fb77e4d547670f6b571016b191d39b52d945a2d8a497bb86bb5b78594e6701a",
-          "published_utc": "2026-09-29T08:31:36+00:00"
-        },
-        {
-          "headline": "Is AST SpaceMobile (ASTS) Above Fair Value As Launch Nears?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a992caafb287aa3c0b3967db35eb4968881e8a920a2370127b8c2b4908cb726",
-          "published_utc": "2026-09-29T06:09:42+00:00"
-        },
-        {
-          "headline": "ASTS Stock Rises Overnight: Change-Of-Control Payout Plan For CEO, Senior Execs Fuels Buyout Buzz",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2fef66ddecc93424f5297003596215bb578b0528c9a285adac3b0e5fc9973da",
-          "published_utc": "2026-09-29T01:11:44+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "swing_trading": [],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
