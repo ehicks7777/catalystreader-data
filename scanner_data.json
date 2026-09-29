@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T19:43:43.212399+00:00",
+  "updated": "2026-09-29T20:16:03.176076+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,13 +8,13 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 734.31,
-      "change_percent": 2.6117,
+      "price": 738.79,
+      "change_percent": 3.2378,
       "previous_close": 715.62,
-      "quote_timestamp": 1790710997.0,
-      "quote_time_utc": "2026-09-29T19:43:17+00:00",
-      "quote_age_seconds": 24,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790712000.0,
+      "quote_time_utc": "2026-09-29T20:00:00+00:00",
+      "quote_age_seconds": 962,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,28 +23,28 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "These 2 Numbers Explain Why Warren Buffett and Bill Ackman Love Alphabet, Amazon, Microsoft, and Meta",
+          "headline": "AI agents are coming to your home and office",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e5fe16063f9dd6ed4111dbfd11d4c5a1c2905557d82ff4e6ac8c74ffcdc65cec",
-          "published_utc": "2026-09-29T17:52:00+00:00"
+          "url": "https://finnhub.io/api/news?id=73f1c2ba4085b7e81027cd951ea067003e7fda138b82d18a8e60420eb1e589ec",
+          "published_utc": "2026-09-29T19:55:10+00:00"
         },
         {
-          "headline": "OpenAI debuts Dots AI agents in challenge to Meta's popular Muse agent",
+          "headline": "What we know about Trump's meeting with Alex Karp, Jensen Huang, & other AI leaders",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee8638ea7f606b64c791ac4e907fc12632d242fb17a31a5be627444bfb896b91",
-          "published_utc": "2026-09-29T17:46:16+00:00"
+          "url": "https://finnhub.io/api/news?id=67e08d454a277d7cec8c7c39f23a4940fa032ecc87f930f6b0b2d280ca99ef3b",
+          "published_utc": "2026-09-29T19:40:43+00:00"
         },
         {
-          "headline": "Apple Falls 2% as Bank of America Flags Meta\u2019s Shopping Agent; Alphabet Slips, Microsoft Holds Steady",
+          "headline": "Billionaire Investor: Meta\u2019s Muse Puts Apple\u2019s \u201c30% Rev Share on Notice\u201d",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=079983d534993d813acc1a04372fd4576a566e907c6daf552a7fd3919d8b8148",
-          "published_utc": "2026-09-29T17:43:07+00:00"
+          "url": "https://finnhub.io/api/news?id=cdb05e0a9f13723996cf6c32c7f4812e8ec3d2514488f07253d7b2c86d6720ad",
+          "published_utc": "2026-09-29T19:32:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
