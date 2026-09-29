@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T21:42:40.664807+00:00",
+  "updated": "2026-09-29T22:14:40.745988+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 715.62,
       "quote_timestamp": 1790712000.0,
       "quote_time_utc": "2026-09-29T20:00:00+00:00",
-      "quote_age_seconds": 6159,
+      "quote_age_seconds": 8077,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AI agents are coming to your home and office",
+          "headline": "Innodata vs. Nebius Group N.V.: Which AI Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=73f1c2ba4085b7e81027cd951ea067003e7fda138b82d18a8e60420eb1e589ec",
-          "published_utc": "2026-09-29T19:55:10+00:00"
+          "url": "https://finnhub.io/api/news?id=615b7162b6eaf6b0f459774c262e937f67c680f35108b40823c55b60f222259a",
+          "published_utc": "2026-09-29T21:37:01+00:00"
         },
         {
-          "headline": "What we know about Trump's meeting with Alex Karp, Jensen Huang, & other AI leaders",
+          "headline": "Meta Platforms (META) Could Be 30% Undervalued On Its Enterprise AI Push",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67e08d454a277d7cec8c7c39f23a4940fa032ecc87f930f6b0b2d280ca99ef3b",
-          "published_utc": "2026-09-29T19:40:43+00:00"
+          "url": "https://finnhub.io/api/news?id=be54b68f473452df60ff96e974c23dd46d2edfa7db1828070a22066a5c6763de",
+          "published_utc": "2026-09-29T21:07:36+00:00"
         },
         {
-          "headline": "Billionaire Investor: Meta\u2019s Muse Puts Apple\u2019s \u201c30% Rev Share on Notice\u201d",
+          "headline": "Meta's own fine print says you're responsible for every purchase its Muse AI agent makes with your card",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cdb05e0a9f13723996cf6c32c7f4812e8ec3d2514488f07253d7b2c86d6720ad",
-          "published_utc": "2026-09-29T19:32:36+00:00"
+          "url": "https://finnhub.io/api/news?id=b23d290bb5775f03291f774f6540110ea539aeaa9825b6380eb2bfecffacbfc9",
+          "published_utc": "2026-09-29T21:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
