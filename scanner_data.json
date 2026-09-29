@@ -1,11 +1,49 @@
 {
-  "updated": "2026-09-29T17:44:51.621495+00:00",
+  "updated": "2026-09-29T18:17:50.547558+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [],
+  "swing_trading": [
+    {
+      "symbol": "META",
+      "price": 730.94,
+      "change_percent": 2.1408,
+      "previous_close": 715.62,
+      "quote_timestamp": 1790705848.0,
+      "quote_time_utc": "2026-09-29T18:17:28+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "These 2 Numbers Explain Why Warren Buffett and Bill Ackman Love Alphabet, Amazon, Microsoft, and Meta",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e5fe16063f9dd6ed4111dbfd11d4c5a1c2905557d82ff4e6ac8c74ffcdc65cec",
+          "published_utc": "2026-09-29T17:52:00+00:00"
+        },
+        {
+          "headline": "OpenAI debuts Dots AI agents in challenge to Meta's popular Muse agent",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee8638ea7f606b64c791ac4e907fc12632d242fb17a31a5be627444bfb896b91",
+          "published_utc": "2026-09-29T17:46:16+00:00"
+        },
+        {
+          "headline": "Apple Falls 2% as Bank of America Flags Meta\u2019s Shopping Agent; Alphabet Slips, Microsoft Holds Steady",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=079983d534993d813acc1a04372fd4576a566e907c6daf552a7fd3919d8b8148",
+          "published_utc": "2026-09-29T17:43:07+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
