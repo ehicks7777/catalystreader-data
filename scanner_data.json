@@ -1,49 +1,11 @@
 {
-  "updated": "2026-09-29T15:17:23.735179+00:00",
+  "updated": "2026-09-29T15:46:28.570256+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "SOUN",
-      "price": 5.97,
-      "change_percent": 2.4014,
-      "previous_close": 5.83,
-      "quote_timestamp": 1790695015.0,
-      "quote_time_utc": "2026-09-29T15:16:55+00:00",
-      "quote_age_seconds": 27,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "EXCLUSIVE: SoundHound CEO's Winning Formula: 'AI Resolves What It Can, Humans Handle What They Should'",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=497cdf9f34076ab0e07f49894379f67818c039820af5c61f5de1207b6abd16e7",
-          "published_utc": "2026-09-29T08:27:01+00:00"
-        },
-        {
-          "headline": "Innodata vs. SoundHound AI: Which Technology Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=abfd7b171044e225069cb6f2890717e894ae97a7222c25ff15619383cf0d2a1a",
-          "published_utc": "2026-09-28T20:47:01+00:00"
-        },
-        {
-          "headline": "SoundHound vs. BigBear.ai: Which AI Stock Is the Better Buy Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=50872f13f4227f309f574c91507652c892f61f48de8c7f2f8d476a019fd363a1",
-          "published_utc": "2026-09-28T15:49:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "swing_trading": [],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
