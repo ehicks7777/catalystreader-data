@@ -1,18 +1,55 @@
 {
-  "updated": "2026-09-30T16:17:33.573622+00:00",
+  "updated": "2026-09-30T16:45:37.087447+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
+      "symbol": "ASTS",
+      "price": 62.35,
+      "change_percent": 4.9663,
+      "previous_close": 59.4,
+      "quote_timestamp": 1790786715.0,
+      "quote_time_utc": "2026-09-30T16:45:15+00:00",
+      "quote_age_seconds": 21,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
+          "published_utc": "2026-09-30T11:34:51+00:00"
+        },
+        {
+          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
+          "published_utc": "2026-09-30T10:00:31+00:00"
+        },
+        {
+          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
+          "published_utc": "2026-09-30T08:29:53+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "SOUN",
       "price": 6.13,
       "change_percent": 4.9658,
       "previous_close": 5.84,
-      "quote_timestamp": 1790785038.0,
-      "quote_time_utc": "2026-09-30T16:17:18+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790786716.0,
+      "quote_time_utc": "2026-09-30T16:45:16+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,13 +80,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "ASTS",
-      "price": 62.07,
-      "change_percent": 4.4949,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790785033.0,
-      "quote_time_utc": "2026-09-30T16:17:13+00:00",
-      "quote_age_seconds": 16,
+      "symbol": "RKLB",
+      "price": 72.41,
+      "change_percent": 3.8881,
+      "previous_close": 69.7,
+      "quote_timestamp": 1790786715.0,
+      "quote_time_utc": "2026-09-30T16:45:15+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,22 +96,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
+          "headline": "3 Space Stocks to Buy in October",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
-          "published_utc": "2026-09-30T11:34:51+00:00"
+          "url": "https://finnhub.io/api/news?id=2759e491fbbad0507f8cdf053f7ecd6454200a82d25da6155d27d5f8086ad958",
+          "published_utc": "2026-09-30T15:07:00+00:00"
         },
         {
-          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
-          "published_utc": "2026-09-30T10:00:31+00:00"
+          "headline": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf8378397b189cf534c37486827b99efb7f82bd0bd1c5fdfd7e8079f001528c2",
+          "published_utc": "2026-09-30T14:03:47+00:00"
         },
         {
-          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
+          "headline": "Is LUNR Building a Full-Service Space Infrastructure Platform?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
-          "published_utc": "2026-09-30T08:29:53+00:00"
+          "url": "https://finnhub.io/api/news?id=638ead0c10199f8e71348886e4e97a42ef1fc7f55e1d512454a783e90d3b2081",
+          "published_utc": "2026-09-30T13:20:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -82,50 +119,13 @@
   ],
   "swing_trading": [
     {
-      "symbol": "SOUN",
-      "price": 6.13,
-      "change_percent": 4.9658,
-      "previous_close": 5.84,
-      "quote_timestamp": 1790785038.0,
-      "quote_time_utc": "2026-09-30T16:17:18+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SoundHound AI Deploys Voice And Generative AI Technology Kia's Sorento Model In India",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fde731358d6ff140f452b38d4c5756aae0fcfddbaab4d976d8693c9ab5d0ded7",
-          "published_utc": "2026-09-30T09:14:22+00:00"
-        },
-        {
-          "headline": "SoundHound AI's Product Is Exciting, But The Execution Is Missing",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=77cf5206b5f88e6d09fa15149f3eca638efd217fd45da4896d8370ac262560be",
-          "published_utc": "2026-09-29T22:20:22+00:00"
-        },
-        {
-          "headline": "2 Short-Squeeze Candidates Waiting for the Right Catalyst",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84914cc10596c100a121b4db13c1230c640afaeac9782e0f8e32fcbbef80f05d",
-          "published_utc": "2026-09-29T12:35:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "ASTS",
-      "price": 62.07,
-      "change_percent": 4.4949,
+      "price": 62.35,
+      "change_percent": 4.9663,
       "previous_close": 59.4,
-      "quote_timestamp": 1790785033.0,
-      "quote_time_utc": "2026-09-30T16:17:13+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1790786715.0,
+      "quote_time_utc": "2026-09-30T16:45:15+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -156,13 +156,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RKLB",
-      "price": 71.67,
-      "change_percent": 2.8264,
-      "previous_close": 69.7,
-      "quote_timestamp": 1790785037.0,
-      "quote_time_utc": "2026-09-30T16:17:17+00:00",
-      "quote_age_seconds": 12,
+      "symbol": "SOUN",
+      "price": 6.13,
+      "change_percent": 4.9658,
+      "previous_close": 5.84,
+      "quote_timestamp": 1790786716.0,
+      "quote_time_utc": "2026-09-30T16:45:16+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -172,34 +172,71 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation",
+          "headline": "SoundHound AI Deploys Voice And Generative AI Technology Kia's Sorento Model In India",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=fde731358d6ff140f452b38d4c5756aae0fcfddbaab4d976d8693c9ab5d0ded7",
+          "published_utc": "2026-09-30T09:14:22+00:00"
+        },
+        {
+          "headline": "SoundHound AI's Product Is Exciting, But The Execution Is Missing",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=77cf5206b5f88e6d09fa15149f3eca638efd217fd45da4896d8370ac262560be",
+          "published_utc": "2026-09-29T22:20:22+00:00"
+        },
+        {
+          "headline": "2 Short-Squeeze Candidates Waiting for the Right Catalyst",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d91ffcd886550c0dc8eb5aa7128022073000a7eaea622bf8197e05449aa4f24f",
-          "published_utc": "2026-09-30T11:07:00+00:00"
+          "url": "https://finnhub.io/api/news?id=84914cc10596c100a121b4db13c1230c640afaeac9782e0f8e32fcbbef80f05d",
+          "published_utc": "2026-09-29T12:35:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 72.41,
+      "change_percent": 3.8881,
+      "previous_close": 69.7,
+      "quote_timestamp": 1790786715.0,
+      "quote_time_utc": "2026-09-30T16:45:15+00:00",
+      "quote_age_seconds": 21,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "3 Space Stocks to Buy in October",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2759e491fbbad0507f8cdf053f7ecd6454200a82d25da6155d27d5f8086ad958",
+          "published_utc": "2026-09-30T15:07:00+00:00"
         },
         {
-          "headline": "What's Happening With Rocket Lab Stock Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=02a890bb04b503bc7cfd6c65a99d196f0702831938952feb9c5e936a8f132c8f",
-          "published_utc": "2026-09-30T09:19:16+00:00"
+          "headline": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cf8378397b189cf534c37486827b99efb7f82bd0bd1c5fdfd7e8079f001528c2",
+          "published_utc": "2026-09-30T14:03:47+00:00"
         },
         {
-          "headline": "EXCLUSIVE: Space Insurer on What Starship\u2019s First Orbital Flight Means for SpaceX and the Space Economy",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8dbdc8ba5803c0a90e69f31a87bef68b4c843fd1c5690d1c4a41fcc3852a3e70",
-          "published_utc": "2026-09-30T08:50:17+00:00"
+          "headline": "Is LUNR Building a Full-Service Space Infrastructure Platform?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=638ead0c10199f8e71348886e4e97a42ef1fc7f55e1d512454a783e90d3b2081",
+          "published_utc": "2026-09-30T13:20:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "AAPL",
-      "price": 336.82,
-      "change_percent": 2.2526,
+      "price": 336.89,
+      "change_percent": 2.2738,
       "previous_close": 329.4,
-      "quote_timestamp": 1790785038.0,
-      "quote_time_utc": "2026-09-30T16:17:18+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790786719.0,
+      "quote_time_utc": "2026-09-30T16:45:19+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -231,12 +268,12 @@
     },
     {
       "symbol": "AMZN",
-      "price": 251.92,
-      "change_percent": 2.1283,
+      "price": 251.66,
+      "change_percent": 2.0229,
       "previous_close": 246.67,
-      "quote_timestamp": 1790785037.0,
-      "quote_time_utc": "2026-09-30T16:17:17+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1790786719.0,
+      "quote_time_utc": "2026-09-30T16:45:19+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -262,6 +299,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=eae9b312e71ee662f58c3d5de5d579c5c2a9ec52b72e7ea4125d2d519ac0d804",
           "published_utc": "2026-09-30T15:30:51+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 44.79,
+      "change_percent": 2.0041,
+      "previous_close": 43.91,
+      "quote_timestamp": 1790786718.0,
+      "quote_time_utc": "2026-09-30T16:45:18+00:00",
+      "quote_age_seconds": 18,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "IonQ vs. Microsoft: Which Stock Has More Quantum Upside in October?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a2d38083fbfe86a97c15a0d9b7222f29a4cd489d7bfbd00b4993ae9ffe67d69",
+          "published_utc": "2026-09-29T18:00:00+00:00"
+        },
+        {
+          "headline": "A Year Ago, We Called IBM the Next Nvidia. It Lost Money but Still Beat Every Quantum Startup.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dede9c391987260bad5feceabd7dbc4890f35497f9c51d8b2d643d878b51d3cd",
+          "published_utc": "2026-09-29T15:40:16+00:00"
+        },
+        {
+          "headline": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here\u2019s Why That Split Matters",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85da021d2cbeb202a2251c521cb4e8a3f2ea884da57a228b760c78fbed618826",
+          "published_utc": "2026-09-29T14:57:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
