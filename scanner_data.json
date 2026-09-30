@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T11:44:57.667435+00:00",
+  "updated": "2026-09-30T12:22:34.874704+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 715.62,
       "quote_timestamp": 1790712000.0,
       "quote_time_utc": "2026-09-29T20:00:00+00:00",
-      "quote_age_seconds": 56696,
+      "quote_age_seconds": 58953,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AI companies just signed a White House accord -- this is all that tech people are talking about after it",
+          "headline": "Meta cut its tax bill billions by labeling AI data centers experimental",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9b37e8345986b8edacc784cd063df7f8eb171e1a2299aaa60d5c3a54b32cfaf",
-          "published_utc": "2026-09-30T09:58:52+00:00"
+          "url": "https://finnhub.io/api/news?id=75362e589cf71b3165d971a2225b6fabaf4f0a2ede9733b6a78f233c8c365ba0",
+          "published_utc": "2026-09-30T11:51:06+00:00"
         },
         {
-          "headline": "META Eyes Best Month Since 2013 On Muse AI Strength",
+          "headline": "Meta Platforms Is Up Nearly 25% in September. Does It Have Room to Rise Further?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3fa90f506f5a6b2aa62ee32d449bc822459cc2885eb9c18c4aeeb71aca7d5d32",
-          "published_utc": "2026-09-30T09:04:47+00:00"
+          "url": "https://finnhub.io/api/news?id=13adfcc9a66dacb93ebc35a539710763d01a05ecef6af1b3617e3cf90b6b5f84",
+          "published_utc": "2026-09-30T11:42:00+00:00"
         },
         {
-          "headline": "Fair Isaac Loses a Quarter of Its Value as the 30-Year Yield Hits a 2002 High",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=3419da5b72afb3a816e0d7b3ea6bbd102cd9791da155b04831fc7860e66b82a4",
-          "published_utc": "2026-09-30T08:57:55+00:00"
+          "headline": "Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and reshape the US economy",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=55b92248f3b7ddcb83acc800231305d7469e90dc34de4314f1786a6e1c05139b",
+          "published_utc": "2026-09-30T11:07:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
