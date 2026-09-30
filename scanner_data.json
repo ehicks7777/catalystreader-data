@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T01:44:00.220500+00:00",
+  "updated": "2026-09-30T02:14:21.990439+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 715.62,
       "quote_timestamp": 1790712000.0,
       "quote_time_utc": "2026-09-29T20:00:00+00:00",
-      "quote_age_seconds": 20639,
+      "quote_age_seconds": 22461,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "S&P 500 investors may have more tech exposure than they think: Here's how one wealth manager mitigates concentration risk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2a83eca63e96323d9f57e3ecab19ccf880b913d9eeec9e0fec70a3955535926b",
+          "published_utc": "2026-09-30T00:21:07+00:00"
+        },
         {
           "headline": "MongoDB Not in a Rush to Find CEO Successor, Ittycheria Says",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4cf2463e957e51b7705c9f9c195a13d2de700b994b94aeb15f1e6e6389b037d9",
           "published_utc": "2026-09-29T22:02:08+00:00"
-        },
-        {
-          "headline": "Should You Buy The Dip In MongoDB Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ccf5e7a297292ba0a91ba6fa32c317633fb9b14e4251e95d6af183fb285b590c",
-          "published_utc": "2026-09-29T21:59:31+00:00"
         }
       ],
       "news_status": "Recent headlines found"
