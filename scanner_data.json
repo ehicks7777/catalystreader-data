@@ -1,92 +1,18 @@
 {
-  "updated": "2026-09-30T14:48:33.900880+00:00",
+  "updated": "2026-09-30T15:19:07.820520+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "RKLB",
-      "price": 73.04,
-      "change_percent": 4.792,
-      "previous_close": 69.7,
-      "quote_timestamp": 1790779691.0,
-      "quote_time_utc": "2026-09-30T14:48:11+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d91ffcd886550c0dc8eb5aa7128022073000a7eaea622bf8197e05449aa4f24f",
-          "published_utc": "2026-09-30T11:07:00+00:00"
-        },
-        {
-          "headline": "What's Happening With Rocket Lab Stock Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=02a890bb04b503bc7cfd6c65a99d196f0702831938952feb9c5e936a8f132c8f",
-          "published_utc": "2026-09-30T09:19:16+00:00"
-        },
-        {
-          "headline": "EXCLUSIVE: Space Insurer on What Starship\u2019s First Orbital Flight Means for SpaceX and the Space Economy",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8dbdc8ba5803c0a90e69f31a87bef68b4c843fd1c5690d1c4a41fcc3852a3e70",
-          "published_utc": "2026-09-30T08:50:17+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 61.86,
-      "change_percent": 4.1414,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790779690.0,
-      "quote_time_utc": "2026-09-30T14:48:10+00:00",
-      "quote_age_seconds": 23,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
-          "published_utc": "2026-09-30T11:34:51+00:00"
-        },
-        {
-          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
-          "published_utc": "2026-09-30T08:29:53+00:00"
-        },
-        {
-          "headline": "ASTS Stock Rises Overnight: Partner AT&T Questions SpaceX\u2019s Plan To Disrupt Wireless Carriers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8e71038b555bebdf505588c678643f82ebfe0b7b379780606b048069c483ceb",
-          "published_utc": "2026-09-30T06:43:50+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SOUN",
-      "price": 6.08,
-      "change_percent": 4.1096,
+      "price": 6.12,
+      "change_percent": 4.7945,
       "previous_close": 5.84,
-      "quote_timestamp": 1790779691.0,
-      "quote_time_utc": "2026-09-30T14:48:11+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790781528.0,
+      "quote_time_utc": "2026-09-30T15:18:48+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -117,13 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "IONQ",
-      "price": 45.5,
-      "change_percent": 3.621,
-      "previous_close": 43.91,
-      "quote_timestamp": 1790779690.0,
-      "quote_time_utc": "2026-09-30T14:48:10+00:00",
-      "quote_age_seconds": 23,
+      "symbol": "ASTS",
+      "price": 62.02,
+      "change_percent": 4.4108,
+      "previous_close": 59.4,
+      "quote_timestamp": 1790781525.0,
+      "quote_time_utc": "2026-09-30T15:18:45+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -133,22 +59,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "IonQ vs. Microsoft: Which Stock Has More Quantum Upside in October?",
+          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a2d38083fbfe86a97c15a0d9b7222f29a4cd489d7bfbd00b4993ae9ffe67d69",
-          "published_utc": "2026-09-29T18:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
+          "published_utc": "2026-09-30T11:34:51+00:00"
         },
         {
-          "headline": "A Year Ago, We Called IBM the Next Nvidia. It Lost Money but Still Beat Every Quantum Startup.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dede9c391987260bad5feceabd7dbc4890f35497f9c51d8b2d643d878b51d3cd",
-          "published_utc": "2026-09-29T15:40:16+00:00"
+          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
+          "published_utc": "2026-09-30T10:00:31+00:00"
         },
         {
-          "headline": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here\u2019s Why That Split Matters",
+          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=85da021d2cbeb202a2251c521cb4e8a3f2ea884da57a228b760c78fbed618826",
-          "published_utc": "2026-09-29T14:57:23+00:00"
+          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
+          "published_utc": "2026-09-30T08:29:53+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 72.3,
+      "change_percent": 3.7303,
+      "previous_close": 69.7,
+      "quote_timestamp": 1790781529.0,
+      "quote_time_utc": "2026-09-30T15:18:49+00:00",
+      "quote_age_seconds": 16,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d91ffcd886550c0dc8eb5aa7128022073000a7eaea622bf8197e05449aa4f24f",
+          "published_utc": "2026-09-30T11:07:00+00:00"
+        },
+        {
+          "headline": "What's Happening With Rocket Lab Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=02a890bb04b503bc7cfd6c65a99d196f0702831938952feb9c5e936a8f132c8f",
+          "published_utc": "2026-09-30T09:19:16+00:00"
+        },
+        {
+          "headline": "EXCLUSIVE: Space Insurer on What Starship\u2019s First Orbital Flight Means for SpaceX and the Space Economy",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8dbdc8ba5803c0a90e69f31a87bef68b4c843fd1c5690d1c4a41fcc3852a3e70",
+          "published_utc": "2026-09-30T08:50:17+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -156,87 +119,13 @@
   ],
   "swing_trading": [
     {
-      "symbol": "RKLB",
-      "price": 73.04,
-      "change_percent": 4.792,
-      "previous_close": 69.7,
-      "quote_timestamp": 1790779691.0,
-      "quote_time_utc": "2026-09-30T14:48:11+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d91ffcd886550c0dc8eb5aa7128022073000a7eaea622bf8197e05449aa4f24f",
-          "published_utc": "2026-09-30T11:07:00+00:00"
-        },
-        {
-          "headline": "What's Happening With Rocket Lab Stock Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=02a890bb04b503bc7cfd6c65a99d196f0702831938952feb9c5e936a8f132c8f",
-          "published_utc": "2026-09-30T09:19:16+00:00"
-        },
-        {
-          "headline": "EXCLUSIVE: Space Insurer on What Starship\u2019s First Orbital Flight Means for SpaceX and the Space Economy",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=8dbdc8ba5803c0a90e69f31a87bef68b4c843fd1c5690d1c4a41fcc3852a3e70",
-          "published_utc": "2026-09-30T08:50:17+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 61.86,
-      "change_percent": 4.1414,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790779690.0,
-      "quote_time_utc": "2026-09-30T14:48:10+00:00",
-      "quote_age_seconds": 23,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
-          "published_utc": "2026-09-30T11:34:51+00:00"
-        },
-        {
-          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
-          "published_utc": "2026-09-30T08:29:53+00:00"
-        },
-        {
-          "headline": "ASTS Stock Rises Overnight: Partner AT&T Questions SpaceX\u2019s Plan To Disrupt Wireless Carriers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b8e71038b555bebdf505588c678643f82ebfe0b7b379780606b048069c483ceb",
-          "published_utc": "2026-09-30T06:43:50+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SOUN",
-      "price": 6.08,
-      "change_percent": 4.1096,
+      "price": 6.12,
+      "change_percent": 4.7945,
       "previous_close": 5.84,
-      "quote_timestamp": 1790779691.0,
-      "quote_time_utc": "2026-09-30T14:48:11+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790781528.0,
+      "quote_time_utc": "2026-09-30T15:18:48+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -267,13 +156,87 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "ASTS",
+      "price": 62.02,
+      "change_percent": 4.4108,
+      "previous_close": 59.4,
+      "quote_timestamp": 1790781525.0,
+      "quote_time_utc": "2026-09-30T15:18:45+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
+          "published_utc": "2026-09-30T11:34:51+00:00"
+        },
+        {
+          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
+          "published_utc": "2026-09-30T10:00:31+00:00"
+        },
+        {
+          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
+          "published_utc": "2026-09-30T08:29:53+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 72.3,
+      "change_percent": 3.7303,
+      "previous_close": 69.7,
+      "quote_timestamp": 1790781529.0,
+      "quote_time_utc": "2026-09-30T15:18:49+00:00",
+      "quote_age_seconds": 16,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d91ffcd886550c0dc8eb5aa7128022073000a7eaea622bf8197e05449aa4f24f",
+          "published_utc": "2026-09-30T11:07:00+00:00"
+        },
+        {
+          "headline": "What's Happening With Rocket Lab Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=02a890bb04b503bc7cfd6c65a99d196f0702831938952feb9c5e936a8f132c8f",
+          "published_utc": "2026-09-30T09:19:16+00:00"
+        },
+        {
+          "headline": "EXCLUSIVE: Space Insurer on What Starship\u2019s First Orbital Flight Means for SpaceX and the Space Economy",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8dbdc8ba5803c0a90e69f31a87bef68b4c843fd1c5690d1c4a41fcc3852a3e70",
+          "published_utc": "2026-09-30T08:50:17+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "IONQ",
-      "price": 45.5,
-      "change_percent": 3.621,
+      "price": 45.14,
+      "change_percent": 2.8012,
       "previous_close": 43.91,
-      "quote_timestamp": 1790779690.0,
-      "quote_time_utc": "2026-09-30T14:48:10+00:00",
-      "quote_age_seconds": 23,
+      "quote_timestamp": 1790781530.0,
+      "quote_time_utc": "2026-09-30T15:18:50+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -305,12 +268,12 @@
     },
     {
       "symbol": "AAPL",
-      "price": 338.49,
-      "change_percent": 2.7596,
+      "price": 337.51,
+      "change_percent": 2.4621,
       "previous_close": 329.4,
-      "quote_timestamp": 1790779691.0,
-      "quote_time_utc": "2026-09-30T14:48:11+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790781530.0,
+      "quote_time_utc": "2026-09-30T15:18:50+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -341,13 +304,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "AMZN",
+      "price": 252.25,
+      "change_percent": 2.2621,
+      "previous_close": 246.67,
+      "quote_timestamp": 1790781529.0,
+      "quote_time_utc": "2026-09-30T15:18:49+00:00",
+      "quote_age_seconds": 16,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "AWS signs $1B+ chip design licensing deal with Synopsys",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=18624a06df4fff4be8675f2445b1d1cc0953cdca8482952124abeb2de2fc89e1",
+          "published_utc": "2026-09-30T13:46:33+00:00"
+        },
+        {
+          "headline": "What Is Going On With Alphabet Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=49d1d3b79d7dc5a1efd555d654302647783c97744349a8e8cb34cf1ff6d695be",
+          "published_utc": "2026-09-30T13:35:17+00:00"
+        },
+        {
+          "headline": "Elon Musk takes aim at Delta for refusing to use Starlink for Wi-Fi",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3d9f02d4a929cb26a79cc80db22cffc0fbc8edd38bd34be0c2393f0b1ed262bd",
+          "published_utc": "2026-09-30T13:10:05+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "RGTI",
-      "price": 16.13,
-      "change_percent": 2.4778,
+      "price": 16.09,
+      "change_percent": 2.2236,
       "previous_close": 15.74,
-      "quote_timestamp": 1790779685.0,
-      "quote_time_utc": "2026-09-30T14:48:05+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790781530.0,
+      "quote_time_utc": "2026-09-30T15:18:50+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
