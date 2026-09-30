@@ -1,55 +1,18 @@
 {
-  "updated": "2026-09-30T17:43:57.892608+00:00",
+  "updated": "2026-09-30T18:17:09.523189+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "ASTS",
-      "price": 62.01,
-      "change_percent": 4.3939,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790790216.0,
-      "quote_time_utc": "2026-09-30T17:43:36+00:00",
-      "quote_age_seconds": 20,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
-          "published_utc": "2026-09-30T11:34:51+00:00"
-        },
-        {
-          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
-          "published_utc": "2026-09-30T10:00:31+00:00"
-        },
-        {
-          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
-          "published_utc": "2026-09-30T08:29:53+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SOUN",
-      "price": 6.07,
-      "change_percent": 3.9384,
+      "price": 6.06,
+      "change_percent": 3.7671,
       "previous_close": 5.84,
-      "quote_timestamp": 1790790217.0,
-      "quote_time_utc": "2026-09-30T17:43:37+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1790792200.0,
+      "quote_time_utc": "2026-09-30T18:16:40+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -75,43 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=84914cc10596c100a121b4db13c1230c640afaeac9782e0f8e32fcbbef80f05d",
           "published_utc": "2026-09-29T12:35:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 72.21,
-      "change_percent": 3.6011,
-      "previous_close": 69.7,
-      "quote_timestamp": 1790790217.0,
-      "quote_time_utc": "2026-09-30T17:43:37+00:00",
-      "quote_age_seconds": 19,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "3 Space Stocks to Buy in October",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2759e491fbbad0507f8cdf053f7ecd6454200a82d25da6155d27d5f8086ad958",
-          "published_utc": "2026-09-30T15:07:00+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf8378397b189cf534c37486827b99efb7f82bd0bd1c5fdfd7e8079f001528c2",
-          "published_utc": "2026-09-30T14:03:47+00:00"
-        },
-        {
-          "headline": "Is LUNR Building a Full-Service Space Infrastructure Platform?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=638ead0c10199f8e71348886e4e97a42ef1fc7f55e1d512454a783e90d3b2081",
-          "published_utc": "2026-09-30T13:20:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -119,50 +45,13 @@
   ],
   "swing_trading": [
     {
-      "symbol": "ASTS",
-      "price": 62.01,
-      "change_percent": 4.3939,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790790216.0,
-      "quote_time_utc": "2026-09-30T17:43:36+00:00",
-      "quote_age_seconds": 20,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
-          "published_utc": "2026-09-30T11:34:51+00:00"
-        },
-        {
-          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
-          "published_utc": "2026-09-30T10:00:31+00:00"
-        },
-        {
-          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
-          "published_utc": "2026-09-30T08:29:53+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SOUN",
-      "price": 6.07,
-      "change_percent": 3.9384,
+      "price": 6.06,
+      "change_percent": 3.7671,
       "previous_close": 5.84,
-      "quote_timestamp": 1790790217.0,
-      "quote_time_utc": "2026-09-30T17:43:37+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1790792200.0,
+      "quote_time_utc": "2026-09-30T18:16:40+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -193,13 +82,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RKLB",
-      "price": 72.21,
-      "change_percent": 3.6011,
-      "previous_close": 69.7,
-      "quote_timestamp": 1790790217.0,
-      "quote_time_utc": "2026-09-30T17:43:37+00:00",
-      "quote_age_seconds": 19,
+      "symbol": "ASTS",
+      "price": 61.09,
+      "change_percent": 2.8451,
+      "previous_close": 59.4,
+      "quote_timestamp": 1790792201.0,
+      "quote_time_utc": "2026-09-30T18:16:41+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -209,34 +98,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "3 Space Stocks to Buy in October",
+          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2759e491fbbad0507f8cdf053f7ecd6454200a82d25da6155d27d5f8086ad958",
-          "published_utc": "2026-09-30T15:07:00+00:00"
+          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
+          "published_utc": "2026-09-30T11:34:51+00:00"
         },
         {
-          "headline": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf8378397b189cf534c37486827b99efb7f82bd0bd1c5fdfd7e8079f001528c2",
-          "published_utc": "2026-09-30T14:03:47+00:00"
+          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
+          "published_utc": "2026-09-30T10:00:31+00:00"
         },
         {
-          "headline": "Is LUNR Building a Full-Service Space Infrastructure Platform?",
+          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=638ead0c10199f8e71348886e4e97a42ef1fc7f55e1d512454a783e90d3b2081",
-          "published_utc": "2026-09-30T13:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
+          "published_utc": "2026-09-30T08:29:53+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "AAPL",
-      "price": 336.43,
-      "change_percent": 2.1342,
+      "price": 336.52,
+      "change_percent": 2.1615,
       "previous_close": 329.4,
-      "quote_timestamp": 1790790216.0,
-      "quote_time_utc": "2026-09-30T17:43:36+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790792203.0,
+      "quote_time_utc": "2026-09-30T18:16:43+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -246,22 +135,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=77ef1c904bb3386988b017a5a99d23d7af9be8d6552ba602ebe18ed579b59213",
-          "published_utc": "2026-09-30T16:40:16+00:00"
+          "headline": "ERI\u2019s David Hirschler Shares Insights on the Critical Material Supply Chain at NY Climate Week\u2019s WBCSD Roundtable Event",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6925a72bb9d18b08c3439366076ebddf7f1b07cf32c05e949f7f23de5c22a4f2",
+          "published_utc": "2026-09-30T17:40:00+00:00"
         },
         {
-          "headline": "Stock Market Today: Nasdaq Leads Rise; AI Giant Microsoft Tests A New Entry (Live Coverage)",
+          "headline": "How Much Upside Is Left In Microsoft Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bdf695d8ec59f60c9c792ad96f4f917a700d182be709eb34dd52b4ee23a6cc54",
-          "published_utc": "2026-09-30T15:40:34+00:00"
+          "url": "https://finnhub.io/api/news?id=3926ec6233fba3eba3a55e9bef398e1d8eec69d336d1aace4a5c08fa28389b73",
+          "published_utc": "2026-09-30T17:26:50+00:00"
         },
         {
-          "headline": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
+          "headline": "Cramer Says Buy Apple Before New Phone Comes Out. Because Apple\u2019s Duo Model Is, \u201cKind Of Astounding\u201d",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69fc7e2992015acd6c84778a8d7fd89a7454eb78b54d5fb382c4773ae8f30778",
-          "published_utc": "2026-09-30T15:09:17+00:00"
+          "url": "https://finnhub.io/api/news?id=49cacb9c9c1d8eae92007f150c6e13417160ceb7987bfb2b4a354933b1295a61",
+          "published_utc": "2026-09-30T16:46:59+00:00"
         }
       ],
       "news_status": "Recent headlines found"
