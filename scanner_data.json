@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:45:37.087447+00:00",
+  "updated": "2026-09-30T17:15:23.759235+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.35,
-      "change_percent": 4.9663,
+      "price": 62.11,
+      "change_percent": 4.5623,
       "previous_close": 59.4,
-      "quote_timestamp": 1790786715.0,
-      "quote_time_utc": "2026-09-30T16:45:15+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790788481.0,
+      "quote_time_utc": "2026-09-30T17:14:41+00:00",
+      "quote_age_seconds": 40,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "SOUN",
-      "price": 6.13,
-      "change_percent": 4.9658,
+      "price": 6.09,
+      "change_percent": 4.2808,
       "previous_close": 5.84,
-      "quote_timestamp": 1790786716.0,
-      "quote_time_utc": "2026-09-30T16:45:16+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790788506.0,
+      "quote_time_utc": "2026-09-30T17:15:06+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -81,12 +81,12 @@
     },
     {
       "symbol": "RKLB",
-      "price": 72.41,
-      "change_percent": 3.8881,
+      "price": 72.1,
+      "change_percent": 3.4433,
       "previous_close": 69.7,
-      "quote_timestamp": 1790786715.0,
-      "quote_time_utc": "2026-09-30T16:45:15+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790788491.0,
+      "quote_time_utc": "2026-09-30T17:14:51+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.35,
-      "change_percent": 4.9663,
+      "price": 62.11,
+      "change_percent": 4.5623,
       "previous_close": 59.4,
-      "quote_timestamp": 1790786715.0,
-      "quote_time_utc": "2026-09-30T16:45:15+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790788481.0,
+      "quote_time_utc": "2026-09-30T17:14:41+00:00",
+      "quote_age_seconds": 40,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -157,12 +157,12 @@
     },
     {
       "symbol": "SOUN",
-      "price": 6.13,
-      "change_percent": 4.9658,
+      "price": 6.09,
+      "change_percent": 4.2808,
       "previous_close": 5.84,
-      "quote_timestamp": 1790786716.0,
-      "quote_time_utc": "2026-09-30T16:45:16+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1790788506.0,
+      "quote_time_utc": "2026-09-30T17:15:06+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -194,12 +194,12 @@
     },
     {
       "symbol": "RKLB",
-      "price": 72.41,
-      "change_percent": 3.8881,
+      "price": 72.1,
+      "change_percent": 3.4433,
       "previous_close": 69.7,
-      "quote_timestamp": 1790786715.0,
-      "quote_time_utc": "2026-09-30T16:45:15+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1790788491.0,
+      "quote_time_utc": "2026-09-30T17:14:51+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -231,12 +231,12 @@
     },
     {
       "symbol": "AAPL",
-      "price": 336.89,
-      "change_percent": 2.2738,
+      "price": 336.01,
+      "change_percent": 2.0067,
       "previous_close": 329.4,
-      "quote_timestamp": 1790786719.0,
-      "quote_time_utc": "2026-09-30T16:45:19+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1790788490.0,
+      "quote_time_utc": "2026-09-30T17:14:50+00:00",
+      "quote_age_seconds": 31,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -245,6 +245,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=77ef1c904bb3386988b017a5a99d23d7af9be8d6552ba602ebe18ed579b59213",
+          "published_utc": "2026-09-30T16:40:16+00:00"
+        },
         {
           "headline": "Stock Market Today: Nasdaq Leads Rise; AI Giant Microsoft Tests A New Entry (Live Coverage)",
           "source": "Yahoo",
@@ -256,86 +262,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=69fc7e2992015acd6c84778a8d7fd89a7454eb78b54d5fb382c4773ae8f30778",
           "published_utc": "2026-09-30T15:09:17+00:00"
-        },
-        {
-          "headline": "Jensen Huang's biggest Q3 moves, Rubrik CEO talks tech & cybersecurity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93c2707e2f0a9186fdc9d902e22d99166b282dd6cefb5bab97000b1450b46872",
-          "published_utc": "2026-09-30T15:07:32+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMZN",
-      "price": 251.66,
-      "change_percent": 2.0229,
-      "previous_close": 246.67,
-      "quote_timestamp": 1790786719.0,
-      "quote_time_utc": "2026-09-30T16:45:19+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Corning vs. Honeywell International: Which Technology Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d14b151e499de4cf899876567dd47db75823eb6d70e590af0f301ee362b48451",
-          "published_utc": "2026-09-30T15:51:28+00:00"
-        },
-        {
-          "headline": "Amazon Target Lifted as Rosenblatt Says AI Agents Won\u2019t Disrupt Business Model",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=06c88b73028e8cee8ce985ccdbeecbf06308e43349b76063dd9030db7434a4bb",
-          "published_utc": "2026-09-30T15:45:19+00:00"
-        },
-        {
-          "headline": "The AI Revolution Could Be Microsoft\u2019s Next Trillion-Dollar Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eae9b312e71ee662f58c3d5de5d579c5c2a9ec52b72e7ea4125d2d519ac0d804",
-          "published_utc": "2026-09-30T15:30:51+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 44.79,
-      "change_percent": 2.0041,
-      "previous_close": 43.91,
-      "quote_timestamp": 1790786718.0,
-      "quote_time_utc": "2026-09-30T16:45:18+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "IonQ vs. Microsoft: Which Stock Has More Quantum Upside in October?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a2d38083fbfe86a97c15a0d9b7222f29a4cd489d7bfbd00b4993ae9ffe67d69",
-          "published_utc": "2026-09-29T18:00:00+00:00"
-        },
-        {
-          "headline": "A Year Ago, We Called IBM the Next Nvidia. It Lost Money but Still Beat Every Quantum Startup.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dede9c391987260bad5feceabd7dbc4890f35497f9c51d8b2d643d878b51d3cd",
-          "published_utc": "2026-09-29T15:40:16+00:00"
-        },
-        {
-          "headline": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here\u2019s Why That Split Matters",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=85da021d2cbeb202a2251c521cb4e8a3f2ea884da57a228b760c78fbed618826",
-          "published_utc": "2026-09-29T14:57:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
