@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:17:09.523189+00:00",
+  "updated": "2026-09-30T18:48:27.317615+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "SOUN",
-      "price": 6.06,
-      "change_percent": 3.7671,
+      "price": 6.09,
+      "change_percent": 4.2808,
       "previous_close": 5.84,
-      "quote_timestamp": 1790792200.0,
-      "quote_time_utc": "2026-09-30T18:16:40+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790794076.0,
+      "quote_time_utc": "2026-09-30T18:47:56+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "SOUN",
-      "price": 6.06,
-      "change_percent": 3.7671,
+      "price": 6.09,
+      "change_percent": 4.2808,
       "previous_close": 5.84,
-      "quote_timestamp": 1790792200.0,
-      "quote_time_utc": "2026-09-30T18:16:40+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790794076.0,
+      "quote_time_utc": "2026-09-30T18:47:56+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -82,50 +82,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "ASTS",
-      "price": 61.09,
-      "change_percent": 2.8451,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790792201.0,
-      "quote_time_utc": "2026-09-30T18:16:41+00:00",
-      "quote_age_seconds": 27,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can AST SpaceMobile Grow Revenue From $71 Million to More Than $3 Billion by 2030?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5be65d201d5ed86304a38f5f3e0b093144bc5d71c3ce7c3ab2947f5bc10be1a0",
-          "published_utc": "2026-09-30T11:34:51+00:00"
-        },
-        {
-          "headline": "What's Going On With AST SpaceMobile Stock Wednesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3ad449fda5e07425def86dd4ca4ee1c055d7e960b49cea4d1676537973fb3f5a",
-          "published_utc": "2026-09-30T10:00:31+00:00"
-        },
-        {
-          "headline": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8061e07c3ce84f11db65cb4769735fc78b1a562630c4f6b75ed2233268f23dec",
-          "published_utc": "2026-09-30T08:29:53+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "AAPL",
-      "price": 336.52,
-      "change_percent": 2.1615,
+      "price": 337.01,
+      "change_percent": 2.3103,
       "previous_close": 329.4,
-      "quote_timestamp": 1790792203.0,
-      "quote_time_utc": "2026-09-30T18:16:43+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790794080.0,
+      "quote_time_utc": "2026-09-30T18:48:00+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -134,6 +97,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=e70f88b3c9685f1d5e57cdb7cdaac66aa38560af27558b6c776f00999d8d1cdb",
+          "published_utc": "2026-09-30T18:05:00+00:00"
+        },
         {
           "headline": "ERI\u2019s David Hirschler Shares Insights on the Critical Material Supply Chain at NY Climate Week\u2019s WBCSD Roundtable Event",
           "source": "Yahoo",
@@ -145,12 +114,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3926ec6233fba3eba3a55e9bef398e1d8eec69d336d1aace4a5c08fa28389b73",
           "published_utc": "2026-09-30T17:26:50+00:00"
-        },
-        {
-          "headline": "Cramer Says Buy Apple Before New Phone Comes Out. Because Apple\u2019s Duo Model Is, \u201cKind Of Astounding\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=49cacb9c9c1d8eae92007f150c6e13417160ceb7987bfb2b4a354933b1295a61",
-          "published_utc": "2026-09-30T16:46:59+00:00"
         }
       ],
       "news_status": "Recent headlines found"
