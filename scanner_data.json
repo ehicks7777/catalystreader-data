@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T03:45:51.058858+00:00",
+  "updated": "2026-09-30T04:16:14.902770+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 715.62,
       "quote_timestamp": 1790712000.0,
       "quote_time_utc": "2026-09-29T20:00:00+00:00",
-      "quote_age_seconds": 27949,
+      "quote_age_seconds": 29774,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "S&P 500 investors may have more tech exposure than they think: Here's how one wealth manager mitigates concentration risk",
+          "headline": "Land of Startups: What ICTWeek Uzbekistan Revealed About Central Asia's Tech Rise",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2a83eca63e96323d9f57e3ecab19ccf880b913d9eeec9e0fec70a3955535926b",
-          "published_utc": "2026-09-30T00:21:07+00:00"
+          "url": "https://finnhub.io/api/news?id=8f44ad2481318fcbb801eafbb686fab4365625fed11cb431675ad655d45e20b9",
+          "published_utc": "2026-09-30T03:32:00+00:00"
         },
         {
-          "headline": "MongoDB Not in a Rush to Find CEO Successor, Ittycheria Says",
+          "headline": "Mark Zuckerberg sends bold message to Meta investors after Muse",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b2f025f05f6c4961294ece74dc7c6abc70e9c5ff0dfcff3534f72aa0e7bbb358",
-          "published_utc": "2026-09-29T22:11:22+00:00"
+          "url": "https://finnhub.io/api/news?id=cffc484c65d60a41e772fdfd94066edb745695d0cb2425e312a278a23fdaa5e3",
+          "published_utc": "2026-09-30T02:47:00+00:00"
         },
         {
-          "headline": "Meta & Anthropic CEOs: 'Whoever wins AI, wins'",
+          "headline": "Mark Zuckerberg Labels It 'Significant Positive Step,' Musk Nods Yes as Trump Inks New AI Safety Deal With Top CEOs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4cf2463e957e51b7705c9f9c195a13d2de700b994b94aeb15f1e6e6389b037d9",
-          "published_utc": "2026-09-29T22:02:08+00:00"
+          "url": "https://finnhub.io/api/news?id=5492ee23a4bf8e7ae06b48b095ef2db0204bb26fe59174be277543c04ca48561",
+          "published_utc": "2026-09-30T02:12:17+00:00"
         }
       ],
       "news_status": "Recent headlines found"
