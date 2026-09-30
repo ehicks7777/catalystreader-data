@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T05:45:08.318277+00:00",
+  "updated": "2026-09-30T06:19:19.809328+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 715.62,
       "quote_timestamp": 1790712000.0,
       "quote_time_utc": "2026-09-29T20:00:00+00:00",
-      "quote_age_seconds": 35107,
+      "quote_age_seconds": 37158,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Land of Startups: What ICTWeek Uzbekistan Revealed About Central Asia's Tech Rise",
+          "headline": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spenders need about $300 billion a year in AI revenue ",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f44ad2481318fcbb801eafbb686fab4365625fed11cb431675ad655d45e20b9",
-          "published_utc": "2026-09-30T03:32:00+00:00"
+          "url": "https://finnhub.io/api/news?id=0b565584ed742e93763e03c39714309075484c614447d33a7c56a88334da78c0",
+          "published_utc": "2026-09-30T05:33:00+00:00"
         },
         {
-          "headline": "Mark Zuckerberg sends bold message to Meta investors after Muse",
+          "headline": "Shopify Stock Is Up 30% in Three Months & Numbers Point to 170% More Upside in the Long Run. Here\u2019s Why.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cffc484c65d60a41e772fdfd94066edb745695d0cb2425e312a278a23fdaa5e3",
-          "published_utc": "2026-09-30T02:47:00+00:00"
+          "url": "https://finnhub.io/api/news?id=594ae752dad72947dfd33a867a6ac3638e47c0fc7cc8796eafb9e64b54a2710b",
+          "published_utc": "2026-09-30T04:30:46+00:00"
         },
         {
-          "headline": "Mark Zuckerberg Labels It 'Significant Positive Step,' Musk Nods Yes as Trump Inks New AI Safety Deal With Top CEOs",
+          "headline": "MongoDB Unveils AI Products, Raises Long-Term Targets Amid CEO Transition",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5492ee23a4bf8e7ae06b48b095ef2db0204bb26fe59174be277543c04ca48561",
-          "published_utc": "2026-09-30T02:12:17+00:00"
+          "url": "https://finnhub.io/api/news?id=a592492ad327249ca9d388027e8ffac7ea778cb6a19e23acc195f2552dd1fa7b",
+          "published_utc": "2026-09-30T04:02:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
