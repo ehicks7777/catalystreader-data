@@ -1,55 +1,18 @@
 {
-  "updated": "2026-09-30T13:45:12.795306+00:00",
+  "updated": "2026-09-30T14:18:05.409773+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "ASTS",
-      "price": 61.74,
-      "change_percent": 3.9394,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790775886.0,
-      "quote_time_utc": "2026-09-30T13:44:46+00:00",
-      "quote_age_seconds": 25,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX: The Market Is Acting Blind",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7ac87b56c5c7d5742179f6e373f14aa09fc51da2a928e8f5e818440dab079f8c",
-          "published_utc": "2026-09-29T10:23:09+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Trending After New Severance Policy, SpaceX's Orbital Milestone",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9081e13116c1b080809a906e5c54806bb665ee07c124318b310033ce0a04fc67",
-          "published_utc": "2026-09-29T08:55:03+00:00"
-        },
-        {
-          "headline": "Nasdaq Futures Tread Water After Monday Rout: MU, NVTS, NVO, KOD, SMMT, ASTS Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3fb77e4d547670f6b571016b191d39b52d945a2d8a497bb86bb5b78594e6701a",
-          "published_utc": "2026-09-29T08:31:36+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "RKLB",
-      "price": 71.82,
-      "change_percent": 3.0416,
+      "price": 73.43,
+      "change_percent": 5.3515,
       "previous_close": 69.7,
-      "quote_timestamp": 1790775886.0,
-      "quote_time_utc": "2026-09-30T13:44:46+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790777864.0,
+      "quote_time_utc": "2026-09-30T14:17:44+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -65,104 +28,28 @@
           "published_utc": "2026-09-30T11:07:00+00:00"
         },
         {
-          "headline": "Stock Market News for Sep 30, 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ea82290f384d40993a4049492ae876a3b02ee55cedca122f8d41ca436546e57d",
-          "published_utc": "2026-09-30T07:10:00+00:00"
-        },
-        {
-          "headline": "Rocket Lab Steps In Where SpaceX Just Walked Away",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef316d0ab4515305bd4f3a260bd26f9dc2d30de1a15b47721fcf40e6d0c7e09d",
-          "published_utc": "2026-09-29T20:50:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "swing_trading": [
-    {
-      "symbol": "ASTS",
-      "price": 61.74,
-      "change_percent": 3.9394,
-      "previous_close": 59.4,
-      "quote_timestamp": 1790775886.0,
-      "quote_time_utc": "2026-09-30T13:44:46+00:00",
-      "quote_age_seconds": 25,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX: The Market Is Acting Blind",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7ac87b56c5c7d5742179f6e373f14aa09fc51da2a928e8f5e818440dab079f8c",
-          "published_utc": "2026-09-29T10:23:09+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Trending After New Severance Policy, SpaceX's Orbital Milestone",
+          "headline": "What's Happening With Rocket Lab Stock Wednesday?",
           "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=9081e13116c1b080809a906e5c54806bb665ee07c124318b310033ce0a04fc67",
-          "published_utc": "2026-09-29T08:55:03+00:00"
+          "url": "https://finnhub.io/api/news?id=02a890bb04b503bc7cfd6c65a99d196f0702831938952feb9c5e936a8f132c8f",
+          "published_utc": "2026-09-30T09:19:16+00:00"
         },
         {
-          "headline": "Nasdaq Futures Tread Water After Monday Rout: MU, NVTS, NVO, KOD, SMMT, ASTS Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3fb77e4d547670f6b571016b191d39b52d945a2d8a497bb86bb5b78594e6701a",
-          "published_utc": "2026-09-29T08:31:36+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 71.82,
-      "change_percent": 3.0416,
-      "previous_close": 69.7,
-      "quote_timestamp": 1790775886.0,
-      "quote_time_utc": "2026-09-30T13:44:46+00:00",
-      "quote_age_seconds": 25,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d91ffcd886550c0dc8eb5aa7128022073000a7eaea622bf8197e05449aa4f24f",
-          "published_utc": "2026-09-30T11:07:00+00:00"
-        },
-        {
-          "headline": "Stock Market News for Sep 30, 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ea82290f384d40993a4049492ae876a3b02ee55cedca122f8d41ca436546e57d",
-          "published_utc": "2026-09-30T07:10:00+00:00"
-        },
-        {
-          "headline": "Rocket Lab Steps In Where SpaceX Just Walked Away",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ef316d0ab4515305bd4f3a260bd26f9dc2d30de1a15b47721fcf40e6d0c7e09d",
-          "published_utc": "2026-09-29T20:50:00+00:00"
+          "headline": "EXCLUSIVE: Space Insurer on What Starship\u2019s First Orbital Flight Means for SpaceX and the Space Economy",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8dbdc8ba5803c0a90e69f31a87bef68b4c843fd1c5690d1c4a41fcc3852a3e70",
+          "published_utc": "2026-09-30T08:50:17+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "IONQ",
-      "price": 45.05,
-      "change_percent": 2.5962,
+      "price": 46.22,
+      "change_percent": 5.2608,
       "previous_close": 43.91,
-      "quote_timestamp": 1790775884.0,
-      "quote_time_utc": "2026-09-30T13:44:44+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1790777865.0,
+      "quote_time_utc": "2026-09-30T14:17:45+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -193,13 +80,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "ASTS",
+      "price": 61.92,
+      "change_percent": 4.2424,
+      "previous_close": 59.4,
+      "quote_timestamp": 1790777850.0,
+      "quote_time_utc": "2026-09-30T14:17:30+00:00",
+      "quote_age_seconds": 34,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SpaceX: The Market Is Acting Blind",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7ac87b56c5c7d5742179f6e373f14aa09fc51da2a928e8f5e818440dab079f8c",
+          "published_utc": "2026-09-29T10:23:09+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile Trending After New Severance Policy, SpaceX's Orbital Milestone",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9081e13116c1b080809a906e5c54806bb665ee07c124318b310033ce0a04fc67",
+          "published_utc": "2026-09-29T08:55:03+00:00"
+        },
+        {
+          "headline": "Nasdaq Futures Tread Water After Monday Rout: MU, NVTS, NVO, KOD, SMMT, ASTS Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3fb77e4d547670f6b571016b191d39b52d945a2d8a497bb86bb5b78594e6701a",
+          "published_utc": "2026-09-29T08:31:36+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "RGTI",
-      "price": 16.09,
-      "change_percent": 2.2236,
+      "price": 16.36,
+      "change_percent": 3.939,
       "previous_close": 15.74,
-      "quote_timestamp": 1790775884.0,
-      "quote_time_utc": "2026-09-30T13:44:44+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1790777864.0,
+      "quote_time_utc": "2026-09-30T14:17:44+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -225,6 +149,267 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=85da021d2cbeb202a2251c521cb4e8a3f2ea884da57a228b760c78fbed618826",
           "published_utc": "2026-09-29T14:57:23+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SOUN",
+      "price": 6.06,
+      "change_percent": 3.7671,
+      "previous_close": 5.84,
+      "quote_timestamp": 1790777864.0,
+      "quote_time_utc": "2026-09-30T14:17:44+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SoundHound AI's Product Is Exciting, But The Execution Is Missing",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=77cf5206b5f88e6d09fa15149f3eca638efd217fd45da4896d8370ac262560be",
+          "published_utc": "2026-09-29T22:20:22+00:00"
+        },
+        {
+          "headline": "2 Short-Squeeze Candidates Waiting for the Right Catalyst",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=84914cc10596c100a121b4db13c1230c640afaeac9782e0f8e32fcbbef80f05d",
+          "published_utc": "2026-09-29T12:35:00+00:00"
+        },
+        {
+          "headline": "EXCLUSIVE: SoundHound CEO's Winning Formula: 'AI Resolves What It Can, Humans Handle What They Should'",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=497cdf9f34076ab0e07f49894379f67818c039820af5c61f5de1207b6abd16e7",
+          "published_utc": "2026-09-29T08:27:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "RKLB",
+      "price": 73.43,
+      "change_percent": 5.3515,
+      "previous_close": 69.7,
+      "quote_timestamp": 1790777864.0,
+      "quote_time_utc": "2026-09-30T14:17:44+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d91ffcd886550c0dc8eb5aa7128022073000a7eaea622bf8197e05449aa4f24f",
+          "published_utc": "2026-09-30T11:07:00+00:00"
+        },
+        {
+          "headline": "What's Happening With Rocket Lab Stock Wednesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=02a890bb04b503bc7cfd6c65a99d196f0702831938952feb9c5e936a8f132c8f",
+          "published_utc": "2026-09-30T09:19:16+00:00"
+        },
+        {
+          "headline": "EXCLUSIVE: Space Insurer on What Starship\u2019s First Orbital Flight Means for SpaceX and the Space Economy",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=8dbdc8ba5803c0a90e69f31a87bef68b4c843fd1c5690d1c4a41fcc3852a3e70",
+          "published_utc": "2026-09-30T08:50:17+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 46.22,
+      "change_percent": 5.2608,
+      "previous_close": 43.91,
+      "quote_timestamp": 1790777865.0,
+      "quote_time_utc": "2026-09-30T14:17:45+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "IonQ vs. Microsoft: Which Stock Has More Quantum Upside in October?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a2d38083fbfe86a97c15a0d9b7222f29a4cd489d7bfbd00b4993ae9ffe67d69",
+          "published_utc": "2026-09-29T18:00:00+00:00"
+        },
+        {
+          "headline": "A Year Ago, We Called IBM the Next Nvidia. It Lost Money but Still Beat Every Quantum Startup.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dede9c391987260bad5feceabd7dbc4890f35497f9c51d8b2d643d878b51d3cd",
+          "published_utc": "2026-09-29T15:40:16+00:00"
+        },
+        {
+          "headline": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here\u2019s Why That Split Matters",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85da021d2cbeb202a2251c521cb4e8a3f2ea884da57a228b760c78fbed618826",
+          "published_utc": "2026-09-29T14:57:23+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "ASTS",
+      "price": 61.92,
+      "change_percent": 4.2424,
+      "previous_close": 59.4,
+      "quote_timestamp": 1790777850.0,
+      "quote_time_utc": "2026-09-30T14:17:30+00:00",
+      "quote_age_seconds": 34,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SpaceX: The Market Is Acting Blind",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7ac87b56c5c7d5742179f6e373f14aa09fc51da2a928e8f5e818440dab079f8c",
+          "published_utc": "2026-09-29T10:23:09+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile Trending After New Severance Policy, SpaceX's Orbital Milestone",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=9081e13116c1b080809a906e5c54806bb665ee07c124318b310033ce0a04fc67",
+          "published_utc": "2026-09-29T08:55:03+00:00"
+        },
+        {
+          "headline": "Nasdaq Futures Tread Water After Monday Rout: MU, NVTS, NVO, KOD, SMMT, ASTS Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3fb77e4d547670f6b571016b191d39b52d945a2d8a497bb86bb5b78594e6701a",
+          "published_utc": "2026-09-29T08:31:36+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 16.36,
+      "change_percent": 3.939,
+      "previous_close": 15.74,
+      "quote_timestamp": 1790777864.0,
+      "quote_time_utc": "2026-09-30T14:17:44+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rigetti Computing, Inc. (RGTI) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=320e115735a266a74b2f6de0cf7a4c0eacf865c2e73a65cdb69a3e7e11509a05",
+          "published_utc": "2026-09-29T20:50:05+00:00"
+        },
+        {
+          "headline": "A Year Ago, We Called IBM the Next Nvidia. It Lost Money but Still Beat Every Quantum Startup.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dede9c391987260bad5feceabd7dbc4890f35497f9c51d8b2d643d878b51d3cd",
+          "published_utc": "2026-09-29T15:40:16+00:00"
+        },
+        {
+          "headline": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here\u2019s Why That Split Matters",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=85da021d2cbeb202a2251c521cb4e8a3f2ea884da57a228b760c78fbed618826",
+          "published_utc": "2026-09-29T14:57:23+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SOUN",
+      "price": 6.06,
+      "change_percent": 3.7671,
+      "previous_close": 5.84,
+      "quote_timestamp": 1790777864.0,
+      "quote_time_utc": "2026-09-30T14:17:44+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SoundHound AI's Product Is Exciting, But The Execution Is Missing",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=77cf5206b5f88e6d09fa15149f3eca638efd217fd45da4896d8370ac262560be",
+          "published_utc": "2026-09-29T22:20:22+00:00"
+        },
+        {
+          "headline": "2 Short-Squeeze Candidates Waiting for the Right Catalyst",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=84914cc10596c100a121b4db13c1230c640afaeac9782e0f8e32fcbbef80f05d",
+          "published_utc": "2026-09-29T12:35:00+00:00"
+        },
+        {
+          "headline": "EXCLUSIVE: SoundHound CEO's Winning Formula: 'AI Resolves What It Can, Humans Handle What They Should'",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=497cdf9f34076ab0e07f49894379f67818c039820af5c61f5de1207b6abd16e7",
+          "published_utc": "2026-09-29T08:27:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AAPL",
+      "price": 337.45,
+      "change_percent": 2.4438,
+      "previous_close": 329.4,
+      "quote_timestamp": 1790777865.0,
+      "quote_time_utc": "2026-09-30T14:17:45+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Apple's New CEO Targets Middle Management in Shake-Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a614a6380abd0da7fa643254baa2b28fb2278ad5ed0c1dee2edc45d110a87702",
+          "published_utc": "2026-09-30T12:31:17+00:00"
+        },
+        {
+          "headline": "Apple's New CEO Just Signaled a Major ShakeUp -- Faster Products, Fewer Managers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04b73cbfd17e91c03f45bc42401388e04ba88494da1291b0d824adce10d8e629",
+          "published_utc": "2026-09-30T12:29:54+00:00"
+        },
+        {
+          "headline": "Bank of America Flags Surprising Risk to Apple Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8be6b79d823a39a6e73c2fc096879317bf7429491cfe77f02253f7dc16139d3f",
+          "published_utc": "2026-09-30T12:26:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
