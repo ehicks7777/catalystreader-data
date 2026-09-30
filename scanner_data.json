@@ -1,58 +1,20 @@
 {
-  "updated": "2026-09-30T19:43:19.100338+00:00",
+  "updated": "2026-09-30T20:16:24.140484+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "SOUN",
-      "price": 6.07,
-      "change_percent": 3.9384,
-      "previous_close": 5.84,
-      "quote_timestamp": 1790797382.0,
-      "quote_time_utc": "2026-09-30T19:43:02+00:00",
-      "quote_age_seconds": 12,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SoundHound AI Deploys Voice And Generative AI Technology Kia's Sorento Model In India",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fde731358d6ff140f452b38d4c5756aae0fcfddbaab4d976d8693c9ab5d0ded7",
-          "published_utc": "2026-09-30T09:14:22+00:00"
-        },
-        {
-          "headline": "SoundHound AI's Product Is Exciting, But The Execution Is Missing",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=77cf5206b5f88e6d09fa15149f3eca638efd217fd45da4896d8370ac262560be",
-          "published_utc": "2026-09-29T22:20:22+00:00"
-        },
-        {
-          "headline": "2 Short-Squeeze Candidates Waiting for the Right Catalyst",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84914cc10596c100a121b4db13c1230c640afaeac9782e0f8e32fcbbef80f05d",
-          "published_utc": "2026-09-29T12:35:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "SOUN",
-      "price": 6.07,
-      "change_percent": 3.9384,
+      "price": 6.02,
+      "change_percent": 3.0822,
       "previous_close": 5.84,
-      "quote_timestamp": 1790797382.0,
-      "quote_time_utc": "2026-09-30T19:43:02+00:00",
-      "quote_age_seconds": 12,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1790798400.0,
+      "quote_time_utc": "2026-09-30T20:00:00+00:00",
+      "quote_age_seconds": 983,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -82,7 +44,7 @@
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
