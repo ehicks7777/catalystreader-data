@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T15:47:22.605212+00:00",
+  "updated": "2026-09-30T16:17:33.573622+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "SOUN",
-      "price": 6.15,
-      "change_percent": 5.3082,
+      "price": 6.13,
+      "change_percent": 4.9658,
       "previous_close": 5.84,
-      "quote_timestamp": 1790783204.0,
-      "quote_time_utc": "2026-09-30T15:46:44+00:00",
-      "quote_age_seconds": 37,
+      "quote_timestamp": 1790785038.0,
+      "quote_time_utc": "2026-09-30T16:17:18+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "ASTS",
-      "price": 61.83,
-      "change_percent": 4.0909,
+      "price": 62.07,
+      "change_percent": 4.4949,
       "previous_close": 59.4,
-      "quote_timestamp": 1790783217.0,
-      "quote_time_utc": "2026-09-30T15:46:57+00:00",
-      "quote_age_seconds": 24,
+      "quote_timestamp": 1790785033.0,
+      "quote_time_utc": "2026-09-30T16:17:13+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "SOUN",
-      "price": 6.15,
-      "change_percent": 5.3082,
+      "price": 6.13,
+      "change_percent": 4.9658,
       "previous_close": 5.84,
-      "quote_timestamp": 1790783204.0,
-      "quote_time_utc": "2026-09-30T15:46:44+00:00",
-      "quote_age_seconds": 37,
+      "quote_timestamp": 1790785038.0,
+      "quote_time_utc": "2026-09-30T16:17:18+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +120,12 @@
     },
     {
       "symbol": "ASTS",
-      "price": 61.83,
-      "change_percent": 4.0909,
+      "price": 62.07,
+      "change_percent": 4.4949,
       "previous_close": 59.4,
-      "quote_timestamp": 1790783217.0,
-      "quote_time_utc": "2026-09-30T15:46:57+00:00",
-      "quote_age_seconds": 24,
+      "quote_timestamp": 1790785033.0,
+      "quote_time_utc": "2026-09-30T16:17:13+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -157,12 +157,12 @@
     },
     {
       "symbol": "RKLB",
-      "price": 71.74,
-      "change_percent": 2.9268,
+      "price": 71.67,
+      "change_percent": 2.8264,
       "previous_close": 69.7,
-      "quote_timestamp": 1790783217.0,
-      "quote_time_utc": "2026-09-30T15:46:57+00:00",
-      "quote_age_seconds": 24,
+      "quote_timestamp": 1790785037.0,
+      "quote_time_utc": "2026-09-30T16:17:17+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -194,12 +194,12 @@
     },
     {
       "symbol": "AAPL",
-      "price": 337.82,
-      "change_percent": 2.5562,
+      "price": 336.82,
+      "change_percent": 2.2526,
       "previous_close": 329.4,
-      "quote_timestamp": 1790783219.0,
-      "quote_time_utc": "2026-09-30T15:46:59+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790785038.0,
+      "quote_time_utc": "2026-09-30T16:17:18+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -209,22 +209,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today: Dow Slips On Surprise Inflation Data; Micron Rallies Ahead Of Earnings (Live Coverage)",
+          "headline": "Stock Market Today: Nasdaq Leads Rise; AI Giant Microsoft Tests A New Entry (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6391a341409156dc34483168eb6d23b062e097d679c24ef10a21daa5273b6aa7",
-          "published_utc": "2026-09-30T13:45:04+00:00"
+          "url": "https://finnhub.io/api/news?id=bdf695d8ec59f60c9c792ad96f4f917a700d182be709eb34dd52b4ee23a6cc54",
+          "published_utc": "2026-09-30T15:40:34+00:00"
         },
         {
-          "headline": "What Is Going On With Alphabet Stock?",
+          "headline": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=49d1d3b79d7dc5a1efd555d654302647783c97744349a8e8cb34cf1ff6d695be",
-          "published_utc": "2026-09-30T13:35:17+00:00"
+          "url": "https://finnhub.io/api/news?id=69fc7e2992015acd6c84778a8d7fd89a7454eb78b54d5fb382c4773ae8f30778",
+          "published_utc": "2026-09-30T15:09:17+00:00"
         },
         {
-          "headline": "OpenAI is releasing newer models faster. Is that a good thing?",
+          "headline": "Jensen Huang's biggest Q3 moves, Rubrik CEO talks tech & cybersecurity",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6e3c936c607be30eb8739d079b184f6b81e76b08d19134cfd5c6e94ff9c00252",
-          "published_utc": "2026-09-30T13:30:03+00:00"
+          "url": "https://finnhub.io/api/news?id=93c2707e2f0a9186fdc9d902e22d99166b282dd6cefb5bab97000b1450b46872",
+          "published_utc": "2026-09-30T15:07:32+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMZN",
+      "price": 251.92,
+      "change_percent": 2.1283,
+      "previous_close": 246.67,
+      "quote_timestamp": 1790785037.0,
+      "quote_time_utc": "2026-09-30T16:17:17+00:00",
+      "quote_age_seconds": 12,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Corning vs. Honeywell International: Which Technology Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d14b151e499de4cf899876567dd47db75823eb6d70e590af0f301ee362b48451",
+          "published_utc": "2026-09-30T15:51:28+00:00"
+        },
+        {
+          "headline": "Amazon Target Lifted as Rosenblatt Says AI Agents Won\u2019t Disrupt Business Model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06c88b73028e8cee8ce985ccdbeecbf06308e43349b76063dd9030db7434a4bb",
+          "published_utc": "2026-09-30T15:45:19+00:00"
+        },
+        {
+          "headline": "The AI Revolution Could Be Microsoft\u2019s Next Trillion-Dollar Opportunity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eae9b312e71ee662f58c3d5de5d579c5c2a9ec52b72e7ea4125d2d519ac0d804",
+          "published_utc": "2026-09-30T15:30:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
