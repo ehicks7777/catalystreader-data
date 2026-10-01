@@ -1,20 +1,19 @@
 {
-  "updated": "2026-10-01T13:19:17.441180+00:00",
+  "updated": "2026-10-01T13:47:20.763564+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
-      "symbol": "SOUN",
-      "price": 6.02,
-      "change_percent": 3.0822,
-      "previous_close": 5.84,
-      "quote_timestamp": 1790798400.0,
-      "quote_time_utc": "2026-09-30T20:00:00+00:00",
-      "quote_age_seconds": 62355,
-      "quote_freshness": "stale",
+      "symbol": "MSTR",
+      "price": 158.03,
+      "change_percent": 3.2269,
+      "previous_close": 153.09,
+      "quote_timestamp": 1790862410.0,
+      "quote_time_utc": "2026-10-01T13:46:50+00:00",
+      "quote_age_seconds": 29,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,28 +22,104 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Procore Technologies, Zeta Global, and SoundHound AI Stocks Trade Up, What You Need To Know",
+          "headline": "Bitcoin Outperforms Stocks and Gold in September: What Surpassed Bitcoin?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=67cf33adc5f940e28d9880c60dacdce43e80515128adc8427df5fd8f403b1015",
-          "published_utc": "2026-09-30T22:37:13+00:00"
+          "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
+          "published_utc": "2026-10-01T11:43:55+00:00"
         },
         {
-          "headline": "\u201cSoundHound AI Jumps 5% on India Product Launch; BigBear.ai Rises 3%, Pony AI Stays Flat",
+          "headline": "Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=582a630670a98ec21cf0496ddbc5ef220bc2a51252205832b34d71c6fd8736ce",
-          "published_utc": "2026-09-30T16:52:46+00:00"
+          "url": "https://finnhub.io/api/news?id=f7acb8ade8fa48f3b8c8b2dd5a4755f84e749da912cd8a8891cd081d9511ec89",
+          "published_utc": "2026-10-01T07:09:15+00:00"
         },
         {
-          "headline": "SoundHound Adds 3 Restaurant Chains: Can Its QSR Footprint Expand?",
+          "headline": "Michael Saylor Wants His Bitcoin Rival to Win: What's in It for MicroStrategy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6a51921788df0c53d8b34053f0796a367ca6ae2d888e243044d1f525a5772a3",
-          "published_utc": "2026-09-30T16:50:00+00:00"
+          "url": "https://finnhub.io/api/news?id=1e87d507693f5375ddf2cd5af28700823218b539b5ebbd0440f7f80d7cb92d46",
+          "published_utc": "2026-09-30T23:06:47+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "swing_trading": [
+    {
+      "symbol": "MSTR",
+      "price": 158.03,
+      "change_percent": 3.2269,
+      "previous_close": 153.09,
+      "quote_timestamp": 1790862410.0,
+      "quote_time_utc": "2026-10-01T13:46:50+00:00",
+      "quote_age_seconds": 29,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Bitcoin Outperforms Stocks and Gold in September: What Surpassed Bitcoin?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
+          "published_utc": "2026-10-01T11:43:55+00:00"
+        },
+        {
+          "headline": "Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f7acb8ade8fa48f3b8c8b2dd5a4755f84e749da912cd8a8891cd081d9511ec89",
+          "published_utc": "2026-10-01T07:09:15+00:00"
+        },
+        {
+          "headline": "Michael Saylor Wants His Bitcoin Rival to Win: What's in It for MicroStrategy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1e87d507693f5375ddf2cd5af28700823218b539b5ebbd0440f7f80d7cb92d46",
+          "published_utc": "2026-09-30T23:06:47+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "COIN",
+      "price": 191.2,
+      "change_percent": 2.5696,
+      "previous_close": 186.41,
+      "quote_timestamp": 1790862410.0,
+      "quote_time_utc": "2026-10-01T13:46:50+00:00",
+      "quote_age_seconds": 29,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Bitwise Maps the 4 Corners of Crypto That Won As CLARITY Act Stalled",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ce62c9affd990d78d3b5cf3713c4a9a31bd666ba299fa3916bec65e103ece54",
+          "published_utc": "2026-10-01T06:25:32+00:00"
+        },
+        {
+          "headline": "Crypto\u2019s Real Bull Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8355ccb090b40d0a51e0a5bd1aca2c75ff3bd524945ae730c63ff3a2519fece3",
+          "published_utc": "2026-10-01T05:00:00+00:00"
+        },
+        {
+          "headline": "Inverting the Stablecoin Tax: OUSD and the Equity-for-Usage Play",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cc0dd51d03262a80bb15c63cbe247d13093a03608a8b07685b0c83f9df613184",
+          "published_utc": "2026-09-30T23:01:48+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
