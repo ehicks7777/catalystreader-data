@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:15:49.033916+00:00",
+  "updated": "2026-10-01T20:45:33.201387+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 153.09,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 947,
+      "quote_age_seconds": 2732,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 41.07,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 947,
+      "quote_age_seconds": 2732,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "What Is The Case For Waiting On Hewlett Packard Enterprise Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ecf124d9294c457fa06bf9d55e6b56ffe8e8e7f21ef6bd06710da57b4f8329dc",
+          "published_utc": "2026-10-01T19:41:16+00:00"
+        },
         {
           "headline": "Vertiv Soars 49% YTD: Is This the Right Time to Buy the Stock?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=65a59140879dbbdfe4911bd56d8f6e25c1a6af75fe3aadf632a4a33d2a5ad8e6",
           "published_utc": "2026-10-01T14:40:02+00:00"
-        },
-        {
-          "headline": "Penguin Solutions' AI Backlog Grows: Is Future Sales Taking Shape?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0712888d30ac4b6a0972acaf9f4eb020f0d3cdd2a03d62e4d9256153b4635882",
-          "published_utc": "2026-10-01T14:07:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
