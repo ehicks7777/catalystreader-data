@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:45:34.191280+00:00",
+  "updated": "2026-10-01T18:19:35.412436+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "MSTR",
-      "price": 159.3,
-      "change_percent": 4.0564,
+      "price": 159.33,
+      "change_percent": 4.076,
       "previous_close": 153.09,
-      "quote_timestamp": 1790876721.0,
-      "quote_time_utc": "2026-10-01T17:45:21+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1790878737.0,
+      "quote_time_utc": "2026-10-01T18:18:57+00:00",
+      "quote_age_seconds": 35,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "MSTR",
-      "price": 159.3,
-      "change_percent": 4.0564,
+      "price": 159.33,
+      "change_percent": 4.076,
       "previous_close": 153.09,
-      "quote_timestamp": 1790876721.0,
-      "quote_time_utc": "2026-10-01T17:45:21+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1790878737.0,
+      "quote_time_utc": "2026-10-01T18:18:57+00:00",
+      "quote_age_seconds": 35,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -82,50 +82,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RKLB",
-      "price": 71.46,
-      "change_percent": 2.5545,
-      "previous_close": 69.68,
-      "quote_timestamp": 1790876720.0,
-      "quote_time_utc": "2026-10-01T17:45:20+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab (RKLB) Stock Fair Value Edges Lower As Neutron And Deal Risks Weigh",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4db946fe162a0063950ada9b6f66dd6ee68c4362528757b744462600cd0e38e0",
-          "published_utc": "2026-10-01T15:09:41+00:00"
-        },
-        {
-          "headline": "Elon Musk Lowers Starship Expectations, Rocket Lab Surges On Electron Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e7c69a0bc11cfdc93d7a2959528e9ca03ef6e2bc969a2eb0d234ac855f918d1b",
-          "published_utc": "2026-10-01T14:41:39+00:00"
-        },
-        {
-          "headline": "Rocket Lab Stock Rises on Record Electron Launch Deal and Citi Buy Rating",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5bd3e70935312c6b0c2d523507e6a1026d44d9468500115891e92095c96d37de",
-          "published_utc": "2026-10-01T14:26:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SOUN",
-      "price": 6.16,
-      "change_percent": 2.3256,
+      "price": 6.15,
+      "change_percent": 2.1595,
       "previous_close": 6.02,
-      "quote_timestamp": 1790876720.0,
-      "quote_time_utc": "2026-10-01T17:45:20+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1790878741.0,
+      "quote_time_utc": "2026-10-01T18:19:01+00:00",
+      "quote_age_seconds": 31,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -151,80 +114,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f6a51921788df0c53d8b34053f0796a367ca6ae2d888e243044d1f525a5772a3",
           "published_utc": "2026-09-30T16:50:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 44.76,
-      "change_percent": 2.052,
-      "previous_close": 43.86,
-      "quote_timestamp": 1790876720.0,
-      "quote_time_utc": "2026-10-01T17:45:20+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Quantum Computing Stocks Face Profitability Test as Revenue Boom Meets Earnings Reality",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bfbc2e2b6928234a00eadae1fa6b33096a6c7758e43f4da7b2756c6448372036",
-          "published_utc": "2026-10-01T12:06:08+00:00"
-        },
-        {
-          "headline": "Post-Quantum Security Market Forecast to Grow 46% a Year to 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5c7427ceb61d8939691a4265cc08d80b961be6f54e2ca0f79f34a97bdeaad49",
-          "published_utc": "2026-09-30T17:00:00+00:00"
-        },
-        {
-          "headline": "IonQ Jumps 4% on BoA Buy Rating; Rigetti and D-Wave Quantum Gain 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4fd83419199420ebba85c05c5e565fdc818764bab68efbf3d79c269db01717ff",
-          "published_utc": "2026-09-30T15:05:40+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SMCI",
-      "price": 41.91,
-      "change_percent": 2.0453,
-      "previous_close": 41.07,
-      "quote_timestamp": 1790876720.0,
-      "quote_time_utc": "2026-10-01T17:45:20+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SMCI or WDC: Which Is the Better Value Stock Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65a59140879dbbdfe4911bd56d8f6e25c1a6af75fe3aadf632a4a33d2a5ad8e6",
-          "published_utc": "2026-10-01T14:40:02+00:00"
-        },
-        {
-          "headline": "Penguin Solutions' AI Backlog Grows: Is Future Sales Taking Shape?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0712888d30ac4b6a0972acaf9f4eb020f0d3cdd2a03d62e4d9256153b4635882",
-          "published_utc": "2026-10-01T14:07:00+00:00"
-        },
-        {
-          "headline": "Top 3 AI Stocks With Revenue Growth Over 20%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7a6e6dc30af41cc3f726f312bbd985699967a834a74fa679b96cc124906df45",
-          "published_utc": "2026-10-01T13:10:10+00:00"
         }
       ],
       "news_status": "Recent headlines found"
