@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:56:15.277015+00:00",
+  "updated": "2026-10-01T16:15:00.961471+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,50 +7,13 @@
   "day_trading": [],
   "swing_trading": [
     {
-      "symbol": "RKLB",
-      "price": 71.31,
-      "change_percent": 2.3393,
-      "previous_close": 69.68,
-      "quote_timestamp": 1790866547.0,
-      "quote_time_utc": "2026-10-01T14:55:47+00:00",
-      "quote_age_seconds": 26,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Exxon Mobil downgraded, BP upgraded: Wall Street's top analyst calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5d5953131721a88f722b7a6e427349b870531e20af1c034150db5bb9a35e2726",
-          "published_utc": "2026-10-01T13:38:06+00:00"
-        },
-        {
-          "headline": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Missions; AST SpaceMobile Ticks Up, SpaceX Holds Flat",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c0fa7dd6dac99e6f7b92216f9408ae657bb3037a90602953dd13dab478424d06",
-          "published_utc": "2026-10-01T13:26:37+00:00"
-        },
-        {
-          "headline": "Rocket Lab stock jumps on 20-launch deal with Synspective",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=396f5648f3683a2397c597cf57b421793c2937e6c780789c78d7c94741341fb6",
-          "published_utc": "2026-10-01T13:22:51+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "MSTR",
-      "price": 156.2,
-      "change_percent": 2.0315,
+      "price": 156.43,
+      "change_percent": 2.1817,
       "previous_close": 153.09,
-      "quote_timestamp": 1790866547.0,
-      "quote_time_utc": "2026-10-01T14:55:47+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1790871268.0,
+      "quote_time_utc": "2026-10-01T16:14:28+00:00",
+      "quote_age_seconds": 32,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
