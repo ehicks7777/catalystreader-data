@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:19:35.412436+00:00",
+  "updated": "2026-10-01T18:48:24.711047+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "MSTR",
-      "price": 159.33,
-      "change_percent": 4.076,
+      "price": 159.99,
+      "change_percent": 4.5072,
       "previous_close": 153.09,
-      "quote_timestamp": 1790878737.0,
-      "quote_time_utc": "2026-10-01T18:18:57+00:00",
-      "quote_age_seconds": 35,
+      "quote_timestamp": 1790880492.0,
+      "quote_time_utc": "2026-10-01T18:48:12+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "3 High-Yield Financial Stocks to Buy in October",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afa5a1ca851b797dda5c167881dc047ce0a77a152038bb766eed4852e4c40f8f",
+          "published_utc": "2026-10-01T16:30:00+00:00"
+        },
         {
           "headline": "Strategy's Preferred: Fundamentals Behind The Daily Dividends",
           "source": "SeekingAlpha",
@@ -32,12 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
           "published_utc": "2026-10-01T11:43:55+00:00"
-        },
-        {
-          "headline": "Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7acb8ade8fa48f3b8c8b2dd5a4755f84e749da912cd8a8891cd081d9511ec89",
-          "published_utc": "2026-10-01T07:09:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "MSTR",
-      "price": 159.33,
-      "change_percent": 4.076,
+      "price": 159.99,
+      "change_percent": 4.5072,
       "previous_close": 153.09,
-      "quote_timestamp": 1790878737.0,
-      "quote_time_utc": "2026-10-01T18:18:57+00:00",
-      "quote_age_seconds": 35,
+      "quote_timestamp": 1790880492.0,
+      "quote_time_utc": "2026-10-01T18:48:12+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,6 +60,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "3 High-Yield Financial Stocks to Buy in October",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=afa5a1ca851b797dda5c167881dc047ce0a77a152038bb766eed4852e4c40f8f",
+          "published_utc": "2026-10-01T16:30:00+00:00"
+        },
         {
           "headline": "Strategy's Preferred: Fundamentals Behind The Daily Dividends",
           "source": "SeekingAlpha",
@@ -71,12 +77,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
           "published_utc": "2026-10-01T11:43:55+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SMCI",
+      "price": 42.0,
+      "change_percent": 2.2644,
+      "previous_close": 41.07,
+      "quote_timestamp": 1790880493.0,
+      "quote_time_utc": "2026-10-01T18:48:13+00:00",
+      "quote_age_seconds": 10,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Vertiv Soars 49% YTD: Is This the Right Time to Buy the Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=47316eac28ed86c1b715aa82feb44ba809ec50ec0893b9cf0802d8cbaa589939",
+          "published_utc": "2026-10-01T15:28:00+00:00"
         },
         {
-          "headline": "Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers",
+          "headline": "SMCI or WDC: Which Is the Better Value Stock Right Now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7acb8ade8fa48f3b8c8b2dd5a4755f84e749da912cd8a8891cd081d9511ec89",
-          "published_utc": "2026-10-01T07:09:15+00:00"
+          "url": "https://finnhub.io/api/news?id=65a59140879dbbdfe4911bd56d8f6e25c1a6af75fe3aadf632a4a33d2a5ad8e6",
+          "published_utc": "2026-10-01T14:40:02+00:00"
+        },
+        {
+          "headline": "Penguin Solutions' AI Backlog Grows: Is Future Sales Taking Shape?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0712888d30ac4b6a0972acaf9f4eb020f0d3cdd2a03d62e4d9256153b4635882",
+          "published_utc": "2026-10-01T14:07:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -86,9 +123,9 @@
       "price": 6.15,
       "change_percent": 2.1595,
       "previous_close": 6.02,
-      "quote_timestamp": 1790878741.0,
-      "quote_time_utc": "2026-10-01T18:19:01+00:00",
-      "quote_age_seconds": 31,
+      "quote_timestamp": 1790880491.0,
+      "quote_time_utc": "2026-10-01T18:48:11+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
