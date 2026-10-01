@@ -1,57 +1,19 @@
 {
-  "updated": "2026-10-01T13:47:20.763564+00:00",
+  "updated": "2026-10-01T14:56:15.277015+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "MSTR",
-      "price": 158.03,
-      "change_percent": 3.2269,
-      "previous_close": 153.09,
-      "quote_timestamp": 1790862410.0,
-      "quote_time_utc": "2026-10-01T13:46:50+00:00",
-      "quote_age_seconds": 29,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Bitcoin Outperforms Stocks and Gold in September: What Surpassed Bitcoin?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
-          "published_utc": "2026-10-01T11:43:55+00:00"
-        },
-        {
-          "headline": "Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7acb8ade8fa48f3b8c8b2dd5a4755f84e749da912cd8a8891cd081d9511ec89",
-          "published_utc": "2026-10-01T07:09:15+00:00"
-        },
-        {
-          "headline": "Michael Saylor Wants His Bitcoin Rival to Win: What's in It for MicroStrategy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e87d507693f5375ddf2cd5af28700823218b539b5ebbd0440f7f80d7cb92d46",
-          "published_utc": "2026-09-30T23:06:47+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
-      "symbol": "MSTR",
-      "price": 158.03,
-      "change_percent": 3.2269,
-      "previous_close": 153.09,
-      "quote_timestamp": 1790862410.0,
-      "quote_time_utc": "2026-10-01T13:46:50+00:00",
-      "quote_age_seconds": 29,
+      "symbol": "RKLB",
+      "price": 71.31,
+      "change_percent": 2.3393,
+      "previous_close": 69.68,
+      "quote_timestamp": 1790866547.0,
+      "quote_time_utc": "2026-10-01T14:55:47+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -61,34 +23,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Bitcoin Outperforms Stocks and Gold in September: What Surpassed Bitcoin?",
+          "headline": "Exxon Mobil downgraded, BP upgraded: Wall Street's top analyst calls",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
-          "published_utc": "2026-10-01T11:43:55+00:00"
+          "url": "https://finnhub.io/api/news?id=5d5953131721a88f722b7a6e427349b870531e20af1c034150db5bb9a35e2726",
+          "published_utc": "2026-10-01T13:38:06+00:00"
         },
         {
-          "headline": "Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers",
+          "headline": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Missions; AST SpaceMobile Ticks Up, SpaceX Holds Flat",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f7acb8ade8fa48f3b8c8b2dd5a4755f84e749da912cd8a8891cd081d9511ec89",
-          "published_utc": "2026-10-01T07:09:15+00:00"
+          "url": "https://finnhub.io/api/news?id=c0fa7dd6dac99e6f7b92216f9408ae657bb3037a90602953dd13dab478424d06",
+          "published_utc": "2026-10-01T13:26:37+00:00"
         },
         {
-          "headline": "Michael Saylor Wants His Bitcoin Rival to Win: What's in It for MicroStrategy?",
+          "headline": "Rocket Lab stock jumps on 20-launch deal with Synspective",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1e87d507693f5375ddf2cd5af28700823218b539b5ebbd0440f7f80d7cb92d46",
-          "published_utc": "2026-09-30T23:06:47+00:00"
+          "url": "https://finnhub.io/api/news?id=396f5648f3683a2397c597cf57b421793c2937e6c780789c78d7c94741341fb6",
+          "published_utc": "2026-10-01T13:22:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "COIN",
-      "price": 191.2,
-      "change_percent": 2.5696,
-      "previous_close": 186.41,
-      "quote_timestamp": 1790862410.0,
-      "quote_time_utc": "2026-10-01T13:46:50+00:00",
-      "quote_age_seconds": 29,
+      "symbol": "MSTR",
+      "price": 156.2,
+      "change_percent": 2.0315,
+      "previous_close": 153.09,
+      "quote_timestamp": 1790866547.0,
+      "quote_time_utc": "2026-10-01T14:55:47+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Bitwise Maps the 4 Corners of Crypto That Won As CLARITY Act Stalled",
+          "headline": "Bitcoin Outperforms Stocks and Gold in September: What Surpassed Bitcoin?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7ce62c9affd990d78d3b5cf3713c4a9a31bd666ba299fa3916bec65e103ece54",
-          "published_utc": "2026-10-01T06:25:32+00:00"
+          "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
+          "published_utc": "2026-10-01T11:43:55+00:00"
         },
         {
-          "headline": "Crypto\u2019s Real Bull Market",
+          "headline": "Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8355ccb090b40d0a51e0a5bd1aca2c75ff3bd524945ae730c63ff3a2519fece3",
-          "published_utc": "2026-10-01T05:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=f7acb8ade8fa48f3b8c8b2dd5a4755f84e749da912cd8a8891cd081d9511ec89",
+          "published_utc": "2026-10-01T07:09:15+00:00"
         },
         {
-          "headline": "Inverting the Stablecoin Tax: OUSD and the Equity-for-Usage Play",
+          "headline": "Michael Saylor Wants His Bitcoin Rival to Win: What's in It for MicroStrategy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cc0dd51d03262a80bb15c63cbe247d13093a03608a8b07685b0c83f9df613184",
-          "published_utc": "2026-09-30T23:01:48+00:00"
+          "url": "https://finnhub.io/api/news?id=1e87d507693f5375ddf2cd5af28700823218b539b5ebbd0440f7f80d7cb92d46",
+          "published_utc": "2026-09-30T23:06:47+00:00"
         }
       ],
       "news_status": "Recent headlines found"
