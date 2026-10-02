@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T07:45:39.244898+00:00",
+  "updated": "2026-10-02T08:16:37.401791+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 153.09,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 42338,
+      "quote_age_seconds": 44196,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "The Next Crypto Boom Is Already Here",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=371145c53fe1b387cc98465d2c4b7a4c31b34e372c250447a9def6ccdedc1e2f",
+          "published_utc": "2026-10-02T05:30:00+00:00"
+        },
         {
           "headline": "3 High-Yield Financial Stocks to Buy in October",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=3c34178852578c1d7483004249dbed47bf999f0a4d3b6759cb80b18950030303",
           "published_utc": "2026-10-01T12:39:18+00:00"
-        },
-        {
-          "headline": "Bitcoin Outperforms Stocks and Gold in September: What Surpassed Bitcoin?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98e6862c4af2021afe0e340fe3651c07235d90ae53f3534d1bee870220889aa5",
-          "published_utc": "2026-10-01T11:43:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 41.07,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 42338,
+      "quote_age_seconds": 44196,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
