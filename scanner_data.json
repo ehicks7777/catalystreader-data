@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:47:43.705562+00:00",
+  "updated": "2026-10-02T15:17:04.285614+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "RKLB",
-      "price": 75.81,
-      "change_percent": 7.593,
+      "price": 74.05,
+      "change_percent": 5.0951,
       "previous_close": 70.46,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,50 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RIOT",
-      "price": 20.8,
-      "change_percent": 6.0683,
-      "previous_close": 19.61,
-      "quote_timestamp": 1790952439.0,
-      "quote_time_utc": "2026-10-02T14:47:19+00:00",
-      "quote_age_seconds": 23,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Riot Platforms: Hedging Rising Bitcoin And Rising Power Prices",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=57f66ff0f0da150f2e7ac7b683c80bc8c5d3d601f1d0096881467357dec733d2",
-          "published_utc": "2026-10-01T22:04:19+00:00"
-        },
-        {
-          "headline": "Riot Platforms, Inc. (RIOT) Stock Dips While Market Gains: Key Facts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=91f25d47ff8a6ff432192be7542ff89f73e21a4df7377d07358238f0d9e54512",
-          "published_utc": "2026-10-01T20:50:02+00:00"
-        },
-        {
-          "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b16b9c6242fabe6090abc547f8a663a0853fcb67f7fd31f7aa3067b54c14fcb",
-          "published_utc": "2026-09-30T20:00:56+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "TSLA",
-      "price": 373.95,
-      "change_percent": 5.6028,
+      "price": 371.63,
+      "change_percent": 4.9476,
       "previous_close": 354.11,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -118,12 +81,12 @@
     },
     {
       "symbol": "SMCI",
-      "price": 44.24,
-      "change_percent": 5.5344,
+      "price": 43.5,
+      "change_percent": 3.7691,
       "previous_close": 41.92,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954200.0,
+      "quote_time_utc": "2026-10-02T15:16:40+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -155,12 +118,12 @@
     },
     {
       "symbol": "HOOD",
-      "price": 116.96,
-      "change_percent": 5.2272,
+      "price": 114.94,
+      "change_percent": 3.4098,
       "previous_close": 111.15,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -191,13 +154,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MARA",
-      "price": 11.78,
-      "change_percent": 5.0847,
-      "previous_close": 11.21,
-      "quote_timestamp": 1790952439.0,
-      "quote_time_utc": "2026-10-02T14:47:19+00:00",
-      "quote_age_seconds": 23,
+      "symbol": "AMD",
+      "price": 636.34,
+      "change_percent": 3.3472,
+      "previous_close": 615.73,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -207,30 +170,11 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b16b9c6242fabe6090abc547f8a663a0853fcb67f7fd31f7aa3067b54c14fcb",
-          "published_utc": "2026-09-30T20:00:56+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 639.01,
-      "change_percent": 3.7809,
-      "previous_close": 615.73,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
+          "headline": "These S&P500 stocks are gapping in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=aab9006d36a58b02b2253317f1a39f0abf20a3409f003a8d9a70e4e807671336",
+          "published_utc": "2026-10-02T14:35:01+00:00"
+        },
         {
           "headline": "Should You Be Worried About Marvell Stock?",
           "source": "Yahoo",
@@ -242,24 +186,18 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=8c7ed1245a4e7501091f09aa92ac753ffbf0b5bddc85ddf373d10bb3d0c2f48d",
           "published_utc": "2026-10-02T12:51:09+00:00"
-        },
-        {
-          "headline": "Top S&P500 movers in Friday's pre-market session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=d674fc0a6667a4bad40905abffa35b1f158852775d0f2c63316a7d2a5f493f83",
-          "published_utc": "2026-10-02T12:35:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "ASTS",
-      "price": 58.81,
-      "change_percent": 3.1031,
-      "previous_close": 57.04,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "symbol": "RIOT",
+      "price": 20.25,
+      "change_percent": 3.2636,
+      "previous_close": 19.61,
+      "quote_timestamp": 1790954200.0,
+      "quote_time_utc": "2026-10-02T15:16:40+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -269,22 +207,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile Stock Trades Flat Following B.Riley Price Target Cut to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=260a782273c3a7adaa7e35bdc26975b557ed01646be680c933c776affd43c137",
-          "published_utc": "2026-10-02T09:16:30+00:00"
+          "headline": "Riot Platforms: Hedging Rising Bitcoin And Rising Power Prices",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=57f66ff0f0da150f2e7ac7b683c80bc8c5d3d601f1d0096881467357dec733d2",
+          "published_utc": "2026-10-01T22:04:19+00:00"
         },
         {
-          "headline": "This AST SpaceMobile Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fac343bb9f908816e60a96a399ebddf807909923df5fa9fe57d672d460b680fb",
-          "published_utc": "2026-10-02T08:42:39+00:00"
+          "headline": "Riot Platforms, Inc. (RIOT) Stock Dips While Market Gains: Key Facts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=91f25d47ff8a6ff432192be7542ff89f73e21a4df7377d07358238f0d9e54512",
+          "published_utc": "2026-10-01T20:50:02+00:00"
         },
         {
-          "headline": "B. Riley Securities Downgrades AST SpaceMobile to Neutral, Lowers Price Target to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=47243ea29256922ef31b298fa0be03debbc143a813116afc43a9a3f3fac928ba",
-          "published_utc": "2026-10-02T05:59:21+00:00"
+          "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3b16b9c6242fabe6090abc547f8a663a0853fcb67f7fd31f7aa3067b54c14fcb",
+          "published_utc": "2026-09-30T20:00:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -293,12 +231,12 @@
   "swing_trading": [
     {
       "symbol": "RKLB",
-      "price": 75.81,
-      "change_percent": 7.593,
+      "price": 74.05,
+      "change_percent": 5.0951,
       "previous_close": 70.46,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -329,50 +267,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RIOT",
-      "price": 20.8,
-      "change_percent": 6.0683,
-      "previous_close": 19.61,
-      "quote_timestamp": 1790952439.0,
-      "quote_time_utc": "2026-10-02T14:47:19+00:00",
-      "quote_age_seconds": 23,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Riot Platforms: Hedging Rising Bitcoin And Rising Power Prices",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=57f66ff0f0da150f2e7ac7b683c80bc8c5d3d601f1d0096881467357dec733d2",
-          "published_utc": "2026-10-01T22:04:19+00:00"
-        },
-        {
-          "headline": "Riot Platforms, Inc. (RIOT) Stock Dips While Market Gains: Key Facts",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=91f25d47ff8a6ff432192be7542ff89f73e21a4df7377d07358238f0d9e54512",
-          "published_utc": "2026-10-01T20:50:02+00:00"
-        },
-        {
-          "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b16b9c6242fabe6090abc547f8a663a0853fcb67f7fd31f7aa3067b54c14fcb",
-          "published_utc": "2026-09-30T20:00:56+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "TSLA",
-      "price": 373.95,
-      "change_percent": 5.6028,
+      "price": 371.63,
+      "change_percent": 4.9476,
       "previous_close": 354.11,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -404,12 +305,12 @@
     },
     {
       "symbol": "SMCI",
-      "price": 44.24,
-      "change_percent": 5.5344,
+      "price": 43.5,
+      "change_percent": 3.7691,
       "previous_close": 41.92,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954200.0,
+      "quote_time_utc": "2026-10-02T15:16:40+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -441,12 +342,12 @@
     },
     {
       "symbol": "HOOD",
-      "price": 116.96,
-      "change_percent": 5.2272,
+      "price": 114.94,
+      "change_percent": 3.4098,
       "previous_close": 111.15,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -477,13 +378,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MARA",
-      "price": 11.78,
-      "change_percent": 5.0847,
-      "previous_close": 11.21,
-      "quote_timestamp": 1790952439.0,
-      "quote_time_utc": "2026-10-02T14:47:19+00:00",
-      "quote_age_seconds": 23,
+      "symbol": "AMD",
+      "price": 636.34,
+      "change_percent": 3.3472,
+      "previous_close": 615.73,
+      "quote_timestamp": 1790954202.0,
+      "quote_time_utc": "2026-10-02T15:16:42+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -493,30 +394,11 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b16b9c6242fabe6090abc547f8a663a0853fcb67f7fd31f7aa3067b54c14fcb",
-          "published_utc": "2026-09-30T20:00:56+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 639.01,
-      "change_percent": 3.7809,
-      "previous_close": 615.73,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
+          "headline": "These S&P500 stocks are gapping in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=aab9006d36a58b02b2253317f1a39f0abf20a3409f003a8d9a70e4e807671336",
+          "published_utc": "2026-10-02T14:35:01+00:00"
+        },
         {
           "headline": "Should You Be Worried About Marvell Stock?",
           "source": "Yahoo",
@@ -528,24 +410,18 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=8c7ed1245a4e7501091f09aa92ac753ffbf0b5bddc85ddf373d10bb3d0c2f48d",
           "published_utc": "2026-10-02T12:51:09+00:00"
-        },
-        {
-          "headline": "Top S&P500 movers in Friday's pre-market session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=d674fc0a6667a4bad40905abffa35b1f158852775d0f2c63316a7d2a5f493f83",
-          "published_utc": "2026-10-02T12:35:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "ASTS",
-      "price": 58.81,
-      "change_percent": 3.1031,
-      "previous_close": 57.04,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
+      "symbol": "RIOT",
+      "price": 20.25,
+      "change_percent": 3.2636,
+      "previous_close": 19.61,
+      "quote_timestamp": 1790954200.0,
+      "quote_time_utc": "2026-10-02T15:16:40+00:00",
+      "quote_age_seconds": 23,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -555,170 +431,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile Stock Trades Flat Following B.Riley Price Target Cut to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=260a782273c3a7adaa7e35bdc26975b557ed01646be680c933c776affd43c137",
-          "published_utc": "2026-10-02T09:16:30+00:00"
+          "headline": "Riot Platforms: Hedging Rising Bitcoin And Rising Power Prices",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=57f66ff0f0da150f2e7ac7b683c80bc8c5d3d601f1d0096881467357dec733d2",
+          "published_utc": "2026-10-01T22:04:19+00:00"
         },
         {
-          "headline": "This AST SpaceMobile Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fac343bb9f908816e60a96a399ebddf807909923df5fa9fe57d672d460b680fb",
-          "published_utc": "2026-10-02T08:42:39+00:00"
+          "headline": "Riot Platforms, Inc. (RIOT) Stock Dips While Market Gains: Key Facts",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=91f25d47ff8a6ff432192be7542ff89f73e21a4df7377d07358238f0d9e54512",
+          "published_utc": "2026-10-01T20:50:02+00:00"
         },
         {
-          "headline": "B. Riley Securities Downgrades AST SpaceMobile to Neutral, Lowers Price Target to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=47243ea29256922ef31b298fa0be03debbc143a813116afc43a9a3f3fac928ba",
-          "published_utc": "2026-10-02T05:59:21+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 16.06,
-      "change_percent": 2.8169,
-      "previous_close": 15.62,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Quantum Computing Stocks Face Profitability Test as Revenue Boom Meets Earnings Reality",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=bfbc2e2b6928234a00eadae1fa6b33096a6c7758e43f4da7b2756c6448372036",
-          "published_utc": "2026-10-01T12:06:08+00:00"
-        },
-        {
-          "headline": "IonQ Lost 30% Of Its Value Over 12 Months: Two Wall Street Ratings Agencies Say Share Prices Will More Than Double Over The Next 12 Months",
+          "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e239b995efad2201b918fb031c150966ce9cfb29517c13d7350ff1067aff57b",
-          "published_utc": "2026-10-01T11:15:40+00:00"
-        },
-        {
-          "headline": "IonQ Jumps 4% on BoA Buy Rating; Rigetti and D-Wave Quantum Gain 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4fd83419199420ebba85c05c5e565fdc818764bab68efbf3d79c269db01717ff",
-          "published_utc": "2026-09-30T15:05:40+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "NVDA",
-      "price": 236.88,
-      "change_percent": 2.6076,
-      "previous_close": 230.86,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Tech stocks jump after jobs report miss, Treasury yields ease: AlphaCheck",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8cba848c97728f0332d84ba88e43cc23d3a1072f899a53508bd6797d5059eafe",
-          "published_utc": "2026-10-02T13:49:16+00:00"
-        },
-        {
-          "headline": "Why Amazon is trying to offload $8B of chips from its balance sheet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ebac8ad923d5f8b2a05badfb00ff28e2d59cce1bd5eade45d5ba35bcdb389c3a",
-          "published_utc": "2026-10-02T13:43:46+00:00"
-        },
-        {
-          "headline": "Skip the Megacaps: These 2 Under-the-Radar AI Stocks Have More Room to 10X",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=469de2d60069dbcf7de08fcf047772b355530dff4f831a21accbe71e3b5b1349",
-          "published_utc": "2026-10-02T13:33:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "IONQ",
-      "price": 45.09,
-      "change_percent": 2.5006,
-      "previous_close": 43.99,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "IonQ (IONQ) Stock Fair Value Edges Lower After Analysts Rework Growth And Risk",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0651a59ad851d7f5cfc67dee43f5801356daa1c2885f3e5db2f0bba858e94013",
-          "published_utc": "2026-10-02T05:09:57+00:00"
-        },
-        {
-          "headline": "Better Quantum Computing Stock: IonQ vs. D-Wave",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5e6695e63804a10bcfcd21e302dcb098efbef52efae5db999058670570b9af2",
-          "published_utc": "2026-10-01T21:35:00+00:00"
-        },
-        {
-          "headline": "IonQ vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd48f330e8e5e8dfcec8856002b2f5999ab91a01d5b01c146a820fb518ba56ec",
-          "published_utc": "2026-10-01T21:24:33+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 194.1,
-      "change_percent": 2.1364,
-      "previous_close": 190.04,
-      "quote_timestamp": 1790952440.0,
-      "quote_time_utc": "2026-10-02T14:47:20+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Palantir\u2019s Growth Could Justify a Much Higher Stock Price",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8138498d3a228c281ed608b4d41ace9303fffc2c057ccbb8c769ab202d8354f1",
-          "published_utc": "2026-10-02T12:45:23+00:00"
-        },
-        {
-          "headline": "Can BigBear.ai's Margin Expansion Strengthen Operating Leverage?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=445c36dd98a7b40f71e25369a73778886451016b385ee4d8e21c22ca95b9261c",
-          "published_utc": "2026-10-02T12:30:00+00:00"
-        },
-        {
-          "headline": "A Guide to AI ETF Investment",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=55d79f27afedaf914e45889c0cd4b89b010245c72586f82195cd287fe7271aaa",
-          "published_utc": "2026-10-02T12:29:00+00:00"
+          "url": "https://finnhub.io/api/news?id=3b16b9c6242fabe6090abc547f8a663a0853fcb67f7fd31f7aa3067b54c14fcb",
+          "published_utc": "2026-09-30T20:00:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
