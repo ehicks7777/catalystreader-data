@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T12:18:53.622151+00:00",
+  "updated": "2026-10-02T12:50:05.128759+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 153.09,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 58732,
+      "quote_age_seconds": 60604,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "The Next Crypto Boom Is Already Here",
+          "headline": "ON Semi, Synaptics, Nike, Strategy, Moderna, and More Stocks That Explain Today\u2019s Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=371145c53fe1b387cc98465d2c4b7a4c31b34e372c250447a9def6ccdedc1e2f",
-          "published_utc": "2026-10-02T05:30:00+00:00"
+          "url": "https://finnhub.io/api/news?id=9248aa78a0af2da9f0912cef3c87c196e2d8f32066b75db33516976170895605",
+          "published_utc": "2026-10-02T11:35:00+00:00"
         },
         {
-          "headline": "3 High-Yield Financial Stocks to Buy in October",
+          "headline": "Bitcoin Rises 35% in 90 Days but Remains 29% Below Last Year: Which Buyers Are Still Underwater?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=afa5a1ca851b797dda5c167881dc047ce0a77a152038bb766eed4852e4c40f8f",
-          "published_utc": "2026-10-01T16:30:00+00:00"
+          "url": "https://finnhub.io/api/news?id=0f4ce0a6fa5dd23e741c352a2efd84249ed1487dba695b289e61782ce7efb22d",
+          "published_utc": "2026-10-02T11:30:42+00:00"
         },
         {
-          "headline": "Strategy's Preferred: Fundamentals Behind The Daily Dividends",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3c34178852578c1d7483004249dbed47bf999f0a4d3b6759cb80b18950030303",
-          "published_utc": "2026-10-01T12:39:18+00:00"
+          "headline": "Here\u2019s Why Strategy Stock Down 53% in a Year but Up 72% in Three Months",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7f0fbde36ffdd2e98b392e3e9969133bc5b887133ef5906f57ceb69597a93136",
+          "published_utc": "2026-10-02T11:05:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 41.07,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 58732,
+      "quote_age_seconds": 60604,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
