@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T11:45:05.895269+00:00",
+  "updated": "2026-10-02T12:18:53.622151+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 153.09,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 56705,
+      "quote_age_seconds": 58732,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 41.07,
       "quote_timestamp": 1790884800.0,
       "quote_time_utc": "2026-10-01T20:00:00+00:00",
-      "quote_age_seconds": 56705,
+      "quote_age_seconds": 58732,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
+          "published_utc": "2026-10-02T10:54:03+00:00"
+        },
         {
           "headline": "What Is The Case For Waiting On Hewlett Packard Enterprise Stock?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=47316eac28ed86c1b715aa82feb44ba809ec50ec0893b9cf0802d8cbaa589939",
           "published_utc": "2026-10-01T15:28:00+00:00"
-        },
-        {
-          "headline": "SMCI or WDC: Which Is the Better Value Stock Right Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=65a59140879dbbdfe4911bd56d8f6e25c1a6af75fe3aadf632a4a33d2a5ad8e6",
-          "published_utc": "2026-10-01T14:40:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
