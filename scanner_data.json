@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:15:05.580388+00:00",
+  "updated": "2026-10-02T16:46:45.943314+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "TSLA",
-      "price": 372.7,
-      "change_percent": 5.2498,
+      "price": 371.39,
+      "change_percent": 4.8798,
       "previous_close": 354.11,
-      "quote_timestamp": 1790957679.0,
-      "quote_time_utc": "2026-10-02T16:14:39+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790959590.0,
+      "quote_time_utc": "2026-10-02T16:46:30+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,34 +22,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today: Dow Rallies 300 Points On Jobs Report Surprise; Tesla Jumps On Deliveries (Live Coverage)",
+          "headline": "Stock Market Today: Nasdaq Powers Up On U.S. Jobs Shortfall; Tesla Jumps, NetApp Extends Gains (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=608bcc606288bd92cb59bddf75d3d5751e9dfd1c62c73a634690460a079cd6aa",
-          "published_utc": "2026-10-02T13:47:55+00:00"
+          "url": "https://finnhub.io/api/news?id=37ec08fa2e0cb385facc17b8dd1d4199e86ae880a80f5d065d072386e5d94e78",
+          "published_utc": "2026-10-02T15:41:31+00:00"
         },
         {
-          "headline": "Tesla Delivered 486,532 Electric Vehicles In Q3, Beating Estimates. The Stock Is Rising.",
+          "headline": "Rivian Q3 Deliveries Hit Record \u2014 Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93912d2468a86fa0130adc54b419147db6991fba992c4f2d4550aa89aefa6f5d",
-          "published_utc": "2026-10-02T13:35:03+00:00"
+          "url": "https://finnhub.io/api/news?id=053234ab07fa9650dc7cff7e3412a374bd41cb6f6e3f648c9a143f5e92a050c4",
+          "published_utc": "2026-10-02T15:07:44+00:00"
         },
         {
-          "headline": "Tesla Q3 2026 vehicle deliveries beat Wall Street estimates",
+          "headline": "Tesla Surges 5% as 486,532 Deliveries Top Company Consensus; Rivian Slides 3%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5369df251294084a6ea0d63306357901494dc3971cbfc1cb148dc7f320a87d75",
-          "published_utc": "2026-10-02T13:34:04+00:00"
+          "url": "https://finnhub.io/api/news?id=4c153ae88977f53eec085f3c57697fd7a994a0fb4dfabcd2d11bb8ef4e09fcbf",
+          "published_utc": "2026-10-02T14:50:42+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 73.85,
-      "change_percent": 4.8112,
+      "price": 73.81,
+      "change_percent": 4.7545,
       "previous_close": 70.46,
-      "quote_timestamp": 1790957677.0,
-      "quote_time_utc": "2026-10-02T16:14:37+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1790959589.0,
+      "quote_time_utc": "2026-10-02T16:46:29+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -58,6 +58,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
+          "published_utc": "2026-10-02T14:47:28+00:00"
+        },
         {
           "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
           "source": "Yahoo",
@@ -69,24 +75,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
           "published_utc": "2026-10-02T12:45:06+00:00"
-        },
-        {
-          "headline": "Stocktwits Space Race Weekly: SPCX Holds Pole Position As ASTS, RKLB, PL, RDW, FLY Lose Altitude",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=518cb0e6c4d7fd78780e252f710cd38f60d849e8692bc25bc63178e6501ccef6",
-          "published_utc": "2026-10-02T09:49:39+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "SMCI",
-      "price": 43.4,
-      "change_percent": 3.5305,
+      "price": 43.43,
+      "change_percent": 3.6021,
       "previous_close": 41.92,
-      "quote_timestamp": 1790957676.0,
-      "quote_time_utc": "2026-10-02T16:14:36+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790959589.0,
+      "quote_time_utc": "2026-10-02T16:46:29+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -112,43 +112,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=3c3a90d69d372787ceee4e3be2e5d7347dd74be6aa93edd75fcb3e949c539952",
           "published_utc": "2026-10-02T02:14:39+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 634.75,
-      "change_percent": 3.089,
-      "previous_close": 615.73,
-      "quote_timestamp": 1790957678.0,
-      "quote_time_utc": "2026-10-02T16:14:38+00:00",
-      "quote_age_seconds": 26,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=73b493ec511e22341068073b5e1770e7afca1b286fb436d4610f7e22d7eafd29",
-          "published_utc": "2026-10-02T15:47:31+00:00"
-        },
-        {
-          "headline": "Is Intel Stock Too Dependent On One Big Bet?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=80f041dce213a02c0075b7ae9b18fc9ce0008fe676709bafc4daf6d30d4c428a",
-          "published_utc": "2026-10-02T15:09:59+00:00"
-        },
-        {
-          "headline": "These S&P500 stocks are gapping in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=aab9006d36a58b02b2253317f1a39f0abf20a3409f003a8d9a70e4e807671336",
-          "published_utc": "2026-10-02T14:35:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -157,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "TSLA",
-      "price": 372.7,
-      "change_percent": 5.2498,
+      "price": 371.39,
+      "change_percent": 4.8798,
       "previous_close": 354.11,
-      "quote_timestamp": 1790957679.0,
-      "quote_time_utc": "2026-10-02T16:14:39+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790959590.0,
+      "quote_time_utc": "2026-10-02T16:46:30+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -172,34 +135,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today: Dow Rallies 300 Points On Jobs Report Surprise; Tesla Jumps On Deliveries (Live Coverage)",
+          "headline": "Stock Market Today: Nasdaq Powers Up On U.S. Jobs Shortfall; Tesla Jumps, NetApp Extends Gains (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=608bcc606288bd92cb59bddf75d3d5751e9dfd1c62c73a634690460a079cd6aa",
-          "published_utc": "2026-10-02T13:47:55+00:00"
+          "url": "https://finnhub.io/api/news?id=37ec08fa2e0cb385facc17b8dd1d4199e86ae880a80f5d065d072386e5d94e78",
+          "published_utc": "2026-10-02T15:41:31+00:00"
         },
         {
-          "headline": "Tesla Delivered 486,532 Electric Vehicles In Q3, Beating Estimates. The Stock Is Rising.",
+          "headline": "Rivian Q3 Deliveries Hit Record \u2014 Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=93912d2468a86fa0130adc54b419147db6991fba992c4f2d4550aa89aefa6f5d",
-          "published_utc": "2026-10-02T13:35:03+00:00"
+          "url": "https://finnhub.io/api/news?id=053234ab07fa9650dc7cff7e3412a374bd41cb6f6e3f648c9a143f5e92a050c4",
+          "published_utc": "2026-10-02T15:07:44+00:00"
         },
         {
-          "headline": "Tesla Q3 2026 vehicle deliveries beat Wall Street estimates",
+          "headline": "Tesla Surges 5% as 486,532 Deliveries Top Company Consensus; Rivian Slides 3%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5369df251294084a6ea0d63306357901494dc3971cbfc1cb148dc7f320a87d75",
-          "published_utc": "2026-10-02T13:34:04+00:00"
+          "url": "https://finnhub.io/api/news?id=4c153ae88977f53eec085f3c57697fd7a994a0fb4dfabcd2d11bb8ef4e09fcbf",
+          "published_utc": "2026-10-02T14:50:42+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 73.85,
-      "change_percent": 4.8112,
+      "price": 73.81,
+      "change_percent": 4.7545,
       "previous_close": 70.46,
-      "quote_timestamp": 1790957677.0,
-      "quote_time_utc": "2026-10-02T16:14:37+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1790959589.0,
+      "quote_time_utc": "2026-10-02T16:46:29+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -208,6 +171,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
+          "published_utc": "2026-10-02T14:47:28+00:00"
+        },
         {
           "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
           "source": "Yahoo",
@@ -219,24 +188,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
           "published_utc": "2026-10-02T12:45:06+00:00"
-        },
-        {
-          "headline": "Stocktwits Space Race Weekly: SPCX Holds Pole Position As ASTS, RKLB, PL, RDW, FLY Lose Altitude",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=518cb0e6c4d7fd78780e252f710cd38f60d849e8692bc25bc63178e6501ccef6",
-          "published_utc": "2026-10-02T09:49:39+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "SMCI",
-      "price": 43.4,
-      "change_percent": 3.5305,
+      "price": 43.43,
+      "change_percent": 3.6021,
       "previous_close": 41.92,
-      "quote_timestamp": 1790957676.0,
-      "quote_time_utc": "2026-10-02T16:14:36+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1790959589.0,
+      "quote_time_utc": "2026-10-02T16:46:29+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -268,12 +231,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 634.75,
-      "change_percent": 3.089,
+      "price": 631.01,
+      "change_percent": 2.4816,
       "previous_close": 615.73,
-      "quote_timestamp": 1790957678.0,
-      "quote_time_utc": "2026-10-02T16:14:38+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1790959591.0,
+      "quote_time_utc": "2026-10-02T16:46:31+00:00",
+      "quote_age_seconds": 13,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -304,13 +267,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "NVDA",
-      "price": 236.53,
-      "change_percent": 2.456,
-      "previous_close": 230.86,
-      "quote_timestamp": 1790957679.0,
-      "quote_time_utc": "2026-10-02T16:14:39+00:00",
-      "quote_age_seconds": 25,
+      "symbol": "HOOD",
+      "price": 113.61,
+      "change_percent": 2.2132,
+      "previous_close": 111.15,
+      "quote_timestamp": 1790959591.0,
+      "quote_time_utc": "2026-10-02T16:46:31+00:00",
+      "quote_age_seconds": 13,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -320,34 +283,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tech stocks jump after jobs report miss, Treasury yields ease: AlphaCheck",
+          "headline": "The Corporate Shell Game: How AI Trading Platforms Are Building the Liability Escape Hatch",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8cba848c97728f0332d84ba88e43cc23d3a1072f899a53508bd6797d5059eafe",
-          "published_utc": "2026-10-02T13:49:16+00:00"
+          "url": "https://finnhub.io/api/news?id=04e5cdaf82ba70cd92952171b931c71239523515c5c4067c3430093b5c5c9436",
+          "published_utc": "2026-10-02T15:55:02+00:00"
         },
         {
-          "headline": "Why Amazon is trying to offload $8B of chips from its balance sheet",
+          "headline": "Robinhood\u2019s Corporate Shell Game: How AI Trading Platforms Are Building the Liability Escape Hatch",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ebac8ad923d5f8b2a05badfb00ff28e2d59cce1bd5eade45d5ba35bcdb389c3a",
-          "published_utc": "2026-10-02T13:43:46+00:00"
+          "url": "https://finnhub.io/api/news?id=4fbcd4164226f50b5e822ad23db944763ec2953ed7f66bd6762c944e3ae58c62",
+          "published_utc": "2026-10-02T15:49:53+00:00"
         },
         {
-          "headline": "Skip the Megacaps: These 2 Under-the-Radar AI Stocks Have More Room to 10X",
+          "headline": "Robinhood\u2019s Tokenized Stocks Are Becoming a New Memecoin Trade: Report",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=469de2d60069dbcf7de08fcf047772b355530dff4f831a21accbe71e3b5b1349",
-          "published_utc": "2026-10-02T13:33:00+00:00"
+          "url": "https://finnhub.io/api/news?id=13b10742568ac613fd729951e1434b55297d86b03a78f6836ab675917e92c826",
+          "published_utc": "2026-10-02T15:13:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "IONQ",
-      "price": 45.0,
-      "change_percent": 2.296,
-      "previous_close": 43.99,
-      "quote_timestamp": 1790957676.0,
-      "quote_time_utc": "2026-10-02T16:14:36+00:00",
-      "quote_age_seconds": 28,
+      "symbol": "NVDA",
+      "price": 235.58,
+      "change_percent": 2.0445,
+      "previous_close": 230.86,
+      "quote_timestamp": 1790959591.0,
+      "quote_time_utc": "2026-10-02T16:46:31+00:00",
+      "quote_age_seconds": 13,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -357,22 +320,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "IonQ (IONQ) Stock Fair Value Edges Lower After Analysts Rework Growth And Risk",
+          "headline": "Why SpaceX Stock Popped on Friday",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0651a59ad851d7f5cfc67dee43f5801356daa1c2885f3e5db2f0bba858e94013",
-          "published_utc": "2026-10-02T05:09:57+00:00"
+          "url": "https://finnhub.io/api/news?id=edfa86d03b7ae490f6f58e916f7f7536610fafe1cf3472760c3862502c1dfb56",
+          "published_utc": "2026-10-02T15:51:57+00:00"
         },
         {
-          "headline": "Better Quantum Computing Stock: IonQ vs. D-Wave",
+          "headline": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5e6695e63804a10bcfcd21e302dcb098efbef52efae5db999058670570b9af2",
-          "published_utc": "2026-10-01T21:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=73b493ec511e22341068073b5e1770e7afca1b286fb436d4610f7e22d7eafd29",
+          "published_utc": "2026-10-02T15:47:31+00:00"
         },
         {
-          "headline": "IonQ vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
+          "headline": "AI Debt Is a \u2018Brewing Crisis,\u2019 Ed Zitron Warns as Amazon, CoreWeave Turn to Complex Financing",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd48f330e8e5e8dfcec8856002b2f5999ab91a01d5b01c146a820fb518ba56ec",
-          "published_utc": "2026-10-01T21:24:33+00:00"
+          "url": "https://finnhub.io/api/news?id=abe298cee1ccd32322482e33bab5358a8aba8093d9f1c558cfef3cf5a55bda3a",
+          "published_utc": "2026-10-02T15:45:35+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "ASTS",
+      "price": 58.19,
+      "change_percent": 2.0161,
+      "previous_close": 57.04,
+      "quote_timestamp": 1790959590.0,
+      "quote_time_utc": "2026-10-02T16:46:30+00:00",
+      "quote_age_seconds": 14,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "AST SpaceMobile Stock Trades Flat Following B.Riley Price Target Cut to $65",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=260a782273c3a7adaa7e35bdc26975b557ed01646be680c933c776affd43c137",
+          "published_utc": "2026-10-02T09:16:30+00:00"
+        },
+        {
+          "headline": "This AST SpaceMobile Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=fac343bb9f908816e60a96a399ebddf807909923df5fa9fe57d672d460b680fb",
+          "published_utc": "2026-10-02T08:42:39+00:00"
+        },
+        {
+          "headline": "B. Riley Securities Downgrades AST SpaceMobile to Neutral, Lowers Price Target to $65",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=47243ea29256922ef31b298fa0be03debbc143a813116afc43a9a3f3fac928ba",
+          "published_utc": "2026-10-02T05:59:21+00:00"
         }
       ],
       "news_status": "Recent headlines found"
