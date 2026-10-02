@@ -1,54 +1,17 @@
 {
-  "updated": "2026-10-02T15:46:50.620475+00:00",
+  "updated": "2026-10-02T16:15:05.580388+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "RKLB",
-      "price": 74.34,
-      "change_percent": 5.5067,
-      "previous_close": 70.46,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
-      "quote_age_seconds": 25,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
-          "published_utc": "2026-10-02T13:06:25+00:00"
-        },
-        {
-          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
-          "published_utc": "2026-10-02T12:45:06+00:00"
-        },
-        {
-          "headline": "Stocktwits Space Race Weekly: SPCX Holds Pole Position As ASTS, RKLB, PL, RDW, FLY Lose Altitude",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=518cb0e6c4d7fd78780e252f710cd38f60d849e8692bc25bc63178e6501ccef6",
-          "published_utc": "2026-10-02T09:49:39+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "TSLA",
-      "price": 373.59,
-      "change_percent": 5.5011,
+      "price": 372.7,
+      "change_percent": 5.2498,
       "previous_close": 354.11,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
+      "quote_timestamp": 1790957679.0,
+      "quote_time_utc": "2026-10-02T16:14:39+00:00",
       "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
@@ -80,13 +43,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "RKLB",
+      "price": 73.85,
+      "change_percent": 4.8112,
+      "previous_close": 70.46,
+      "quote_timestamp": 1790957677.0,
+      "quote_time_utc": "2026-10-02T16:14:37+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
+          "published_utc": "2026-10-02T13:06:25+00:00"
+        },
+        {
+          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
+          "published_utc": "2026-10-02T12:45:06+00:00"
+        },
+        {
+          "headline": "Stocktwits Space Race Weekly: SPCX Holds Pole Position As ASTS, RKLB, PL, RDW, FLY Lose Altitude",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=518cb0e6c4d7fd78780e252f710cd38f60d849e8692bc25bc63178e6501ccef6",
+          "published_utc": "2026-10-02T09:49:39+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "SMCI",
-      "price": 43.25,
-      "change_percent": 3.1727,
+      "price": 43.4,
+      "change_percent": 3.5305,
       "previous_close": 41.92,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790957676.0,
+      "quote_time_utc": "2026-10-02T16:14:36+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -118,12 +118,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 634.76,
-      "change_percent": 3.0906,
+      "price": 634.75,
+      "change_percent": 3.089,
       "previous_close": 615.73,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790957678.0,
+      "quote_time_utc": "2026-10-02T16:14:38+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -133,22 +133,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73b493ec511e22341068073b5e1770e7afca1b286fb436d4610f7e22d7eafd29",
+          "published_utc": "2026-10-02T15:47:31+00:00"
+        },
+        {
+          "headline": "Is Intel Stock Too Dependent On One Big Bet?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80f041dce213a02c0075b7ae9b18fc9ce0008fe676709bafc4daf6d30d4c428a",
+          "published_utc": "2026-10-02T15:09:59+00:00"
+        },
+        {
           "headline": "These S&P500 stocks are gapping in today's session",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=aab9006d36a58b02b2253317f1a39f0abf20a3409f003a8d9a70e4e807671336",
           "published_utc": "2026-10-02T14:35:01+00:00"
-        },
-        {
-          "headline": "Should You Be Worried About Marvell Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b8430f8a5cba42cf60ee965666da64a72f59d758b1ba4c72238bcacc3f3a7ca",
-          "published_utc": "2026-10-02T13:31:12+00:00"
-        },
-        {
-          "headline": "Advanced Micro Devices (NASDAQ:AMD): High Growth Momentum With a Breakout Setup",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8c7ed1245a4e7501091f09aa92ac753ffbf0b5bddc85ddf373d10bb3d0c2f48d",
-          "published_utc": "2026-10-02T12:51:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -156,49 +156,12 @@
   ],
   "swing_trading": [
     {
-      "symbol": "RKLB",
-      "price": 74.34,
-      "change_percent": 5.5067,
-      "previous_close": 70.46,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
-      "quote_age_seconds": 25,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
-          "published_utc": "2026-10-02T13:06:25+00:00"
-        },
-        {
-          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
-          "published_utc": "2026-10-02T12:45:06+00:00"
-        },
-        {
-          "headline": "Stocktwits Space Race Weekly: SPCX Holds Pole Position As ASTS, RKLB, PL, RDW, FLY Lose Altitude",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=518cb0e6c4d7fd78780e252f710cd38f60d849e8692bc25bc63178e6501ccef6",
-          "published_utc": "2026-10-02T09:49:39+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "TSLA",
-      "price": 373.59,
-      "change_percent": 5.5011,
+      "price": 372.7,
+      "change_percent": 5.2498,
       "previous_close": 354.11,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
+      "quote_timestamp": 1790957679.0,
+      "quote_time_utc": "2026-10-02T16:14:39+00:00",
       "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
@@ -230,13 +193,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "RKLB",
+      "price": 73.85,
+      "change_percent": 4.8112,
+      "previous_close": 70.46,
+      "quote_timestamp": 1790957677.0,
+      "quote_time_utc": "2026-10-02T16:14:37+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
+          "published_utc": "2026-10-02T13:06:25+00:00"
+        },
+        {
+          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
+          "published_utc": "2026-10-02T12:45:06+00:00"
+        },
+        {
+          "headline": "Stocktwits Space Race Weekly: SPCX Holds Pole Position As ASTS, RKLB, PL, RDW, FLY Lose Altitude",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=518cb0e6c4d7fd78780e252f710cd38f60d849e8692bc25bc63178e6501ccef6",
+          "published_utc": "2026-10-02T09:49:39+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "SMCI",
-      "price": 43.25,
-      "change_percent": 3.1727,
+      "price": 43.4,
+      "change_percent": 3.5305,
       "previous_close": 41.92,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790957676.0,
+      "quote_time_utc": "2026-10-02T16:14:36+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -268,12 +268,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 634.76,
-      "change_percent": 3.0906,
+      "price": 634.75,
+      "change_percent": 3.089,
       "previous_close": 615.73,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1790957678.0,
+      "quote_time_utc": "2026-10-02T16:14:38+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -282,34 +282,34 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=73b493ec511e22341068073b5e1770e7afca1b286fb436d4610f7e22d7eafd29",
+          "published_utc": "2026-10-02T15:47:31+00:00"
+        },
+        {
+          "headline": "Is Intel Stock Too Dependent On One Big Bet?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=80f041dce213a02c0075b7ae9b18fc9ce0008fe676709bafc4daf6d30d4c428a",
+          "published_utc": "2026-10-02T15:09:59+00:00"
+        },
         {
           "headline": "These S&P500 stocks are gapping in today's session",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=aab9006d36a58b02b2253317f1a39f0abf20a3409f003a8d9a70e4e807671336",
           "published_utc": "2026-10-02T14:35:01+00:00"
-        },
-        {
-          "headline": "Should You Be Worried About Marvell Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0b8430f8a5cba42cf60ee965666da64a72f59d758b1ba4c72238bcacc3f3a7ca",
-          "published_utc": "2026-10-02T13:31:12+00:00"
-        },
-        {
-          "headline": "Advanced Micro Devices (NASDAQ:AMD): High Growth Momentum With a Breakout Setup",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8c7ed1245a4e7501091f09aa92ac753ffbf0b5bddc85ddf373d10bb3d0c2f48d",
-          "published_utc": "2026-10-02T12:51:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "HOOD",
-      "price": 113.4,
-      "change_percent": 2.0243,
-      "previous_close": 111.15,
-      "quote_timestamp": 1790955983.0,
-      "quote_time_utc": "2026-10-02T15:46:23+00:00",
+      "symbol": "NVDA",
+      "price": 236.53,
+      "change_percent": 2.456,
+      "previous_close": 230.86,
+      "quote_timestamp": 1790957679.0,
+      "quote_time_utc": "2026-10-02T16:14:39+00:00",
       "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
@@ -320,22 +320,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "People Moves: TradePMR Tech Executive Jon Patullo Jumps to Hybrid RIA",
+          "headline": "Tech stocks jump after jobs report miss, Treasury yields ease: AlphaCheck",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3129725d4ea6afa0054c7313ad07c70c483aa448bb91444a388c74dd758ab1c3",
-          "published_utc": "2026-10-02T13:20:55+00:00"
+          "url": "https://finnhub.io/api/news?id=8cba848c97728f0332d84ba88e43cc23d3a1072f899a53508bd6797d5059eafe",
+          "published_utc": "2026-10-02T13:49:16+00:00"
         },
         {
-          "headline": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
+          "headline": "Why Amazon is trying to offload $8B of chips from its balance sheet",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4ed4becfda63aae3823d1323c7ba2208f236b2a6940bc77f7bb4abc881d1cfe",
-          "published_utc": "2026-10-02T11:59:57+00:00"
+          "url": "https://finnhub.io/api/news?id=ebac8ad923d5f8b2a05badfb00ff28e2d59cce1bd5eade45d5ba35bcdb389c3a",
+          "published_utc": "2026-10-02T13:43:46+00:00"
         },
         {
-          "headline": "Bitcoin Crosses $86,000 on Fed Pause Hopes. Strategy Leads Crypto Stocks Higher.",
+          "headline": "Skip the Megacaps: These 2 Under-the-Radar AI Stocks Have More Room to 10X",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2ca99339fc2d4d1e28fc99aa9c6c2806a4ad00be9a694f41a5c11bb505dae2bb",
-          "published_utc": "2026-10-02T11:50:00+00:00"
+          "url": "https://finnhub.io/api/news?id=469de2d60069dbcf7de08fcf047772b355530dff4f831a21accbe71e3b5b1349",
+          "published_utc": "2026-10-02T13:33:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 45.0,
+      "change_percent": 2.296,
+      "previous_close": 43.99,
+      "quote_timestamp": 1790957676.0,
+      "quote_time_utc": "2026-10-02T16:14:36+00:00",
+      "quote_age_seconds": 28,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "IonQ (IONQ) Stock Fair Value Edges Lower After Analysts Rework Growth And Risk",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0651a59ad851d7f5cfc67dee43f5801356daa1c2885f3e5db2f0bba858e94013",
+          "published_utc": "2026-10-02T05:09:57+00:00"
+        },
+        {
+          "headline": "Better Quantum Computing Stock: IonQ vs. D-Wave",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b5e6695e63804a10bcfcd21e302dcb098efbef52efae5db999058670570b9af2",
+          "published_utc": "2026-10-01T21:35:00+00:00"
+        },
+        {
+          "headline": "IonQ vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fd48f330e8e5e8dfcec8856002b2f5999ab91a01d5b01c146a820fb518ba56ec",
+          "published_utc": "2026-10-01T21:24:33+00:00"
         }
       ],
       "news_status": "Recent headlines found"
