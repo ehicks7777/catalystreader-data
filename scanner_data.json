@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:19:09.548910+00:00",
+  "updated": "2026-10-02T18:47:48.943628+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "TSLA",
-      "price": 371.34,
-      "change_percent": 4.8657,
+      "price": 371.36,
+      "change_percent": 4.8714,
       "previous_close": 354.11,
-      "quote_timestamp": 1790965116.0,
-      "quote_time_utc": "2026-10-02T18:18:36+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1790966847.0,
+      "quote_time_utc": "2026-10-02T18:47:27+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
+          "published_utc": "2026-10-02T18:05:01+00:00"
+        },
         {
           "headline": "Tesla Delivered 486,532 Vehicles in Q3. Here\u2019s Why the Real Test Could Come on Oct. 21.",
           "source": "Yahoo",
@@ -32,24 +38,55 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e77d12b08fc4837936a853bc2a7a2c1aafd6b9583c648af9d43106ab654bb66c",
           "published_utc": "2026-10-02T17:06:38+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SMCI",
+      "price": 43.82,
+      "change_percent": 4.5324,
+      "previous_close": 41.92,
+      "quote_timestamp": 1790966847.0,
+      "quote_time_utc": "2026-10-02T18:47:27+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
+          "published_utc": "2026-10-02T18:05:01+00:00"
         },
         {
-          "headline": "Tesla Stock Could Be in for a Massive Move. Here\u2019s My 2027 Price Prediction",
+          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02ed836d8f453969c9a61737d9006797292a449f1f0348bc89d43076e8e20e81",
-          "published_utc": "2026-10-02T17:00:29+00:00"
+          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
+          "published_utc": "2026-10-02T12:00:07+00:00"
+        },
+        {
+          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
+          "published_utc": "2026-10-02T10:54:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 73.8,
-      "change_percent": 4.7403,
+      "price": 73.32,
+      "change_percent": 4.059,
       "previous_close": 70.46,
-      "quote_timestamp": 1790965114.0,
-      "quote_time_utc": "2026-10-02T18:18:34+00:00",
-      "quote_age_seconds": 34,
+      "quote_timestamp": 1790966838.0,
+      "quote_time_utc": "2026-10-02T18:47:18+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -75,43 +112,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
           "published_utc": "2026-10-02T12:45:06+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SMCI",
-      "price": 43.42,
-      "change_percent": 3.5782,
-      "previous_close": 41.92,
-      "quote_timestamp": 1790965112.0,
-      "quote_time_utc": "2026-10-02T18:18:32+00:00",
-      "quote_age_seconds": 36,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
-          "published_utc": "2026-10-02T12:00:07+00:00"
-        },
-        {
-          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
-          "published_utc": "2026-10-02T10:54:03+00:00"
-        },
-        {
-          "headline": "Nvidia AI Servers Allegedly Routed Through Malaysia and Singapore In $300 Million China Scheme, California Man Charged",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3c3a90d69d372787ceee4e3be2e5d7347dd74be6aa93edd75fcb3e949c539952",
-          "published_utc": "2026-10-02T02:14:39+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "TSLA",
-      "price": 371.34,
-      "change_percent": 4.8657,
+      "price": 371.36,
+      "change_percent": 4.8714,
       "previous_close": 354.11,
-      "quote_timestamp": 1790965116.0,
-      "quote_time_utc": "2026-10-02T18:18:36+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1790966847.0,
+      "quote_time_utc": "2026-10-02T18:47:27+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -134,6 +134,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
+          "published_utc": "2026-10-02T18:05:01+00:00"
+        },
         {
           "headline": "Tesla Delivered 486,532 Vehicles in Q3. Here\u2019s Why the Real Test Could Come on Oct. 21.",
           "source": "Yahoo",
@@ -145,24 +151,55 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e77d12b08fc4837936a853bc2a7a2c1aafd6b9583c648af9d43106ab654bb66c",
           "published_utc": "2026-10-02T17:06:38+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SMCI",
+      "price": 43.82,
+      "change_percent": 4.5324,
+      "previous_close": 41.92,
+      "quote_timestamp": 1790966847.0,
+      "quote_time_utc": "2026-10-02T18:47:27+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
+          "published_utc": "2026-10-02T18:05:01+00:00"
         },
         {
-          "headline": "Tesla Stock Could Be in for a Massive Move. Here\u2019s My 2027 Price Prediction",
+          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=02ed836d8f453969c9a61737d9006797292a449f1f0348bc89d43076e8e20e81",
-          "published_utc": "2026-10-02T17:00:29+00:00"
+          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
+          "published_utc": "2026-10-02T12:00:07+00:00"
+        },
+        {
+          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
+          "published_utc": "2026-10-02T10:54:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 73.8,
-      "change_percent": 4.7403,
+      "price": 73.32,
+      "change_percent": 4.059,
       "previous_close": 70.46,
-      "quote_timestamp": 1790965114.0,
-      "quote_time_utc": "2026-10-02T18:18:34+00:00",
-      "quote_age_seconds": 34,
+      "quote_timestamp": 1790966838.0,
+      "quote_time_utc": "2026-10-02T18:47:18+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -193,87 +230,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "SMCI",
-      "price": 43.42,
-      "change_percent": 3.5782,
-      "previous_close": 41.92,
-      "quote_timestamp": 1790965112.0,
-      "quote_time_utc": "2026-10-02T18:18:32+00:00",
-      "quote_age_seconds": 36,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
-          "published_utc": "2026-10-02T12:00:07+00:00"
-        },
-        {
-          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
-          "published_utc": "2026-10-02T10:54:03+00:00"
-        },
-        {
-          "headline": "Nvidia AI Servers Allegedly Routed Through Malaysia and Singapore In $300 Million China Scheme, California Man Charged",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3c3a90d69d372787ceee4e3be2e5d7347dd74be6aa93edd75fcb3e949c539952",
-          "published_utc": "2026-10-02T02:14:39+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "HOOD",
-      "price": 114.16,
-      "change_percent": 2.7081,
-      "previous_close": 111.15,
-      "quote_timestamp": 1790965116.0,
-      "quote_time_utc": "2026-10-02T18:18:36+00:00",
-      "quote_age_seconds": 32,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "The Corporate Shell Game: How AI Trading Platforms Are Building the Liability Escape Hatch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04e5cdaf82ba70cd92952171b931c71239523515c5c4067c3430093b5c5c9436",
-          "published_utc": "2026-10-02T15:55:02+00:00"
-        },
-        {
-          "headline": "Robinhood\u2019s Corporate Shell Game: How AI Trading Platforms Are Building the Liability Escape Hatch",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4fbcd4164226f50b5e822ad23db944763ec2953ed7f66bd6762c944e3ae58c62",
-          "published_utc": "2026-10-02T15:49:53+00:00"
-        },
-        {
-          "headline": "Robinhood\u2019s Tokenized Stocks Are Becoming a New Memecoin Trade: Report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=13b10742568ac613fd729951e1434b55297d86b03a78f6836ab675917e92c826",
-          "published_utc": "2026-10-02T15:13:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "AMD",
-      "price": 631.49,
-      "change_percent": 2.5596,
+      "price": 631.92,
+      "change_percent": 2.6294,
       "previous_close": 615.73,
-      "quote_timestamp": 1790965115.0,
-      "quote_time_utc": "2026-10-02T18:18:35+00:00",
-      "quote_age_seconds": 33,
+      "quote_timestamp": 1790966847.0,
+      "quote_time_utc": "2026-10-02T18:47:27+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -299,43 +262,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ec2cfaeaf725b9907870fd3d232e71b92c36bcdff69e4ca75c3ba31173954db1",
           "published_utc": "2026-10-02T16:30:20+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 58.41,
-      "change_percent": 2.4018,
-      "previous_close": 57.04,
-      "quote_timestamp": 1790965114.0,
-      "quote_time_utc": "2026-10-02T18:18:34+00:00",
-      "quote_age_seconds": 34,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "AST SpaceMobile Stock Trades Flat Following B.Riley Price Target Cut to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=260a782273c3a7adaa7e35bdc26975b557ed01646be680c933c776affd43c137",
-          "published_utc": "2026-10-02T09:16:30+00:00"
-        },
-        {
-          "headline": "This AST SpaceMobile Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fac343bb9f908816e60a96a399ebddf807909923df5fa9fe57d672d460b680fb",
-          "published_utc": "2026-10-02T08:42:39+00:00"
-        },
-        {
-          "headline": "B. Riley Securities Downgrades AST SpaceMobile to Neutral, Lowers Price Target to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=47243ea29256922ef31b298fa0be03debbc143a813116afc43a9a3f3fac928ba",
-          "published_utc": "2026-10-02T05:59:21+00:00"
         }
       ],
       "news_status": "Recent headlines found"
