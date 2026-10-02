@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:44:26.991002+00:00",
+  "updated": "2026-10-02T22:14:01.770230+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 6265,
+      "quote_age_seconds": 8040,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 6265,
+      "quote_age_seconds": 8040,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 6265,
+      "quote_age_seconds": 8040,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 6265,
+      "quote_age_seconds": 8040,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "3 Great AI Stocks To Own In October 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce5d876d8284827b5bea7aa70d3b932395ded7b35c44df8fbed7a7597b78e41e",
+          "published_utc": "2026-10-02T21:10:26+00:00"
+        },
+        {
+          "headline": "Hewlett Packard Enterprise (HPE) Lands First $1.2 Billion Helios AI Server Order",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a53d23144797046498d6041e4ea34582409650b32e0db102c8acb21342cb2008",
+          "published_utc": "2026-10-02T21:09:20+00:00"
+        },
+        {
           "headline": "AMD's $8.2B World Labs deal signals buy-over-build era for world models",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=77a81e189fc5320c28347b74d6b0f6ca9197b2b4b4f2b7443888b790916d2c5a",
           "published_utc": "2026-10-02T19:02:57+00:00"
-        },
-        {
-          "headline": "Chip Stocks Roar Higher, Led By These Lesser-Known Names",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c45c0eb27474edad5f5e4157b375135c9051f4248cd122996c41d31130d75620",
-          "published_utc": "2026-10-02T17:55:16+00:00"
-        },
-        {
-          "headline": "Got $1,000? 2 Growth Stocks Building the Data Centers of the AI Infrastructure Supercycle.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=386cfe521d6ef503072db9f1a16754edc08b9c47eea912b3ecbe62ac87da9bef",
-          "published_utc": "2026-10-02T17:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 6265,
+      "quote_age_seconds": 8040,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
