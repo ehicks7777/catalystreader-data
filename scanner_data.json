@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T19:15:17.085957+00:00",
+  "updated": "2026-10-02T19:45:06.767886+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "TSLA",
-      "price": 372.34,
-      "change_percent": 5.1481,
+      "price": 373.93,
+      "change_percent": 5.5971,
       "previous_close": 354.11,
-      "quote_timestamp": 1790968504.0,
-      "quote_time_utc": "2026-10-02T19:15:04+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790970298.0,
+      "quote_time_utc": "2026-10-02T19:44:58+00:00",
+      "quote_age_seconds": 7,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
+          "published_utc": "2026-10-02T19:05:01+00:00"
+        },
         {
           "headline": "These S&P500 stocks are the most active in today's session",
           "source": "ChartMill",
@@ -32,24 +38,55 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1f9201a989411b99df6ed603864fefd7a2e5911b5b80c56795cb9bcb06a8cbc1",
           "published_utc": "2026-10-02T17:10:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 73.73,
+      "change_percent": 4.6409,
+      "previous_close": 70.46,
+      "quote_timestamp": 1790970297.0,
+      "quote_time_utc": "2026-10-02T19:44:57+00:00",
+      "quote_age_seconds": 8,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
+          "published_utc": "2026-10-02T14:47:28+00:00"
         },
         {
-          "headline": "Did Gas Vehicle Sales Just Dip Below 50% For The First Time?",
+          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e77d12b08fc4837936a853bc2a7a2c1aafd6b9583c648af9d43106ab654bb66c",
-          "published_utc": "2026-10-02T17:06:38+00:00"
+          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
+          "published_utc": "2026-10-02T13:06:25+00:00"
+        },
+        {
+          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
+          "published_utc": "2026-10-02T12:45:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "SMCI",
-      "price": 43.74,
-      "change_percent": 4.3416,
+      "price": 43.68,
+      "change_percent": 4.1985,
       "previous_close": 41.92,
-      "quote_timestamp": 1790968504.0,
-      "quote_time_utc": "2026-10-02T19:15:04+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790970298.0,
+      "quote_time_utc": "2026-10-02T19:44:58+00:00",
+      "quote_age_seconds": 7,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -80,13 +117,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RKLB",
-      "price": 73.47,
-      "change_percent": 4.2719,
-      "previous_close": 70.46,
-      "quote_timestamp": 1790968502.0,
-      "quote_time_utc": "2026-10-02T19:15:02+00:00",
-      "quote_age_seconds": 13,
+      "symbol": "AMD",
+      "price": 634.42,
+      "change_percent": 3.0354,
+      "previous_close": 615.73,
+      "quote_timestamp": 1790970297.0,
+      "quote_time_utc": "2026-10-02T19:44:57+00:00",
+      "quote_age_seconds": 8,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -96,22 +133,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
+          "headline": "Chip Stocks Roar Higher, Led By These Lesser-Known Names",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
-          "published_utc": "2026-10-02T14:47:28+00:00"
+          "url": "https://finnhub.io/api/news?id=c45c0eb27474edad5f5e4157b375135c9051f4248cd122996c41d31130d75620",
+          "published_utc": "2026-10-02T17:55:16+00:00"
         },
         {
-          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
+          "headline": "Got $1,000? 2 Growth Stocks Building the Data Centers of the AI Infrastructure Supercycle.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
-          "published_utc": "2026-10-02T13:06:25+00:00"
+          "url": "https://finnhub.io/api/news?id=386cfe521d6ef503072db9f1a16754edc08b9c47eea912b3ecbe62ac87da9bef",
+          "published_utc": "2026-10-02T17:03:00+00:00"
         },
         {
-          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
+          "headline": "If You Invest $10,000 in AMD Today, Here\u2019s What It Could Be Worth by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
-          "published_utc": "2026-10-02T12:45:06+00:00"
+          "url": "https://finnhub.io/api/news?id=ec2cfaeaf725b9907870fd3d232e71b92c36bcdff69e4ca75c3ba31173954db1",
+          "published_utc": "2026-10-02T16:30:20+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +157,12 @@
   "swing_trading": [
     {
       "symbol": "TSLA",
-      "price": 372.34,
-      "change_percent": 5.1481,
+      "price": 373.93,
+      "change_percent": 5.5971,
       "previous_close": 354.11,
-      "quote_timestamp": 1790968504.0,
-      "quote_time_utc": "2026-10-02T19:15:04+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790970298.0,
+      "quote_time_utc": "2026-10-02T19:44:58+00:00",
+      "quote_age_seconds": 7,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -134,6 +171,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
+          "published_utc": "2026-10-02T19:05:01+00:00"
+        },
         {
           "headline": "These S&P500 stocks are the most active in today's session",
           "source": "ChartMill",
@@ -145,61 +188,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1f9201a989411b99df6ed603864fefd7a2e5911b5b80c56795cb9bcb06a8cbc1",
           "published_utc": "2026-10-02T17:10:01+00:00"
-        },
-        {
-          "headline": "Did Gas Vehicle Sales Just Dip Below 50% For The First Time?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e77d12b08fc4837936a853bc2a7a2c1aafd6b9583c648af9d43106ab654bb66c",
-          "published_utc": "2026-10-02T17:06:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SMCI",
-      "price": 43.74,
-      "change_percent": 4.3416,
-      "previous_close": 41.92,
-      "quote_timestamp": 1790968504.0,
-      "quote_time_utc": "2026-10-02T19:15:04+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
-          "published_utc": "2026-10-02T18:05:01+00:00"
-        },
-        {
-          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
-          "published_utc": "2026-10-02T12:00:07+00:00"
-        },
-        {
-          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
-          "published_utc": "2026-10-02T10:54:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 73.47,
-      "change_percent": 4.2719,
+      "price": 73.73,
+      "change_percent": 4.6409,
       "previous_close": 70.46,
-      "quote_timestamp": 1790968502.0,
-      "quote_time_utc": "2026-10-02T19:15:02+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1790970297.0,
+      "quote_time_utc": "2026-10-02T19:44:57+00:00",
+      "quote_age_seconds": 8,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -230,13 +230,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "SMCI",
+      "price": 43.68,
+      "change_percent": 4.1985,
+      "previous_close": 41.92,
+      "quote_timestamp": 1790970298.0,
+      "quote_time_utc": "2026-10-02T19:44:58+00:00",
+      "quote_age_seconds": 7,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "These S&P500 stocks are the most active in today's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
+          "published_utc": "2026-10-02T18:05:01+00:00"
+        },
+        {
+          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
+          "published_utc": "2026-10-02T12:00:07+00:00"
+        },
+        {
+          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
+          "published_utc": "2026-10-02T10:54:03+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "AMD",
-      "price": 632.54,
-      "change_percent": 2.7301,
+      "price": 634.42,
+      "change_percent": 3.0354,
       "previous_close": 615.73,
-      "quote_timestamp": 1790968504.0,
-      "quote_time_utc": "2026-10-02T19:15:04+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1790970297.0,
+      "quote_time_utc": "2026-10-02T19:44:57+00:00",
+      "quote_age_seconds": 8,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -268,12 +305,12 @@
     },
     {
       "symbol": "ASTS",
-      "price": 58.28,
-      "change_percent": 2.1739,
+      "price": 58.32,
+      "change_percent": 2.244,
       "previous_close": 57.04,
-      "quote_timestamp": 1790968500.0,
-      "quote_time_utc": "2026-10-02T19:15:00+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1790970295.0,
+      "quote_time_utc": "2026-10-02T19:44:55+00:00",
+      "quote_age_seconds": 10,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
