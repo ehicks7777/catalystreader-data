@@ -1,122 +1,10 @@
 {
-  "updated": "2026-10-02T20:14:04.523473+00:00",
+  "updated": "2026-10-02T20:45:20.396788+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "RKLB",
-      "price": 73.92,
-      "change_percent": 4.9106,
-      "previous_close": 70.46,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
-          "published_utc": "2026-10-02T14:47:28+00:00"
-        },
-        {
-          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
-          "published_utc": "2026-10-02T13:06:25+00:00"
-        },
-        {
-          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
-          "published_utc": "2026-10-02T12:45:06+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 370.59,
-      "change_percent": 4.6539,
-      "previous_close": 354.11,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
-          "published_utc": "2026-10-02T19:05:01+00:00"
-        },
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
-          "published_utc": "2026-10-02T18:05:01+00:00"
-        },
-        {
-          "headline": "Tesla Delivered 486,532 Vehicles in Q3. Here\u2019s Why the Real Test Could Come on Oct. 21.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f9201a989411b99df6ed603864fefd7a2e5911b5b80c56795cb9bcb06a8cbc1",
-          "published_utc": "2026-10-02T17:10:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SMCI",
-      "price": 43.69,
-      "change_percent": 4.2223,
-      "previous_close": 41.92,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
-          "published_utc": "2026-10-02T18:05:01+00:00"
-        },
-        {
-          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
-          "published_utc": "2026-10-02T12:00:07+00:00"
-        },
-        {
-          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
-          "published_utc": "2026-10-02T10:54:03+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "RKLB",
@@ -125,8 +13,8 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2718,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -162,8 +50,8 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2718,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -172,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a4702004580cc6220a29cfba381121aa2469195a6e4ff0849666e3f6346bc4b7",
+          "published_utc": "2026-10-02T19:44:35+00:00"
+        },
+        {
           "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
           "published_utc": "2026-10-02T19:05:01+00:00"
         },
         {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
-          "published_utc": "2026-10-02T18:05:01+00:00"
-        },
-        {
-          "headline": "Tesla Delivered 486,532 Vehicles in Q3. Here\u2019s Why the Real Test Could Come on Oct. 21.",
+          "headline": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f9201a989411b99df6ed603864fefd7a2e5911b5b80c56795cb9bcb06a8cbc1",
-          "published_utc": "2026-10-02T17:10:01+00:00"
+          "url": "https://finnhub.io/api/news?id=479981c65bbc6e344e94ffb2517d80e6e56b878409e01276dbb3907a79d80aa6",
+          "published_utc": "2026-10-02T18:57:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -199,8 +87,8 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2718,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -236,8 +124,8 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2718,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -273,8 +161,8 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 843,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2718,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -304,7 +192,7 @@
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
