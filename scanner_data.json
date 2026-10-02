@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:14:01.770230+00:00",
+  "updated": "2026-10-02T22:43:36.889223+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 8040,
+      "quote_age_seconds": 9815,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 8040,
+      "quote_age_seconds": 9815,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+          "headline": "Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a4702004580cc6220a29cfba381121aa2469195a6e4ff0849666e3f6346bc4b7",
-          "published_utc": "2026-10-02T19:44:35+00:00"
+          "url": "https://finnhub.io/api/news?id=7415edc4c47df1de5ed4a18f1d422797cdb1567b55c872df92885f919e72fb7a",
+          "published_utc": "2026-10-02T21:31:28+00:00"
         },
         {
-          "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
-          "published_utc": "2026-10-02T19:05:01+00:00"
+          "headline": "Stock Market Today, Oct. 2: Rivian Beats Q3 Delivery Estimates on Record Production Pace",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90207b1fd72d90fd5df48023b4c90bc8bc1f9f6d1d82ebc70f1454021d965321",
+          "published_utc": "2026-10-02T21:07:46+00:00"
         },
         {
-          "headline": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs",
+          "headline": "Tesla Just Lined Up $30 Billion in Credit: What It Means for AI, Capex, and the Investment Case",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=479981c65bbc6e344e94ffb2517d80e6e56b878409e01276dbb3907a79d80aa6",
-          "published_utc": "2026-10-02T18:57:50+00:00"
+          "url": "https://finnhub.io/api/news?id=c25afb22aec6f4d582fdb4e90b0e7e00b8f23ddcb219e01e0a355e61e93e03a4",
+          "published_utc": "2026-10-02T19:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 8040,
+      "quote_age_seconds": 9815,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 8040,
+      "quote_age_seconds": 9815,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 8040,
+      "quote_age_seconds": 9815,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
