@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T01:14:24.540625+00:00",
+  "updated": "2026-10-03T01:43:49.380367+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 18863,
+      "quote_age_seconds": 20628,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 18863,
+      "quote_age_seconds": 20628,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat",
+          "headline": "Stocktwits Zero To Sixty \u2014  Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7415edc4c47df1de5ed4a18f1d422797cdb1567b55c872df92885f919e72fb7a",
-          "published_utc": "2026-10-02T21:31:28+00:00"
+          "url": "https://finnhub.io/api/news?id=60d814640e97dc01325b04fc7406e6348ef22627208dd8789ecad9f0bcf5bf10",
+          "published_utc": "2026-10-03T00:29:40+00:00"
         },
         {
-          "headline": "Stock Market Today, Oct. 2: Rivian Beats Q3 Delivery Estimates on Record Production Pace",
+          "headline": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90207b1fd72d90fd5df48023b4c90bc8bc1f9f6d1d82ebc70f1454021d965321",
-          "published_utc": "2026-10-02T21:07:46+00:00"
+          "url": "https://finnhub.io/api/news?id=4f52a436cea7a388c8866a49bcb2eeedb1a05a6fb2a409f75c3c13fbaca3d05f",
+          "published_utc": "2026-10-03T00:24:42+00:00"
         },
         {
-          "headline": "Tesla Just Lined Up $30 Billion in Credit: What It Means for AI, Capex, and the Investment Case",
+          "headline": "Why Tesla (TSLA) Stock Is Trading Up Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c25afb22aec6f4d582fdb4e90b0e7e00b8f23ddcb219e01e0a355e61e93e03a4",
-          "published_utc": "2026-10-02T19:50:00+00:00"
+          "url": "https://finnhub.io/api/news?id=8ab3ecebd9da68a2a418c0017b9a04831085a6e2c07c25613be91b69b8593c8b",
+          "published_utc": "2026-10-03T00:06:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 18863,
+      "quote_age_seconds": 20628,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 18863,
+      "quote_age_seconds": 20628,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 18863,
+      "quote_age_seconds": 20628,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
