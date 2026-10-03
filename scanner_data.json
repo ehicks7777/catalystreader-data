@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:20:03.728881+00:00",
+  "updated": "2026-10-03T00:48:48.255270+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 15602,
+      "quote_age_seconds": 17326,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "EnerSys, FTAI Infrastructure, Rocket Lab, Redwire, and RXO Stocks Trade Up, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7b5db8136d283b1c21cbdb7d88d41bccf496a649d1e2160fdd0ae8483b150100",
+          "published_utc": "2026-10-02T22:54:03+00:00"
+        },
         {
           "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
           "published_utc": "2026-10-02T13:06:25+00:00"
-        },
-        {
-          "headline": "SpaceX Just Upped The Ante On Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0199acf43847e8cd7d223e9a868d035e7da67f0c503f18c5b0ec1ed4fcb342e2",
-          "published_utc": "2026-10-02T12:45:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 15602,
+      "quote_age_seconds": 17326,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 15602,
+      "quote_age_seconds": 17326,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 15602,
+      "quote_age_seconds": 17326,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 15602,
+      "quote_age_seconds": 17326,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile Stock Trades Flat Following B.Riley Price Target Cut to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=260a782273c3a7adaa7e35bdc26975b557ed01646be680c933c776affd43c137",
-          "published_utc": "2026-10-02T09:16:30+00:00"
+          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
+          "published_utc": "2026-10-02T14:47:28+00:00"
         },
         {
-          "headline": "This AST SpaceMobile Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fac343bb9f908816e60a96a399ebddf807909923df5fa9fe57d672d460b680fb",
-          "published_utc": "2026-10-02T08:42:39+00:00"
+          "headline": "Airbnb upgraded, Zscaler downgraded: Wall Street's top analyst calls",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=272e7a6098ebd7fbb6bf854362273b58af3a077e1518ddcdf442288e59af7132",
+          "published_utc": "2026-10-02T13:40:56+00:00"
         },
         {
-          "headline": "B. Riley Securities Downgrades AST SpaceMobile to Neutral, Lowers Price Target to $65",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=47243ea29256922ef31b298fa0be03debbc143a813116afc43a9a3f3fac928ba",
-          "published_utc": "2026-10-02T05:59:21+00:00"
+          "headline": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f4ed4becfda63aae3823d1323c7ba2208f236b2a6940bc77f7bb4abc881d1cfe",
+          "published_utc": "2026-10-02T11:59:57+00:00"
         }
       ],
       "news_status": "Recent headlines found"
