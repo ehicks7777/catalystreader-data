@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T07:45:37.572228+00:00",
+  "updated": "2026-10-03T08:15:21.008023+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 42336,
+      "quote_age_seconds": 44120,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 42336,
+      "quote_age_seconds": 44120,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Dan Ives Says Tesla Could Have A \u2018Golden Year\u2019 In 2027 \u2014 Robotaxis, Optimus And Cybercab In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cd5acbc96f4f7e5e641bdaaaf473b6d77f070580963e2b4f2e0ee2196c5e5361",
+          "published_utc": "2026-10-03T07:09:41+00:00"
+        },
         {
           "headline": "Stocktwits Zero To Sixty \u2014  Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4f52a436cea7a388c8866a49bcb2eeedb1a05a6fb2a409f75c3c13fbaca3d05f",
           "published_utc": "2026-10-03T00:24:42+00:00"
-        },
-        {
-          "headline": "Why Tesla (TSLA) Stock Is Trading Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ab3ecebd9da68a2a418c0017b9a04831085a6e2c07c25613be91b69b8593c8b",
-          "published_utc": "2026-10-03T00:06:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 42336,
+      "quote_age_seconds": 44120,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 42336,
+      "quote_age_seconds": 44120,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 42336,
+      "quote_age_seconds": 44120,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
