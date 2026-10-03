@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T01:43:49.380367+00:00",
+  "updated": "2026-10-03T02:14:49.501479+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 20628,
+      "quote_age_seconds": 22488,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 20628,
+      "quote_age_seconds": 22488,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 20628,
+      "quote_age_seconds": 22488,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Why Super Micro (SMCI) Stock Is Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=767ac63bc5c4038da0af4da95f8060ec80837ec2b9dbe0a8f2ec9b58b85758fa",
+          "published_utc": "2026-10-03T01:34:03+00:00"
+        },
+        {
+          "headline": "Why Is NetApp (NTAP) Stock Rocketing Higher Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=357556b04bff76b07004ce5154ffa5c92f2500c85c5ab7556e74f2037290c197",
+          "published_utc": "2026-10-03T01:18:03+00:00"
+        },
+        {
           "headline": "These S&P500 stocks are the most active in today's session",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
           "published_utc": "2026-10-02T18:05:01+00:00"
-        },
-        {
-          "headline": "Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28b2a5bdf4c655db478ca12444462c4e1ee3fcdd5efcd85e91959e6a403d37a7",
-          "published_utc": "2026-10-02T12:00:07+00:00"
-        },
-        {
-          "headline": "1 Cash-Burning Stock for Long-Term Investors and 2 Facing Challenges",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d56cf87744a37a496cc482c7fafcff2fe41577038b23c3a5f4bb8ad40516a36d",
-          "published_utc": "2026-10-02T10:54:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 20628,
+      "quote_age_seconds": 22488,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Why AMD Stock Jumped 30% in September",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a3ec4a78d686a99c53adbedae0b4aa1d97e7cf22db5a37eeee6689151025dbc3",
+          "published_utc": "2026-10-03T00:50:02+00:00"
+        },
+        {
+          "headline": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e240568410e42878fd6fb20501281eaf0e03ce48797a8b17ac022a7ca80bc73a",
+          "published_utc": "2026-10-03T00:22:03+00:00"
+        },
+        {
           "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2e80a22d6031c45f062d6d96e0ef9b9d6b326cdc29d27b2de2cf771547fcbd6a",
           "published_utc": "2026-10-02T23:34:03+00:00"
-        },
-        {
-          "headline": "3 Great AI Stocks To Own In October 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ce5d876d8284827b5bea7aa70d3b932395ded7b35c44df8fbed7a7597b78e41e",
-          "published_utc": "2026-10-02T21:10:26+00:00"
-        },
-        {
-          "headline": "Hewlett Packard Enterprise (HPE) Lands First $1.2 Billion Helios AI Server Order",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a53d23144797046498d6041e4ea34582409650b32e0db102c8acb21342cb2008",
-          "published_utc": "2026-10-02T21:09:20+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 20628,
+      "quote_age_seconds": 22488,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
