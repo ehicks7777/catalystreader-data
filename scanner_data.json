@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:41:52.849594+00:00",
+  "updated": "2026-10-03T00:20:03.728881+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 13311,
+      "quote_age_seconds": 15602,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 13311,
+      "quote_age_seconds": 15602,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 13311,
+      "quote_age_seconds": 15602,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 13311,
+      "quote_age_seconds": 15602,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2e80a22d6031c45f062d6d96e0ef9b9d6b326cdc29d27b2de2cf771547fcbd6a",
+          "published_utc": "2026-10-02T23:34:03+00:00"
+        },
         {
           "headline": "3 Great AI Stocks To Own In October 2026",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a53d23144797046498d6041e4ea34582409650b32e0db102c8acb21342cb2008",
           "published_utc": "2026-10-02T21:09:20+00:00"
-        },
-        {
-          "headline": "AMD's $8.2B World Labs deal signals buy-over-build era for world models",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=77a81e189fc5320c28347b74d6b0f6ca9197b2b4b4f2b7443888b790916d2c5a",
-          "published_utc": "2026-10-02T19:02:57+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 13311,
+      "quote_age_seconds": 15602,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
