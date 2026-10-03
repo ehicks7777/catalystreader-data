@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T07:20:48.216658+00:00",
+  "updated": "2026-10-03T07:45:37.572228+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 40847,
+      "quote_age_seconds": 42336,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "If I Could Only Buy 1 Space Stock for the Next Decade, It Wouldn't Be SpaceX or Rocket Lab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca1de9b1bf6537ca4f8f505a25a907e67152fb763c0befb888a912ee981d1cdc",
+          "published_utc": "2026-10-03T06:25:00+00:00"
+        },
         {
           "headline": "EnerSys, FTAI Infrastructure, Rocket Lab, Redwire, and RXO Stocks Trade Up, What You Need To Know",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
           "published_utc": "2026-10-02T14:47:28+00:00"
-        },
-        {
-          "headline": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd6ff1f0f2939811198c1da10b13aec2998024f53a2d36438b1ae290bf97445b",
-          "published_utc": "2026-10-02T13:06:25+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 40847,
+      "quote_age_seconds": 42336,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 40847,
+      "quote_age_seconds": 42336,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 40847,
+      "quote_age_seconds": 42336,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 40847,
+      "quote_age_seconds": 42336,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
