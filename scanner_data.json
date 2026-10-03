@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T11:00:28.131246+00:00",
+  "updated": "2026-10-03T14:47:34.779632+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 54027,
+      "quote_age_seconds": 67654,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 54027,
+      "quote_age_seconds": 67654,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Elon Musk Hints at Tesla-SpaceX Merger: \u201cWho Can Imagine What Action One Might Take\u201d",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d5beecf837c542a790a8cab82dd530010a359668c4f76c5adf640e9ac0829ca5",
+          "published_utc": "2026-10-03T13:15:05+00:00"
+        },
+        {
+          "headline": "Elon Musk: America is \u20181,000% going to go bankrupt\u2019 and \u2018fail as a country\u2019 \u2014 but he says 1 powerful force can save us",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2b892ea2017ef309bd3f6990028921e6f7a7f855897b953a5e30d736bce6967c",
+          "published_utc": "2026-10-03T11:35:00+00:00"
+        },
+        {
           "headline": "Dan Ives Says Tesla Could Have A \u2018Golden Year\u2019 In 2027 \u2014 Robotaxis, Optimus And Cybercab In Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cd5acbc96f4f7e5e641bdaaaf473b6d77f070580963e2b4f2e0ee2196c5e5361",
           "published_utc": "2026-10-03T07:09:41+00:00"
-        },
-        {
-          "headline": "Stocktwits Zero To Sixty \u2014  Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60d814640e97dc01325b04fc7406e6348ef22627208dd8789ecad9f0bcf5bf10",
-          "published_utc": "2026-10-03T00:29:40+00:00"
-        },
-        {
-          "headline": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f52a436cea7a388c8866a49bcb2eeedb1a05a6fb2a409f75c3c13fbaca3d05f",
-          "published_utc": "2026-10-03T00:24:42+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 54027,
+      "quote_age_seconds": 67654,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 54027,
+      "quote_age_seconds": 67654,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -146,10 +146,10 @@
           "published_utc": "2026-10-03T09:32:01+00:00"
         },
         {
-          "headline": "AMD: The Job Is Difficult, But Not Impossible",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=7842a70889eceea52d042cf0cfcfe4807e271d223989d4daebde9f9324a56c4d",
-          "published_utc": "2026-10-03T05:32:35+00:00"
+          "headline": "Micron, Nike, Meta and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=4ad332166f4319c2fcf4c9006101bd1eff1553040404abe77f126421aed826ae",
+          "published_utc": "2026-10-03T08:30:20+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 54027,
+      "quote_age_seconds": 67654,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
