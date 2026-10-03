@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:44:06.724059+00:00",
+  "updated": "2026-10-03T10:13:41.873462+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 49446,
+      "quote_age_seconds": 51221,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 49446,
+      "quote_age_seconds": 51221,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 49446,
+      "quote_age_seconds": 51221,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 49446,
+      "quote_age_seconds": 51221,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Why AMD Stock Jumped 30% in September",
+          "headline": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, AMD, or Broadcom)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a3ec4a78d686a99c53adbedae0b4aa1d97e7cf22db5a37eeee6689151025dbc3",
-          "published_utc": "2026-10-03T00:50:02+00:00"
+          "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
+          "published_utc": "2026-10-03T09:40:01+00:00"
         },
         {
-          "headline": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
+          "headline": "Intel Was Worth About 28 Times as Much as AMD 10 Years Ago. Now AMD Is Worth About 60% More.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e240568410e42878fd6fb20501281eaf0e03ce48797a8b17ac022a7ca80bc73a",
-          "published_utc": "2026-10-03T00:22:03+00:00"
+          "url": "https://finnhub.io/api/news?id=a816f75853bc3bf992a77481d9c15a118ffff20d25f14404dd94d96f084a779b",
+          "published_utc": "2026-10-03T09:32:01+00:00"
         },
         {
-          "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e80a22d6031c45f062d6d96e0ef9b9d6b326cdc29d27b2de2cf771547fcbd6a",
-          "published_utc": "2026-10-02T23:34:03+00:00"
+          "headline": "AMD: The Job Is Difficult, But Not Impossible",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=7842a70889eceea52d042cf0cfcfe4807e271d223989d4daebde9f9324a56c4d",
+          "published_utc": "2026-10-03T05:32:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 49446,
+      "quote_age_seconds": 51221,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
