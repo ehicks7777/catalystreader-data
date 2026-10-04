@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T18:54:25.196883+00:00",
+  "updated": "2026-10-04T02:29:51.637581+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 82464,
+      "quote_age_seconds": 109790,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rocket Lab Just Signed the Biggest Commercial Electron Deal in Its History. Its Launch Backlog Now Tops 100.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e46eb633f0349bd017ad93ac28f47e63123b61f69155551c0b79c25e7f2fbfb",
+          "published_utc": "2026-10-03T19:07:01+00:00"
+        },
         {
           "headline": "If I Could Only Buy 1 Space Stock for the Next Decade, It Wouldn't Be SpaceX or Rocket Lab",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7b5db8136d283b1c21cbdb7d88d41bccf496a649d1e2160fdd0ae8483b150100",
           "published_utc": "2026-10-02T22:54:03+00:00"
-        },
-        {
-          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
-          "published_utc": "2026-10-02T14:47:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 82464,
+      "quote_age_seconds": 109790,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -72,10 +72,10 @@
           "published_utc": "2026-10-03T11:35:00+00:00"
         },
         {
-          "headline": "Dan Ives Says Tesla Could Have A \u2018Golden Year\u2019 In 2027 \u2014 Robotaxis, Optimus And Cybercab In Focus",
+          "headline": "Robinhood\u2019s new AI bots will trade stocks while you sleep",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cd5acbc96f4f7e5e641bdaaaf473b6d77f070580963e2b4f2e0ee2196c5e5361",
-          "published_utc": "2026-10-03T07:09:41+00:00"
+          "url": "https://finnhub.io/api/news?id=d8b832cf94d5c37e886b2ea0627548b71c712b7e9d3cc5855dac05281f3aefed",
+          "published_utc": "2026-10-03T07:30:13+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 82464,
+      "quote_age_seconds": 109790,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 82464,
+      "quote_age_seconds": 109790,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f32ed5ec533911367fbefe8ea540b624cff620755f1ff4b792371f8ae0b31a7",
+          "published_utc": "2026-10-03T20:10:26+00:00"
+        },
         {
           "headline": "Can AMD\u2019s CPU Business Fund Its AI Chip Ambitions?",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
           "published_utc": "2026-10-03T09:40:01+00:00"
-        },
-        {
-          "headline": "Intel Was Worth About 28 Times as Much as AMD 10 Years Ago. Now AMD Is Worth About 60% More.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a816f75853bc3bf992a77481d9c15a118ffff20d25f14404dd94d96f084a779b",
-          "published_utc": "2026-10-03T09:32:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 82464,
+      "quote_age_seconds": 109790,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AST SpaceMobile Stock Is Down 31% in Three Months. Buy the Dip or Wait for More Launches?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ee5c88ccb9469377be244dbe87aa21f1c0c1e426e425e2087be8c85e57a9a0de",
+          "published_utc": "2026-10-03T13:42:53+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile\u2019s BlueBird Progress Comes With Several Risks Still Unresolved",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=546a638bb93b5f17c19a5f2f9239c6049f37e999251ba29bfad730f99d9ce173",
+          "published_utc": "2026-10-02T17:15:00+00:00"
+        },
+        {
           "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
           "published_utc": "2026-10-02T14:47:28+00:00"
-        },
-        {
-          "headline": "Airbnb upgraded, Zscaler downgraded: Wall Street's top analyst calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=272e7a6098ebd7fbb6bf854362273b58af3a077e1518ddcdf442288e59af7132",
-          "published_utc": "2026-10-02T13:40:56+00:00"
-        },
-        {
-          "headline": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4ed4becfda63aae3823d1323c7ba2208f236b2a6940bc77f7bb4abc881d1cfe",
-          "published_utc": "2026-10-02T11:59:57+00:00"
         }
       ],
       "news_status": "Recent headlines found"
