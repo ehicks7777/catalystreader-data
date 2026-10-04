@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:27:49.792671+00:00",
+  "updated": "2026-10-04T10:52:44.757868+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 116868,
+      "quote_age_seconds": 139964,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "How Investors May Respond To Rocket Lab (RKLB) Winning Synspective\u2019s Record 20-Launch Electron Contract",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=72f747edafbf58645b2503735362ef6018bbff66d759ad6cf4cda8fc00b4682b",
+          "published_utc": "2026-10-04T04:14:27+00:00"
+        },
         {
           "headline": "Rocket Lab Just Signed the Biggest Commercial Electron Deal in Its History. Its Launch Backlog Now Tops 100.",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ca1de9b1bf6537ca4f8f505a25a907e67152fb763c0befb888a912ee981d1cdc",
           "published_utc": "2026-10-03T06:25:00+00:00"
-        },
-        {
-          "headline": "EnerSys, FTAI Infrastructure, Rocket Lab, Redwire, and RXO Stocks Trade Up, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7b5db8136d283b1c21cbdb7d88d41bccf496a649d1e2160fdd0ae8483b150100",
-          "published_utc": "2026-10-02T22:54:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 116868,
+      "quote_age_seconds": 139964,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rivian vs. Lucid: Only 1 of These EV Stocks Survives to 2030. Here's Which One.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c9b7e5ee32c8413a354a0ac1501fd51e894bc95c3da731d4ccb39035dbb810e8",
+          "published_utc": "2026-10-04T06:25:00+00:00"
+        },
         {
           "headline": "Ford (F) Lost $7.4 Billion and Still Pays a 4.9% Dividend. How Long Can That Hold?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f997cfd77cc3c39be49a2e9d27ae2e7830be5313eb2423034ce3b40569d97f6f",
           "published_utc": "2026-10-03T20:30:02+00:00"
-        },
-        {
-          "headline": "Elon Musk Hints at Tesla-SpaceX Merger: \u201cWho Can Imagine What Action One Might Take\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5beecf837c542a790a8cab82dd530010a359668c4f76c5adf640e9ac0829ca5",
-          "published_utc": "2026-10-03T13:15:05+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 116868,
+      "quote_age_seconds": 139964,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 116868,
+      "quote_age_seconds": 139964,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 116868,
+      "quote_age_seconds": 139964,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
