@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:51:36.530942+00:00",
+  "updated": "2026-10-04T21:10:08.702726+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 165095,
+      "quote_age_seconds": 177007,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 165095,
+      "quote_age_seconds": 177007,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "You Can Do Better Than Tesla. Buy Micron Instead.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b211853ddfa0784ecc01f3bf289b394761d9e97a915076ccc2548bf65b8c2228",
+          "published_utc": "2026-10-04T17:50:00+00:00"
+        },
+        {
+          "headline": "Tesla Delivered 22,141 More Vehicles Than It Built in Q3. Here\u2019s the Production Number That Decides What Comes Next",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=adc7baba8df5714e5bc48d63a225c9ad3b5b6296ee613194c02e81cc944af446",
+          "published_utc": "2026-10-04T15:48:41+00:00"
+        },
+        {
           "headline": "Tesla. SpaceX. Starlink. James Altucher Says the Experts Called All Three Dead, and They're Doing It Again",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=193f05f0670d56389db75f7397cd7cd2c5a81e6b59aa94e1662e1dbdb0c43630",
           "published_utc": "2026-10-04T13:00:00+00:00"
-        },
-        {
-          "headline": "Gary Black Flags Waymo Is Leaving TSLA Behind On Autonomy Even As Tesla Beats Delivery Estimates In Q3",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc6d12d345b098c0f6ea24c9b561ebf6eff93ae6abe3125690a92cb4c6daa6f5",
-          "published_utc": "2026-10-04T10:52:45+00:00"
-        },
-        {
-          "headline": "Boeing Avoids Strike As Musk Takes Aim At Delta, Tesla Delays Roadster Reveal and Ford Sales Slide: This Week In Mobility",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=5d7f79593bc9f48912b2934b565c2fa7d7a4c4e992675dae030eed4e0d155cc4",
-          "published_utc": "2026-10-04T10:00:25+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 165095,
+      "quote_age_seconds": 177007,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 165095,
+      "quote_age_seconds": 177007,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMD\u2019s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3095b2198571f5d5345e9484bceca72e67887a00e256c185125648fad63eab33",
+          "published_utc": "2026-10-04T19:01:59+00:00"
+        },
         {
           "headline": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bae7a93eb6b04eb4b5fa2d54195e40991a4a3e68fd7843807c8afad69ffd94b1",
           "published_utc": "2026-10-04T13:34:00+00:00"
-        },
-        {
-          "headline": "Gary Shapiro: why trade shows matter and how to get them right",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bc05db26f4b21c20dce914c79cc0b0e20751d730fd7d2df204854970a1c1d83",
-          "published_utc": "2026-10-04T11:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 165095,
+      "quote_age_seconds": 177007,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
