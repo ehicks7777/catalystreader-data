@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:14:29.925023+00:00",
+  "updated": "2026-10-04T22:43:14.878556+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 180868,
+      "quote_age_seconds": 182594,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SpaceX (SPCX) vs Rocket Lab (RKLB): Which is a Better Stock to Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e551b1c2e81b814831b2c3b7b8bfd5c983c17e722aba0fee75e2fa95672d1b33",
+          "published_utc": "2026-10-04T22:00:52+00:00"
+        },
         {
           "headline": "SpaceX Isn't Rocket Lab's Biggest Threat Now -- Blue Origin Is",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=72f747edafbf58645b2503735362ef6018bbff66d759ad6cf4cda8fc00b4682b",
           "published_utc": "2026-10-04T04:14:27+00:00"
-        },
-        {
-          "headline": "Rocket Lab Just Signed the Biggest Commercial Electron Deal in Its History. Its Launch Backlog Now Tops 100.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e46eb633f0349bd017ad93ac28f47e63123b61f69155551c0b79c25e7f2fbfb",
-          "published_utc": "2026-10-03T19:07:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 180868,
+      "quote_age_seconds": 182594,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 180868,
+      "quote_age_seconds": 182594,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 180868,
+      "quote_age_seconds": 182594,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 180868,
+      "quote_age_seconds": 182594,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
