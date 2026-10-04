@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T10:52:44.757868+00:00",
+  "updated": "2026-10-04T17:51:36.530942+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 139964,
+      "quote_age_seconds": 165095,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SpaceX Isn't Rocket Lab's Biggest Threat Now -- Blue Origin Is",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9d6ba1544f82ece5a603b7d1e662bf36bd65bbef7bf071be28f9d248fb19ed8a",
+          "published_utc": "2026-10-04T11:27:00+00:00"
+        },
         {
           "headline": "How Investors May Respond To Rocket Lab (RKLB) Winning Synspective\u2019s Record 20-Launch Electron Contract",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4e46eb633f0349bd017ad93ac28f47e63123b61f69155551c0b79c25e7f2fbfb",
           "published_utc": "2026-10-03T19:07:01+00:00"
-        },
-        {
-          "headline": "If I Could Only Buy 1 Space Stock for the Next Decade, It Wouldn't Be SpaceX or Rocket Lab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca1de9b1bf6537ca4f8f505a25a907e67152fb763c0befb888a912ee981d1cdc",
-          "published_utc": "2026-10-03T06:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 139964,
+      "quote_age_seconds": 165095,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Rivian vs. Lucid: Only 1 of These EV Stocks Survives to 2030. Here's Which One.",
+          "headline": "Tesla. SpaceX. Starlink. James Altucher Says the Experts Called All Three Dead, and They're Doing It Again",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c9b7e5ee32c8413a354a0ac1501fd51e894bc95c3da731d4ccb39035dbb810e8",
-          "published_utc": "2026-10-04T06:25:00+00:00"
+          "url": "https://finnhub.io/api/news?id=193f05f0670d56389db75f7397cd7cd2c5a81e6b59aa94e1662e1dbdb0c43630",
+          "published_utc": "2026-10-04T13:00:00+00:00"
         },
         {
-          "headline": "Ford (F) Lost $7.4 Billion and Still Pays a 4.9% Dividend. How Long Can That Hold?",
+          "headline": "Gary Black Flags Waymo Is Leaving TSLA Behind On Autonomy Even As Tesla Beats Delivery Estimates In Q3",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=760c246a1a981bf897b518d0d7523486c65b877cec9a89b4a254201f74382fd3",
-          "published_utc": "2026-10-04T03:16:50+00:00"
+          "url": "https://finnhub.io/api/news?id=bc6d12d345b098c0f6ea24c9b561ebf6eff93ae6abe3125690a92cb4c6daa6f5",
+          "published_utc": "2026-10-04T10:52:45+00:00"
         },
         {
-          "headline": "500 Reasons to Buy Little-Known KIDZ AI Stock",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f997cfd77cc3c39be49a2e9d27ae2e7830be5313eb2423034ce3b40569d97f6f",
-          "published_utc": "2026-10-03T20:30:02+00:00"
+          "headline": "Boeing Avoids Strike As Musk Takes Aim At Delta, Tesla Delays Roadster Reveal and Ford Sales Slide: This Week In Mobility",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=5d7f79593bc9f48912b2934b565c2fa7d7a4c4e992675dae030eed4e0d155cc4",
+          "published_utc": "2026-10-04T10:00:25+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 139964,
+      "quote_age_seconds": 165095,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SMCI Stock Is Up 41% This Year. Hold or Take Profits?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a9ae2bd1c5cc3b0d82a510729a17ea483aeebd0d8e23aab58862beedd0c12235",
+          "published_utc": "2026-10-04T09:53:50+00:00"
+        },
         {
           "headline": "Why Super Micro (SMCI) Stock Is Up Today",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=357556b04bff76b07004ce5154ffa5c92f2500c85c5ab7556e74f2037290c197",
           "published_utc": "2026-10-03T01:18:03+00:00"
-        },
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb",
-          "published_utc": "2026-10-02T18:05:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 139964,
+      "quote_age_seconds": 165095,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?",
+          "headline": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98a65a4946a43ee3628e62e6219d8198d4fd6e4ab71fab2a544fd96439eaf1a4",
-          "published_utc": "2026-10-04T00:42:50+00:00"
+          "url": "https://finnhub.io/api/news?id=517a6de144e42197cb638e66b5612f5f4dfc71ffe148341795816c85035ce170",
+          "published_utc": "2026-10-04T14:49:00+00:00"
         },
         {
-          "headline": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
+          "headline": "AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f32ed5ec533911367fbefe8ea540b624cff620755f1ff4b792371f8ae0b31a7",
-          "published_utc": "2026-10-03T20:10:26+00:00"
+          "url": "https://finnhub.io/api/news?id=bae7a93eb6b04eb4b5fa2d54195e40991a4a3e68fd7843807c8afad69ffd94b1",
+          "published_utc": "2026-10-04T13:34:00+00:00"
         },
         {
-          "headline": "Can AMD\u2019s CPU Business Fund Its AI Chip Ambitions?",
+          "headline": "Gary Shapiro: why trade shows matter and how to get them right",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7bfaeadebd575188d152c345c9fbabf0175dc885806bf3cd3c62091296909a6",
-          "published_utc": "2026-10-03T15:22:36+00:00"
+          "url": "https://finnhub.io/api/news?id=6bc05db26f4b21c20dce914c79cc0b0e20751d730fd7d2df204854970a1c1d83",
+          "published_utc": "2026-10-04T11:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 139964,
+      "quote_age_seconds": 165095,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -175,18 +175,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ee5c88ccb9469377be244dbe87aa21f1c0c1e426e425e2087be8c85e57a9a0de",
           "published_utc": "2026-10-03T13:42:53+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile\u2019s BlueBird Progress Comes With Several Risks Still Unresolved",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=546a638bb93b5f17c19a5f2f9239c6049f37e999251ba29bfad730f99d9ce173",
-          "published_utc": "2026-10-02T17:15:00+00:00"
-        },
-        {
-          "headline": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b4ea60ac45448b900b2739480903c0f78f06ab1447036f9c3880083dc1276310",
-          "published_utc": "2026-10-02T14:47:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
