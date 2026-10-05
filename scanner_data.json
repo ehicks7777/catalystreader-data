@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:48:20.970440+00:00",
+  "updated": "2026-10-05T08:18:36.830346+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 215300,
+      "quote_age_seconds": 217115,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 215300,
+      "quote_age_seconds": 217115,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Michael Saylor Proves Bitcoin Is Tame With a Chart Where His Own Stock Hits 94%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=400def4cca98b9c2396ecf07aa03edb797b61965236393b458568c4e8e0eb30f",
+          "published_utc": "2026-10-05T06:44:12+00:00"
+        },
+        {
+          "headline": "Why ordinary investors struggle to buy into the robotics boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b17b1fdbfdeb7e3be91804943ec3c0c272f7af2f45d08f85948aa99d4ed9b1a7",
+          "published_utc": "2026-10-05T06:15:45+00:00"
+        },
+        {
           "headline": "Tesla Stock Rises Overnight After Musk Says \u2018Something May Come Of\u2019 TSMC Talks On Terafab",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e2199c87a92764ee08bb0f864ab7761f9634a7bf93e56c7aa962faaa2c58566b",
           "published_utc": "2026-10-05T03:55:35+00:00"
-        },
-        {
-          "headline": "Top 3 Founder Run Stocks To Watch In October 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b3b5c6625a0e035cb714bc57d2044e31a120f76fe5303946ab3bb01cc98b87c2",
-          "published_utc": "2026-10-05T03:09:51+00:00"
-        },
-        {
-          "headline": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c67344445a6083f4e9040af7549b7f688aa3d8e64d6d454a7977408ead3fbcde",
-          "published_utc": "2026-10-05T00:53:43+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 215300,
+      "quote_age_seconds": 217115,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 215300,
+      "quote_age_seconds": 217115,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stocktwits M&A Watch: Paramount-Warner Bros Combination, Skyworks-Qorvo Merger, AMD\u2019s World Labs Acquisition In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=51eb55409c689d88e5bf97a1b9347d52f44cfa8e6dd45e6d8505406e0cf2a44a",
+          "published_utc": "2026-10-05T07:31:29+00:00"
+        },
         {
           "headline": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b0e3eb6b8404ada08d7535e109b012c3ccd2cd7e40a5d7c2439dff3014b72c9f",
           "published_utc": "2026-10-04T20:30:35+00:00"
-        },
-        {
-          "headline": "AMD\u2019s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3095b2198571f5d5345e9484bceca72e67887a00e256c185125648fad63eab33",
-          "published_utc": "2026-10-04T19:01:59+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 215300,
+      "quote_age_seconds": 217115,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
