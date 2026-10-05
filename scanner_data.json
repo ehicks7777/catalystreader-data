@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:14:05.496091+00:00",
+  "updated": "2026-10-05T17:46:01.659498+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "TSLA",
-      "price": 378.75,
-      "change_percent": 2.2019,
+      "price": 380.64,
+      "change_percent": 2.7119,
       "previous_close": 370.59,
-      "quote_timestamp": 1791220423.0,
-      "quote_time_utc": "2026-10-05T17:13:43+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791222354.0,
+      "quote_time_utc": "2026-10-05T17:45:54+00:00",
+      "quote_age_seconds": 6,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -45,12 +45,12 @@
     },
     {
       "symbol": "META",
-      "price": 743.23,
-      "change_percent": 2.0808,
+      "price": 745.42,
+      "change_percent": 2.3816,
       "previous_close": 728.08,
-      "quote_timestamp": 1791220423.0,
-      "quote_time_utc": "2026-10-05T17:13:43+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791222352.0,
+      "quote_time_utc": "2026-10-05T17:45:52+00:00",
+      "quote_age_seconds": 8,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -76,6 +76,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1c159c83bf143c12a46d6b7048c54795637ed3c74d012ccfdc96bab19c8058f8",
           "published_utc": "2026-10-05T15:34:43+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SOUN",
+      "price": 5.97,
+      "change_percent": 2.226,
+      "previous_close": 5.84,
+      "quote_timestamp": 1791222351.0,
+      "quote_time_utc": "2026-10-05T17:45:51+00:00",
+      "quote_age_seconds": 9,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SoundHound vs. Rezolve: Which AI Growth Story Is Worth the Financing Risk?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79aa4faa438b11abf8ee9600007c19940c7db8fd93f23637361dc87d0ac69a35",
+          "published_utc": "2026-10-05T00:01:40+00:00"
+        },
+        {
+          "headline": "Axios Reported Earlier Sunday, Nvidia-Backed Reflection Prepares Powerful Open-Weight AI System To Challenge Chinese Upstarts, U.S. AI Giants",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=1fe5628b4730f829001276b39665fba7f6da73eef770da4028b6bad9ce6d3c17",
+          "published_utc": "2026-10-04T12:33:09+00:00"
+        },
+        {
+          "headline": "President Trump On Sunday, Announced Formation Of Super Intelligence Force To Coordinate Federal Government Super Intelligence Efforts, Led By Jay Clayton, Andrew Ferguson, Emil Michael, Scott Kupor",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=da3c2e0179e091101e4387ad5c51b87694b9ffa388a2a1482126685b5f48f8cd",
+          "published_utc": "2026-10-04T08:41:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
