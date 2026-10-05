@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:47:53.564453+00:00",
+  "updated": "2026-10-05T12:20:08.113884+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 229672,
+      "quote_age_seconds": 231606,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 229672,
+      "quote_age_seconds": 231606,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tesla And 2 Other Founder Led Stocks To Own",
+          "headline": "SpaceX Is Now a Super Intelligence Company. Say Hello to SpaceXSI.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=35fb612e8a24b9289fa9247acb19bdf19acb0e7c15421891193711f10461a48e",
-          "published_utc": "2026-10-05T09:08:14+00:00"
+          "url": "https://finnhub.io/api/news?id=bb65f9082535fa5f5b6e01c9bfc9647ecda49a81e4ad9c37b1f1e2999fdde628",
+          "published_utc": "2026-10-05T11:02:00+00:00"
         },
         {
-          "headline": "Nasdaq, S&P 500, Dow Futures Steady Ahead Of Fed Minutes This Week: TSLA, SPCX, CBRS, QCOM, PTC, IBRX Stocks In Focus",
+          "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e670ad8ab6c131188420750c923d4ce4b0446adbcf3c89b84d5a372cf22a8337",
-          "published_utc": "2026-10-05T08:52:40+00:00"
+          "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
+          "published_utc": "2026-10-05T10:50:00+00:00"
         },
         {
-          "headline": "A Soft Jobs Report Takes the Heat Off Rates, and Nvidia Closes In on $6 Trillion",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=7d9e5e396c8898c7050f63983a8921f960929cb810ab5c0bf558e790bc1a21bc",
-          "published_utc": "2026-10-05T07:27:48+00:00"
+          "headline": "Elon Musk Says Cutting Optimus Memory Was Tesla's 'Only Way' to Scale, As Micron Says Humanoid Robots Need 200GB+ of Memory Each",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=89c11413b2d470d9e44b9dbd80590748d562401ba5d1eadea03610d17523f641",
+          "published_utc": "2026-10-05T10:45:21+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 229672,
+      "quote_age_seconds": 231606,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 229672,
+      "quote_age_seconds": 231606,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stocktwits M&A Watch: Paramount-Warner Bros Combination, Skyworks-Qorvo Merger, AMD\u2019s World Labs Acquisition In Focus",
+          "headline": "Cerebras Systems\u2019 Tough 2026 Continues: It\u2019ll Double Soon According to One of The Biggest Global Banks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=51eb55409c689d88e5bf97a1b9347d52f44cfa8e6dd45e6d8505406e0cf2a44a",
-          "published_utc": "2026-10-05T07:31:29+00:00"
+          "url": "https://finnhub.io/api/news?id=5c0e53f6416b1431f8717f0b8028091789996913bbe707d495b77f13a3ba282e",
+          "published_utc": "2026-10-05T11:15:28+00:00"
         },
         {
-          "headline": "Semiconductors Winners And Losers At The Start Of Q4 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=d7cdd47e7e15c5f64e4ec24ab20183fcacc9ffcbcbfefe646574e1ce084abd2f",
-          "published_utc": "2026-10-05T04:14:39+00:00"
+          "headline": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba5db4b84f357f2427cf4fb7310ff404f4190b8535f980d7ae72cb90b55d0510",
+          "published_utc": "2026-10-05T11:10:04+00:00"
         },
         {
-          "headline": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
+          "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=84536ebdce773a421b6cc486e418075dc8500f2782e96f45a75abf5dacaaddeb",
-          "published_utc": "2026-10-05T03:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
+          "published_utc": "2026-10-05T10:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 229672,
+      "quote_age_seconds": 231606,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
