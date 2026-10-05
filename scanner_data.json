@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T21:46:05.695211+00:00",
+  "updated": "2026-10-05T22:14:26.786537+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 6364,
+      "quote_age_seconds": 8065,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Treasury Just Chose Crypto Privacy Over Surveillance. Investors Should Read the Fine Print",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f4b5789ad8b0e3b1922d48c5e68ee0486bd4e5e90856f8d587f7d9e3f6ce46b1",
+          "published_utc": "2026-10-05T21:39:41+00:00"
+        },
+        {
+          "headline": "Coinbase CAO to retire as leadership shuffle continues after layoffs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f1c74fe058ceaac0139288f128ef25a1d0f1199e35433157e8d4818044ade259",
+          "published_utc": "2026-10-05T18:03:24+00:00"
+        },
+        {
           "headline": "OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=37631e2d2b7c068be1530b46a20dc41aa0568f703ccca87cf0859f6c90de1d0d",
           "published_utc": "2026-10-05T18:01:00+00:00"
-        },
-        {
-          "headline": "Coinbase vs. Intercontinental: Which Exchange Stock Has an Edge?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8f8f92809e4768030b614b9b760f9396ba86a2688e4874210406f40e731abe52",
-          "published_utc": "2026-10-05T17:43:00+00:00"
-        },
-        {
-          "headline": "CFTC proposes federal registration framework for leveraged retail crypto trades",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c4178291d5d96c01ee62279a024f31ab78c3584204fcbcf429a385c217635a29",
-          "published_utc": "2026-10-05T17:15:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 6364,
+      "quote_age_seconds": 8065,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 6364,
+      "quote_age_seconds": 8065,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 6364,
+      "quote_age_seconds": 8065,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "If the Stock Market Crashes in 2026, I'm Making This 1 Investing Move Immediately",
+          "headline": "Why Campbell's Soup Stock Plummeted by 16% in September",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e0ba59dd71528a62b6c5ddcefcd7311c53861fe9652f4228d63ad7a2ce31b9e",
-          "published_utc": "2026-10-05T19:50:00+00:00"
+          "url": "https://finnhub.io/api/news?id=81050affc1d4dbdac55735cd8067a60dc2f54b36ba11953dc55c992762408a0f",
+          "published_utc": "2026-10-05T21:37:18+00:00"
         },
         {
-          "headline": "Could Nvidia reach a $6T market cap by the end of October?",
+          "headline": "Jim Cramer Makes His Feelings About Taiwan Semiconductor (TSM) Clear",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c3c7d42a1a0e583333852fb3de6ed3d657bfafbff0f6034ecc8674a7121a5598",
-          "published_utc": "2026-10-05T19:41:27+00:00"
+          "url": "https://finnhub.io/api/news?id=16c88a9aab4fb238d40aa3db971d33a1e6073424316f8740431866e2e5a85260",
+          "published_utc": "2026-10-05T21:36:39+00:00"
         },
         {
-          "headline": "Why I Think These Are the 2 Smartest Stocks to Buy With $5,000 in October",
+          "headline": "SPYM Charges Less Than VOO for the Same S&P 500. Its Long-Term Record Tracks Four Different Indexes",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f67e2b4e34bae463f7b6e958597b4c300db91a1576378fb816d545ce10673f37",
-          "published_utc": "2026-10-05T19:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=e1d1cdf9fecfc339eef3ecad7cf7443a59fd77b2cc03ee2ba98069a948b5704e",
+          "published_utc": "2026-10-05T21:33:24+00:00"
         }
       ],
       "news_status": "Recent headlines found"
