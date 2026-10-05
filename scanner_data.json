@@ -1,57 +1,19 @@
 {
-  "updated": "2026-10-05T14:19:38.682463+00:00",
+  "updated": "2026-10-05T14:48:50.464819+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "COIN",
-      "price": 190.46,
-      "change_percent": 4.0765,
-      "previous_close": 183.0,
-      "quote_timestamp": 1791209960.0,
-      "quote_time_utc": "2026-10-05T14:19:20+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "New Stablecoin Open USD (OUSD) Goes Live With Plans to Take on Circle and Tether. Here's What Crypto Investors Need to Know.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=30334cad5e4bb6fb82a93297ccef2a8ac4dbeaf7c8efa2c642ab7eca9c284f40",
-          "published_utc": "2026-10-05T13:42:00+00:00"
-        },
-        {
-          "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=045c9ce024f64ce350526781127cc36175f4f8fab1f266783558048b8a4730ae",
-          "published_utc": "2026-10-05T12:35:01+00:00"
-        },
-        {
-          "headline": "Bitcoin-Linked Stocks Rebound, but Narrow Leadership Undercuts the Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
-          "published_utc": "2026-10-05T12:06:21+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 190.46,
-      "change_percent": 4.0765,
+      "price": 187.45,
+      "change_percent": 2.4317,
       "previous_close": 183.0,
-      "quote_timestamp": 1791209960.0,
-      "quote_time_utc": "2026-10-05T14:19:20+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1791211717.0,
+      "quote_time_utc": "2026-10-05T14:48:37+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -82,13 +44,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MSTR",
-      "price": 164.74,
-      "change_percent": 2.9561,
-      "previous_close": 160.01,
-      "quote_timestamp": 1791209960.0,
-      "quote_time_utc": "2026-10-05T14:19:20+00:00",
-      "quote_age_seconds": 17,
+      "symbol": "META",
+      "price": 743.51,
+      "change_percent": 2.1193,
+      "previous_close": 728.08,
+      "quote_timestamp": 1791211718.0,
+      "quote_time_utc": "2026-10-05T14:48:38+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,96 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Bitcoin-Linked Stocks Rebound, but Narrow Leadership Undercuts the Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
-          "published_utc": "2026-10-05T12:06:21+00:00"
+          "headline": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a6fed13b6be411df50bba108d5a6501a2cbba8588dc161584ad89321b32d2815",
+          "published_utc": "2026-10-05T13:34:42+00:00"
         },
         {
-          "headline": "MSTR, COIN, CRCL, BMNR Stocks Rally With Bitcoin Within $500 Of September Peak",
+          "headline": "Former Anthropic employee to testify at New York AI hearing: What to know",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5d0cd4ec4e84fa0aa2df6decd1486f3d636e7641d46609293d5897b5f21b3a4f",
-          "published_utc": "2026-10-05T11:04:10+00:00"
+          "url": "https://finnhub.io/api/news?id=b97e7b4bc9807bd0a06c30c53676b6ab7dbcbf4b8e43ceb48929b92d9980d1cd",
+          "published_utc": "2026-10-05T13:30:33+00:00"
         },
         {
-          "headline": "Qualcomm, Intel, Strategy, PTC, and More Stocks That Explain Today\u2019s Market",
+          "headline": "Meta Muse could soon drive up to 8% of revenue by 2030: Deutsche Bank analyst",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca07bb5640256c31fad284029c37ccffa2206055c9763f236979f3e0bb127744",
-          "published_utc": "2026-10-05T09:54:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SOFI",
-      "price": 16.11,
-      "change_percent": 2.156,
-      "previous_close": 15.77,
-      "quote_timestamp": 1791209959.0,
-      "quote_time_utc": "2026-10-05T14:19:19+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Why SoFi Stock Dropped 12% in September",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99c8f84997d8cec334e34c92e412edd19b4325eed6d84a77aec352f8f06fa4f6",
-          "published_utc": "2026-10-05T10:24:01+00:00"
-        },
-        {
-          "headline": "SOFI Stock Is Down More Than 40% In 2026, But This Analyst Sees Attractive Growth Opportunity In Loan Platform Business",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f74b007bd5e47255a49edb9310f7eba3a0369410affc7c93fdb5ae91a5e61183",
-          "published_utc": "2026-10-05T01:09:48+00:00"
-        },
-        {
-          "headline": "SoFi\u2019s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Investing In SoFi Technologies (SOFI)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1eed8d883aadce9d9a710e9a50a66d931429a9d8cf03f55a4745fcd50877271f",
-          "published_utc": "2026-10-04T02:08:50+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 378.15,
-      "change_percent": 2.04,
-      "previous_close": 370.59,
-      "quote_timestamp": 1791209960.0,
-      "quote_time_utc": "2026-10-05T14:19:20+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Elon Musk Claims US Will \u2018Go Bankrupt\u2019 Without AI and Robotics Boosting Productivity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=96af709401aab8cec7e2d1780601a1c0fb146ce3ea685dcbff1631d2f8c67654",
-          "published_utc": "2026-10-05T13:29:33+00:00"
-        },
-        {
-          "headline": "If You Invest $10,000 in Tesla Today, Here\u2019s What It Could Be Worth by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f7db160886333c13712606a063ec970730052f251432037185dd8471825dbd4",
-          "published_utc": "2026-10-05T13:00:43+00:00"
-        },
-        {
-          "headline": "Who\u2019s Worse At AI Monetization, Tesla or Apple?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f3b5251e7ab4c60cd76cf1916fc680a46b20765b978e2a0ded1f2fa03041eba",
-          "published_utc": "2026-10-05T12:45:56+00:00"
+          "url": "https://finnhub.io/api/news?id=a44c60e536498b6c27c7deb9d4e627015d773feb366ca3386aefa56cc030d705",
+          "published_utc": "2026-10-05T13:28:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
