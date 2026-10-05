@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T08:18:36.830346+00:00",
+  "updated": "2026-10-05T08:48:32.738835+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 217115,
+      "quote_age_seconds": 218911,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 217115,
+      "quote_age_seconds": 218911,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "A Soft Jobs Report Takes the Heat Off Rates, and Nvidia Closes In on $6 Trillion",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=7d9e5e396c8898c7050f63983a8921f960929cb810ab5c0bf558e790bc1a21bc",
+          "published_utc": "2026-10-05T07:27:48+00:00"
+        },
         {
           "headline": "Michael Saylor Proves Bitcoin Is Tame With a Chart Where His Own Stock Hits 94%",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b17b1fdbfdeb7e3be91804943ec3c0c272f7af2f45d08f85948aa99d4ed9b1a7",
           "published_utc": "2026-10-05T06:15:45+00:00"
-        },
-        {
-          "headline": "Tesla Stock Rises Overnight After Musk Says \u2018Something May Come Of\u2019 TSMC Talks On Terafab",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e2199c87a92764ee08bb0f864ab7761f9634a7bf93e56c7aa962faaa2c58566b",
-          "published_utc": "2026-10-05T03:55:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 217115,
+      "quote_age_seconds": 218911,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 217115,
+      "quote_age_seconds": 218911,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -140,16 +140,16 @@
           "published_utc": "2026-10-05T07:31:29+00:00"
         },
         {
+          "headline": "Semiconductors Winners And Losers At The Start Of Q4 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=d7cdd47e7e15c5f64e4ec24ab20183fcacc9ffcbcbfefe646574e1ce084abd2f",
+          "published_utc": "2026-10-05T04:14:39+00:00"
+        },
+        {
           "headline": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=84536ebdce773a421b6cc486e418075dc8500f2782e96f45a75abf5dacaaddeb",
           "published_utc": "2026-10-05T03:20:00+00:00"
-        },
-        {
-          "headline": "Can NVIDIA\u2019s Valuation Withstand a Slowdown in Customer Spending?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0e3eb6b8404ada08d7535e109b012c3ccd2cd7e40a5d7c2439dff3014b72c9f",
-          "published_utc": "2026-10-04T20:30:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 217115,
+      "quote_age_seconds": 218911,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
