@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T03:48:13.465764+00:00",
+  "updated": "2026-10-05T04:17:13.124686+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 200892,
+      "quote_age_seconds": 202632,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 200892,
+      "quote_age_seconds": 202632,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Top 3 Founder Run Stocks To Watch In October 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b3b5c6625a0e035cb714bc57d2044e31a120f76fe5303946ab3bb01cc98b87c2",
+          "published_utc": "2026-10-05T03:09:51+00:00"
+        },
         {
           "headline": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3ebb1a5fb7b4a6cf3bc76f05bf4ebafd00085b6351bff946f1d4a40646a208d2",
           "published_utc": "2026-10-05T00:34:02+00:00"
-        },
-        {
-          "headline": "\u201cWithout AI and Robots, We\u2019re Totally Screwed,\u201d Elon Musk Warns on National Debt Crisis",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bf81b9de41b0814937899e29b78e515e4209b3007ea982bd5016d0336b5178fe",
-          "published_utc": "2026-10-04T20:00:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 200892,
+      "quote_age_seconds": 202632,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Dow, S&P 500, Nasdaq Futures Rise After Soft Jobs Report As Markets Await Fed Minutes: IBRX, SMCI, VST, SOFI Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ffef3d41bfd042ac76760698414806aa2cf465e3c401e11855644aede9d62f9f",
+          "published_utc": "2026-10-05T03:17:11+00:00"
+        },
         {
           "headline": "Super Micro Computer (SMCI) Climbed, What Is Behind The Fresh Attention?",
           "source": "Yahoo",
@@ -118,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 200892,
+      "quote_age_seconds": 202632,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -127,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=84536ebdce773a421b6cc486e418075dc8500f2782e96f45a75abf5dacaaddeb",
+          "published_utc": "2026-10-05T03:20:00+00:00"
+        },
         {
           "headline": "Can NVIDIA\u2019s Valuation Withstand a Slowdown in Customer Spending?",
           "source": "Yahoo",
@@ -138,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3095b2198571f5d5345e9484bceca72e67887a00e256c185125648fad63eab33",
           "published_utc": "2026-10-04T19:01:59+00:00"
-        },
-        {
-          "headline": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=517a6de144e42197cb638e66b5612f5f4dfc71ffe148341795816c85035ce170",
-          "published_utc": "2026-10-04T14:49:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -155,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 200892,
+      "quote_age_seconds": 202632,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
