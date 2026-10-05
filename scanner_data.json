@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T12:20:08.113884+00:00",
+  "updated": "2026-10-05T12:52:41.561502+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 231606,
+      "quote_age_seconds": 233560,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 231606,
+      "quote_age_seconds": 233560,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 231606,
+      "quote_age_seconds": 233560,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 231606,
+      "quote_age_seconds": 233560,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Broadcom and Applied Materials Earnings Put Broadening Chip Rally to the Test",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=8c28650ae40efa8d839ce467b5e542a559aab043c0026fb2e1c405c1183e4c94",
+          "published_utc": "2026-10-05T12:36:28+00:00"
+        },
         {
           "headline": "Cerebras Systems\u2019 Tough 2026 Continues: It\u2019ll Double Soon According to One of The Biggest Global Banks",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ba5db4b84f357f2427cf4fb7310ff404f4190b8535f980d7ae72cb90b55d0510",
           "published_utc": "2026-10-05T11:10:04+00:00"
-        },
-        {
-          "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
-          "published_utc": "2026-10-05T10:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 231606,
+      "quote_age_seconds": 233560,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
