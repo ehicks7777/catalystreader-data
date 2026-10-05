@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:18:53.757255+00:00",
+  "updated": "2026-10-05T21:46:05.695211+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,14 +7,14 @@
   "day_trading": [],
   "swing_trading": [
     {
-      "symbol": "TSLA",
-      "price": 379.5,
-      "change_percent": 2.4043,
-      "previous_close": 370.59,
-      "quote_timestamp": 1791224323.0,
-      "quote_time_utc": "2026-10-05T18:18:43+00:00",
-      "quote_age_seconds": 8,
-      "quote_freshness": "fresh",
+      "symbol": "COIN",
+      "price": 188.22,
+      "change_percent": 2.8525,
+      "previous_close": 183.0,
+      "quote_timestamp": 1791230400.0,
+      "quote_time_utc": "2026-10-05T20:00:00+00:00",
+      "quote_age_seconds": 6364,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,35 +23,35 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nasdaq hits record high as AI stocks rally amid high bond yields",
+          "headline": "OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eeda09aa32c5116813a8b009d8aa12a51c7a03e68d14b4ebcd7e4713e8516da3",
-          "published_utc": "2026-10-05T17:19:15+00:00"
+          "url": "https://finnhub.io/api/news?id=37631e2d2b7c068be1530b46a20dc41aa0568f703ccca87cf0859f6c90de1d0d",
+          "published_utc": "2026-10-05T18:01:00+00:00"
         },
         {
-          "headline": "Elon Musk Hits Trillionaire Status for the 2nd Time After SpaceX and Tesla Stocks Rise",
+          "headline": "Coinbase vs. Intercontinental: Which Exchange Stock Has an Edge?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5ef63599ec0bfc98f61bad8ae77bf7f5a7b79dc409669a30f45e8a2aa7fdf10",
-          "published_utc": "2026-10-05T17:14:31+00:00"
+          "url": "https://finnhub.io/api/news?id=8f8f92809e4768030b614b9b760f9396ba86a2688e4874210406f40e731abe52",
+          "published_utc": "2026-10-05T17:43:00+00:00"
         },
         {
-          "headline": "Tesla\u2019s Q3 Deliveries Beat UBS\u2019 Estimates \u2014 But Energy Storage Miss Keeps This Analyst Neutral",
+          "headline": "CFTC proposes federal registration framework for leveraged retail crypto trades",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=356bd59b33fde8616cda78ee3d1508ec0c13e0e739496644bbd5b27f7755ab9c",
-          "published_utc": "2026-10-05T17:03:31+00:00"
+          "url": "https://finnhub.io/api/news?id=c4178291d5d96c01ee62279a024f31ab78c3584204fcbcf429a385c217635a29",
+          "published_utc": "2026-10-05T17:15:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "META",
-      "price": 742.74,
-      "change_percent": 2.0135,
-      "previous_close": 728.08,
-      "quote_timestamp": 1791224323.0,
-      "quote_time_utc": "2026-10-05T18:18:43+00:00",
-      "quote_age_seconds": 8,
-      "quote_freshness": "fresh",
+      "symbol": "MSTR",
+      "price": 164.43,
+      "change_percent": 2.7623,
+      "previous_close": 160.01,
+      "quote_timestamp": 1791230400.0,
+      "quote_time_utc": "2026-10-05T20:00:00+00:00",
+      "quote_age_seconds": 6364,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -60,28 +60,102 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Airbnb CEO: ChatGPT Traffic \u201cConverts Better\u201d Than Google\u2019s. That\u2019s a Problem for Alphabet",
+          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87e571fdbc88cba377c5694db4d9693eeda62a58ade7f30d386b2629a69c0abc",
-          "published_utc": "2026-10-05T17:22:55+00:00"
+          "url": "https://finnhub.io/api/news?id=203b79e92b19e6959cafc41b2825576030f12a1165ece5fff3f2b8ed528169b2",
+          "published_utc": "2026-10-05T19:42:40+00:00"
         },
         {
-          "headline": "Nasdaq hits record high as AI stocks rally amid high bond yields",
+          "headline": "OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=eeda09aa32c5116813a8b009d8aa12a51c7a03e68d14b4ebcd7e4713e8516da3",
-          "published_utc": "2026-10-05T17:19:15+00:00"
+          "url": "https://finnhub.io/api/news?id=37631e2d2b7c068be1530b46a20dc41aa0568f703ccca87cf0859f6c90de1d0d",
+          "published_utc": "2026-10-05T18:01:00+00:00"
         },
         {
-          "headline": "Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles \u2014 Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong'",
+          "headline": "NYSE parent company's joint venture plans 24/7 tokenized stock trading, and it's a huge deal",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cce2b8118f4ec0562be2b34fb75a4187fb2c2fd4ce6fa84035917edcd60d451e",
-          "published_utc": "2026-10-05T16:59:34+00:00"
+          "url": "https://finnhub.io/api/news?id=024cc7fd88e0b9feb64b3ecdab7c0e6fedc483d1b2b08083cb52c51d48b838ff",
+          "published_utc": "2026-10-05T16:30:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "TSLA",
+      "price": 378.73,
+      "change_percent": 2.1965,
+      "previous_close": 370.59,
+      "quote_timestamp": 1791230400.0,
+      "quote_time_utc": "2026-10-05T20:00:00+00:00",
+      "quote_age_seconds": 6364,
+      "quote_freshness": "stale",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Elon Musk Is Back Working With the U.S. Government. Why That Could Be Trouble for SpaceX's Stock",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5413c99bf5481ed245a792f6add609d214165569d6c657e3fe6dbc3f284f43e9",
+          "published_utc": "2026-10-05T18:40:01+00:00"
+        },
+        {
+          "headline": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=b7c18e4ce8373b2dcb8bf352e2ddf6e61d31d2e8247495f06d086b29877dfd12",
+          "published_utc": "2026-10-05T18:05:00+00:00"
+        },
+        {
+          "headline": "Elon Musk regains trillionaire status as SpaceX stock surges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=142b4b20ca96e36ce48aa2421f252eaaf7b851af790078ca1a115081bbc87f4b",
+          "published_utc": "2026-10-05T18:04:48+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "NVDA",
+      "price": 238.9,
+      "change_percent": 2.1158,
+      "previous_close": 233.95,
+      "quote_timestamp": 1791230400.0,
+      "quote_time_utc": "2026-10-05T20:00:00+00:00",
+      "quote_age_seconds": 6364,
+      "quote_freshness": "stale",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "If the Stock Market Crashes in 2026, I'm Making This 1 Investing Move Immediately",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e0ba59dd71528a62b6c5ddcefcd7311c53861fe9652f4228d63ad7a2ce31b9e",
+          "published_utc": "2026-10-05T19:50:00+00:00"
+        },
+        {
+          "headline": "Could Nvidia reach a $6T market cap by the end of October?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c3c7d42a1a0e583333852fb3de6ed3d657bfafbff0f6034ecc8674a7121a5598",
+          "published_utc": "2026-10-05T19:41:27+00:00"
+        },
+        {
+          "headline": "Why I Think These Are the 2 Smartest Stocks to Buy With $5,000 in October",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f67e2b4e34bae463f7b6e958597b4c300db91a1576378fb816d545ce10673f37",
+          "published_utc": "2026-10-05T19:35:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
