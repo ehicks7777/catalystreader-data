@@ -1,20 +1,19 @@
 {
-  "updated": "2026-10-05T13:20:51.669049+00:00",
+  "updated": "2026-10-05T13:48:56.750895+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
-      "symbol": "RKLB",
-      "price": 73.92,
-      "change_percent": 4.9106,
-      "previous_close": 70.46,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 235250,
-      "quote_freshness": "stale",
+      "symbol": "COIN",
+      "price": 189.17,
+      "change_percent": 3.3716,
+      "previous_close": 183.0,
+      "quote_timestamp": 1791208116.0,
+      "quote_time_utc": "2026-10-05T13:48:36+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,176 +22,141 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "SpaceX (SPCX) vs Rocket Lab (RKLB): Which is a Better Stock to Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e551b1c2e81b814831b2c3b7b8bfd5c983c17e722aba0fee75e2fa95672d1b33",
-          "published_utc": "2026-10-04T22:00:52+00:00"
-        },
-        {
-          "headline": "SpaceX Isn't Rocket Lab's Biggest Threat Now -- Blue Origin Is",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9d6ba1544f82ece5a603b7d1e662bf36bd65bbef7bf071be28f9d248fb19ed8a",
-          "published_utc": "2026-10-04T11:27:00+00:00"
-        },
-        {
-          "headline": "How Investors May Respond To Rocket Lab (RKLB) Winning Synspective\u2019s Record 20-Launch Electron Contract",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=72f747edafbf58645b2503735362ef6018bbff66d759ad6cf4cda8fc00b4682b",
-          "published_utc": "2026-10-04T04:14:27+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 370.59,
-      "change_percent": 4.6539,
-      "previous_close": 354.11,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 235250,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX Is Now a Super Intelligence Company. Say Hello to SpaceXSI.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bb65f9082535fa5f5b6e01c9bfc9647ecda49a81e4ad9c37b1f1e2999fdde628",
-          "published_utc": "2026-10-05T11:02:00+00:00"
-        },
-        {
-          "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
-          "published_utc": "2026-10-05T10:50:00+00:00"
-        },
-        {
-          "headline": "Elon Musk Says Cutting Optimus Memory Was Tesla's 'Only Way' to Scale, As Micron Says Humanoid Robots Need 200GB+ of Memory Each",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89c11413b2d470d9e44b9dbd80590748d562401ba5d1eadea03610d17523f641",
-          "published_utc": "2026-10-05T10:45:21+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SMCI",
-      "price": 43.69,
-      "change_percent": 4.2223,
-      "previous_close": 41.92,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 235250,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Dow, S&P 500, Nasdaq Futures Rise After Soft Jobs Report As Markets Await Fed Minutes: IBRX, SMCI, VST, SOFI Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ffef3d41bfd042ac76760698414806aa2cf465e3c401e11855644aede9d62f9f",
-          "published_utc": "2026-10-05T03:17:11+00:00"
-        },
-        {
-          "headline": "Super Micro Computer (SMCI) Climbed, What Is Behind The Fresh Attention?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a187dbdf30bc5f5ca9a77d2e6c4516f24cecdb7a9626c81c45d2463ac49da9b9",
-          "published_utc": "2026-10-05T00:20:42+00:00"
-        },
-        {
-          "headline": "SMCI Stock Is Up 41% This Year. Hold or Take Profits?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9ae2bd1c5cc3b0d82a510729a17ea483aeebd0d8e23aab58862beedd0c12235",
-          "published_utc": "2026-10-04T09:53:50+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 633.91,
-      "change_percent": 2.9526,
-      "previous_close": 615.73,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 235250,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Broadcom and Applied Materials Earnings Put Broadening Chip Rally to the Test",
+          "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=8c28650ae40efa8d839ce467b5e542a559aab043c0026fb2e1c405c1183e4c94",
-          "published_utc": "2026-10-05T12:36:28+00:00"
+          "url": "https://finnhub.io/api/news?id=045c9ce024f64ce350526781127cc36175f4f8fab1f266783558048b8a4730ae",
+          "published_utc": "2026-10-05T12:35:01+00:00"
         },
         {
-          "headline": "Cerebras Systems\u2019 Tough 2026 Continues: It\u2019ll Double Soon According to One of The Biggest Global Banks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c0e53f6416b1431f8717f0b8028091789996913bbe707d495b77f13a3ba282e",
-          "published_utc": "2026-10-05T11:15:28+00:00"
+          "headline": "Bitcoin-Linked Stocks Rebound, but Narrow Leadership Undercuts the Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
+          "published_utc": "2026-10-05T12:06:21+00:00"
         },
         {
-          "headline": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
+          "headline": "Banks Sue Over Crypto Charters as Tom Lee Backs $10K ETH, Citi Eyes $150K Bitcoin",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba5db4b84f357f2427cf4fb7310ff404f4190b8535f980d7ae72cb90b55d0510",
-          "published_utc": "2026-10-05T11:10:04+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 58.45,
-      "change_percent": 2.4719,
-      "previous_close": 57.04,
-      "quote_timestamp": 1790971200.0,
-      "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 235250,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "ASTS Stock Edges Up Overnight: Retail Traders Seize On T-Mobile Dropping Starlink Name From Satellite Page",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ed63c080dfc814a9aa82938ac3e70c89fd84c087fab4f765604bbb930f8cf060",
-          "published_utc": "2026-10-05T04:44:57+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile (ASTS) Is Down 5.4% After Class Action Allegations Over Funding Model - What's Changed",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1d7e11a625559566b994f3068face7008c5ec72de5ea646c5053dac63e8491b8",
-          "published_utc": "2026-10-04T15:10:32+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Stock Is Down 31% in Three Months. Buy the Dip or Wait for More Launches?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ee5c88ccb9469377be244dbe87aa21f1c0c1e426e425e2087be8c85e57a9a0de",
-          "published_utc": "2026-10-03T13:42:53+00:00"
+          "url": "https://finnhub.io/api/news?id=c8b1043374ccf8989bca9e271cc5b8aafa24c9e4c8a9e08b009c1198a775ecf7",
+          "published_utc": "2026-10-05T11:12:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "swing_trading": [
+    {
+      "symbol": "COIN",
+      "price": 189.17,
+      "change_percent": 3.3716,
+      "previous_close": 183.0,
+      "quote_timestamp": 1791208116.0,
+      "quote_time_utc": "2026-10-05T13:48:36+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=045c9ce024f64ce350526781127cc36175f4f8fab1f266783558048b8a4730ae",
+          "published_utc": "2026-10-05T12:35:01+00:00"
+        },
+        {
+          "headline": "Bitcoin-Linked Stocks Rebound, but Narrow Leadership Undercuts the Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
+          "published_utc": "2026-10-05T12:06:21+00:00"
+        },
+        {
+          "headline": "Banks Sue Over Crypto Charters as Tom Lee Backs $10K ETH, Citi Eyes $150K Bitcoin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c8b1043374ccf8989bca9e271cc5b8aafa24c9e4c8a9e08b009c1198a775ecf7",
+          "published_utc": "2026-10-05T11:12:15+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSTR",
+      "price": 163.92,
+      "change_percent": 2.4436,
+      "previous_close": 160.01,
+      "quote_timestamp": 1791208116.0,
+      "quote_time_utc": "2026-10-05T13:48:36+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Bitcoin-Linked Stocks Rebound, but Narrow Leadership Undercuts the Rally",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
+          "published_utc": "2026-10-05T12:06:21+00:00"
+        },
+        {
+          "headline": "MSTR, COIN, CRCL, BMNR Stocks Rally With Bitcoin Within $500 Of September Peak",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d0cd4ec4e84fa0aa2df6decd1486f3d636e7641d46609293d5897b5f21b3a4f",
+          "published_utc": "2026-10-05T11:04:10+00:00"
+        },
+        {
+          "headline": "Qualcomm, Intel, Strategy, PTC, and More Stocks That Explain Today\u2019s Market",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ca07bb5640256c31fad284029c37ccffa2206055c9763f236979f3e0bb127744",
+          "published_utc": "2026-10-05T09:54:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSFT",
+      "price": 529.5,
+      "change_percent": 2.3129,
+      "previous_close": 517.53,
+      "quote_timestamp": 1791208116.0,
+      "quote_time_utc": "2026-10-05T13:48:36+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Investment Wisdom Always Says Buy Assets, So Don\u2019t Ignore That Wisdom As It Relates To This Hyperscaler",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=78200ab68f9046030d509d2eef4ae192ac62c691e73743fe8290b9d5c0803ed5",
+          "published_utc": "2026-10-05T11:45:18+00:00"
+        },
+        {
+          "headline": "49% Gains Haven\u2019t Stopped Wall Street From Calling Energy Stocks \u2018Behind\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8ce78c0d3fbe1934413c0c23a3749aebe4d570f69faec0c78ad681d7e92a5caa",
+          "published_utc": "2026-10-05T11:30:32+00:00"
+        },
+        {
+          "headline": "Global Virtual Machine Market Report 2026: Trends and Forecast to 2030 | Capitalize on 15.5% CAGR as Microsoft, Amazon, Google, Alibaba, and Dell Accelerate AI and Hybrid Cloud",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f9eefc76b99c9e34195c6c9b5d54c08bff955aaba6623cd535288ca7d01335c2",
+          "published_utc": "2026-10-05T10:16:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
