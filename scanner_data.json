@@ -1,86 +1,11 @@
 {
-  "updated": "2026-10-05T15:48:03.121584+00:00",
+  "updated": "2026-10-05T16:16:37.189047+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "COIN",
-      "price": 188.45,
-      "change_percent": 2.9781,
-      "previous_close": 183.0,
-      "quote_timestamp": 1791215268.0,
-      "quote_time_utc": "2026-10-05T15:47:48+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "New Stablecoin Open USD (OUSD) Goes Live With Plans to Take on Circle and Tether. Here's What Crypto Investors Need to Know.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=30334cad5e4bb6fb82a93297ccef2a8ac4dbeaf7c8efa2c642ab7eca9c284f40",
-          "published_utc": "2026-10-05T13:42:00+00:00"
-        },
-        {
-          "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=045c9ce024f64ce350526781127cc36175f4f8fab1f266783558048b8a4730ae",
-          "published_utc": "2026-10-05T12:35:01+00:00"
-        },
-        {
-          "headline": "Bitcoin-Linked Stocks Rebound, but Narrow Leadership Undercuts the Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
-          "published_utc": "2026-10-05T12:06:21+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "META",
-      "price": 745.15,
-      "change_percent": 2.3445,
-      "previous_close": 728.08,
-      "quote_timestamp": 1791215270.0,
-      "quote_time_utc": "2026-10-05T15:47:50+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a6fed13b6be411df50bba108d5a6501a2cbba8588dc161584ad89321b32d2815",
-          "published_utc": "2026-10-05T13:34:42+00:00"
-        },
-        {
-          "headline": "Former Anthropic employee to testify at New York AI hearing: What to know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b97e7b4bc9807bd0a06c30c53676b6ab7dbcbf4b8e43ceb48929b92d9980d1cd",
-          "published_utc": "2026-10-05T13:30:33+00:00"
-        },
-        {
-          "headline": "Meta Muse could soon drive up to 8% of revenue by 2030: Deutsche Bank analyst",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a44c60e536498b6c27c7deb9d4e627015d773feb366ca3386aefa56cc030d705",
-          "published_utc": "2026-10-05T13:28:50+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "swing_trading": [],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
