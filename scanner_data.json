@@ -1,57 +1,19 @@
 {
-  "updated": "2026-10-05T15:18:12.805332+00:00",
+  "updated": "2026-10-05T15:48:03.121584+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "COIN",
-      "price": 188.54,
-      "change_percent": 3.0273,
-      "previous_close": 183.0,
-      "quote_timestamp": 1791213472.0,
-      "quote_time_utc": "2026-10-05T15:17:52+00:00",
-      "quote_age_seconds": 19,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "New Stablecoin Open USD (OUSD) Goes Live With Plans to Take on Circle and Tether. Here's What Crypto Investors Need to Know.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=30334cad5e4bb6fb82a93297ccef2a8ac4dbeaf7c8efa2c642ab7eca9c284f40",
-          "published_utc": "2026-10-05T13:42:00+00:00"
-        },
-        {
-          "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=045c9ce024f64ce350526781127cc36175f4f8fab1f266783558048b8a4730ae",
-          "published_utc": "2026-10-05T12:35:01+00:00"
-        },
-        {
-          "headline": "Bitcoin-Linked Stocks Rebound, but Narrow Leadership Undercuts the Rally",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
-          "published_utc": "2026-10-05T12:06:21+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 188.54,
-      "change_percent": 3.0273,
+      "price": 188.45,
+      "change_percent": 2.9781,
       "previous_close": 183.0,
-      "quote_timestamp": 1791213472.0,
-      "quote_time_utc": "2026-10-05T15:17:52+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791215268.0,
+      "quote_time_utc": "2026-10-05T15:47:48+00:00",
+      "quote_age_seconds": 13,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +45,12 @@
     },
     {
       "symbol": "META",
-      "price": 745.6,
-      "change_percent": 2.4063,
+      "price": 745.15,
+      "change_percent": 2.3445,
       "previous_close": 728.08,
-      "quote_timestamp": 1791213473.0,
-      "quote_time_utc": "2026-10-05T15:17:53+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791215270.0,
+      "quote_time_utc": "2026-10-05T15:47:50+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -114,43 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a44c60e536498b6c27c7deb9d4e627015d773feb366ca3386aefa56cc030d705",
           "published_utc": "2026-10-05T13:28:50+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "SOFI",
-      "price": 16.1,
-      "change_percent": 2.0926,
-      "previous_close": 15.77,
-      "quote_timestamp": 1791213472.0,
-      "quote_time_utc": "2026-10-05T15:17:52+00:00",
-      "quote_age_seconds": 19,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Why SoFi Stock Dropped 12% in September",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=99c8f84997d8cec334e34c92e412edd19b4325eed6d84a77aec352f8f06fa4f6",
-          "published_utc": "2026-10-05T10:24:01+00:00"
-        },
-        {
-          "headline": "SOFI Stock Is Down More Than 40% In 2026, But This Analyst Sees Attractive Growth Opportunity In Loan Platform Business",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f74b007bd5e47255a49edb9310f7eba3a0369410affc7c93fdb5ae91a5e61183",
-          "published_utc": "2026-10-05T01:09:48+00:00"
-        },
-        {
-          "headline": "SoFi\u2019s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Investing In SoFi Technologies (SOFI)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1eed8d883aadce9d9a710e9a50a66d931429a9d8cf03f55a4745fcd50877271f",
-          "published_utc": "2026-10-04T02:08:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
