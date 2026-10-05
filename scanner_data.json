@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T22:14:26.786537+00:00",
+  "updated": "2026-10-05T22:43:12.892658+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 8065,
+      "quote_age_seconds": 9789,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 8065,
+      "quote_age_seconds": 9789,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Strategy (MSTR) Exceeds Market Returns: Some Facts to Consider",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=46121ca453524677321cbf6bc17b0f86b599c6130ea00c153d030b02097479b4",
+          "published_utc": "2026-10-05T20:50:04+00:00"
+        },
+        {
+          "headline": "Strategy (MSTR) Rallied 76%, but Jim Cramer Would Rather Own Bitcoin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9666aa2ea3549a60b4169b79856a7ba6b6fa61d33e8737493093e6b9b53eb7df",
+          "published_utc": "2026-10-05T20:17:14+00:00"
+        },
+        {
           "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=203b79e92b19e6959cafc41b2825576030f12a1165ece5fff3f2b8ed528169b2",
           "published_utc": "2026-10-05T19:42:40+00:00"
-        },
-        {
-          "headline": "OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37631e2d2b7c068be1530b46a20dc41aa0568f703ccca87cf0859f6c90de1d0d",
-          "published_utc": "2026-10-05T18:01:00+00:00"
-        },
-        {
-          "headline": "NYSE parent company's joint venture plans 24/7 tokenized stock trading, and it's a huge deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=024cc7fd88e0b9feb64b3ecdab7c0e6fedc483d1b2b08083cb52c51d48b838ff",
-          "published_utc": "2026-10-05T16:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 8065,
+      "quote_age_seconds": 9789,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Elon Musk Is Back Working With the U.S. Government. Why That Could Be Trouble for SpaceX's Stock",
+          "headline": "SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5413c99bf5481ed245a792f6add609d214165569d6c657e3fe6dbc3f284f43e9",
-          "published_utc": "2026-10-05T18:40:01+00:00"
+          "url": "https://finnhub.io/api/news?id=805ce9bb4226391a3512b96a45de01670b386160af8fb3ad5f9a32dbe46ad4ca",
+          "published_utc": "2026-10-05T21:26:03+00:00"
         },
         {
-          "headline": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=b7c18e4ce8373b2dcb8bf352e2ddf6e61d31d2e8247495f06d086b29877dfd12",
-          "published_utc": "2026-10-05T18:05:00+00:00"
+          "headline": "Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2c64a14c0e41f421fd4f7a4b4ae51527ec82124dcaaade89b0072a2daea6227",
+          "published_utc": "2026-10-05T21:11:00+00:00"
         },
         {
-          "headline": "Elon Musk regains trillionaire status as SpaceX stock surges",
+          "headline": "Tesla (TSLA) Laps the Stock Market: Here's Why",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=142b4b20ca96e36ce48aa2421f252eaaf7b851af790078ca1a115081bbc87f4b",
-          "published_utc": "2026-10-05T18:04:48+00:00"
+          "url": "https://finnhub.io/api/news?id=72277b20d9a73476b99133f27e0137b30c01508d84ced197b4580d560d9c6a41",
+          "published_utc": "2026-10-05T20:45:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 8065,
+      "quote_age_seconds": 9789,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
