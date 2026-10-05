@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T09:48:20.562488+00:00",
+  "updated": "2026-10-05T10:17:43.877752+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 222499,
+      "quote_age_seconds": 224263,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 222499,
+      "quote_age_seconds": 224263,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Tesla And 2 Other Founder Led Stocks To Own",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=35fb612e8a24b9289fa9247acb19bdf19acb0e7c15421891193711f10461a48e",
+          "published_utc": "2026-10-05T09:08:14+00:00"
+        },
+        {
+          "headline": "Nasdaq, S&P 500, Dow Futures Steady Ahead Of Fed Minutes This Week: TSLA, SPCX, CBRS, QCOM, PTC, IBRX Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e670ad8ab6c131188420750c923d4ce4b0446adbcf3c89b84d5a372cf22a8337",
+          "published_utc": "2026-10-05T08:52:40+00:00"
+        },
+        {
           "headline": "A Soft Jobs Report Takes the Heat Off Rates, and Nvidia Closes In on $6 Trillion",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=7d9e5e396c8898c7050f63983a8921f960929cb810ab5c0bf558e790bc1a21bc",
           "published_utc": "2026-10-05T07:27:48+00:00"
-        },
-        {
-          "headline": "Michael Saylor Proves Bitcoin Is Tame With a Chart Where His Own Stock Hits 94%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=400def4cca98b9c2396ecf07aa03edb797b61965236393b458568c4e8e0eb30f",
-          "published_utc": "2026-10-05T06:44:12+00:00"
-        },
-        {
-          "headline": "Why ordinary investors struggle to buy into the robotics boom",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b17b1fdbfdeb7e3be91804943ec3c0c272f7af2f45d08f85948aa99d4ed9b1a7",
-          "published_utc": "2026-10-05T06:15:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 222499,
+      "quote_age_seconds": 224263,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 222499,
+      "quote_age_seconds": 224263,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 222499,
+      "quote_age_seconds": 224263,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
