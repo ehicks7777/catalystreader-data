@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:15:39.871827+00:00",
+  "updated": "2026-10-05T01:45:17.829008+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 191738,
+      "quote_age_seconds": 193516,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 191738,
+      "quote_age_seconds": 193516,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c67344445a6083f4e9040af7549b7f688aa3d8e64d6d454a7977408ead3fbcde",
+          "published_utc": "2026-10-05T00:53:43+00:00"
+        },
+        {
+          "headline": "Tesla Is on Pace for Its First Annual Delivery Increase Since 2023. Is the Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3ebb1a5fb7b4a6cf3bc76f05bf4ebafd00085b6351bff946f1d4a40646a208d2",
+          "published_utc": "2026-10-05T00:34:02+00:00"
+        },
+        {
           "headline": "\u201cWithout AI and Robots, We\u2019re Totally Screwed,\u201d Elon Musk Warns on National Debt Crisis",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bf81b9de41b0814937899e29b78e515e4209b3007ea982bd5016d0336b5178fe",
           "published_utc": "2026-10-04T20:00:01+00:00"
-        },
-        {
-          "headline": "You Can Do Better Than Tesla. Buy Micron Instead.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b211853ddfa0784ecc01f3bf289b394761d9e97a915076ccc2548bf65b8c2228",
-          "published_utc": "2026-10-04T17:50:00+00:00"
-        },
-        {
-          "headline": "Tesla Delivered 22,141 More Vehicles Than It Built in Q3. Here\u2019s the Production Number That Decides What Comes Next",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=adc7baba8df5714e5bc48d63a225c9ad3b5b6296ee613194c02e81cc944af446",
-          "published_utc": "2026-10-04T15:48:41+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 191738,
+      "quote_age_seconds": 193516,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -107,12 +107,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a9ae2bd1c5cc3b0d82a510729a17ea483aeebd0d8e23aab58862beedd0c12235",
           "published_utc": "2026-10-04T09:53:50+00:00"
-        },
-        {
-          "headline": "Why Super Micro (SMCI) Stock Is Up Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=767ac63bc5c4038da0af4da95f8060ec80837ec2b9dbe0a8f2ec9b58b85758fa",
-          "published_utc": "2026-10-03T01:34:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +118,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 191738,
+      "quote_age_seconds": 193516,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +155,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 191738,
+      "quote_age_seconds": 193516,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
