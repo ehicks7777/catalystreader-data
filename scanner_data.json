@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:52:46.037370+00:00",
+  "updated": "2026-10-05T01:15:39.871827+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 190365,
+      "quote_age_seconds": 191738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 190365,
+      "quote_age_seconds": 191738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 190365,
+      "quote_age_seconds": 191738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Super Micro Computer (SMCI) Climbed, What Is Behind The Fresh Attention?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a187dbdf30bc5f5ca9a77d2e6c4516f24cecdb7a9626c81c45d2463ac49da9b9",
+          "published_utc": "2026-10-05T00:20:42+00:00"
+        },
         {
           "headline": "SMCI Stock Is Up 41% This Year. Hold or Take Profits?",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=767ac63bc5c4038da0af4da95f8060ec80837ec2b9dbe0a8f2ec9b58b85758fa",
           "published_utc": "2026-10-03T01:34:03+00:00"
-        },
-        {
-          "headline": "Why Is NetApp (NTAP) Stock Rocketing Higher Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=357556b04bff76b07004ce5154ffa5c92f2500c85c5ab7556e74f2037290c197",
-          "published_utc": "2026-10-03T01:18:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 190365,
+      "quote_age_seconds": 191738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 190365,
+      "quote_age_seconds": 191738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
