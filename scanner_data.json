@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:48:56.750895+00:00",
+  "updated": "2026-10-05T14:19:38.682463+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 189.17,
-      "change_percent": 3.3716,
+      "price": 190.46,
+      "change_percent": 4.0765,
       "previous_close": 183.0,
-      "quote_timestamp": 1791208116.0,
-      "quote_time_utc": "2026-10-05T13:48:36+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791209960.0,
+      "quote_time_utc": "2026-10-05T14:19:20+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "New Stablecoin Open USD (OUSD) Goes Live With Plans to Take on Circle and Tether. Here's What Crypto Investors Need to Know.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=30334cad5e4bb6fb82a93297ccef2a8ac4dbeaf7c8efa2c642ab7eca9c284f40",
+          "published_utc": "2026-10-05T13:42:00+00:00"
+        },
         {
           "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
           "source": "ChartMill",
@@ -32,12 +38,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
           "published_utc": "2026-10-05T12:06:21+00:00"
-        },
-        {
-          "headline": "Banks Sue Over Crypto Charters as Tom Lee Backs $10K ETH, Citi Eyes $150K Bitcoin",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8b1043374ccf8989bca9e271cc5b8aafa24c9e4c8a9e08b009c1198a775ecf7",
-          "published_utc": "2026-10-05T11:12:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 189.17,
-      "change_percent": 3.3716,
+      "price": 190.46,
+      "change_percent": 4.0765,
       "previous_close": 183.0,
-      "quote_timestamp": 1791208116.0,
-      "quote_time_utc": "2026-10-05T13:48:36+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791209960.0,
+      "quote_time_utc": "2026-10-05T14:19:20+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,6 +60,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "New Stablecoin Open USD (OUSD) Goes Live With Plans to Take on Circle and Tether. Here's What Crypto Investors Need to Know.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=30334cad5e4bb6fb82a93297ccef2a8ac4dbeaf7c8efa2c642ab7eca9c284f40",
+          "published_utc": "2026-10-05T13:42:00+00:00"
+        },
         {
           "headline": "Monday's pre-market session: top gainers and losers in the S&P500 index",
           "source": "ChartMill",
@@ -71,24 +77,18 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=ddb23fc84ceea8e4c55804189e31222a308df30b1c3372734315be7e44f207fe",
           "published_utc": "2026-10-05T12:06:21+00:00"
-        },
-        {
-          "headline": "Banks Sue Over Crypto Charters as Tom Lee Backs $10K ETH, Citi Eyes $150K Bitcoin",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c8b1043374ccf8989bca9e271cc5b8aafa24c9e4c8a9e08b009c1198a775ecf7",
-          "published_utc": "2026-10-05T11:12:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSTR",
-      "price": 163.92,
-      "change_percent": 2.4436,
+      "price": 164.74,
+      "change_percent": 2.9561,
       "previous_close": 160.01,
-      "quote_timestamp": 1791208116.0,
-      "quote_time_utc": "2026-10-05T13:48:36+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791209960.0,
+      "quote_time_utc": "2026-10-05T14:19:20+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -119,13 +119,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MSFT",
-      "price": 529.5,
-      "change_percent": 2.3129,
-      "previous_close": 517.53,
-      "quote_timestamp": 1791208116.0,
-      "quote_time_utc": "2026-10-05T13:48:36+00:00",
-      "quote_age_seconds": 19,
+      "symbol": "SOFI",
+      "price": 16.11,
+      "change_percent": 2.156,
+      "previous_close": 15.77,
+      "quote_timestamp": 1791209959.0,
+      "quote_time_utc": "2026-10-05T14:19:19+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,22 +135,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Investment Wisdom Always Says Buy Assets, So Don\u2019t Ignore That Wisdom As It Relates To This Hyperscaler",
+          "headline": "Why SoFi Stock Dropped 12% in September",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=78200ab68f9046030d509d2eef4ae192ac62c691e73743fe8290b9d5c0803ed5",
-          "published_utc": "2026-10-05T11:45:18+00:00"
+          "url": "https://finnhub.io/api/news?id=99c8f84997d8cec334e34c92e412edd19b4325eed6d84a77aec352f8f06fa4f6",
+          "published_utc": "2026-10-05T10:24:01+00:00"
         },
         {
-          "headline": "49% Gains Haven\u2019t Stopped Wall Street From Calling Energy Stocks \u2018Behind\u2019",
+          "headline": "SOFI Stock Is Down More Than 40% In 2026, But This Analyst Sees Attractive Growth Opportunity In Loan Platform Business",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ce78c0d3fbe1934413c0c23a3749aebe4d570f69faec0c78ad681d7e92a5caa",
-          "published_utc": "2026-10-05T11:30:32+00:00"
+          "url": "https://finnhub.io/api/news?id=f74b007bd5e47255a49edb9310f7eba3a0369410affc7c93fdb5ae91a5e61183",
+          "published_utc": "2026-10-05T01:09:48+00:00"
         },
         {
-          "headline": "Global Virtual Machine Market Report 2026: Trends and Forecast to 2030 | Capitalize on 15.5% CAGR as Microsoft, Amazon, Google, Alibaba, and Dell Accelerate AI and Hybrid Cloud",
+          "headline": "SoFi\u2019s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Investing In SoFi Technologies (SOFI)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f9eefc76b99c9e34195c6c9b5d54c08bff955aaba6623cd535288ca7d01335c2",
-          "published_utc": "2026-10-05T10:16:00+00:00"
+          "url": "https://finnhub.io/api/news?id=1eed8d883aadce9d9a710e9a50a66d931429a9d8cf03f55a4745fcd50877271f",
+          "published_utc": "2026-10-04T02:08:50+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "TSLA",
+      "price": 378.15,
+      "change_percent": 2.04,
+      "previous_close": 370.59,
+      "quote_timestamp": 1791209960.0,
+      "quote_time_utc": "2026-10-05T14:19:20+00:00",
+      "quote_age_seconds": 17,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Elon Musk Claims US Will \u2018Go Bankrupt\u2019 Without AI and Robotics Boosting Productivity",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=96af709401aab8cec7e2d1780601a1c0fb146ce3ea685dcbff1631d2f8c67654",
+          "published_utc": "2026-10-05T13:29:33+00:00"
+        },
+        {
+          "headline": "If You Invest $10,000 in Tesla Today, Here\u2019s What It Could Be Worth by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3f7db160886333c13712606a063ec970730052f251432037185dd8471825dbd4",
+          "published_utc": "2026-10-05T13:00:43+00:00"
+        },
+        {
+          "headline": "Who\u2019s Worse At AI Monetization, Tesla or Apple?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2f3b5251e7ab4c60cd76cf1916fc680a46b20765b978e2a0ded1f2fa03041eba",
+          "published_utc": "2026-10-05T12:45:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
