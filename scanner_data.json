@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T05:48:58.224792+00:00",
+  "updated": "2026-10-05T06:23:55.942643+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 70.46,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 208137,
+      "quote_age_seconds": 210234,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 354.11,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 208137,
+      "quote_age_seconds": 210234,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Tesla Stock Rises Overnight After Musk Says \u2018Something May Come Of\u2019 TSMC Talks On Terafab",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e2199c87a92764ee08bb0f864ab7761f9634a7bf93e56c7aa962faaa2c58566b",
+          "published_utc": "2026-10-05T03:55:35+00:00"
+        },
         {
           "headline": "Top 3 Founder Run Stocks To Watch In October 2026",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c67344445a6083f4e9040af7549b7f688aa3d8e64d6d454a7977408ead3fbcde",
           "published_utc": "2026-10-05T00:53:43+00:00"
-        },
-        {
-          "headline": "Tesla Is on Pace for Its First Annual Delivery Increase Since 2023. Is the Stock a Buy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3ebb1a5fb7b4a6cf3bc76f05bf4ebafd00085b6351bff946f1d4a40646a208d2",
-          "published_utc": "2026-10-05T00:34:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 41.92,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 208137,
+      "quote_age_seconds": 210234,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 615.73,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 208137,
+      "quote_age_seconds": 210234,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 57.04,
       "quote_timestamp": 1790971200.0,
       "quote_time_utc": "2026-10-02T20:00:00+00:00",
-      "quote_age_seconds": 208137,
+      "quote_age_seconds": 210234,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
