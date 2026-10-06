@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T22:14:48.020492+00:00",
+  "updated": "2026-10-06T22:43:39.547003+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 8087,
+      "quote_age_seconds": 9818,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 8087,
+      "quote_age_seconds": 9818,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 8087,
+      "quote_age_seconds": 9818,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rocket Lab, MYR Group, Ameresco, Comfort Systems, and Powell Shares Skyrocket, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6b760525abb6b99f1ca4bb2de2eeb1e40afe30f5b8f91253ec222d3557ea1462",
+          "published_utc": "2026-10-06T20:56:34+00:00"
+        },
         {
           "headline": "Rocket Lab Just Gained 17% in a Month: Is It Too Late to Buy RKLB Stock Now?",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=03e2817be320773ed173d2001c4b9abf13c89589c6f8d2389f983630dc198a72",
           "published_utc": "2026-10-06T14:57:52+00:00"
-        },
-        {
-          "headline": "SpaceX Gains 2% as Morgan Stanley Sees a Closing Window; AST SpaceMobile Surges 8%, Rocket Lab Rises 5%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=95932a4e727a2d75334bc9682481ebb29041a96cfb69abc53c5bc4b3fd1c4a37",
-          "published_utc": "2026-10-06T14:53:41+00:00"
         }
       ],
       "news_status": "Recent headlines found"
