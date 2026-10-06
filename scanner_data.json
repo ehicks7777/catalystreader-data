@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:16:48.691510+00:00",
+  "updated": "2026-10-06T16:47:42.172591+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 61.84,
-      "change_percent": 5.8179,
+      "price": 61.96,
+      "change_percent": 6.0233,
       "previous_close": 58.44,
-      "quote_timestamp": 1791303381.0,
-      "quote_time_utc": "2026-10-06T16:16:21+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791305243.0,
+      "quote_time_utc": "2026-10-06T16:47:23+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 655.89,
-      "change_percent": 3.8211,
+      "price": 656.64,
+      "change_percent": 3.9398,
       "previous_close": 631.75,
-      "quote_timestamp": 1791303381.0,
-      "quote_time_utc": "2026-10-06T16:16:21+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791305246.0,
+      "quote_time_utc": "2026-10-06T16:47:26+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 61.84,
-      "change_percent": 5.8179,
+      "price": 61.96,
+      "change_percent": 6.0233,
       "previous_close": 58.44,
-      "quote_timestamp": 1791303381.0,
-      "quote_time_utc": "2026-10-06T16:16:21+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791305243.0,
+      "quote_time_utc": "2026-10-06T16:47:23+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +120,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 655.89,
-      "change_percent": 3.8211,
+      "price": 656.64,
+      "change_percent": 3.9398,
       "previous_close": 631.75,
-      "quote_timestamp": 1791303381.0,
-      "quote_time_utc": "2026-10-06T16:16:21+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791305246.0,
+      "quote_time_utc": "2026-10-06T16:47:26+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -151,43 +151,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4468cf47251281c961494b5e6447fd4cae7259bfda0ef351be946efdc54eb7fb",
           "published_utc": "2026-10-06T15:31:43+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 74.49,
-      "change_percent": 2.0131,
-      "previous_close": 73.02,
-      "quote_timestamp": 1791303379.0,
-      "quote_time_utc": "2026-10-06T16:16:19+00:00",
-      "quote_age_seconds": 28,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can Rocket Lab Capitalize on Falcon 9\u2019s Exit Before Neutron Slips Again",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=680d3b0e71464fa1c166e47f6d9eac1ea56d09b6287cb535e351a91e75a2d0fc",
-          "published_utc": "2026-10-06T11:41:41+00:00"
-        },
-        {
-          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
-          "published_utc": "2026-10-06T09:04:08+00:00"
-        },
-        {
-          "headline": "'NASA Eyes Bulk Rocket Buy for Moon Base Amid SpaceX Phaseout' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7c2a570d02279b9b8cf3b0edd0c19a91732811f6d5f65a02b2b686053799a3c8",
-          "published_utc": "2026-10-06T08:24:47+00:00"
         }
       ],
       "news_status": "Recent headlines found"
