@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:46:52.989141+00:00",
+  "updated": "2026-10-06T14:17:10.538416+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.61,
-      "change_percent": 7.1355,
+      "price": 63.42,
+      "change_percent": 8.5216,
       "previous_close": 58.44,
-      "quote_timestamp": 1791294401.0,
-      "quote_time_utc": "2026-10-06T13:46:41+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791296215.0,
+      "quote_time_utc": "2026-10-06T14:16:55+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,34 +22,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Apogee Enterprises Posts Upbeat Q2 Earnings, Joins Constellation Energy, Freshworks  And Other Big Stocks Moving Higher On Tuesday",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=775bb20d6d282e22da530780cee8ab498c2fa803b18f91f39b49bfc01878a376",
+          "published_utc": "2026-10-06T09:59:37+00:00"
+        },
+        {
+          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
+          "published_utc": "2026-10-06T09:04:08+00:00"
+        },
+        {
           "headline": "ASTS Stock Edges Up Overnight: US-Japan Tech Statement Backs Rakuten Tie-Up, But Launch Questions Linger",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2d8a0ad90be8791841bedc6d5b414758d2e7a3b06e7341fa5c64a3e5e550ce44",
           "published_utc": "2026-10-06T04:49:00+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Sits 56% Below Its 2026 High After B. Riley\u2019s Cut. Here\u2019s Where the Stock Could Go by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=86d49e76b05099c8f1cba6867a0d57f8fc0f49a9693df9d9a98283c44de3eff5",
-          "published_utc": "2026-10-05T15:32:02+00:00"
-        },
-        {
-          "headline": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reiterates $300 Target; Rocket Lab Slips, AST SpaceMobile Nudges Higher",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a66c39936b1b169087a4c75442d0e2f9bd261d0f4972e3022a435c569eef358",
-          "published_utc": "2026-10-05T14:46:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 76.14,
-      "change_percent": 4.2728,
+      "price": 76.6,
+      "change_percent": 4.9028,
       "previous_close": 73.02,
-      "quote_timestamp": 1791294401.0,
-      "quote_time_utc": "2026-10-06T13:46:41+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791296215.0,
+      "quote_time_utc": "2026-10-06T14:16:55+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -65,28 +65,28 @@
           "published_utc": "2026-10-06T11:41:41+00:00"
         },
         {
+          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
+          "published_utc": "2026-10-06T09:04:08+00:00"
+        },
+        {
           "headline": "RKLB Stock Rises Overnight: Cathie Wood\u2019s ARK Sees \u2018Enormous Opportunity\u2019 As SpaceX Eyes Falcon 9 Retirement",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=93a244355c341d1e8af1bd9a5406b0544379dbe16d99d6303e457af88593905c",
           "published_utc": "2026-10-06T06:35:08+00:00"
-        },
-        {
-          "headline": "Rocket Lab (RKLB) Could Be 14% Undervalued Following Its 20 Launch Synspective Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6d6f396f5039d12a9b23794fb1d3dbe97e4c866e234a07d92425c218b869f6dc",
-          "published_utc": "2026-10-06T02:09:07+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "IONQ",
-      "price": 44.78,
-      "change_percent": 4.2122,
+      "price": 44.35,
+      "change_percent": 3.2115,
       "previous_close": 42.97,
-      "quote_timestamp": 1791294400.0,
-      "quote_time_utc": "2026-10-06T13:46:40+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791296213.0,
+      "quote_time_utc": "2026-10-06T14:16:53+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -112,31 +112,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6ef9eac4f5c9433a10265aaf60431f3056aec7a2de6da766740d5a1000002389",
           "published_utc": "2026-10-05T19:39:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 15.71,
-      "change_percent": 3.6964,
-      "previous_close": 15.15,
-      "quote_timestamp": 1791294399.0,
-      "quote_time_utc": "2026-10-06T13:46:39+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rigetti Computing vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5a745a4fb53ff2ed3da9b1e8481caae36a99c1db5e72868297ae306d4d1794d",
-          "published_utc": "2026-10-05T13:55:37+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -145,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.61,
-      "change_percent": 7.1355,
+      "price": 63.42,
+      "change_percent": 8.5216,
       "previous_close": 58.44,
-      "quote_timestamp": 1791294401.0,
-      "quote_time_utc": "2026-10-06T13:46:41+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791296215.0,
+      "quote_time_utc": "2026-10-06T14:16:55+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -160,34 +135,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Apogee Enterprises Posts Upbeat Q2 Earnings, Joins Constellation Energy, Freshworks  And Other Big Stocks Moving Higher On Tuesday",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=775bb20d6d282e22da530780cee8ab498c2fa803b18f91f39b49bfc01878a376",
+          "published_utc": "2026-10-06T09:59:37+00:00"
+        },
+        {
+          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
+          "published_utc": "2026-10-06T09:04:08+00:00"
+        },
+        {
           "headline": "ASTS Stock Edges Up Overnight: US-Japan Tech Statement Backs Rakuten Tie-Up, But Launch Questions Linger",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2d8a0ad90be8791841bedc6d5b414758d2e7a3b06e7341fa5c64a3e5e550ce44",
           "published_utc": "2026-10-06T04:49:00+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Sits 56% Below Its 2026 High After B. Riley\u2019s Cut. Here\u2019s Where the Stock Could Go by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=86d49e76b05099c8f1cba6867a0d57f8fc0f49a9693df9d9a98283c44de3eff5",
-          "published_utc": "2026-10-05T15:32:02+00:00"
-        },
-        {
-          "headline": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reiterates $300 Target; Rocket Lab Slips, AST SpaceMobile Nudges Higher",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a66c39936b1b169087a4c75442d0e2f9bd261d0f4972e3022a435c569eef358",
-          "published_utc": "2026-10-05T14:46:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 76.14,
-      "change_percent": 4.2728,
+      "price": 76.6,
+      "change_percent": 4.9028,
       "previous_close": 73.02,
-      "quote_timestamp": 1791294401.0,
-      "quote_time_utc": "2026-10-06T13:46:41+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791296215.0,
+      "quote_time_utc": "2026-10-06T14:16:55+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -203,28 +178,28 @@
           "published_utc": "2026-10-06T11:41:41+00:00"
         },
         {
+          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
+          "published_utc": "2026-10-06T09:04:08+00:00"
+        },
+        {
           "headline": "RKLB Stock Rises Overnight: Cathie Wood\u2019s ARK Sees \u2018Enormous Opportunity\u2019 As SpaceX Eyes Falcon 9 Retirement",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=93a244355c341d1e8af1bd9a5406b0544379dbe16d99d6303e457af88593905c",
           "published_utc": "2026-10-06T06:35:08+00:00"
-        },
-        {
-          "headline": "Rocket Lab (RKLB) Could Be 14% Undervalued Following Its 20 Launch Synspective Deal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6d6f396f5039d12a9b23794fb1d3dbe97e4c866e234a07d92425c218b869f6dc",
-          "published_utc": "2026-10-06T02:09:07+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "IONQ",
-      "price": 44.78,
-      "change_percent": 4.2122,
+      "price": 44.35,
+      "change_percent": 3.2115,
       "previous_close": 42.97,
-      "quote_timestamp": 1791294400.0,
-      "quote_time_utc": "2026-10-06T13:46:40+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791296213.0,
+      "quote_time_utc": "2026-10-06T14:16:53+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -255,38 +230,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "RGTI",
-      "price": 15.71,
-      "change_percent": 3.6964,
-      "previous_close": 15.15,
-      "quote_timestamp": 1791294399.0,
-      "quote_time_utc": "2026-10-06T13:46:39+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rigetti Computing vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f5a745a4fb53ff2ed3da9b1e8481caae36a99c1db5e72868297ae306d4d1794d",
-          "published_utc": "2026-10-05T13:55:37+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "MSTR",
-      "price": 167.81,
-      "change_percent": 2.0556,
+      "price": 168.19,
+      "change_percent": 2.2867,
       "previous_close": 164.43,
-      "quote_timestamp": 1791294400.0,
-      "quote_time_utc": "2026-10-06T13:46:40+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791296214.0,
+      "quote_time_utc": "2026-10-06T14:16:54+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -302,16 +252,127 @@
           "published_utc": "2026-10-06T10:55:23+00:00"
         },
         {
+          "headline": "TD Cowen: Bitcoin to Hit $132,750 by 2028, Strategy, Strive Could Outperform",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=270ac57c15dd4a7a25070aee7876f1c90f882a3ef954bafd2b963e24c90b1995",
+          "published_utc": "2026-10-06T09:12:02+00:00"
+        },
+        {
           "headline": "Bitcoin Price Could Reverse Following Tech Stocks, Peter Schiff Says",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=810d605ac352348b16c773dfa137d1f9b951900aa9dfdab79868e7799bcd7d18",
           "published_utc": "2026-10-06T08:01:08+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SMCI",
+      "price": 44.16,
+      "change_percent": 2.2459,
+      "previous_close": 43.19,
+      "quote_timestamp": 1791296214.0,
+      "quote_time_utc": "2026-10-06T14:16:54+00:00",
+      "quote_age_seconds": 15,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Six Companies Just Grew 100% Or More \u2014 Four May Surprise You",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=479cc4a7369ce9956508f30c866a89ace3775f9e7b2da3eab49cedc2bc9aec8f",
+          "published_utc": "2026-10-06T11:15:31+00:00"
         },
         {
-          "headline": "Peter Schiff Warns Bitcoin Vulnerable to Tech Stock Pullback",
+          "headline": "Is Supermicro\u2019s NetApp AI Factory Alliance Quietly Redefining SMCI\u2019s Full-Stack Data Center Ambitions?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2f449c6c2f95b27275edeac2d417dfe7f48fe8a7129daf70e27116f96ce3b7ea",
-          "published_utc": "2026-10-05T23:38:00+00:00"
+          "url": "https://finnhub.io/api/news?id=2232fcb3e51ab19de1ba34b0ff9b0024b55df49b94dab2b8eb528fc428ad0f74",
+          "published_utc": "2026-10-06T10:07:02+00:00"
+        },
+        {
+          "headline": "What Needs To Be True To Buy Super Micro Computer Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=890889f648c4e318dde2864d7d2740f08cb81f8c30bf76f9f04b24d713b490ca",
+          "published_utc": "2026-10-05T13:21:49+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "PLTR",
+      "price": 193.45,
+      "change_percent": 2.1383,
+      "previous_close": 189.4,
+      "quote_timestamp": 1791296214.0,
+      "quote_time_utc": "2026-10-06T14:16:54+00:00",
+      "quote_age_seconds": 15,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Palantir Just Had Its Best Quarter in a Year, Up 60%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2e417989f8912cff39721543994a4e3a6dc7e8f27d658513334f817175c290fc",
+          "published_utc": "2026-10-06T12:21:41+00:00"
+        },
+        {
+          "headline": "Surf Air Mobility Signs OperatorOS Contract with Clipper Aviation",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8297aae46379a99dc55f44088c85cca2ceec78adf36258bc34cfa99834a05bf5",
+          "published_utc": "2026-10-06T10:30:00+00:00"
+        },
+        {
+          "headline": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a46b94a836b0723950efeed8a6a69eca0b6c93fe192c10cd4df3b4f033aee2e5",
+          "published_utc": "2026-10-06T09:26:01+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMD",
+      "price": 644.54,
+      "change_percent": 2.0245,
+      "previous_close": 631.75,
+      "quote_timestamp": 1791296215.0,
+      "quote_time_utc": "2026-10-06T14:16:55+00:00",
+      "quote_age_seconds": 14,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Rises As Oil, Yields Fall; AMD, Nvidia, Tesla Shares Rally (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17e181e56894175d3d48e8234373dbdf984acc756da331e92076e6fc53f1d371",
+          "published_utc": "2026-10-06T13:40:44+00:00"
+        },
+        {
+          "headline": "Lisa Su Says AI Demand Will Stay \u2018Very, Very High\u2019 for Years as AMD Races to Add Supply",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cac0f65dbfc159b0714adc0c403527d74a4d55a70d487f42c12b66ea4217e584",
+          "published_utc": "2026-10-06T13:39:41+00:00"
+        },
+        {
+          "headline": "What Will Decide Broadcom Stock Performance Over The Next Six Months?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d83225fbcdf76f5ad3d95e1dc63d6311f38fb737a619004ae49fb0ae8ad352b",
+          "published_utc": "2026-10-06T13:35:41+00:00"
         }
       ],
       "news_status": "Recent headlines found"
