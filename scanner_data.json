@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:43:47.233079+00:00",
+  "updated": "2026-10-06T22:14:48.020492+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 6226,
+      "quote_age_seconds": 8087,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 6226,
+      "quote_age_seconds": 8087,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?",
+          "headline": "Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ac6bfc335dfc3d4897ae8bd77e8ebfe7355b99e732688e3608ac1b0de4e44f64",
-          "published_utc": "2026-10-06T19:20:01+00:00"
+          "url": "https://finnhub.io/api/news?id=27aa8f23f72f7f3415ccb867b175ffb9c55a9a809eb258461b6281e54862d14b",
+          "published_utc": "2026-10-06T21:53:05+00:00"
         },
         {
-          "headline": "Only Four Trillion-Dollar Stocks Are Beating the S&P 500. What\u2019s Next for the Megacaps?",
+          "headline": "Why Advanced Micro Devices (AMD) Outpaced the Stock Market Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8080aa9001b82e25de31eee990143329f2d06f17545d367ecf2dcb1386657f15",
-          "published_utc": "2026-10-06T18:22:00+00:00"
+          "url": "https://finnhub.io/api/news?id=631b4cc92b37b9c5deb83e34f7c30380ec7793055f31c869e92ba21496ff66c8",
+          "published_utc": "2026-10-06T20:45:03+00:00"
         },
         {
-          "headline": "Spotting Winners: AMD (NASDAQ:AMD) And Processors and Graphics Chips Stocks In Q2",
+          "headline": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b935b1e7913f8b31ba1f3813006d8a41e6b30f3effa6fad3b254067a3ca07cbc",
-          "published_utc": "2026-10-06T18:08:34+00:00"
+          "url": "https://finnhub.io/api/news?id=7a571eae5d266955d8e0c4200205760b1c8beecf50044cd2cf7e37d41a2113bb",
+          "published_utc": "2026-10-06T20:45:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 6226,
+      "quote_age_seconds": 8087,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
