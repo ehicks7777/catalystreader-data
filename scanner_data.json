@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T11:45:38.140294+00:00",
+  "updated": "2026-10-06T12:18:46.434868+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 56736,
+      "quote_age_seconds": 58725,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 56736,
+      "quote_age_seconds": 58725,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 56736,
+      "quote_age_seconds": 58725,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tesla Just Delivered Excellent News, but Is the Stock a Buy?",
+          "headline": "Energy Transition Today - Green Rain Energy Expands EV Charging at Key US Locations",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af1b729ced158e0a1784d778cdb932b2a0e84a80179ba1266f8945e34d20fd01",
-          "published_utc": "2026-10-06T08:54:00+00:00"
+          "url": "https://finnhub.io/api/news?id=2e0892b70d4c486ad860fd2c1a31f6ab9ed8a83e3459cb574982a1bd72c58ae5",
+          "published_utc": "2026-10-06T11:37:07+00:00"
         },
         {
-          "headline": "2 Cash-Heavy Stocks Worth Your Attention and 1 Facing Challenges",
+          "headline": "Stocks Are Ignoring the Bond Market Warning at Their Peril",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f06ceb891ae31ff616c248ac0fd8bb8abc3dfa89e8fc79240093ae119d906ce",
-          "published_utc": "2026-10-06T08:32:34+00:00"
+          "url": "https://finnhub.io/api/news?id=9c2e209e940c4df5624edcc8c6ed8458864913f77b09b2ac73a990cfd0adde5d",
+          "published_utc": "2026-10-06T11:36:00+00:00"
         },
         {
-          "headline": "Elon Musk's Trump Admin 'Return' Puts Tesla, SpaceX in Focus: Analyst Says TSLA Faces 'Key Test' \u2014 Prediction Market Weighs in",
+          "headline": "As Tesla Deliveries Rebound, Is It a Better Investment Than SpaceX Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cffef0e77e18bd35181d69086ed3a5c85c9e0d6e173535a2fa197921a5ae4406",
-          "published_utc": "2026-10-06T07:33:38+00:00"
+          "url": "https://finnhub.io/api/news?id=409edb3a8b9506ebb898a7905a41a25ec0ce50a6642c46f9620946eaa414f9cd",
+          "published_utc": "2026-10-06T10:35:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 56736,
+      "quote_age_seconds": 58725,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Should You Invest $1,000 in Costco Stock in October?",
+          "headline": "SpaceX Just Reached Orbit With Starship. Here's What a $1,000 Investment Could Be Worth by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=71f4219f6514816d729ec9cec788459f4e29c5e9fe8902a76dd5a6c8647fe27c",
-          "published_utc": "2026-10-06T09:50:00+00:00"
+          "url": "https://finnhub.io/api/news?id=a1cf0ec5b1efceaa9ead6e0e769f41e12635bdb7cc6d82c9bbc6e71253820ee7",
+          "published_utc": "2026-10-06T11:51:01+00:00"
         },
         {
-          "headline": "Costco Is Down 10% in 6 Months While the S&P 500 Is Up 17%. Is Costco Too Cheap to Pass Up Under $900 a Share?",
+          "headline": "I Think BND Is the Best Bond ETF for Most Investors: Here's Why I'm Buying More in 2026.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7464d85a3aeb06f37f15440c23ae3ea16c21afc0c7b52d2a9a165e4bd4f6de97",
-          "published_utc": "2026-10-06T09:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=272f6dbeacd8e9dde0a984685a50248573f876f7dbbae8870f608d11087cbfa3",
+          "published_utc": "2026-10-06T11:35:00+00:00"
         },
         {
-          "headline": "Warren Buffett Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000",
+          "headline": "AMD hits $1 trillion market cap as AI agents boost CPU demand",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a21ca07006deca646a65faa8721c1a0f733923d1a8d8d63d5850a37dc88e1e15",
-          "published_utc": "2026-10-06T09:32:01+00:00"
+          "url": "https://finnhub.io/api/news?id=33ea0cd69e15be2cece8ba779e15011a1dcd5693b5f2221bddf03f264e7ec203",
+          "published_utc": "2026-10-06T11:31:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
