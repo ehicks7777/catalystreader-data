@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:13:57.376055+00:00",
+  "updated": "2026-10-06T17:45:20.450409+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.32,
-      "change_percent": 6.6393,
+      "price": 62.99,
+      "change_percent": 7.7858,
       "previous_close": 58.44,
-      "quote_timestamp": 1791306805.0,
-      "quote_time_utc": "2026-10-06T17:13:25+00:00",
-      "quote_age_seconds": 31,
+      "quote_timestamp": 1791308704.0,
+      "quote_time_utc": "2026-10-06T17:45:04+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,34 +22,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AST SpaceMobile: The Bull Case Just Got Stronger",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8e9efc94ba046e5c5b3af946b39044f7d7a3b71dfc70fc9add668e5e5c79c6c5",
+          "published_utc": "2026-10-06T13:03:20+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile: Cheaper And Better Than SpaceX (Rating Upgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c2038641f218599d785027200a92a6f29d968b9d06d9db5879ffabea4e7798be",
+          "published_utc": "2026-10-06T12:59:26+00:00"
+        },
+        {
           "headline": "Apogee Enterprises Posts Upbeat Q2 Earnings, Joins Constellation Energy, Freshworks  And Other Big Stocks Moving Higher On Tuesday",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=775bb20d6d282e22da530780cee8ab498c2fa803b18f91f39b49bfc01878a376",
           "published_utc": "2026-10-06T09:59:37+00:00"
-        },
-        {
-          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
-          "published_utc": "2026-10-06T09:04:08+00:00"
-        },
-        {
-          "headline": "Why Is AST SpaceMobile Stock Surging on Tuesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=631e85443692a2580e843deab4493cf6843da832aa590aecb45876acfee39cac",
-          "published_utc": "2026-10-06T08:24:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "AMD",
-      "price": 654.01,
-      "change_percent": 3.5235,
+      "price": 654.89,
+      "change_percent": 3.6628,
       "previous_close": 631.75,
-      "quote_timestamp": 1791306808.0,
-      "quote_time_utc": "2026-10-06T17:13:28+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1791308703.0,
+      "quote_time_utc": "2026-10-06T17:45:03+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.32,
-      "change_percent": 6.6393,
+      "price": 62.99,
+      "change_percent": 7.7858,
       "previous_close": 58.44,
-      "quote_timestamp": 1791306805.0,
-      "quote_time_utc": "2026-10-06T17:13:25+00:00",
-      "quote_age_seconds": 31,
+      "quote_timestamp": 1791308704.0,
+      "quote_time_utc": "2026-10-06T17:45:04+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,34 +98,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AST SpaceMobile: The Bull Case Just Got Stronger",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=8e9efc94ba046e5c5b3af946b39044f7d7a3b71dfc70fc9add668e5e5c79c6c5",
+          "published_utc": "2026-10-06T13:03:20+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile: Cheaper And Better Than SpaceX (Rating Upgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c2038641f218599d785027200a92a6f29d968b9d06d9db5879ffabea4e7798be",
+          "published_utc": "2026-10-06T12:59:26+00:00"
+        },
+        {
           "headline": "Apogee Enterprises Posts Upbeat Q2 Earnings, Joins Constellation Energy, Freshworks  And Other Big Stocks Moving Higher On Tuesday",
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=775bb20d6d282e22da530780cee8ab498c2fa803b18f91f39b49bfc01878a376",
           "published_utc": "2026-10-06T09:59:37+00:00"
-        },
-        {
-          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
-          "published_utc": "2026-10-06T09:04:08+00:00"
-        },
-        {
-          "headline": "Why Is AST SpaceMobile Stock Surging on Tuesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=631e85443692a2580e843deab4493cf6843da832aa590aecb45876acfee39cac",
-          "published_utc": "2026-10-06T08:24:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "AMD",
-      "price": 654.01,
-      "change_percent": 3.5235,
+      "price": 654.89,
+      "change_percent": 3.6628,
       "previous_close": 631.75,
-      "quote_timestamp": 1791306808.0,
-      "quote_time_utc": "2026-10-06T17:13:28+00:00",
-      "quote_age_seconds": 28,
+      "quote_timestamp": 1791308703.0,
+      "quote_time_utc": "2026-10-06T17:45:03+00:00",
+      "quote_age_seconds": 16,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -151,6 +151,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4468cf47251281c961494b5e6447fd4cae7259bfda0ef351be946efdc54eb7fb",
           "published_utc": "2026-10-06T15:31:43+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 74.71,
+      "change_percent": 2.3144,
+      "previous_close": 73.02,
+      "quote_timestamp": 1791308703.0,
+      "quote_time_utc": "2026-10-06T17:45:03+00:00",
+      "quote_age_seconds": 16,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Stock Pops Tuesday: What's Going On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=03e2817be320773ed173d2001c4b9abf13c89589c6f8d2389f983630dc198a72",
+          "published_utc": "2026-10-06T14:57:52+00:00"
+        },
+        {
+          "headline": "SpaceX Gains 2% as Morgan Stanley Sees a Closing Window; AST SpaceMobile Surges 8%, Rocket Lab Rises 5%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=95932a4e727a2d75334bc9682481ebb29041a96cfb69abc53c5bc4b3fd1c4a37",
+          "published_utc": "2026-10-06T14:53:41+00:00"
+        },
+        {
+          "headline": "Rocket Lab Gains 13.6% in a Month: Should Investors Buy the Stock Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d0f3f0f0dd063ad1bb3f560a31b26b0cb099acb13d8f830d1d410629dc31944a",
+          "published_utc": "2026-10-06T13:39:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
