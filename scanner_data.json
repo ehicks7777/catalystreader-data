@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:45:58.650528+00:00",
+  "updated": "2026-10-06T16:16:48.691510+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.41,
-      "change_percent": 6.7933,
+      "price": 61.84,
+      "change_percent": 5.8179,
       "previous_close": 58.44,
-      "quote_timestamp": 1791301539.0,
-      "quote_time_utc": "2026-10-06T15:45:39+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791303381.0,
+      "quote_time_utc": "2026-10-06T16:16:21+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 656.23,
-      "change_percent": 3.875,
+      "price": 655.89,
+      "change_percent": 3.8211,
       "previous_close": 631.75,
-      "quote_timestamp": 1791301544.0,
-      "quote_time_utc": "2026-10-06T15:45:44+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1791303381.0,
+      "quote_time_utc": "2026-10-06T16:16:21+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,59 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today: Dow Rises As Oil, Yields Fall; AMD, Nvidia, Tesla Shares Rally (Live Coverage)",
+          "headline": "Nvidia  Is Now Worth More Than META , AMZN  and AMD \u2014 Combined!",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17e181e56894175d3d48e8234373dbdf984acc756da331e92076e6fc53f1d371",
-          "published_utc": "2026-10-06T13:40:44+00:00"
+          "url": "https://finnhub.io/api/news?id=b9529dca6e4824815ee500cd6a6583b7f277837e4544253a394e20d59645c87b",
+          "published_utc": "2026-10-06T15:51:19+00:00"
         },
         {
-          "headline": "Lisa Su Says AI Demand Will Stay \u2018Very, Very High\u2019 for Years as AMD Races to Add Supply",
+          "headline": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cac0f65dbfc159b0714adc0c403527d74a4d55a70d487f42c12b66ea4217e584",
-          "published_utc": "2026-10-06T13:39:41+00:00"
+          "url": "https://finnhub.io/api/news?id=3f33a6af72c9567f9e0743bc2124c14d5b16042fb058ea6502e53ccb09e538fc",
+          "published_utc": "2026-10-06T15:35:00+00:00"
         },
         {
-          "headline": "What Will Decide Broadcom Stock Performance Over The Next Six Months?",
+          "headline": "BNP Paribas Just Hiked AMD\u2019s Price Target 60% to $960",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d83225fbcdf76f5ad3d95e1dc63d6311f38fb737a619004ae49fb0ae8ad352b",
-          "published_utc": "2026-10-06T13:35:41+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 75.26,
-      "change_percent": 3.0677,
-      "previous_close": 73.02,
-      "quote_timestamp": 1791301542.0,
-      "quote_time_utc": "2026-10-06T15:45:42+00:00",
-      "quote_age_seconds": 15,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can Rocket Lab Capitalize on Falcon 9\u2019s Exit Before Neutron Slips Again",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=680d3b0e71464fa1c166e47f6d9eac1ea56d09b6287cb535e351a91e75a2d0fc",
-          "published_utc": "2026-10-06T11:41:41+00:00"
-        },
-        {
-          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
-          "published_utc": "2026-10-06T09:04:08+00:00"
-        },
-        {
-          "headline": "'NASA Eyes Bulk Rocket Buy for Moon Base Amid SpaceX Phaseout' - Bloomberg",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=7c2a570d02279b9b8cf3b0edd0c19a91732811f6d5f65a02b2b686053799a3c8",
-          "published_utc": "2026-10-06T08:24:47+00:00"
+          "url": "https://finnhub.io/api/news?id=4468cf47251281c961494b5e6447fd4cae7259bfda0ef351be946efdc54eb7fb",
+          "published_utc": "2026-10-06T15:31:43+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.41,
-      "change_percent": 6.7933,
+      "price": 61.84,
+      "change_percent": 5.8179,
       "previous_close": 58.44,
-      "quote_timestamp": 1791301539.0,
-      "quote_time_utc": "2026-10-06T15:45:39+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791303381.0,
+      "quote_time_utc": "2026-10-06T16:16:21+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -157,12 +120,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 656.23,
-      "change_percent": 3.875,
+      "price": 655.89,
+      "change_percent": 3.8211,
       "previous_close": 631.75,
-      "quote_timestamp": 1791301544.0,
-      "quote_time_utc": "2026-10-06T15:45:44+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1791303381.0,
+      "quote_time_utc": "2026-10-06T16:16:21+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -172,34 +135,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today: Dow Rises As Oil, Yields Fall; AMD, Nvidia, Tesla Shares Rally (Live Coverage)",
+          "headline": "Nvidia  Is Now Worth More Than META , AMZN  and AMD \u2014 Combined!",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17e181e56894175d3d48e8234373dbdf984acc756da331e92076e6fc53f1d371",
-          "published_utc": "2026-10-06T13:40:44+00:00"
+          "url": "https://finnhub.io/api/news?id=b9529dca6e4824815ee500cd6a6583b7f277837e4544253a394e20d59645c87b",
+          "published_utc": "2026-10-06T15:51:19+00:00"
         },
         {
-          "headline": "Lisa Su Says AI Demand Will Stay \u2018Very, Very High\u2019 for Years as AMD Races to Add Supply",
+          "headline": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cac0f65dbfc159b0714adc0c403527d74a4d55a70d487f42c12b66ea4217e584",
-          "published_utc": "2026-10-06T13:39:41+00:00"
+          "url": "https://finnhub.io/api/news?id=3f33a6af72c9567f9e0743bc2124c14d5b16042fb058ea6502e53ccb09e538fc",
+          "published_utc": "2026-10-06T15:35:00+00:00"
         },
         {
-          "headline": "What Will Decide Broadcom Stock Performance Over The Next Six Months?",
+          "headline": "BNP Paribas Just Hiked AMD\u2019s Price Target 60% to $960",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d83225fbcdf76f5ad3d95e1dc63d6311f38fb737a619004ae49fb0ae8ad352b",
-          "published_utc": "2026-10-06T13:35:41+00:00"
+          "url": "https://finnhub.io/api/news?id=4468cf47251281c961494b5e6447fd4cae7259bfda0ef351be946efdc54eb7fb",
+          "published_utc": "2026-10-06T15:31:43+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 75.26,
-      "change_percent": 3.0677,
+      "price": 74.49,
+      "change_percent": 2.0131,
       "previous_close": 73.02,
-      "quote_timestamp": 1791301542.0,
-      "quote_time_utc": "2026-10-06T15:45:42+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1791303379.0,
+      "quote_time_utc": "2026-10-06T16:16:19+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
