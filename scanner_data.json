@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T03:46:18.682619+00:00",
+  "updated": "2026-10-06T04:16:17.130855+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 27978,
+      "quote_age_seconds": 29776,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 27978,
+      "quote_age_seconds": 29776,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 27978,
+      "quote_age_seconds": 29776,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Wall Street bank makes radical Tesla call after Q3 deliveries news",
+          "headline": "NYSE\u2019s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange \u2014 And the SEC Already Gave It Permission",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=62f316702eaa0de9c37d98c2d686eb2ba48cb94445c4dc5676f229930d67df67",
-          "published_utc": "2026-10-06T01:47:00+00:00"
+          "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794",
+          "published_utc": "2026-10-06T02:52:59+00:00"
         },
         {
-          "headline": "LCID Stock Stays Flat After-Hours On Q3 Sales Dip While TSLA, RIVN Beat Estimates",
+          "headline": "U.S. stock futures steady after Nasdaq hits record on reduced Fed hike bets",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fadbb4f03b808d98398992a895ff8954a03560bb64a330e0adcc40136d59d6c7",
-          "published_utc": "2026-10-05T23:31:20+00:00"
+          "url": "https://finnhub.io/api/news?id=75700674811d9261ee8d3823320d0ca223490942bcd0e27e21e9feffe796e4ad",
+          "published_utc": "2026-10-06T02:03:50+00:00"
         },
         {
-          "headline": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields \u2014 NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+          "headline": "SPCX Stock Makes Musk A Trillionaire Again: Sequoia's Maguire Says Investors Are Just 'Starting To Understand SpaceX'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8b05235329873b3a6aefc1263a0519dcf558fad2478525d7f31f7e0d1584bf58",
-          "published_utc": "2026-10-05T22:09:32+00:00"
+          "url": "https://finnhub.io/api/news?id=60834cacd291c5037940321a987afa5d34a1954d1aaf9cd3ee14037fc812b716",
+          "published_utc": "2026-10-06T01:58:22+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 27978,
+      "quote_age_seconds": 29776,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+          "headline": "Why Did NVDA, TSM, WBD Stocks Hit 52-Week Highs Today?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c457f426c0c1dd3ca206841b88bbc4fcdb3237318871a4da216a6e0f18e13700",
-          "published_utc": "2026-10-06T00:03:54+00:00"
+          "url": "https://finnhub.io/api/news?id=7035d6f9bfb2b24033b85023fb3a1c8827b1f03fc5c6f4f1eb02cc7d64be976d",
+          "published_utc": "2026-10-06T03:28:28+00:00"
         },
         {
-          "headline": "Here's What $10,000 in Sandisk Stock Could Be Worth if Memory Demand Holds Through 2030",
+          "headline": "Is Michael Burry Right About MercadoLibre?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fd8e7c904ebcd38461a7f1cb6abee974bb641ffb1ff2346a56dd7193b826a37e",
-          "published_utc": "2026-10-05T22:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=2fca524f4645652a26a2d0e8089b7329a910feb18d5c42a83ca827d7adcaa9fb",
+          "published_utc": "2026-10-06T03:25:02+00:00"
         },
         {
-          "headline": "Could Disney End Up Being the Next Nike?",
+          "headline": "\u2018One Chip In The World Fueling AI Revolution:\u2019 Dan Ives Supports Nvidia Bull Case As Stock Hits Fresh High",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a9ed2089c1d40b78fff4499c5e66114c3257b8797663b1cfe9059a545a8f091b",
-          "published_utc": "2026-10-05T22:15:01+00:00"
+          "url": "https://finnhub.io/api/news?id=d2196badef4a15c289eefe0f8afe776d0a5f44f48c6834ab44bb3f162e92a37d",
+          "published_utc": "2026-10-06T03:14:41+00:00"
         }
       ],
       "news_status": "Recent headlines found"
