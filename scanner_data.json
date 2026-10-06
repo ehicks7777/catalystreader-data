@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T19:44:36.317076+00:00",
+  "updated": "2026-10-06T20:14:56.892270+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 63.37,
-      "change_percent": 8.436,
+      "price": 63.114,
+      "change_percent": 7.9979,
       "previous_close": 58.44,
-      "quote_timestamp": 1791315853.0,
-      "quote_time_utc": "2026-10-06T19:44:13+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1791316800.0,
+      "quote_time_utc": "2026-10-06T20:00:00+00:00",
+      "quote_age_seconds": 895,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 63.37,
-      "change_percent": 8.436,
+      "price": 63.114,
+      "change_percent": 7.9979,
       "previous_close": 58.44,
-      "quote_timestamp": 1791315853.0,
-      "quote_time_utc": "2026-10-06T19:44:13+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1791316800.0,
+      "quote_time_utc": "2026-10-06T20:00:00+00:00",
+      "quote_age_seconds": 895,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +83,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 650.64,
-      "change_percent": 2.9901,
+      "price": 649.42,
+      "change_percent": 2.797,
       "previous_close": 631.75,
-      "quote_timestamp": 1791315853.0,
-      "quote_time_utc": "2026-10-06T19:44:13+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1791316800.0,
+      "quote_time_utc": "2026-10-06T20:00:00+00:00",
+      "quote_age_seconds": 895,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,34 +98,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "What Should Qualcomm Stock Investors Be Watching Now?",
+          "headline": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=981ed86db40f8f6c95aa0e99527fd19a355cc685b1d4cdd50c1d41d6ff867ba5",
-          "published_utc": "2026-10-06T17:33:07+00:00"
+          "url": "https://finnhub.io/api/news?id=ac6bfc335dfc3d4897ae8bd77e8ebfe7355b99e732688e3608ac1b0de4e44f64",
+          "published_utc": "2026-10-06T19:20:01+00:00"
         },
         {
-          "headline": "Citi Predicts 25% Upside for AMD as \u201cthe Key Beneficiary\u201d of an Expanded $300 Billion CPU Market",
+          "headline": "Only Four Trillion-Dollar Stocks Are Beating the S&P 500. What\u2019s Next for the Megacaps?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92238007211c759df503210961c555ef4e85cf201f903701385be653ac2488e7",
-          "published_utc": "2026-10-06T17:32:45+00:00"
+          "url": "https://finnhub.io/api/news?id=8080aa9001b82e25de31eee990143329f2d06f17545d367ecf2dcb1386657f15",
+          "published_utc": "2026-10-06T18:22:00+00:00"
         },
         {
-          "headline": "As AI bubble fears circulate, remember the railroad bust of 1873",
+          "headline": "Spotting Winners: AMD (NASDAQ:AMD) And Processors and Graphics Chips Stocks In Q2",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bb2b0b5e6ef25f525ed8ae3c7a5a7aa1d6d38ba7c48ba06ee705b5b1cb1f872c",
-          "published_utc": "2026-10-06T16:54:22+00:00"
+          "url": "https://finnhub.io/api/news?id=b935b1e7913f8b31ba1f3813006d8a41e6b30f3effa6fad3b254067a3ca07cbc",
+          "published_utc": "2026-10-06T18:08:34+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 74.66,
-      "change_percent": 2.246,
+      "price": 75.06,
+      "change_percent": 2.7938,
       "previous_close": 73.02,
-      "quote_timestamp": 1791315853.0,
-      "quote_time_utc": "2026-10-06T19:44:13+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1791316800.0,
+      "quote_time_utc": "2026-10-06T20:00:00+00:00",
+      "quote_age_seconds": 895,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -151,43 +151,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d0f3f0f0dd063ad1bb3f560a31b26b0cb099acb13d8f830d1d410629dc31944a",
           "published_utc": "2026-10-06T13:39:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMZN",
-      "price": 256.56,
-      "change_percent": 2.0525,
-      "previous_close": 251.4,
-      "quote_timestamp": 1791315853.0,
-      "quote_time_utc": "2026-10-06T19:44:13+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=d746261ff29e9cc44ef27036fcaea7bc30f5ad242ea1e6c22ec443fb552f4afd",
-          "published_utc": "2026-10-06T19:10:11+00:00"
-        },
-        {
-          "headline": "Update: Equity Markets Rise Intraday as Yields Fall",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c68d75a6e4c6f700b513d5ebf1f57b067642460e1855e8dc5890033b5ed3e511",
-          "published_utc": "2026-10-06T17:36:11+00:00"
-        },
-        {
-          "headline": "Sector Update: Consumer Stocks Advance in Afternoon Trading",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5f0ce1df74c9aac39856d790448892a1d3c8b58bb1a3a289255beba4d39c33ec",
-          "published_utc": "2026-10-06T17:35:07+00:00"
         }
       ],
       "news_status": "Recent headlines found"
