@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:46:11.855301+00:00",
+  "updated": "2026-10-06T08:16:36.950024+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 42371,
+      "quote_age_seconds": 44195,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "How Investors Are Reacting To Citigroup (C) Expanding Token Services And Instant Cross-Border Payments",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8da91547e0cb6d2f129ceeb289ca884615a6e6afddfe1e6cf218b9d897e6a976",
+          "published_utc": "2026-10-06T07:08:19+00:00"
+        },
         {
           "headline": "Treasury Just Chose Crypto Privacy Over Surveillance. Investors Should Read the Fine Print",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f1c74fe058ceaac0139288f128ef25a1d0f1199e35433157e8d4818044ade259",
           "published_utc": "2026-10-05T18:03:24+00:00"
-        },
-        {
-          "headline": "OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37631e2d2b7c068be1530b46a20dc41aa0568f703ccca87cf0859f6c90de1d0d",
-          "published_utc": "2026-10-05T18:01:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 42371,
+      "quote_age_seconds": 44195,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 42371,
+      "quote_age_seconds": 44195,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Elon Musk's Trump Admin 'Return' Puts Tesla, SpaceX in Focus: Analyst Says TSLA Faces 'Key Test' \u2014 Prediction Market Weighs in",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cffef0e77e18bd35181d69086ed3a5c85c9e0d6e173535a2fa197921a5ae4406",
+          "published_utc": "2026-10-06T07:33:38+00:00"
+        },
         {
           "headline": "TSLA Stock Rises Overnight: Analyst Says SpaceX Merger Buzz Could \u2018Dominate\u2019 Near-Term Narrative \u2014 Gary Black Sees More Gains Ahead",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794",
           "published_utc": "2026-10-06T02:52:59+00:00"
-        },
-        {
-          "headline": "U.S. stock futures steady after Nasdaq hits record on reduced Fed hike bets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=75700674811d9261ee8d3823320d0ca223490942bcd0e27e21e9feffe796e4ad",
-          "published_utc": "2026-10-06T02:03:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 42371,
+      "quote_age_seconds": 44195,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Do Not Miss Out On This AI Memory Winner",
+          "headline": "Michael Burry Quoted a 1968 Book to Answer Nvidia (NVDA). The Passage Is Uncomfortable",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=63ef287d06282737070c89144a3509ce8b60f0734565a514b2c2902a0c971af4",
-          "published_utc": "2026-10-06T05:49:12+00:00"
+          "url": "https://finnhub.io/api/news?id=79c2f09de298f4d954f748c04cd0948b762465dae3321a80d66e20a03d35c2be",
+          "published_utc": "2026-10-06T07:42:59+00:00"
         },
         {
-          "headline": "Is Vanguard's Growth ETF a Buy at a Record High?",
+          "headline": "Will Intel Bring Back Its Dividend Now That Its Stock Has Tripled?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4dcf0847acc5dd6c1a39a5854467f2c7da773eb55ddb4676b4415fcde38c5a20",
-          "published_utc": "2026-10-06T05:47:01+00:00"
+          "url": "https://finnhub.io/api/news?id=5a326a99bd4bb0347e7f2824db3c81031fd94c3ab54b70e534a024ac6346fba5",
+          "published_utc": "2026-10-06T07:36:02+00:00"
         },
         {
-          "headline": "Is Taiwan Semiconductor the Best AI Stock to Buy Now?",
+          "headline": "Here's How Many Shares of Nike You'd Need for $10,000 in Yearly Dividends",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bb0b2404d2d8d336b39f6d40cef623987c1f13ca0aac17df534085e2026e6a77",
-          "published_utc": "2026-10-06T05:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=2f05bc3386df4983aefa9c044cfcb5599c63b9b06652ceeda1a7fd9526d29eea",
+          "published_utc": "2026-10-06T07:05:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
