@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:46:38.660983+00:00",
+  "updated": "2026-10-06T10:15:12.065181+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 49597,
+      "quote_age_seconds": 51311,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 49597,
+      "quote_age_seconds": 51311,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 49597,
+      "quote_age_seconds": 51311,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Tesla Just Delivered Excellent News, but Is the Stock a Buy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af1b729ced158e0a1784d778cdb932b2a0e84a80179ba1266f8945e34d20fd01",
+          "published_utc": "2026-10-06T08:54:00+00:00"
+        },
+        {
+          "headline": "2 Cash-Heavy Stocks Worth Your Attention and 1 Facing Challenges",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6f06ceb891ae31ff616c248ac0fd8bb8abc3dfa89e8fc79240093ae119d906ce",
+          "published_utc": "2026-10-06T08:32:34+00:00"
+        },
+        {
           "headline": "Elon Musk's Trump Admin 'Return' Puts Tesla, SpaceX in Focus: Analyst Says TSLA Faces 'Key Test' \u2014 Prediction Market Weighs in",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=cffef0e77e18bd35181d69086ed3a5c85c9e0d6e173535a2fa197921a5ae4406",
           "published_utc": "2026-10-06T07:33:38+00:00"
-        },
-        {
-          "headline": "TSLA Stock Rises Overnight: Analyst Says SpaceX Merger Buzz Could \u2018Dominate\u2019 Near-Term Narrative \u2014 Gary Black Sees More Gains Ahead",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=104c6ff017fedb7616159f3a4bc346d84a929274c957eea34a46c43158b6c724",
-          "published_utc": "2026-10-06T05:42:16+00:00"
-        },
-        {
-          "headline": "NYSE\u2019s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange \u2014 And the SEC Already Gave It Permission",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794",
-          "published_utc": "2026-10-06T02:52:59+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 49597,
+      "quote_age_seconds": 51311,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nasdaq Hits a Fresh Record While the 10-Year Climbs to 5.31%",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=cf7d02a17a97c293cb3d48d6293c22a01187ab427091a00190a1bacf4496ab2e",
-          "published_utc": "2026-10-06T08:19:26+00:00"
+          "headline": "Should You Invest $1,000 in Costco Stock in October?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=71f4219f6514816d729ec9cec788459f4e29c5e9fe8902a76dd5a6c8647fe27c",
+          "published_utc": "2026-10-06T09:50:00+00:00"
         },
         {
-          "headline": "Michael Burry Quoted a 1968 Book to Answer Nvidia (NVDA). The Passage Is Uncomfortable",
+          "headline": "Costco Is Down 10% in 6 Months While the S&P 500 Is Up 17%. Is Costco Too Cheap to Pass Up Under $900 a Share?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79c2f09de298f4d954f748c04cd0948b762465dae3321a80d66e20a03d35c2be",
-          "published_utc": "2026-10-06T07:42:59+00:00"
+          "url": "https://finnhub.io/api/news?id=7464d85a3aeb06f37f15440c23ae3ea16c21afc0c7b52d2a9a165e4bd4f6de97",
+          "published_utc": "2026-10-06T09:35:00+00:00"
         },
         {
-          "headline": "Will Intel Bring Back Its Dividend Now That Its Stock Has Tripled?",
+          "headline": "Warren Buffett Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5a326a99bd4bb0347e7f2824db3c81031fd94c3ab54b70e534a024ac6346fba5",
-          "published_utc": "2026-10-06T07:36:02+00:00"
+          "url": "https://finnhub.io/api/news?id=a21ca07006deca646a65faa8721c1a0f733923d1a8d8d63d5850a37dc88e1e15",
+          "published_utc": "2026-10-06T09:32:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
