@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:45:15.267266+00:00",
+  "updated": "2026-10-06T06:19:21.689745+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 35114,
+      "quote_age_seconds": 37160,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 35114,
+      "quote_age_seconds": 37160,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 35114,
+      "quote_age_seconds": 37160,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "TSLA Stock Rises Overnight: Analyst Says SpaceX Merger Buzz Could \u2018Dominate\u2019 Near-Term Narrative \u2014 Gary Black Sees More Gains Ahead",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=104c6ff017fedb7616159f3a4bc346d84a929274c957eea34a46c43158b6c724",
+          "published_utc": "2026-10-06T05:42:16+00:00"
+        },
         {
           "headline": "NYSE\u2019s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange \u2014 And the SEC Already Gave It Permission",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=75700674811d9261ee8d3823320d0ca223490942bcd0e27e21e9feffe796e4ad",
           "published_utc": "2026-10-06T02:03:50+00:00"
-        },
-        {
-          "headline": "SPCX Stock Makes Musk A Trillionaire Again: Sequoia's Maguire Says Investors Are Just 'Starting To Understand SpaceX'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=60834cacd291c5037940321a987afa5d34a1954d1aaf9cd3ee14037fc812b716",
-          "published_utc": "2026-10-06T01:58:22+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 35114,
+      "quote_age_seconds": 37160,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Prediction: The VanEck Semiconductor ETF Will Double Again Before 2032",
+          "headline": "Do Not Miss Out On This AI Memory Winner",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5d65f2d49c29e8a63d55b8520b074ef9e34d2e671dd7f71a2bd95a400ff7802f",
-          "published_utc": "2026-10-06T05:03:01+00:00"
+          "url": "https://finnhub.io/api/news?id=63ef287d06282737070c89144a3509ce8b60f0734565a514b2c2902a0c971af4",
+          "published_utc": "2026-10-06T05:49:12+00:00"
         },
         {
-          "headline": "Dan Niles Backs Alphabet and Meta as Google Cloud Grows Over 80%",
+          "headline": "Is Vanguard's Growth ETF a Buy at a Record High?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da78b02e4b50bd6389cf1c1939f0f16046592c5e22ecf62cdfb8a3508f0fdac8",
-          "published_utc": "2026-10-06T04:05:00+00:00"
+          "url": "https://finnhub.io/api/news?id=4dcf0847acc5dd6c1a39a5854467f2c7da773eb55ddb4676b4415fcde38c5a20",
+          "published_utc": "2026-10-06T05:47:01+00:00"
         },
         {
-          "headline": "Why Did NVDA, TSM, WBD Stocks Hit 52-Week Highs Today?",
+          "headline": "Is Taiwan Semiconductor the Best AI Stock to Buy Now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7035d6f9bfb2b24033b85023fb3a1c8827b1f03fc5c6f4f1eb02cc7d64be976d",
-          "published_utc": "2026-10-06T03:28:28+00:00"
+          "url": "https://finnhub.io/api/news?id=bb0b2404d2d8d336b39f6d40cef623987c1f13ca0aac17df534085e2026e6a77",
+          "published_utc": "2026-10-06T05:20:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
