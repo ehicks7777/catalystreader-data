@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:14:54.350519+00:00",
+  "updated": "2026-10-06T05:45:15.267266+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 33293,
+      "quote_age_seconds": 35114,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 33293,
+      "quote_age_seconds": 35114,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 33293,
+      "quote_age_seconds": 35114,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 33293,
+      "quote_age_seconds": 35114,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Prediction: The VanEck Semiconductor ETF Will Double Again Before 2032",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5d65f2d49c29e8a63d55b8520b074ef9e34d2e671dd7f71a2bd95a400ff7802f",
+          "published_utc": "2026-10-06T05:03:01+00:00"
+        },
+        {
+          "headline": "Dan Niles Backs Alphabet and Meta as Google Cloud Grows Over 80%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da78b02e4b50bd6389cf1c1939f0f16046592c5e22ecf62cdfb8a3508f0fdac8",
+          "published_utc": "2026-10-06T04:05:00+00:00"
+        },
+        {
           "headline": "Why Did NVDA, TSM, WBD Stocks Hit 52-Week Highs Today?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7035d6f9bfb2b24033b85023fb3a1c8827b1f03fc5c6f4f1eb02cc7d64be976d",
           "published_utc": "2026-10-06T03:28:28+00:00"
-        },
-        {
-          "headline": "Is Michael Burry Right About MercadoLibre?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2fca524f4645652a26a2d0e8089b7329a910feb18d5c42a83ca827d7adcaa9fb",
-          "published_utc": "2026-10-06T03:25:02+00:00"
-        },
-        {
-          "headline": "\u2018One Chip In The World Fueling AI Revolution:\u2019 Dan Ives Supports Nvidia Bull Case As Stock Hits Fresh High",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2196badef4a15c289eefe0f8afe776d0a5f44f48c6834ab44bb3f162e92a37d",
-          "published_utc": "2026-10-06T03:14:41+00:00"
         }
       ],
       "news_status": "Recent headlines found"
