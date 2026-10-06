@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:46:42.427988+00:00",
+  "updated": "2026-10-06T15:16:22.216427+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,51 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 63.2,
-      "change_percent": 8.1451,
+      "price": 63.26,
+      "change_percent": 8.2478,
       "previous_close": 58.44,
-      "quote_timestamp": 1791297980.0,
-      "quote_time_utc": "2026-10-06T14:46:20+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Apogee Enterprises Posts Upbeat Q2 Earnings, Joins Constellation Energy, Freshworks  And Other Big Stocks Moving Higher On Tuesday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=775bb20d6d282e22da530780cee8ab498c2fa803b18f91f39b49bfc01878a376",
-          "published_utc": "2026-10-06T09:59:37+00:00"
-        },
-        {
-          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
-          "published_utc": "2026-10-06T09:04:08+00:00"
-        },
-        {
-          "headline": "Why Is AST SpaceMobile Stock Surging on Tuesday?",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=631e85443692a2580e843deab4493cf6843da832aa590aecb45876acfee39cac",
-          "published_utc": "2026-10-06T08:24:23+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "swing_trading": [
-    {
-      "symbol": "ASTS",
-      "price": 63.2,
-      "change_percent": 8.1451,
-      "previous_close": 58.44,
-      "quote_timestamp": 1791297980.0,
-      "quote_time_utc": "2026-10-06T14:46:20+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791299755.0,
+      "quote_time_utc": "2026-10-06T15:15:55+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -82,13 +43,163 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "AMD",
+      "price": 657.77,
+      "change_percent": 4.1187,
+      "previous_close": 631.75,
+      "quote_timestamp": 1791299755.0,
+      "quote_time_utc": "2026-10-06T15:15:55+00:00",
+      "quote_age_seconds": 26,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Rises As Oil, Yields Fall; AMD, Nvidia, Tesla Shares Rally (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17e181e56894175d3d48e8234373dbdf984acc756da331e92076e6fc53f1d371",
+          "published_utc": "2026-10-06T13:40:44+00:00"
+        },
+        {
+          "headline": "Lisa Su Says AI Demand Will Stay \u2018Very, Very High\u2019 for Years as AMD Races to Add Supply",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cac0f65dbfc159b0714adc0c403527d74a4d55a70d487f42c12b66ea4217e584",
+          "published_utc": "2026-10-06T13:39:41+00:00"
+        },
+        {
+          "headline": "What Will Decide Broadcom Stock Performance Over The Next Six Months?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d83225fbcdf76f5ad3d95e1dc63d6311f38fb737a619004ae49fb0ae8ad352b",
+          "published_utc": "2026-10-06T13:35:41+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "RKLB",
-      "price": 75.13,
-      "change_percent": 2.8896,
+      "price": 75.67,
+      "change_percent": 3.6291,
       "previous_close": 73.02,
-      "quote_timestamp": 1791297981.0,
-      "quote_time_utc": "2026-10-06T14:46:21+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791299756.0,
+      "quote_time_utc": "2026-10-06T15:15:56+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Can Rocket Lab Capitalize on Falcon 9\u2019s Exit Before Neutron Slips Again",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=680d3b0e71464fa1c166e47f6d9eac1ea56d09b6287cb535e351a91e75a2d0fc",
+          "published_utc": "2026-10-06T11:41:41+00:00"
+        },
+        {
+          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
+          "published_utc": "2026-10-06T09:04:08+00:00"
+        },
+        {
+          "headline": "'NASA Eyes Bulk Rocket Buy for Moon Base Amid SpaceX Phaseout' - Bloomberg",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=7c2a570d02279b9b8cf3b0edd0c19a91732811f6d5f65a02b2b686053799a3c8",
+          "published_utc": "2026-10-06T08:24:47+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "ASTS",
+      "price": 63.26,
+      "change_percent": 8.2478,
+      "previous_close": 58.44,
+      "quote_timestamp": 1791299755.0,
+      "quote_time_utc": "2026-10-06T15:15:55+00:00",
+      "quote_age_seconds": 26,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Apogee Enterprises Posts Upbeat Q2 Earnings, Joins Constellation Energy, Freshworks  And Other Big Stocks Moving Higher On Tuesday",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=775bb20d6d282e22da530780cee8ab498c2fa803b18f91f39b49bfc01878a376",
+          "published_utc": "2026-10-06T09:59:37+00:00"
+        },
+        {
+          "headline": "Cathie Wood Buys Rocket Lab as ARK Sees SpaceX's Starship Shift Squeezing Launch Capacity",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=b7f114cd7b574e7c8f648cb6dbf993b46a9c9119f9c48b741e1bfe04d230e58c",
+          "published_utc": "2026-10-06T09:04:08+00:00"
+        },
+        {
+          "headline": "Why Is AST SpaceMobile Stock Surging on Tuesday?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=631e85443692a2580e843deab4493cf6843da832aa590aecb45876acfee39cac",
+          "published_utc": "2026-10-06T08:24:23+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMD",
+      "price": 657.77,
+      "change_percent": 4.1187,
+      "previous_close": 631.75,
+      "quote_timestamp": 1791299755.0,
+      "quote_time_utc": "2026-10-06T15:15:55+00:00",
+      "quote_age_seconds": 26,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Rises As Oil, Yields Fall; AMD, Nvidia, Tesla Shares Rally (Live Coverage)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=17e181e56894175d3d48e8234373dbdf984acc756da331e92076e6fc53f1d371",
+          "published_utc": "2026-10-06T13:40:44+00:00"
+        },
+        {
+          "headline": "Lisa Su Says AI Demand Will Stay \u2018Very, Very High\u2019 for Years as AMD Races to Add Supply",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cac0f65dbfc159b0714adc0c403527d74a4d55a70d487f42c12b66ea4217e584",
+          "published_utc": "2026-10-06T13:39:41+00:00"
+        },
+        {
+          "headline": "What Will Decide Broadcom Stock Performance Over The Next Six Months?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d83225fbcdf76f5ad3d95e1dc63d6311f38fb737a619004ae49fb0ae8ad352b",
+          "published_utc": "2026-10-06T13:35:41+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 75.67,
+      "change_percent": 3.6291,
+      "previous_close": 73.02,
+      "quote_timestamp": 1791299756.0,
+      "quote_time_utc": "2026-10-06T15:15:56+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -119,13 +230,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "AMD",
-      "price": 649.34,
-      "change_percent": 2.7843,
-      "previous_close": 631.75,
-      "quote_timestamp": 1791297980.0,
-      "quote_time_utc": "2026-10-06T14:46:20+00:00",
-      "quote_age_seconds": 21,
+      "symbol": "MSTR",
+      "price": 168.11,
+      "change_percent": 2.238,
+      "previous_close": 164.43,
+      "quote_timestamp": 1791299756.0,
+      "quote_time_utc": "2026-10-06T15:15:56+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,22 +246,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Stock Market Today: Dow Rises As Oil, Yields Fall; AMD, Nvidia, Tesla Shares Rally (Live Coverage)",
+          "headline": "Is Strategy (MSTR) a Buy as Wall Street Analysts Look Optimistic?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=17e181e56894175d3d48e8234373dbdf984acc756da331e92076e6fc53f1d371",
-          "published_utc": "2026-10-06T13:40:44+00:00"
+          "url": "https://finnhub.io/api/news?id=e9503136a6b68631ca3e1be0757a242182f89e4fd51c8ae9cd9eddd0fc80866f",
+          "published_utc": "2026-10-06T12:30:04+00:00"
         },
         {
-          "headline": "Lisa Su Says AI Demand Will Stay \u2018Very, Very High\u2019 for Years as AMD Races to Add Supply",
+          "headline": "BTC USD Price Stalls as Fresh Saylor Buy Fails to Clear $87K",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cac0f65dbfc159b0714adc0c403527d74a4d55a70d487f42c12b66ea4217e584",
-          "published_utc": "2026-10-06T13:39:41+00:00"
+          "url": "https://finnhub.io/api/news?id=887b103a42d9a00331e955aa0d89772b2bcd67768953f0dc7e91400ee6940089",
+          "published_utc": "2026-10-06T10:55:23+00:00"
         },
         {
-          "headline": "What Will Decide Broadcom Stock Performance Over The Next Six Months?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2d83225fbcdf76f5ad3d95e1dc63d6311f38fb737a619004ae49fb0ae8ad352b",
-          "published_utc": "2026-10-06T13:35:41+00:00"
+          "headline": "TD Cowen: Bitcoin to Hit $132,750 by 2028, Strategy, Strive Could Outperform",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=270ac57c15dd4a7a25070aee7876f1c90f882a3ef954bafd2b963e24c90b1995",
+          "published_utc": "2026-10-06T09:12:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
