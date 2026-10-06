@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:45:20.450409+00:00",
+  "updated": "2026-10-06T18:16:32.821953+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.99,
-      "change_percent": 7.7858,
+      "price": 63.11,
+      "change_percent": 7.9911,
       "previous_close": 58.44,
-      "quote_timestamp": 1791308704.0,
-      "quote_time_utc": "2026-10-06T17:45:04+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1791310563.0,
+      "quote_time_utc": "2026-10-06T18:16:03+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 654.89,
-      "change_percent": 3.6628,
+      "price": 654.35,
+      "change_percent": 3.5774,
       "previous_close": 631.75,
-      "quote_timestamp": 1791308703.0,
-      "quote_time_utc": "2026-10-06T17:45:03+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1791310565.0,
+      "quote_time_utc": "2026-10-06T18:16:05+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,22 +59,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nvidia  Is Now Worth More Than META , AMZN  and AMD \u2014 Combined!",
+          "headline": "What Should Qualcomm Stock Investors Be Watching Now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9529dca6e4824815ee500cd6a6583b7f277837e4544253a394e20d59645c87b",
-          "published_utc": "2026-10-06T15:51:19+00:00"
+          "url": "https://finnhub.io/api/news?id=981ed86db40f8f6c95aa0e99527fd19a355cc685b1d4cdd50c1d41d6ff867ba5",
+          "published_utc": "2026-10-06T17:33:07+00:00"
         },
         {
-          "headline": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One.",
+          "headline": "Citi Predicts 25% Upside for AMD as \u201cthe Key Beneficiary\u201d of an Expanded $300 Billion CPU Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f33a6af72c9567f9e0743bc2124c14d5b16042fb058ea6502e53ccb09e538fc",
-          "published_utc": "2026-10-06T15:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=92238007211c759df503210961c555ef4e85cf201f903701385be653ac2488e7",
+          "published_utc": "2026-10-06T17:32:45+00:00"
         },
         {
-          "headline": "BNP Paribas Just Hiked AMD\u2019s Price Target 60% to $960",
+          "headline": "As AI bubble fears circulate, remember the railroad bust of 1873",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4468cf47251281c961494b5e6447fd4cae7259bfda0ef351be946efdc54eb7fb",
-          "published_utc": "2026-10-06T15:31:43+00:00"
+          "url": "https://finnhub.io/api/news?id=bb2b0b5e6ef25f525ed8ae3c7a5a7aa1d6d38ba7c48ba06ee705b5b1cb1f872c",
+          "published_utc": "2026-10-06T16:54:22+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 75.3,
+      "change_percent": 3.1224,
+      "previous_close": 73.02,
+      "quote_timestamp": 1791310566.0,
+      "quote_time_utc": "2026-10-06T18:16:06+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rocket Lab Stock Pops Tuesday: What's Going On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=03e2817be320773ed173d2001c4b9abf13c89589c6f8d2389f983630dc198a72",
+          "published_utc": "2026-10-06T14:57:52+00:00"
+        },
+        {
+          "headline": "SpaceX Gains 2% as Morgan Stanley Sees a Closing Window; AST SpaceMobile Surges 8%, Rocket Lab Rises 5%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=95932a4e727a2d75334bc9682481ebb29041a96cfb69abc53c5bc4b3fd1c4a37",
+          "published_utc": "2026-10-06T14:53:41+00:00"
+        },
+        {
+          "headline": "Rocket Lab Gains 13.6% in a Month: Should Investors Buy the Stock Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d0f3f0f0dd063ad1bb3f560a31b26b0cb099acb13d8f830d1d410629dc31944a",
+          "published_utc": "2026-10-06T13:39:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 62.99,
-      "change_percent": 7.7858,
+      "price": 63.11,
+      "change_percent": 7.9911,
       "previous_close": 58.44,
-      "quote_timestamp": 1791308704.0,
-      "quote_time_utc": "2026-10-06T17:45:04+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1791310563.0,
+      "quote_time_utc": "2026-10-06T18:16:03+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +157,12 @@
     },
     {
       "symbol": "AMD",
-      "price": 654.89,
-      "change_percent": 3.6628,
+      "price": 654.35,
+      "change_percent": 3.5774,
       "previous_close": 631.75,
-      "quote_timestamp": 1791308703.0,
-      "quote_time_utc": "2026-10-06T17:45:03+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1791310565.0,
+      "quote_time_utc": "2026-10-06T18:16:05+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,34 +172,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Nvidia  Is Now Worth More Than META , AMZN  and AMD \u2014 Combined!",
+          "headline": "What Should Qualcomm Stock Investors Be Watching Now?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b9529dca6e4824815ee500cd6a6583b7f277837e4544253a394e20d59645c87b",
-          "published_utc": "2026-10-06T15:51:19+00:00"
+          "url": "https://finnhub.io/api/news?id=981ed86db40f8f6c95aa0e99527fd19a355cc685b1d4cdd50c1d41d6ff867ba5",
+          "published_utc": "2026-10-06T17:33:07+00:00"
         },
         {
-          "headline": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One.",
+          "headline": "Citi Predicts 25% Upside for AMD as \u201cthe Key Beneficiary\u201d of an Expanded $300 Billion CPU Market",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f33a6af72c9567f9e0743bc2124c14d5b16042fb058ea6502e53ccb09e538fc",
-          "published_utc": "2026-10-06T15:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=92238007211c759df503210961c555ef4e85cf201f903701385be653ac2488e7",
+          "published_utc": "2026-10-06T17:32:45+00:00"
         },
         {
-          "headline": "BNP Paribas Just Hiked AMD\u2019s Price Target 60% to $960",
+          "headline": "As AI bubble fears circulate, remember the railroad bust of 1873",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4468cf47251281c961494b5e6447fd4cae7259bfda0ef351be946efdc54eb7fb",
-          "published_utc": "2026-10-06T15:31:43+00:00"
+          "url": "https://finnhub.io/api/news?id=bb2b0b5e6ef25f525ed8ae3c7a5a7aa1d6d38ba7c48ba06ee705b5b1cb1f872c",
+          "published_utc": "2026-10-06T16:54:22+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "RKLB",
-      "price": 74.71,
-      "change_percent": 2.3144,
+      "price": 75.3,
+      "change_percent": 3.1224,
       "previous_close": 73.02,
-      "quote_timestamp": 1791308703.0,
-      "quote_time_utc": "2026-10-06T17:45:03+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1791310566.0,
+      "quote_time_utc": "2026-10-06T18:16:06+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
