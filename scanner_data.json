@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:18:46.434868+00:00",
+  "updated": "2026-10-06T12:50:06.421589+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 183.0,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 58725,
+      "quote_age_seconds": 60605,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 160.01,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 58725,
+      "quote_age_seconds": 60605,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "BTC USD Price Stalls as Fresh Saylor Buy Fails to Clear $87K",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=887b103a42d9a00331e955aa0d89772b2bcd67768953f0dc7e91400ee6940089",
+          "published_utc": "2026-10-06T10:55:23+00:00"
+        },
         {
           "headline": "Bitcoin Price Could Reverse Following Tech Stocks, Peter Schiff Says",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2f449c6c2f95b27275edeac2d417dfe7f48fe8a7129daf70e27116f96ce3b7ea",
           "published_utc": "2026-10-05T23:38:00+00:00"
-        },
-        {
-          "headline": "Strategy (MSTR) Exceeds Market Returns: Some Facts to Consider",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=46121ca453524677321cbf6bc17b0f86b599c6130ea00c153d030b02097479b4",
-          "published_utc": "2026-10-05T20:50:04+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 370.59,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 58725,
+      "quote_age_seconds": 60605,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 233.95,
       "quote_timestamp": 1791230400.0,
       "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 58725,
+      "quote_age_seconds": 60605,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
