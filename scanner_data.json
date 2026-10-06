@@ -1,20 +1,19 @@
 {
-  "updated": "2026-10-06T13:17:10.934051+00:00",
+  "updated": "2026-10-06T13:46:52.989141+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
-      "symbol": "COIN",
-      "price": 188.22,
-      "change_percent": 2.8525,
-      "previous_close": 183.0,
-      "quote_timestamp": 1791230400.0,
-      "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 62229,
-      "quote_freshness": "stale",
+      "symbol": "ASTS",
+      "price": 62.61,
+      "change_percent": 7.1355,
+      "previous_close": 58.44,
+      "quote_timestamp": 1791294401.0,
+      "quote_time_utc": "2026-10-06T13:46:41+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,35 +22,272 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "How Investors Are Reacting To Citigroup (C) Expanding Token Services And Instant Cross-Border Payments",
+          "headline": "ASTS Stock Edges Up Overnight: US-Japan Tech Statement Backs Rakuten Tie-Up, But Launch Questions Linger",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8da91547e0cb6d2f129ceeb289ca884615a6e6afddfe1e6cf218b9d897e6a976",
-          "published_utc": "2026-10-06T07:08:19+00:00"
+          "url": "https://finnhub.io/api/news?id=2d8a0ad90be8791841bedc6d5b414758d2e7a3b06e7341fa5c64a3e5e550ce44",
+          "published_utc": "2026-10-06T04:49:00+00:00"
         },
         {
-          "headline": "Treasury Just Chose Crypto Privacy Over Surveillance. Investors Should Read the Fine Print",
+          "headline": "AST SpaceMobile Sits 56% Below Its 2026 High After B. Riley\u2019s Cut. Here\u2019s Where the Stock Could Go by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4b5789ad8b0e3b1922d48c5e68ee0486bd4e5e90856f8d587f7d9e3f6ce46b1",
-          "published_utc": "2026-10-05T21:39:41+00:00"
+          "url": "https://finnhub.io/api/news?id=86d49e76b05099c8f1cba6867a0d57f8fc0f49a9693df9d9a98283c44de3eff5",
+          "published_utc": "2026-10-05T15:32:02+00:00"
         },
         {
-          "headline": "Coinbase CAO to retire as leadership shuffle continues after layoffs",
+          "headline": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reiterates $300 Target; Rocket Lab Slips, AST SpaceMobile Nudges Higher",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f1c74fe058ceaac0139288f128ef25a1d0f1199e35433157e8d4818044ade259",
-          "published_utc": "2026-10-05T18:03:24+00:00"
+          "url": "https://finnhub.io/api/news?id=9a66c39936b1b169087a4c75442d0e2f9bd261d0f4972e3022a435c569eef358",
+          "published_utc": "2026-10-05T14:46:03+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 76.14,
+      "change_percent": 4.2728,
+      "previous_close": 73.02,
+      "quote_timestamp": 1791294401.0,
+      "quote_time_utc": "2026-10-06T13:46:41+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Can Rocket Lab Capitalize on Falcon 9\u2019s Exit Before Neutron Slips Again",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=680d3b0e71464fa1c166e47f6d9eac1ea56d09b6287cb535e351a91e75a2d0fc",
+          "published_utc": "2026-10-06T11:41:41+00:00"
+        },
+        {
+          "headline": "RKLB Stock Rises Overnight: Cathie Wood\u2019s ARK Sees \u2018Enormous Opportunity\u2019 As SpaceX Eyes Falcon 9 Retirement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93a244355c341d1e8af1bd9a5406b0544379dbe16d99d6303e457af88593905c",
+          "published_utc": "2026-10-06T06:35:08+00:00"
+        },
+        {
+          "headline": "Rocket Lab (RKLB) Could Be 14% Undervalued Following Its 20 Launch Synspective Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6d6f396f5039d12a9b23794fb1d3dbe97e4c866e234a07d92425c218b869f6dc",
+          "published_utc": "2026-10-06T02:09:07+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 44.78,
+      "change_percent": 4.2122,
+      "previous_close": 42.97,
+      "quote_timestamp": 1791294400.0,
+      "quote_time_utc": "2026-10-06T13:46:40+00:00",
+      "quote_age_seconds": 12,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Automotive Quantum Computing Market Size, Share, Trends, and Forecast Report 2026 to 2030; Automotive Quantum Computing Market Poised to Reach $0.81 Billion by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4406676269f8bffc35e76b83f9e59b1de488354f87ff887e9b44f9730fa447ed",
+          "published_utc": "2026-10-06T08:15:00+00:00"
+        },
+        {
+          "headline": "IonQ, Inc. (IONQ) Stock Slides as Market Rises: Facts to Know Before You Trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=58752e20186959ffe41ab75032bbb3852a2ad002f3a1953116002550a9334ed5",
+          "published_utc": "2026-10-05T20:50:04+00:00"
+        },
+        {
+          "headline": "2 Reasons to Watch IONQ and 1 to Stay Cautious",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6ef9eac4f5c9433a10265aaf60431f3056aec7a2de6da766740d5a1000002389",
+          "published_utc": "2026-10-05T19:39:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 15.71,
+      "change_percent": 3.6964,
+      "previous_close": 15.15,
+      "quote_timestamp": 1791294399.0,
+      "quote_time_utc": "2026-10-06T13:46:39+00:00",
+      "quote_age_seconds": 13,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rigetti Computing vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5a745a4fb53ff2ed3da9b1e8481caae36a99c1db5e72868297ae306d4d1794d",
+          "published_utc": "2026-10-05T13:55:37+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "ASTS",
+      "price": 62.61,
+      "change_percent": 7.1355,
+      "previous_close": 58.44,
+      "quote_timestamp": 1791294401.0,
+      "quote_time_utc": "2026-10-06T13:46:41+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "ASTS Stock Edges Up Overnight: US-Japan Tech Statement Backs Rakuten Tie-Up, But Launch Questions Linger",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2d8a0ad90be8791841bedc6d5b414758d2e7a3b06e7341fa5c64a3e5e550ce44",
+          "published_utc": "2026-10-06T04:49:00+00:00"
+        },
+        {
+          "headline": "AST SpaceMobile Sits 56% Below Its 2026 High After B. Riley\u2019s Cut. Here\u2019s Where the Stock Could Go by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=86d49e76b05099c8f1cba6867a0d57f8fc0f49a9693df9d9a98283c44de3eff5",
+          "published_utc": "2026-10-05T15:32:02+00:00"
+        },
+        {
+          "headline": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reiterates $300 Target; Rocket Lab Slips, AST SpaceMobile Nudges Higher",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9a66c39936b1b169087a4c75442d0e2f9bd261d0f4972e3022a435c569eef358",
+          "published_utc": "2026-10-05T14:46:03+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RKLB",
+      "price": 76.14,
+      "change_percent": 4.2728,
+      "previous_close": 73.02,
+      "quote_timestamp": 1791294401.0,
+      "quote_time_utc": "2026-10-06T13:46:41+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Can Rocket Lab Capitalize on Falcon 9\u2019s Exit Before Neutron Slips Again",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=680d3b0e71464fa1c166e47f6d9eac1ea56d09b6287cb535e351a91e75a2d0fc",
+          "published_utc": "2026-10-06T11:41:41+00:00"
+        },
+        {
+          "headline": "RKLB Stock Rises Overnight: Cathie Wood\u2019s ARK Sees \u2018Enormous Opportunity\u2019 As SpaceX Eyes Falcon 9 Retirement",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=93a244355c341d1e8af1bd9a5406b0544379dbe16d99d6303e457af88593905c",
+          "published_utc": "2026-10-06T06:35:08+00:00"
+        },
+        {
+          "headline": "Rocket Lab (RKLB) Could Be 14% Undervalued Following Its 20 Launch Synspective Deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6d6f396f5039d12a9b23794fb1d3dbe97e4c866e234a07d92425c218b869f6dc",
+          "published_utc": "2026-10-06T02:09:07+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 44.78,
+      "change_percent": 4.2122,
+      "previous_close": 42.97,
+      "quote_timestamp": 1791294400.0,
+      "quote_time_utc": "2026-10-06T13:46:40+00:00",
+      "quote_age_seconds": 12,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Automotive Quantum Computing Market Size, Share, Trends, and Forecast Report 2026 to 2030; Automotive Quantum Computing Market Poised to Reach $0.81 Billion by 2030",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4406676269f8bffc35e76b83f9e59b1de488354f87ff887e9b44f9730fa447ed",
+          "published_utc": "2026-10-06T08:15:00+00:00"
+        },
+        {
+          "headline": "IonQ, Inc. (IONQ) Stock Slides as Market Rises: Facts to Know Before You Trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=58752e20186959ffe41ab75032bbb3852a2ad002f3a1953116002550a9334ed5",
+          "published_utc": "2026-10-05T20:50:04+00:00"
+        },
+        {
+          "headline": "2 Reasons to Watch IONQ and 1 to Stay Cautious",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6ef9eac4f5c9433a10265aaf60431f3056aec7a2de6da766740d5a1000002389",
+          "published_utc": "2026-10-05T19:39:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 15.71,
+      "change_percent": 3.6964,
+      "previous_close": 15.15,
+      "quote_timestamp": 1791294399.0,
+      "quote_time_utc": "2026-10-06T13:46:39+00:00",
+      "quote_age_seconds": 13,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Rigetti Computing vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f5a745a4fb53ff2ed3da9b1e8481caae36a99c1db5e72868297ae306d4d1794d",
+          "published_utc": "2026-10-05T13:55:37+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSTR",
-      "price": 164.43,
-      "change_percent": 2.7623,
-      "previous_close": 160.01,
-      "quote_timestamp": 1791230400.0,
-      "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 62229,
-      "quote_freshness": "stale",
+      "price": 167.81,
+      "change_percent": 2.0556,
+      "previous_close": 164.43,
+      "quote_timestamp": 1791294400.0,
+      "quote_time_utc": "2026-10-06T13:46:40+00:00",
+      "quote_age_seconds": 12,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -79,83 +315,9 @@
         }
       ],
       "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 378.73,
-      "change_percent": 2.1965,
-      "previous_close": 370.59,
-      "quote_timestamp": 1791230400.0,
-      "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 62229,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Energy Transition Today - Green Rain Energy Expands EV Charging at Key US Locations",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2e0892b70d4c486ad860fd2c1a31f6ab9ed8a83e3459cb574982a1bd72c58ae5",
-          "published_utc": "2026-10-06T11:37:07+00:00"
-        },
-        {
-          "headline": "Stocks Are Ignoring the Bond Market Warning at Their Peril",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c2e209e940c4df5624edcc8c6ed8458864913f77b09b2ac73a990cfd0adde5d",
-          "published_utc": "2026-10-06T11:36:00+00:00"
-        },
-        {
-          "headline": "As Tesla Deliveries Rebound, Is It a Better Investment Than SpaceX Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=409edb3a8b9506ebb898a7905a41a25ec0ce50a6642c46f9620946eaa414f9cd",
-          "published_utc": "2026-10-06T10:35:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "NVDA",
-      "price": 238.9,
-      "change_percent": 2.1158,
-      "previous_close": 233.95,
-      "quote_timestamp": 1791230400.0,
-      "quote_time_utc": "2026-10-05T20:00:00+00:00",
-      "quote_age_seconds": 62229,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX Just Reached Orbit With Starship. Here's What a $1,000 Investment Could Be Worth by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a1cf0ec5b1efceaa9ead6e0e769f41e12635bdb7cc6d82c9bbc6e71253820ee7",
-          "published_utc": "2026-10-06T11:51:01+00:00"
-        },
-        {
-          "headline": "I Think BND Is the Best Bond ETF for Most Investors: Here's Why I'm Buying More in 2026.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=272f6dbeacd8e9dde0a984685a50248573f876f7dbbae8870f608d11087cbfa3",
-          "published_utc": "2026-10-06T11:35:00+00:00"
-        },
-        {
-          "headline": "AMD hits $1 trillion market cap as AI agents boost CPU demand",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=33ea0cd69e15be2cece8ba779e15011a1dcd5693b5f2221bddf03f264e7ec203",
-          "published_utc": "2026-10-06T11:31:03+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
