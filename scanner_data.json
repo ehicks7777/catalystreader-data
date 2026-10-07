@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T07:46:49.091736+00:00",
+  "updated": "2026-10-07T08:17:20.211329+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 42405,
+      "quote_age_seconds": 44239,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 42405,
+      "quote_age_seconds": 44239,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Zacks Investment Ideas feature highlights: Advanced Micro, Tesla, Meta and SpaceX",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f39ac1f8bbcfa8674257a66ea2eb222fa87d3f4950e6759ab13b7a14f038983b",
+          "published_utc": "2026-10-07T05:44:00+00:00"
+        },
         {
           "headline": "AMD Crossed $600, So Does Meta Get 160 Million AMD Shares For Free Now?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f71cd315ce713cf74bac46d40855221cc5f4cc2fde04ea68f32696169df0d1a5",
           "published_utc": "2026-10-07T04:19:23+00:00"
-        },
-        {
-          "headline": "Dow, S&P 500, Nasdaq Futures Mixed After S&P 500, Nasdaq Notch Record Highs: SPCX, NLST, PENG, WDC Stocks In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a3fa5aa337006b76caa935b20e02deba5a6f172c45b190a72ec6942644a5271",
-          "published_utc": "2026-10-07T02:40:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 42405,
+      "quote_age_seconds": 44239,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
