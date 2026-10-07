@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:43:22.262452+00:00",
+  "updated": "2026-10-07T00:23:54.371308+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 13401,
+      "quote_age_seconds": 15832,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile: The Bull Case Just Got Stronger",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=8e9efc94ba046e5c5b3af946b39044f7d7a3b71dfc70fc9add668e5e5c79c6c5",
-          "published_utc": "2026-10-06T13:03:20+00:00"
+          "headline": "Rocket Lab Just Gained 17% in a Month: Is It Too Late to Buy RKLB Stock Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04fe21138317f81e84495c67d09257cd54ff4e2b46d7b24b4f0bc71bc1144295",
+          "published_utc": "2026-10-06T18:57:07+00:00"
         },
         {
-          "headline": "AST SpaceMobile: Cheaper And Better Than SpaceX (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c2038641f218599d785027200a92a6f29d968b9d06d9db5879ffabea4e7798be",
-          "published_utc": "2026-10-06T12:59:26+00:00"
+          "headline": "AST SpaceMobile Is Soaring After State Dept. Endorses LEO Satellite Cooperation with Japan",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=419d7c1d93960995e17af4f49df6f146364729f49502bc3f3f224b2b2715c0dc",
+          "published_utc": "2026-10-06T16:04:53+00:00"
         },
         {
-          "headline": "Apogee Enterprises Posts Upbeat Q2 Earnings, Joins Constellation Energy, Freshworks  And Other Big Stocks Moving Higher On Tuesday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=775bb20d6d282e22da530780cee8ab498c2fa803b18f91f39b49bfc01878a376",
-          "published_utc": "2026-10-06T09:59:37+00:00"
+          "headline": "Why AST SpaceMobile Stock Popped on Tuesday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=04cd9d7eb4df7ffb071c036be395baf20901e65416656b804b2582f054624cbb",
+          "published_utc": "2026-10-06T15:14:08+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 13401,
+      "quote_age_seconds": 15832,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMD (AMD) Stock Is Up, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7d1e0c7cb2bb95b08ab6acde5b7a78c7c4f97df345b7ea805661297d4de8ee40",
+          "published_utc": "2026-10-06T23:52:34+00:00"
+        },
         {
           "headline": "Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=631b4cc92b37b9c5deb83e34f7c30380ec7793055f31c869e92ba21496ff66c8",
           "published_utc": "2026-10-06T20:45:03+00:00"
-        },
-        {
-          "headline": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a571eae5d266955d8e0c4200205760b1c8beecf50044cd2cf7e37d41a2113bb",
-          "published_utc": "2026-10-06T20:45:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 13401,
+      "quote_age_seconds": 15832,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
