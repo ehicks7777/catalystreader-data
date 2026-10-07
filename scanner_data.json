@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:47:16.305712+00:00",
+  "updated": "2026-10-07T04:15:45.045714+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 28035,
+      "quote_age_seconds": 29744,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 28035,
+      "quote_age_seconds": 29744,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Dow, S&P 500, Nasdaq Futures Mixed After S&P 500, Nasdaq Notch Record Highs: SPCX, NLST, PENG, WDC Stocks In Focus",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a3fa5aa337006b76caa935b20e02deba5a6f172c45b190a72ec6942644a5271",
+          "published_utc": "2026-10-07T02:40:15+00:00"
+        },
         {
           "headline": "Can Digital Realty Trust (DLR) Justify Its Valuation After The Blackfuel AI Deal?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a89afe7abc58ee8c41f9041d16a727dc42e2634a18969c190331790d3e9b1719",
           "published_utc": "2026-10-07T00:44:54+00:00"
-        },
-        {
-          "headline": "AMD (AMD) Could Issue 320 Million Shares at a Penny. Here is What Has to Happen First",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9e2ba45c837a248616bbcf80fc987ebb6e7fa5aa8b2300658742942d8dab3981",
-          "published_utc": "2026-10-07T00:08:12+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 28035,
+      "quote_age_seconds": 29744,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
