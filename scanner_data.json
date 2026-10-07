@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T01:45:58.994935+00:00",
+  "updated": "2026-10-07T02:15:34.109024+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 20758,
+      "quote_age_seconds": 22532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 20758,
+      "quote_age_seconds": 22532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AMD (AMD) Stock Is Up, What You Need To Know",
+          "headline": "Can Digital Realty Trust (DLR) Justify Its Valuation After The Blackfuel AI Deal?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7d1e0c7cb2bb95b08ab6acde5b7a78c7c4f97df345b7ea805661297d4de8ee40",
-          "published_utc": "2026-10-06T23:52:34+00:00"
+          "url": "https://finnhub.io/api/news?id=6dc103d6c51e094018b236eaf727456baea960cc2f8bb407f50176defcc1bc47",
+          "published_utc": "2026-10-07T01:09:01+00:00"
         },
         {
-          "headline": "Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High",
+          "headline": "U.S. stock futures steady after tech rally lifts S&P 500, Nasdaq to records",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27aa8f23f72f7f3415ccb867b175ffb9c55a9a809eb258461b6281e54862d14b",
-          "published_utc": "2026-10-06T21:53:05+00:00"
+          "url": "https://finnhub.io/api/news?id=a89afe7abc58ee8c41f9041d16a727dc42e2634a18969c190331790d3e9b1719",
+          "published_utc": "2026-10-07T00:44:54+00:00"
         },
         {
-          "headline": "Why Advanced Micro Devices (AMD) Outpaced the Stock Market Today",
+          "headline": "AMD (AMD) Could Issue 320 Million Shares at a Penny. Here is What Has to Happen First",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=631b4cc92b37b9c5deb83e34f7c30380ec7793055f31c869e92ba21496ff66c8",
-          "published_utc": "2026-10-06T20:45:03+00:00"
+          "url": "https://finnhub.io/api/news?id=9e2ba45c837a248616bbcf80fc987ebb6e7fa5aa8b2300658742942d8dab3981",
+          "published_utc": "2026-10-07T00:08:12+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 20758,
+      "quote_age_seconds": 22532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
