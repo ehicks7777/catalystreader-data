@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T11:15:20.070166+00:00",
+  "updated": "2026-10-07T11:45:41.523080+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 54918,
+      "quote_age_seconds": 56740,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 54918,
+      "quote_age_seconds": 56740,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "S&P 500 Breaks Above 7,800 as Chips and Nuclear Power Carry the AI Trade",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=cc7e73929302e0ab44508ce6cda8cdedfe3e3f6f1008e3334970997cf02c35b0",
+          "published_utc": "2026-10-07T10:13:09+00:00"
+        },
         {
           "headline": "AMD Plans a Big 2027 Supply Ramp. Wall Street Already Expects $38 Billion of New Revenue.",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=89588b2ba20767eeeee52b29237e7325312a576152be32b250d7da30f5e0455c",
           "published_utc": "2026-10-07T08:50:39+00:00"
-        },
-        {
-          "headline": "Company News for Oct 7, 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=955f8a446297ab01638c6f13cc6db72490be0a5260f6afc2f1b0f72095be05cc",
-          "published_utc": "2026-10-07T07:51:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 54918,
+      "quote_age_seconds": 56740,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
