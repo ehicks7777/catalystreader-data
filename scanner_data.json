@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:50:42.750488+00:00",
+  "updated": "2026-10-07T19:16:14.486129+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "SMCI",
-      "price": 44.86,
-      "change_percent": 3.2214,
+      "price": 45.64,
+      "change_percent": 5.0161,
       "previous_close": 43.46,
-      "quote_timestamp": 1791399035.0,
-      "quote_time_utc": "2026-10-07T18:50:35+00:00",
-      "quote_age_seconds": 6,
+      "quote_timestamp": 1791400556.0,
+      "quote_time_utc": "2026-10-07T19:15:56+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 44.86,
-      "change_percent": 3.2214,
+      "price": 45.64,
+      "change_percent": 5.0161,
       "previous_close": 43.46,
-      "quote_timestamp": 1791399035.0,
-      "quote_time_utc": "2026-10-07T18:50:35+00:00",
-      "quote_age_seconds": 6,
+      "quote_timestamp": 1791400556.0,
+      "quote_time_utc": "2026-10-07T19:15:56+00:00",
+      "quote_age_seconds": 17,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
