@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:18:33.803970+00:00",
+  "updated": "2026-10-07T18:50:42.750488+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "SMCI",
-      "price": 44.78,
-      "change_percent": 3.0373,
+      "price": 44.86,
+      "change_percent": 3.2214,
       "previous_close": 43.46,
-      "quote_timestamp": 1791397090.0,
-      "quote_time_utc": "2026-10-07T18:18:10+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791399035.0,
+      "quote_time_utc": "2026-10-07T18:50:35+00:00",
+      "quote_age_seconds": 6,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Wednesday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4574ee8c39ec3dd826fa7de37d8238c05690ba516f9b485eecc268e670c2781d",
+          "published_utc": "2026-10-07T18:05:03+00:00"
+        },
         {
           "headline": "Yangtze Optical Fibre And Cable Limited And 2 Other Top AI Infrastructure Stocks",
           "source": "Yahoo",
@@ -32,12 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=018e320cfbe1d439225ea9f86a52e169cbe56eccd24908230750e72a7c2fa296",
           "published_utc": "2026-10-07T13:10:00+00:00"
-        },
-        {
-          "headline": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=543b7a61ed849ae8ca67fcadf0eee529fcdeef470ac13b60afe2cd304c390f04",
-          "published_utc": "2026-10-07T12:06:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 44.78,
-      "change_percent": 3.0373,
+      "price": 44.86,
+      "change_percent": 3.2214,
       "previous_close": 43.46,
-      "quote_timestamp": 1791397090.0,
-      "quote_time_utc": "2026-10-07T18:18:10+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791399035.0,
+      "quote_time_utc": "2026-10-07T18:50:35+00:00",
+      "quote_age_seconds": 6,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,6 +60,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Wednesday's session: most active stock in the S&P500 index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4574ee8c39ec3dd826fa7de37d8238c05690ba516f9b485eecc268e670c2781d",
+          "published_utc": "2026-10-07T18:05:03+00:00"
+        },
         {
           "headline": "Yangtze Optical Fibre And Cable Limited And 2 Other Top AI Infrastructure Stocks",
           "source": "Yahoo",
@@ -71,12 +77,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=018e320cfbe1d439225ea9f86a52e169cbe56eccd24908230750e72a7c2fa296",
           "published_utc": "2026-10-07T13:10:00+00:00"
-        },
-        {
-          "headline": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=543b7a61ed849ae8ca67fcadf0eee529fcdeef470ac13b60afe2cd304c390f04",
-          "published_utc": "2026-10-07T12:06:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
