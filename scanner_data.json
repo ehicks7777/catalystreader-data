@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T10:46:34.337648+00:00",
+  "updated": "2026-10-07T11:15:20.070166+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 53191,
+      "quote_age_seconds": 54918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rocket Lab: Ready For Liftoff",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=47e463658b96c3a735bf2b7119a14ae81a8d6ca1692f074b856cb259e2f31652",
+          "published_utc": "2026-10-07T06:44:08+00:00"
+        },
         {
           "headline": "Rocket Lab Just Gained 17% in a Month: Is It Too Late to Buy RKLB Stock Now?",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=419d7c1d93960995e17af4f49df6f146364729f49502bc3f3f224b2b2715c0dc",
           "published_utc": "2026-10-06T16:04:53+00:00"
-        },
-        {
-          "headline": "Why AST SpaceMobile Stock Popped on Tuesday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04cd9d7eb4df7ffb071c036be395baf20901e65416656b804b2582f054624cbb",
-          "published_utc": "2026-10-06T15:14:08+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 53191,
+      "quote_age_seconds": 54918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 53191,
+      "quote_age_seconds": 54918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rocket Lab: Ready For Liftoff",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=47e463658b96c3a735bf2b7119a14ae81a8d6ca1692f074b856cb259e2f31652",
+          "published_utc": "2026-10-07T06:44:08+00:00"
+        },
         {
           "headline": "SpaceX Comfortably Wins on Scale. Here\u2019s How Rocket Lab Still Competes.",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6deff4163710fe5fb7b17cc33a3bb83fc6ebb3253a3d619421329ad214e97718",
           "published_utc": "2026-10-07T03:40:23+00:00"
-        },
-        {
-          "headline": "Rocket Lab, MYR Group, Ameresco, Comfort Systems, and Powell Shares Skyrocket, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6b760525abb6b99f1ca4bb2de2eeb1e40afe30f5b8f91253ec222d3557ea1462",
-          "published_utc": "2026-10-06T20:56:34+00:00"
         }
       ],
       "news_status": "Recent headlines found"
