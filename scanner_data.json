@@ -1,57 +1,19 @@
 {
-  "updated": "2026-10-07T17:21:12.377641+00:00",
+  "updated": "2026-10-07T17:46:25.461615+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "SMCI",
-      "price": 44.78,
-      "change_percent": 3.0373,
-      "previous_close": 43.46,
-      "quote_timestamp": 1791393655.0,
-      "quote_time_utc": "2026-10-07T17:20:55+00:00",
-      "quote_age_seconds": 16,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Should You Buy, Sell or Hold SMCI Stock at a P/S Valuation of 0.41X?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=018e320cfbe1d439225ea9f86a52e169cbe56eccd24908230750e72a7c2fa296",
-          "published_utc": "2026-10-07T13:10:00+00:00"
-        },
-        {
-          "headline": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=543b7a61ed849ae8ca67fcadf0eee529fcdeef470ac13b60afe2cd304c390f04",
-          "published_utc": "2026-10-07T12:06:01+00:00"
-        },
-        {
-          "headline": "If You Invested $100 In Super Micro Computer Stock 5 Years Ago, You Would Have This Much Today",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=c2be20d07be1474168d69632a6d3da38651b6a93e68371e57d6a34c740661a68",
-          "published_utc": "2026-10-07T10:00:27+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 44.78,
-      "change_percent": 3.0373,
+      "price": 44.66,
+      "change_percent": 2.7612,
       "previous_close": 43.46,
-      "quote_timestamp": 1791393655.0,
-      "quote_time_utc": "2026-10-07T17:20:55+00:00",
-      "quote_age_seconds": 16,
+      "quote_timestamp": 1791395170.0,
+      "quote_time_utc": "2026-10-07T17:46:10+00:00",
+      "quote_age_seconds": 14,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
