@@ -1,58 +1,20 @@
 {
-  "updated": "2026-10-07T19:44:23.698467+00:00",
+  "updated": "2026-10-07T20:15:32.386674+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "SMCI",
-      "price": 45.35,
-      "change_percent": 4.3488,
-      "previous_close": 43.46,
-      "quote_timestamp": 1791402242.0,
-      "quote_time_utc": "2026-10-07T19:44:02+00:00",
-      "quote_age_seconds": 20,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Exploring the top movers within the S&P500 index during today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
-          "published_utc": "2026-10-07T19:05:01+00:00"
-        },
-        {
-          "headline": "Wednesday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4574ee8c39ec3dd826fa7de37d8238c05690ba516f9b485eecc268e670c2781d",
-          "published_utc": "2026-10-07T18:05:03+00:00"
-        },
-        {
-          "headline": "Yangtze Optical Fibre And Cable Limited And 2 Other Top AI Infrastructure Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aaaefcb5dc608fc48dfe271af0a53f76623b1e96b266e8a761952a868cb968b8",
-          "published_utc": "2026-10-07T16:13:30+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 45.35,
-      "change_percent": 4.3488,
+      "price": 44.94,
+      "change_percent": 3.4054,
       "previous_close": 43.46,
-      "quote_timestamp": 1791402242.0,
-      "quote_time_utc": "2026-10-07T19:44:02+00:00",
-      "quote_age_seconds": 20,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1791403200.0,
+      "quote_time_utc": "2026-10-07T20:00:00+00:00",
+      "quote_age_seconds": 931,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -67,22 +29,22 @@
           "published_utc": "2026-10-07T19:05:01+00:00"
         },
         {
-          "headline": "Wednesday's session: most active stock in the S&P500 index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4574ee8c39ec3dd826fa7de37d8238c05690ba516f9b485eecc268e670c2781d",
-          "published_utc": "2026-10-07T18:05:03+00:00"
+          "headline": "Hewlett Packard Enterprise Just Surged 40% in a Month: Take Profits, or Buy More?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e062621c45a323d446bbb86b821a636b2bd30f6e5a5cf469e0c841f12ea4ea17",
+          "published_utc": "2026-10-07T18:57:45+00:00"
         },
         {
-          "headline": "Yangtze Optical Fibre And Cable Limited And 2 Other Top AI Infrastructure Stocks",
+          "headline": "Super Micro Edges Higher as Server Makers Rise Against a Falling Tech Tape; Hewlett Packard Enterprise Adds 3%, Dell Ticks Up",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=aaaefcb5dc608fc48dfe271af0a53f76623b1e96b266e8a761952a868cb968b8",
-          "published_utc": "2026-10-07T16:13:30+00:00"
+          "url": "https://finnhub.io/api/news?id=b396d30fc047b3bfc08c935bd6e789fddfca1b3ac7884c858ef6d0a1e1a3a2bc",
+          "published_utc": "2026-10-07T18:05:54+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
