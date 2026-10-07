@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:13:30.182748+00:00",
+  "updated": "2026-10-07T22:44:49.077361+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 43.46,
       "quote_timestamp": 1791403200.0,
       "quote_time_utc": "2026-10-07T20:00:00+00:00",
-      "quote_age_seconds": 8009,
+      "quote_age_seconds": 9887,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
