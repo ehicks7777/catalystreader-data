@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T11:45:41.523080+00:00",
+  "updated": "2026-10-07T12:20:47.042219+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 56740,
+      "quote_age_seconds": 58846,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 56740,
+      "quote_age_seconds": 58846,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -60,22 +60,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "S&P 500 Breaks Above 7,800 as Chips and Nuclear Power Carry the AI Trade",
+          "headline": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=cc7e73929302e0ab44508ce6cda8cdedfe3e3f6f1008e3334970997cf02c35b0",
-          "published_utc": "2026-10-07T10:13:09+00:00"
+          "url": "https://finnhub.io/api/news?id=543b7a61ed849ae8ca67fcadf0eee529fcdeef470ac13b60afe2cd304c390f04",
+          "published_utc": "2026-10-07T12:06:01+00:00"
         },
         {
-          "headline": "AMD Plans a Big 2027 Supply Ramp. Wall Street Already Expects $38 Billion of New Revenue.",
+          "headline": "AMD CEO Lisa Su pledges tens of billions for AI chip supply",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bcedf644d9117099b6ae3cfbb3f912ded832567c52fa08c5136b47731b81ace9",
-          "published_utc": "2026-10-07T09:05:52+00:00"
+          "url": "https://finnhub.io/api/news?id=bd6a2acf3e69f2b96e0b84426ecf363578ffe7f6bfcb4929b4b9238dd4db55fd",
+          "published_utc": "2026-10-07T11:23:22+00:00"
         },
         {
-          "headline": "What Jim Cramer Says About Advanced Micro Devices\u2019 (AMD) AI Opportunity",
+          "headline": "Broadcom Owns the Backstage; AMD Fights for the Spotlight",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=89588b2ba20767eeeee52b29237e7325312a576152be32b250d7da30f5e0455c",
-          "published_utc": "2026-10-07T08:50:39+00:00"
+          "url": "https://finnhub.io/api/news?id=94d0f0432aae19d4079aa013a9adf3e9b78001897d2b49977e3e8a3a5d173ec8",
+          "published_utc": "2026-10-07T11:15:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 56740,
+      "quote_age_seconds": 58846,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
