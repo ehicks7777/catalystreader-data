@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:18:29.233297+00:00",
+  "updated": "2026-10-07T06:51:25.648154+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 58.44,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 37105,
+      "quote_age_seconds": 39084,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 631.75,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 37105,
+      "quote_age_seconds": 39084,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 73.02,
       "quote_timestamp": 1791316800.0,
       "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 37105,
+      "quote_age_seconds": 39084,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SpaceX Comfortably Wins on Scale. Here\u2019s How Rocket Lab Still Competes.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d037dafe2d02be9c894a66c29036d35099e33be05025871ba834fca0610b2085",
+          "published_utc": "2026-10-07T05:36:23+00:00"
+        },
         {
           "headline": "Rocket Lab Booked 20 Launches Through 2031. The Catch Is in the Price.",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6b760525abb6b99f1ca4bb2de2eeb1e40afe30f5b8f91253ec222d3557ea1462",
           "published_utc": "2026-10-06T20:56:34+00:00"
-        },
-        {
-          "headline": "Rocket Lab Just Gained 17% in a Month: Is It Too Late to Buy RKLB Stock Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04fe21138317f81e84495c67d09257cd54ff4e2b46d7b24b4f0bc71bc1144295",
-          "published_utc": "2026-10-06T18:57:07+00:00"
         }
       ],
       "news_status": "Recent headlines found"
