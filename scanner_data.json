@@ -1,124 +1,12 @@
 {
-  "updated": "2026-10-07T13:19:03.628997+00:00",
+  "updated": "2026-10-07T13:47:08.785641+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "ASTS",
-      "price": 63.12,
-      "change_percent": 8.0082,
-      "previous_close": 58.44,
-      "quote_timestamp": 1791316800.0,
-      "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 62342,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab: Ready For Liftoff",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=47e463658b96c3a735bf2b7119a14ae81a8d6ca1692f074b856cb259e2f31652",
-          "published_utc": "2026-10-07T06:44:08+00:00"
-        },
-        {
-          "headline": "Rocket Lab Just Gained 17% in a Month: Is It Too Late to Buy RKLB Stock Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=04fe21138317f81e84495c67d09257cd54ff4e2b46d7b24b4f0bc71bc1144295",
-          "published_utc": "2026-10-06T18:57:07+00:00"
-        },
-        {
-          "headline": "AST SpaceMobile Is Soaring After State Dept. Endorses LEO Satellite Cooperation with Japan",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=419d7c1d93960995e17af4f49df6f146364729f49502bc3f3f224b2b2715c0dc",
-          "published_utc": "2026-10-06T16:04:53+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMD",
-      "price": 649.42,
-      "change_percent": 2.797,
-      "previous_close": 631.75,
-      "quote_timestamp": 1791316800.0,
-      "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 62342,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=543b7a61ed849ae8ca67fcadf0eee529fcdeef470ac13b60afe2cd304c390f04",
-          "published_utc": "2026-10-07T12:06:01+00:00"
-        },
-        {
-          "headline": "AMD CEO Lisa Su pledges tens of billions for AI chip supply",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bd6a2acf3e69f2b96e0b84426ecf363578ffe7f6bfcb4929b4b9238dd4db55fd",
-          "published_utc": "2026-10-07T11:23:22+00:00"
-        },
-        {
-          "headline": "Broadcom Owns the Backstage; AMD Fights for the Spotlight",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=94d0f0432aae19d4079aa013a9adf3e9b78001897d2b49977e3e8a3a5d173ec8",
-          "published_utc": "2026-10-07T11:15:38+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RKLB",
-      "price": 75.06,
-      "change_percent": 2.7938,
-      "previous_close": 73.02,
-      "quote_timestamp": 1791316800.0,
-      "quote_time_utc": "2026-10-06T20:00:00+00:00",
-      "quote_age_seconds": 62342,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Rocket Lab: Ready For Liftoff",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=47e463658b96c3a735bf2b7119a14ae81a8d6ca1692f074b856cb259e2f31652",
-          "published_utc": "2026-10-07T06:44:08+00:00"
-        },
-        {
-          "headline": "SpaceX Comfortably Wins on Scale. Here\u2019s How Rocket Lab Still Competes.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d037dafe2d02be9c894a66c29036d35099e33be05025871ba834fca0610b2085",
-          "published_utc": "2026-10-07T05:36:23+00:00"
-        },
-        {
-          "headline": "Rocket Lab Booked 20 Launches Through 2031. The Catch Is in the Price.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6deff4163710fe5fb7b17cc33a3bb83fc6ebb3253a3d619421329ad214e97718",
-          "published_utc": "2026-10-07T03:40:23+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "stale_quotes": 20,
+  "swing_trading": [],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
