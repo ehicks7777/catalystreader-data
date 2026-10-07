@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T19:16:14.486129+00:00",
+  "updated": "2026-10-07T19:44:23.698467+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "SMCI",
-      "price": 45.64,
-      "change_percent": 5.0161,
+      "price": 45.35,
+      "change_percent": 4.3488,
       "previous_close": 43.46,
-      "quote_timestamp": 1791400556.0,
-      "quote_time_utc": "2026-10-07T19:15:56+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1791402242.0,
+      "quote_time_utc": "2026-10-07T19:44:02+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Exploring the top movers within the S&P500 index during today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
+          "published_utc": "2026-10-07T19:05:01+00:00"
+        },
         {
           "headline": "Wednesday's session: most active stock in the S&P500 index",
           "source": "ChartMill",
@@ -32,12 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=aaaefcb5dc608fc48dfe271af0a53f76623b1e96b266e8a761952a868cb968b8",
           "published_utc": "2026-10-07T16:13:30+00:00"
-        },
-        {
-          "headline": "Should You Buy, Sell or Hold SMCI Stock at a P/S Valuation of 0.41X?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=018e320cfbe1d439225ea9f86a52e169cbe56eccd24908230750e72a7c2fa296",
-          "published_utc": "2026-10-07T13:10:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "SMCI",
-      "price": 45.64,
-      "change_percent": 5.0161,
+      "price": 45.35,
+      "change_percent": 4.3488,
       "previous_close": 43.46,
-      "quote_timestamp": 1791400556.0,
-      "quote_time_utc": "2026-10-07T19:15:56+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1791402242.0,
+      "quote_time_utc": "2026-10-07T19:44:02+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,6 +60,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Exploring the top movers within the S&P500 index during today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
+          "published_utc": "2026-10-07T19:05:01+00:00"
+        },
         {
           "headline": "Wednesday's session: most active stock in the S&P500 index",
           "source": "ChartMill",
@@ -71,12 +77,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=aaaefcb5dc608fc48dfe271af0a53f76623b1e96b266e8a761952a868cb968b8",
           "published_utc": "2026-10-07T16:13:30+00:00"
-        },
-        {
-          "headline": "Should You Buy, Sell or Hold SMCI Stock at a P/S Valuation of 0.41X?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=018e320cfbe1d439225ea9f86a52e169cbe56eccd24908230750e72a7c2fa296",
-          "published_utc": "2026-10-07T13:10:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
