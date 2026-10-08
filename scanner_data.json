@@ -1,49 +1,11 @@
 {
-  "updated": "2026-10-08T17:15:58.761563+00:00",
+  "updated": "2026-10-08T17:46:22.889510+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "PLTR",
-      "price": 198.03,
-      "change_percent": 2.0142,
-      "previous_close": 194.12,
-      "quote_timestamp": 1791479723.0,
-      "quote_time_utc": "2026-10-08T17:15:23+00:00",
-      "quote_age_seconds": 32,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92f4277736d57f55d1a9e8e5821e50b7e901f743959c94503c04d034947defe2",
-          "published_utc": "2026-10-08T15:10:49+00:00"
-        },
-        {
-          "headline": "Stock Market Today: Dow Slides After Trump Remarks; Yields, Oil Prices Surge (Live Coverage)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f3b7b0d6cb3225f6733d47100d619be7d6f5bb579e0c557886f668d2a0d4860",
-          "published_utc": "2026-10-08T15:02:34+00:00"
-        },
-        {
-          "headline": "Securitize Rolls Out 1:1-Backed Tokens of Apple, Nvidia and 10 Other U.S. Stocks on Solana",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d8806409c3d3cce81ff5196291c460db87540eab00615dac15af62cd56db8493",
-          "published_utc": "2026-10-08T14:54:49+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "swing_trading": [],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
