@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:46:23.802313+00:00",
+  "updated": "2026-10-08T20:16:37.459614+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,13 +8,13 @@
   "swing_trading": [
     {
       "symbol": "PLTR",
-      "price": 198.3,
-      "change_percent": 2.1533,
+      "price": 198.78,
+      "change_percent": 2.4006,
       "previous_close": 194.12,
-      "quote_timestamp": 1791488757.0,
-      "quote_time_utc": "2026-10-08T19:45:57+00:00",
-      "quote_age_seconds": 25,
-      "quote_freshness": "fresh",
+      "quote_timestamp": 1791489600.0,
+      "quote_time_utc": "2026-10-08T20:00:00+00:00",
+      "quote_age_seconds": 996,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -44,7 +44,7 @@
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
