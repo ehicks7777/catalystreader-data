@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T22:14:56.329802+00:00",
+  "updated": "2026-10-08T22:46:21.547871+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 194.12,
       "quote_timestamp": 1791489600.0,
       "quote_time_utc": "2026-10-08T20:00:00+00:00",
-      "quote_age_seconds": 8095,
+      "quote_age_seconds": 9980,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -35,10 +35,10 @@
           "published_utc": "2026-10-08T17:35:00+00:00"
         },
         {
-          "headline": "Palantir Stock Is Up 45% in Three Months. How Close Is the Street\u2019s $200 Target?",
+          "headline": "\u2018Everybody knows you\u2019re out of touch\u2019: Palantir CEO Alex Karp says his own exec told him to stop hyping Foundry",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=834f81dca5460258fd30cc34d780136df915b689293c6955c3d545413be61e50",
-          "published_utc": "2026-10-08T17:09:57+00:00"
+          "url": "https://finnhub.io/api/news?id=6bdbb600c4b6f36d817fa0c8fea3f8d91fbe8e3681653ec85e7b5b2902a44df1",
+          "published_utc": "2026-10-08T17:20:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
