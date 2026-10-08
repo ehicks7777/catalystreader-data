@@ -1,20 +1,19 @@
 {
-  "updated": "2026-10-08T13:19:48.545817+00:00",
+  "updated": "2026-10-08T13:47:49.223620+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
-      "symbol": "SMCI",
-      "price": 44.94,
-      "change_percent": 3.4054,
-      "previous_close": 43.46,
-      "quote_timestamp": 1791403200.0,
-      "quote_time_utc": "2026-10-07T20:00:00+00:00",
-      "quote_age_seconds": 62387,
-      "quote_freshness": "stale",
+      "symbol": "PLTR",
+      "price": 200.33,
+      "change_percent": 3.1991,
+      "previous_close": 194.12,
+      "quote_timestamp": 1791467257.0,
+      "quote_time_utc": "2026-10-08T13:47:37+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,28 +22,67 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "New Strong Buy Stocks for October 8th",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3f5b839877f05d179377cd368e02e3cb2c03f7d32ffa784515d6b4be44d43a04",
-          "published_utc": "2026-10-08T08:31:00+00:00"
+          "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1ac25b3729a281f22c541b2922f619ac20a7dd4de053fb7af5ccb6d5a18d03b1",
+          "published_utc": "2026-10-08T12:35:01+00:00"
         },
         {
-          "headline": "NetApp (NTAP) Wins An Analyst Upgrade, Is It 19% Overvalued?",
+          "headline": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: CAVA Group, Constellation Brands, Goldman Sachs Group, Hub Spot, Hut 8, Paladin Technologies, NXP Semiconductor, Spotify Technology, Tyler Technologies, and More",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b5bfe3d0fc6dd8469a33a258286a854fc5c66419707fcade5e64382999c185a2",
-          "published_utc": "2026-10-08T08:14:23+00:00"
+          "url": "https://finnhub.io/api/news?id=5c55bf15f9ef789ef0c822e8e4fd0dc0516256d32a7a60461bab66f0ace0a3d5",
+          "published_utc": "2026-10-08T11:54:32+00:00"
         },
         {
-          "headline": "Best Value Stocks to Buy for October 8th",
+          "headline": "Prediction: These 2 Stocks Will Be Worth More Than Palantir 5 Years From Now",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a7649792abf170a5c798ded868b8d2e5ede354eccc4b669e78d48da50affed31",
-          "published_utc": "2026-10-08T06:12:00+00:00"
+          "url": "https://finnhub.io/api/news?id=a38f39d2012130da6c61f1940a77a5c2b75cbd23b801af326403d561e42d1d18",
+          "published_utc": "2026-10-08T11:28:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "swing_trading": [
+    {
+      "symbol": "PLTR",
+      "price": 200.33,
+      "change_percent": 3.1991,
+      "previous_close": 194.12,
+      "quote_timestamp": 1791467257.0,
+      "quote_time_utc": "2026-10-08T13:47:37+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1ac25b3729a281f22c541b2922f619ac20a7dd4de053fb7af5ccb6d5a18d03b1",
+          "published_utc": "2026-10-08T12:35:01+00:00"
+        },
+        {
+          "headline": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: CAVA Group, Constellation Brands, Goldman Sachs Group, Hub Spot, Hut 8, Paladin Technologies, NXP Semiconductor, Spotify Technology, Tyler Technologies, and More",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5c55bf15f9ef789ef0c822e8e4fd0dc0516256d32a7a60461bab66f0ace0a3d5",
+          "published_utc": "2026-10-08T11:54:32+00:00"
+        },
+        {
+          "headline": "Prediction: These 2 Stocks Will Be Worth More Than Palantir 5 Years From Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a38f39d2012130da6c61f1940a77a5c2b75cbd23b801af326403d561e42d1d18",
+          "published_utc": "2026-10-08T11:28:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
