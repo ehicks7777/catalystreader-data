@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T07:47:52.489064+00:00",
+  "updated": "2026-10-08T08:17:23.389735+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 43.46,
       "quote_timestamp": 1791403200.0,
       "quote_time_utc": "2026-10-07T20:00:00+00:00",
-      "quote_age_seconds": 42472,
+      "quote_age_seconds": 44242,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Best Value Stocks to Buy for October 8th",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a7649792abf170a5c798ded868b8d2e5ede354eccc4b669e78d48da50affed31",
+          "published_utc": "2026-10-08T06:12:00+00:00"
+        },
         {
           "headline": "Elite AI Chip Stocks To Own In October 2026",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
           "published_utc": "2026-10-07T19:05:01+00:00"
-        },
-        {
-          "headline": "Hewlett Packard Enterprise Just Surged 40% in a Month: Take Profits, or Buy More?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e062621c45a323d446bbb86b821a636b2bd30f6e5a5cf469e0c841f12ea4ea17",
-          "published_utc": "2026-10-07T18:57:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
