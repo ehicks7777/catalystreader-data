@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T13:47:49.223620+00:00",
+  "updated": "2026-10-08T14:18:50.370390+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "PLTR",
-      "price": 200.33,
-      "change_percent": 3.1991,
+      "price": 201.71,
+      "change_percent": 3.91,
       "previous_close": 194.12,
-      "quote_timestamp": 1791467257.0,
-      "quote_time_utc": "2026-10-08T13:47:37+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791469119.0,
+      "quote_time_utc": "2026-10-08T14:18:39+00:00",
+      "quote_age_seconds": 9,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,22 +22,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1ac25b3729a281f22c541b2922f619ac20a7dd4de053fb7af5ccb6d5a18d03b1",
-          "published_utc": "2026-10-08T12:35:01+00:00"
+          "headline": "Goldman Sachs upgrades Palantir stock to Buy from Neutral",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c28767afbd037716c4d0930a6e1350ac7e846042d7c5716897d2cbaee83fb45f",
+          "published_utc": "2026-10-08T13:49:52+00:00"
         },
         {
-          "headline": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: CAVA Group, Constellation Brands, Goldman Sachs Group, Hub Spot, Hut 8, Paladin Technologies, NXP Semiconductor, Spotify Technology, Tyler Technologies, and More",
+          "headline": "Western Digital upgraded, PayPal initiated: Wall Street's top analyst calls",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c55bf15f9ef789ef0c822e8e4fd0dc0516256d32a7a60461bab66f0ace0a3d5",
-          "published_utc": "2026-10-08T11:54:32+00:00"
+          "url": "https://finnhub.io/api/news?id=27528b27da098eccd8995c8fe4848e47e7b0b73f20c8cb2aad3df002a5e847c0",
+          "published_utc": "2026-10-08T13:43:23+00:00"
         },
         {
-          "headline": "Prediction: These 2 Stocks Will Be Worth More Than Palantir 5 Years From Now",
+          "headline": "Palantir Advances 3% as Goldman Sachs Upgrades to Buy With $230 Target; Salesforce and ServiceNow Hold Steady",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a38f39d2012130da6c61f1940a77a5c2b75cbd23b801af326403d561e42d1d18",
-          "published_utc": "2026-10-08T11:28:00+00:00"
+          "url": "https://finnhub.io/api/news?id=bae5dac33524acfd76938a35b6896f8de23f2cc85d2aebf802816883e9eb4a97",
+          "published_utc": "2026-10-08T13:28:44+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "PLTR",
-      "price": 200.33,
-      "change_percent": 3.1991,
+      "price": 201.71,
+      "change_percent": 3.91,
       "previous_close": 194.12,
-      "quote_timestamp": 1791467257.0,
-      "quote_time_utc": "2026-10-08T13:47:37+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791469119.0,
+      "quote_time_utc": "2026-10-08T14:18:39+00:00",
+      "quote_age_seconds": 9,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -61,22 +61,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1ac25b3729a281f22c541b2922f619ac20a7dd4de053fb7af5ccb6d5a18d03b1",
-          "published_utc": "2026-10-08T12:35:01+00:00"
+          "headline": "Goldman Sachs upgrades Palantir stock to Buy from Neutral",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c28767afbd037716c4d0930a6e1350ac7e846042d7c5716897d2cbaee83fb45f",
+          "published_utc": "2026-10-08T13:49:52+00:00"
         },
         {
-          "headline": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: CAVA Group, Constellation Brands, Goldman Sachs Group, Hub Spot, Hut 8, Paladin Technologies, NXP Semiconductor, Spotify Technology, Tyler Technologies, and More",
+          "headline": "Western Digital upgraded, PayPal initiated: Wall Street's top analyst calls",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5c55bf15f9ef789ef0c822e8e4fd0dc0516256d32a7a60461bab66f0ace0a3d5",
-          "published_utc": "2026-10-08T11:54:32+00:00"
+          "url": "https://finnhub.io/api/news?id=27528b27da098eccd8995c8fe4848e47e7b0b73f20c8cb2aad3df002a5e847c0",
+          "published_utc": "2026-10-08T13:43:23+00:00"
         },
         {
-          "headline": "Prediction: These 2 Stocks Will Be Worth More Than Palantir 5 Years From Now",
+          "headline": "Palantir Advances 3% as Goldman Sachs Upgrades to Buy With $230 Target; Salesforce and ServiceNow Hold Steady",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a38f39d2012130da6c61f1940a77a5c2b75cbd23b801af326403d561e42d1d18",
-          "published_utc": "2026-10-08T11:28:00+00:00"
+          "url": "https://finnhub.io/api/news?id=bae5dac33524acfd76938a35b6896f8de23f2cc85d2aebf802816883e9eb4a97",
+          "published_utc": "2026-10-08T13:28:44+00:00"
         }
       ],
       "news_status": "Recent headlines found"
