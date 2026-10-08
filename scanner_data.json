@@ -1,11 +1,49 @@
 {
-  "updated": "2026-10-08T19:16:05.315988+00:00",
+  "updated": "2026-10-08T19:46:23.802313+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [],
+  "swing_trading": [
+    {
+      "symbol": "PLTR",
+      "price": 198.3,
+      "change_percent": 2.1533,
+      "previous_close": 194.12,
+      "quote_timestamp": 1791488757.0,
+      "quote_time_utc": "2026-10-08T19:45:57+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Looking for the most active stocks in the S&P500 index on Thursday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=e8f0d85eb95a24026ef2036ad49410e7fd9a4f34d744d8ecfa17937b899da51a",
+          "published_utc": "2026-10-08T18:05:04+00:00"
+        },
+        {
+          "headline": "Palantir Looks Like a Consulting Company. Its Numbers Tell a Different Story.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0d56efe9debf9d0b56130102fa21be3e9bf10771c8e0a85eeef74111cdfa438b",
+          "published_utc": "2026-10-08T17:35:00+00:00"
+        },
+        {
+          "headline": "Palantir Stock Is Up 45% in Three Months. How Close Is the Street\u2019s $200 Target?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=834f81dca5460258fd30cc34d780136df915b689293c6955c3d545413be61e50",
+          "published_utc": "2026-10-08T17:09:57+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
