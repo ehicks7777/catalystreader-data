@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:49:03.347965+00:00",
+  "updated": "2026-10-08T16:18:33.871580+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "PLTR",
-      "price": 199.3,
-      "change_percent": 2.6685,
+      "price": 198.48,
+      "change_percent": 2.246,
       "previous_close": 194.12,
-      "quote_timestamp": 1791474518.0,
-      "quote_time_utc": "2026-10-08T15:48:38+00:00",
-      "quote_age_seconds": 24,
+      "quote_timestamp": 1791476299.0,
+      "quote_time_utc": "2026-10-08T16:18:19+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Goldman Sachs upgrades Palantir stock to Buy from Neutral",
+          "headline": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c28767afbd037716c4d0930a6e1350ac7e846042d7c5716897d2cbaee83fb45f",
-          "published_utc": "2026-10-08T13:49:52+00:00"
+          "url": "https://finnhub.io/api/news?id=92f4277736d57f55d1a9e8e5821e50b7e901f743959c94503c04d034947defe2",
+          "published_utc": "2026-10-08T15:10:49+00:00"
         },
         {
-          "headline": "Western Digital upgraded, PayPal initiated: Wall Street's top analyst calls",
+          "headline": "Stock Market Today: Dow Slides After Trump Remarks; Yields, Oil Prices Surge (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=27528b27da098eccd8995c8fe4848e47e7b0b73f20c8cb2aad3df002a5e847c0",
-          "published_utc": "2026-10-08T13:43:23+00:00"
+          "url": "https://finnhub.io/api/news?id=3f3b7b0d6cb3225f6733d47100d619be7d6f5bb579e0c557886f668d2a0d4860",
+          "published_utc": "2026-10-08T15:02:34+00:00"
         },
         {
-          "headline": "Palantir Advances 3% as Goldman Sachs Upgrades to Buy With $230 Target; Salesforce and ServiceNow Hold Steady",
+          "headline": "Securitize Rolls Out 1:1-Backed Tokens of Apple, Nvidia and 10 Other U.S. Stocks on Solana",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bae5dac33524acfd76938a35b6896f8de23f2cc85d2aebf802816883e9eb4a97",
-          "published_utc": "2026-10-08T13:28:44+00:00"
+          "url": "https://finnhub.io/api/news?id=d8806409c3d3cce81ff5196291c460db87540eab00615dac15af62cd56db8493",
+          "published_utc": "2026-10-08T14:54:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
