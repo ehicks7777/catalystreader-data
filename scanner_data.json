@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:18:50.370390+00:00",
+  "updated": "2026-10-08T14:48:53.807415+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "PLTR",
-      "price": 201.71,
-      "change_percent": 3.91,
+      "price": 200.88,
+      "change_percent": 3.4824,
       "previous_close": 194.12,
-      "quote_timestamp": 1791469119.0,
-      "quote_time_utc": "2026-10-08T14:18:39+00:00",
-      "quote_age_seconds": 9,
+      "quote_timestamp": 1791470913.0,
+      "quote_time_utc": "2026-10-08T14:48:33+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "PLTR",
-      "price": 201.71,
-      "change_percent": 3.91,
+      "price": 200.88,
+      "change_percent": 3.4824,
       "previous_close": 194.12,
-      "quote_timestamp": 1791469119.0,
-      "quote_time_utc": "2026-10-08T14:18:39+00:00",
-      "quote_age_seconds": 9,
+      "quote_timestamp": 1791470913.0,
+      "quote_time_utc": "2026-10-08T14:48:33+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
