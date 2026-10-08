@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T01:46:34.636359+00:00",
+  "updated": "2026-10-08T02:14:33.526966+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 43.46,
       "quote_timestamp": 1791403200.0,
       "quote_time_utc": "2026-10-07T20:00:00+00:00",
-      "quote_age_seconds": 20794,
+      "quote_age_seconds": 22472,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Elite AI Chip Stocks To Own In October 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a414547fb8532ca1325e4db5ac7284c2df8749c072799deaa9c06ef85b00ea98",
+          "published_utc": "2026-10-08T01:16:44+00:00"
+        },
         {
           "headline": "Exploring the top movers within the S&P500 index during today's session.",
           "source": "ChartMill",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e062621c45a323d446bbb86b821a636b2bd30f6e5a5cf469e0c841f12ea4ea17",
           "published_utc": "2026-10-07T18:57:45+00:00"
-        },
-        {
-          "headline": "Super Micro Edges Higher as Server Makers Rise Against a Falling Tech Tape; Hewlett Packard Enterprise Adds 3%, Dell Ticks Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b396d30fc047b3bfc08c935bd6e789fddfca1b3ac7884c858ef6d0a1e1a3a2bc",
-          "published_utc": "2026-10-07T18:05:54+00:00"
         }
       ],
       "news_status": "Recent headlines found"
