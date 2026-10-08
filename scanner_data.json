@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T09:47:55.363930+00:00",
+  "updated": "2026-10-08T10:17:17.100206+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 43.46,
       "quote_timestamp": 1791403200.0,
       "quote_time_utc": "2026-10-07T20:00:00+00:00",
-      "quote_age_seconds": 49674,
+      "quote_age_seconds": 51436,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "New Strong Buy Stocks for October 8th",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3f5b839877f05d179377cd368e02e3cb2c03f7d32ffa784515d6b4be44d43a04",
+          "published_utc": "2026-10-08T08:31:00+00:00"
+        },
+        {
+          "headline": "NetApp (NTAP) Wins An Analyst Upgrade, Is It 19% Overvalued?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b5bfe3d0fc6dd8469a33a258286a854fc5c66419707fcade5e64382999c185a2",
+          "published_utc": "2026-10-08T08:14:23+00:00"
+        },
+        {
           "headline": "Best Value Stocks to Buy for October 8th",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a7649792abf170a5c798ded868b8d2e5ede354eccc4b669e78d48da50affed31",
           "published_utc": "2026-10-08T06:12:00+00:00"
-        },
-        {
-          "headline": "Elite AI Chip Stocks To Own In October 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a414547fb8532ca1325e4db5ac7284c2df8749c072799deaa9c06ef85b00ea98",
-          "published_utc": "2026-10-08T01:16:44+00:00"
-        },
-        {
-          "headline": "Exploring the top movers within the S&P500 index during today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
-          "published_utc": "2026-10-07T19:05:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
