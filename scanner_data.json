@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T11:45:30.533891+00:00",
+  "updated": "2026-10-09T12:18:35.469177+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 194.12,
       "quote_timestamp": 1791489600.0,
       "quote_time_utc": "2026-10-08T20:00:00+00:00",
-      "quote_age_seconds": 56729,
+      "quote_age_seconds": 58714,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Two Reasons SpaceX Stock Is Jumping Higher Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=789bae69d2bcc699f8a2948d339e90e31f20b9f345e0618131881778f03b52ad",
+          "published_utc": "2026-10-09T11:16:00+00:00"
+        },
+        {
+          "headline": "Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Friday; SpaceX, Nebius Group to Advance",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f98f52dae6b1c3f34445b85bc8a333038fc0ea7b0a07bc884f94ea9f4809a41f",
+          "published_utc": "2026-10-09T10:34:18+00:00"
+        },
+        {
           "headline": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=557033d381aadccfe976abc5e7e0ac7ac2483c91237e84c6093fb91093fef475",
           "published_utc": "2026-10-09T10:00:23+00:00"
-        },
-        {
-          "headline": "If You're Worried About an AI Bubble, Here's the Tech Stock Portfolio I'd Build",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1692cb68d9f8fdb7e552ed48a375d8b54f6fc21f20c9ad8ecc799324bc7b51ee",
-          "published_utc": "2026-10-09T09:30:00+00:00"
-        },
-        {
-          "headline": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On Palantir, Marvell And Cava As Nike Faces Downgrade",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=25491a2cc68a9b4d38be43d53e0a2e92e3bfe9746d919c2e4f58f2a2fa505e5b",
-          "published_utc": "2026-10-09T09:06:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
