@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:18:04.049669+00:00",
+  "updated": "2026-10-09T14:49:44.556168+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 178.75,
-      "change_percent": 3.9244,
+      "price": 179.64,
+      "change_percent": 4.4419,
       "previous_close": 172.0,
-      "quote_timestamp": 1791555473.0,
-      "quote_time_utc": "2026-10-09T14:17:53+00:00",
-      "quote_age_seconds": 10,
+      "quote_timestamp": 1791557371.0,
+      "quote_time_utc": "2026-10-09T14:49:31+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,13 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MSTR",
-      "price": 157.29,
-      "change_percent": 3.8423,
-      "previous_close": 151.47,
-      "quote_timestamp": 1791555473.0,
-      "quote_time_utc": "2026-10-09T14:17:53+00:00",
-      "quote_age_seconds": 10,
+      "symbol": "TSLA",
+      "price": 387.27,
+      "change_percent": 3.272,
+      "previous_close": 375.0,
+      "quote_timestamp": 1791557372.0,
+      "quote_time_utc": "2026-10-09T14:49:32+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,22 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
+          "headline": "Tesla rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
-          "published_utc": "2026-10-09T11:29:12+00:00"
+          "url": "https://finnhub.io/api/news?id=d583f92a5582bdad79139d859f6afa553c3b155edb4447bcfb24d3ccc092dff2",
+          "published_utc": "2026-10-09T13:12:04+00:00"
         },
         {
-          "headline": "Why Saylor Called Musk\u2019s Wildest SpaceX Claim \u201c\u20bfullish\u201d",
+          "headline": "Intel Is Worth More Than Coca-Cola and PepsiCo Put Together",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3434f8aa0b2f80e08616a179e68f6419efccac3ce92d8592b9cf2332ba438cf0",
-          "published_utc": "2026-10-09T07:08:59+00:00"
+          "url": "https://finnhub.io/api/news?id=7c0df84702b3bed557b6d543c172e55edc3f04cd7f00cd03ec6ce03166ba8302",
+          "published_utc": "2026-10-09T12:45:30+00:00"
         },
         {
-          "headline": "Bitcoin falls to $82k, heads for weekly losses amid yield pressure",
+          "headline": "Record Profits at Samsung and TSMC Say the AI Trade is Intact",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1ab42f6afec44fd122e1183f864d2b73269a2820f31b1e4f8066f59986dd1c0d",
-          "published_utc": "2026-10-09T07:05:55+00:00"
+          "url": "https://finnhub.io/api/news?id=3b293e07820878b1cc65b6dea375799c0ac3bf437eff9ec60b6c00836341849c",
+          "published_utc": "2026-10-09T12:23:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 178.75,
-      "change_percent": 3.9244,
+      "price": 179.64,
+      "change_percent": 4.4419,
       "previous_close": 172.0,
-      "quote_timestamp": 1791555473.0,
-      "quote_time_utc": "2026-10-09T14:17:53+00:00",
-      "quote_age_seconds": 10,
+      "quote_timestamp": 1791557371.0,
+      "quote_time_utc": "2026-10-09T14:49:31+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -119,49 +119,12 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MSTR",
-      "price": 157.29,
-      "change_percent": 3.8423,
-      "previous_close": 151.47,
-      "quote_timestamp": 1791555473.0,
-      "quote_time_utc": "2026-10-09T14:17:53+00:00",
-      "quote_age_seconds": 10,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
-          "published_utc": "2026-10-09T11:29:12+00:00"
-        },
-        {
-          "headline": "Why Saylor Called Musk\u2019s Wildest SpaceX Claim \u201c\u20bfullish\u201d",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3434f8aa0b2f80e08616a179e68f6419efccac3ce92d8592b9cf2332ba438cf0",
-          "published_utc": "2026-10-09T07:08:59+00:00"
-        },
-        {
-          "headline": "Bitcoin falls to $82k, heads for weekly losses amid yield pressure",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1ab42f6afec44fd122e1183f864d2b73269a2820f31b1e4f8066f59986dd1c0d",
-          "published_utc": "2026-10-09T07:05:55+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "TSLA",
-      "price": 385.79,
-      "change_percent": 2.8773,
+      "price": 387.27,
+      "change_percent": 3.272,
       "previous_close": 375.0,
-      "quote_timestamp": 1791555472.0,
-      "quote_time_utc": "2026-10-09T14:17:52+00:00",
+      "quote_timestamp": 1791557372.0,
+      "quote_time_utc": "2026-10-09T14:49:32+00:00",
       "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
@@ -193,12 +156,49 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "MSTR",
+      "price": 155.53,
+      "change_percent": 2.6804,
+      "previous_close": 151.47,
+      "quote_timestamp": 1791557372.0,
+      "quote_time_utc": "2026-10-09T14:49:32+00:00",
+      "quote_age_seconds": 11,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "JPMorgan Chase Is Bullish On Crypto Heading Into Year\u2019s End",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c27e3ce8b7639718277130833c2f465a474acfac605f64724846080b409c0f27",
+          "published_utc": "2026-10-09T13:34:00+00:00"
+        },
+        {
+          "headline": "Kinder Morgan (KMI): High-Yield Energy Infrastructure Backed by Gas Demand",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c6913a95de1f9fc8ffa8c39c00ecb5bd63f1163cee05f24f71bb63dcd078c8d3",
+          "published_utc": "2026-10-09T13:08:57+00:00"
+        },
+        {
+          "headline": "T-Mobile (TMUS): Expanding Market Share with Industry-Leading Cost Efficiency",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff26b891b9443bfd0c5e0089b954fe3d8412153e32568415f07279ebb8cdda10",
+          "published_utc": "2026-10-09T12:57:43+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "AMZN",
-      "price": 259.17,
-      "change_percent": 2.0113,
+      "price": 259.87,
+      "change_percent": 2.2869,
       "previous_close": 254.06,
-      "quote_timestamp": 1791555472.0,
-      "quote_time_utc": "2026-10-09T14:17:52+00:00",
+      "quote_timestamp": 1791557372.0,
+      "quote_time_utc": "2026-10-09T14:49:32+00:00",
       "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
@@ -230,13 +230,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "HOOD",
-      "price": 109.16,
-      "change_percent": 2.0092,
-      "previous_close": 107.01,
-      "quote_timestamp": 1791555473.0,
-      "quote_time_utc": "2026-10-09T14:17:53+00:00",
-      "quote_age_seconds": 10,
+      "symbol": "MSFT",
+      "price": 533.13,
+      "change_percent": 2.013,
+      "previous_close": 522.61,
+      "quote_timestamp": 1791557371.0,
+      "quote_time_utc": "2026-10-09T14:49:31+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -246,22 +246,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
+          "headline": "Trump suspended Microsoft's green card program & awarded its CEO, all in the same day",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
-          "published_utc": "2026-10-09T13:25:00+00:00"
+          "url": "https://finnhub.io/api/news?id=c65a35fead8908d67da39460773ba4def609fa9292d839984308bb8ce470d2da",
+          "published_utc": "2026-10-09T13:50:45+00:00"
         },
         {
-          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
+          "headline": "Is Alphabet Stock Priced Right Against Its Peers?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
-          "published_utc": "2026-10-09T12:21:00+00:00"
+          "url": "https://finnhub.io/api/news?id=4142f7953cea56dfa30170f132a4b9ae58227495c68f8928e3a03f711b8df5b2",
+          "published_utc": "2026-10-09T13:30:03+00:00"
         },
         {
-          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
+          "headline": "Can Advanced Micro Devices\u2019 (AMD) Helios Racks Justify its Forward P/E?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
-          "published_utc": "2026-10-09T11:29:12+00:00"
+          "url": "https://finnhub.io/api/news?id=dc691ede35300cc0c2f21cef1a68ca3675bdb9d7176911149b3629df4209b62e",
+          "published_utc": "2026-10-09T13:28:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
