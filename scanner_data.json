@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:15:46.506150+00:00",
+  "updated": "2026-10-09T15:48:02.668546+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 178.33,
-      "change_percent": 3.6802,
+      "price": 181.34,
+      "change_percent": 5.4302,
       "previous_close": 172.0,
-      "quote_timestamp": 1791558915.0,
-      "quote_time_utc": "2026-10-09T15:15:15+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1791560863.0,
+      "quote_time_utc": "2026-10-09T15:47:43+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -41,17 +41,276 @@
         }
       ],
       "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSTR",
+      "price": 157.39,
+      "change_percent": 3.9084,
+      "previous_close": 151.47,
+      "quote_timestamp": 1791560864.0,
+      "quote_time_utc": "2026-10-09T15:47:44+00:00",
+      "quote_age_seconds": 17,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "JPMorgan Chase Is Bullish On Crypto Heading Into Year\u2019s End",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c27e3ce8b7639718277130833c2f465a474acfac605f64724846080b409c0f27",
+          "published_utc": "2026-10-09T13:34:00+00:00"
+        },
+        {
+          "headline": "Kinder Morgan (KMI): High-Yield Energy Infrastructure Backed by Gas Demand",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c6913a95de1f9fc8ffa8c39c00ecb5bd63f1163cee05f24f71bb63dcd078c8d3",
+          "published_utc": "2026-10-09T13:08:57+00:00"
+        },
+        {
+          "headline": "T-Mobile (TMUS): Expanding Market Share with Industry-Leading Cost Efficiency",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff26b891b9443bfd0c5e0089b954fe3d8412153e32568415f07279ebb8cdda10",
+          "published_utc": "2026-10-09T12:57:43+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "PLTR",
+      "price": 205.52,
+      "change_percent": 3.3907,
+      "previous_close": 198.78,
+      "quote_timestamp": 1791560866.0,
+      "quote_time_utc": "2026-10-09T15:47:46+00:00",
+      "quote_age_seconds": 15,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8019c880fe0c4a00f7e9abe7cfb5f19d0f21c3d8f821c1d3a92e1d163987cecd",
+          "published_utc": "2026-10-09T13:45:18+00:00"
+        },
+        {
+          "headline": "2 Reasons SpaceX Stock Is Rising Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=541756bf260aa7d83f3b4d1f5ff278648292701771bbc4b78f8c910f690211a6",
+          "published_utc": "2026-10-09T12:14:00+00:00"
+        },
+        {
+          "headline": "Use This Unconventional Add-On Entry To Add To Breakouts In Microsoft, Palantir Technologies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7f36137c9a12204cdaf7c82f5ae2d1291a8f2dbdab8367c4f910de1ec01f836c",
+          "published_utc": "2026-10-09T12:02:55+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
     }
   ],
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 178.33,
-      "change_percent": 3.6802,
+      "price": 181.34,
+      "change_percent": 5.4302,
       "previous_close": 172.0,
-      "quote_timestamp": 1791558915.0,
-      "quote_time_utc": "2026-10-09T15:15:15+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1791560863.0,
+      "quote_time_utc": "2026-10-09T15:47:43+00:00",
+      "quote_age_seconds": 18,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
+          "published_utc": "2026-10-09T13:25:00+00:00"
+        },
+        {
+          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
+          "published_utc": "2026-10-09T12:21:00+00:00"
+        },
+        {
+          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
+          "published_utc": "2026-10-09T11:29:12+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSTR",
+      "price": 157.39,
+      "change_percent": 3.9084,
+      "previous_close": 151.47,
+      "quote_timestamp": 1791560864.0,
+      "quote_time_utc": "2026-10-09T15:47:44+00:00",
+      "quote_age_seconds": 17,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "JPMorgan Chase Is Bullish On Crypto Heading Into Year\u2019s End",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c27e3ce8b7639718277130833c2f465a474acfac605f64724846080b409c0f27",
+          "published_utc": "2026-10-09T13:34:00+00:00"
+        },
+        {
+          "headline": "Kinder Morgan (KMI): High-Yield Energy Infrastructure Backed by Gas Demand",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c6913a95de1f9fc8ffa8c39c00ecb5bd63f1163cee05f24f71bb63dcd078c8d3",
+          "published_utc": "2026-10-09T13:08:57+00:00"
+        },
+        {
+          "headline": "T-Mobile (TMUS): Expanding Market Share with Industry-Leading Cost Efficiency",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ff26b891b9443bfd0c5e0089b954fe3d8412153e32568415f07279ebb8cdda10",
+          "published_utc": "2026-10-09T12:57:43+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "PLTR",
+      "price": 205.52,
+      "change_percent": 3.3907,
+      "previous_close": 198.78,
+      "quote_timestamp": 1791560866.0,
+      "quote_time_utc": "2026-10-09T15:47:46+00:00",
+      "quote_age_seconds": 15,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8019c880fe0c4a00f7e9abe7cfb5f19d0f21c3d8f821c1d3a92e1d163987cecd",
+          "published_utc": "2026-10-09T13:45:18+00:00"
+        },
+        {
+          "headline": "2 Reasons SpaceX Stock Is Rising Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=541756bf260aa7d83f3b4d1f5ff278648292701771bbc4b78f8c910f690211a6",
+          "published_utc": "2026-10-09T12:14:00+00:00"
+        },
+        {
+          "headline": "Use This Unconventional Add-On Entry To Add To Breakouts In Microsoft, Palantir Technologies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7f36137c9a12204cdaf7c82f5ae2d1291a8f2dbdab8367c4f910de1ec01f836c",
+          "published_utc": "2026-10-09T12:02:55+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMZN",
+      "price": 261.11,
+      "change_percent": 2.7749,
+      "previous_close": 254.06,
+      "quote_timestamp": 1791560866.0,
+      "quote_time_utc": "2026-10-09T15:47:46+00:00",
+      "quote_age_seconds": 15,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Spanish PM in row with Jeff Bezos over housing crisis",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=460f79ed30b25107bafe6279794ea33f5181c9c771962819f1ddc5c1277449f1",
+          "published_utc": "2026-10-09T13:46:03+00:00"
+        },
+        {
+          "headline": "Valuing Constellation Energy (CEG): Do Long-Term Power Contracts Justify the Premium?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af1111caa042963090e841f2013640e0e62d7ddc06d7f69343407e14d4f48bf0",
+          "published_utc": "2026-10-09T13:31:58+00:00"
+        },
+        {
+          "headline": "Is Alphabet Stock Priced Right Against Its Peers?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4142f7953cea56dfa30170f132a4b9ae58227495c68f8928e3a03f711b8df5b2",
+          "published_utc": "2026-10-09T13:30:03+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSFT",
+      "price": 533.62,
+      "change_percent": 2.1067,
+      "previous_close": 522.61,
+      "quote_timestamp": 1791560866.0,
+      "quote_time_utc": "2026-10-09T15:47:46+00:00",
+      "quote_age_seconds": 15,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Trump suspended Microsoft's green card program & awarded its CEO, all in the same day",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c65a35fead8908d67da39460773ba4def609fa9292d839984308bb8ce470d2da",
+          "published_utc": "2026-10-09T13:50:45+00:00"
+        },
+        {
+          "headline": "Is Alphabet Stock Priced Right Against Its Peers?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4142f7953cea56dfa30170f132a4b9ae58227495c68f8928e3a03f711b8df5b2",
+          "published_utc": "2026-10-09T13:30:03+00:00"
+        },
+        {
+          "headline": "Can Advanced Micro Devices\u2019 (AMD) Helios Racks Justify its Forward P/E?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dc691ede35300cc0c2f21cef1a68ca3675bdb9d7176911149b3629df4209b62e",
+          "published_utc": "2026-10-09T13:28:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "HOOD",
+      "price": 109.23,
+      "change_percent": 2.0746,
+      "previous_close": 107.01,
+      "quote_timestamp": 1791560861.0,
+      "quote_time_utc": "2026-10-09T15:47:41+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +342,12 @@
     },
     {
       "symbol": "TSLA",
-      "price": 384.58,
-      "change_percent": 2.5547,
+      "price": 382.74,
+      "change_percent": 2.064,
       "previous_close": 375.0,
-      "quote_timestamp": 1791558925.0,
-      "quote_time_utc": "2026-10-09T15:15:25+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791560866.0,
+      "quote_time_utc": "2026-10-09T15:47:46+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -114,117 +373,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3b293e07820878b1cc65b6dea375799c0ac3bf437eff9ec60b6c00836341849c",
           "published_utc": "2026-10-09T12:23:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSTR",
-      "price": 155.07,
-      "change_percent": 2.3767,
-      "previous_close": 151.47,
-      "quote_timestamp": 1791558925.0,
-      "quote_time_utc": "2026-10-09T15:15:25+00:00",
-      "quote_age_seconds": 20,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "JPMorgan Chase Is Bullish On Crypto Heading Into Year\u2019s End",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27e3ce8b7639718277130833c2f465a474acfac605f64724846080b409c0f27",
-          "published_utc": "2026-10-09T13:34:00+00:00"
-        },
-        {
-          "headline": "Kinder Morgan (KMI): High-Yield Energy Infrastructure Backed by Gas Demand",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6913a95de1f9fc8ffa8c39c00ecb5bd63f1163cee05f24f71bb63dcd078c8d3",
-          "published_utc": "2026-10-09T13:08:57+00:00"
-        },
-        {
-          "headline": "T-Mobile (TMUS): Expanding Market Share with Industry-Leading Cost Efficiency",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff26b891b9443bfd0c5e0089b954fe3d8412153e32568415f07279ebb8cdda10",
-          "published_utc": "2026-10-09T12:57:43+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMZN",
-      "price": 259.85,
-      "change_percent": 2.279,
-      "previous_close": 254.06,
-      "quote_timestamp": 1791558923.0,
-      "quote_time_utc": "2026-10-09T15:15:23+00:00",
-      "quote_age_seconds": 22,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Spanish PM in row with Jeff Bezos over housing crisis",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=460f79ed30b25107bafe6279794ea33f5181c9c771962819f1ddc5c1277449f1",
-          "published_utc": "2026-10-09T13:46:03+00:00"
-        },
-        {
-          "headline": "Valuing Constellation Energy (CEG): Do Long-Term Power Contracts Justify the Premium?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af1111caa042963090e841f2013640e0e62d7ddc06d7f69343407e14d4f48bf0",
-          "published_utc": "2026-10-09T13:31:58+00:00"
-        },
-        {
-          "headline": "Is Alphabet Stock Priced Right Against Its Peers?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4142f7953cea56dfa30170f132a4b9ae58227495c68f8928e3a03f711b8df5b2",
-          "published_utc": "2026-10-09T13:30:03+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 203.26,
-      "change_percent": 2.2537,
-      "previous_close": 198.78,
-      "quote_timestamp": 1791558921.0,
-      "quote_time_utc": "2026-10-09T15:15:21+00:00",
-      "quote_age_seconds": 24,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8019c880fe0c4a00f7e9abe7cfb5f19d0f21c3d8f821c1d3a92e1d163987cecd",
-          "published_utc": "2026-10-09T13:45:18+00:00"
-        },
-        {
-          "headline": "2 Reasons SpaceX Stock Is Rising Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=541756bf260aa7d83f3b4d1f5ff278648292701771bbc4b78f8c910f690211a6",
-          "published_utc": "2026-10-09T12:14:00+00:00"
-        },
-        {
-          "headline": "Use This Unconventional Add-On Entry To Add To Breakouts In Microsoft, Palantir Technologies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f36137c9a12204cdaf7c82f5ae2d1291a8f2dbdab8367c4f910de1ec01f836c",
-          "published_utc": "2026-10-09T12:02:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
