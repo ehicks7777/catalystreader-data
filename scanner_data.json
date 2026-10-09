@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T19:14:04.558954+00:00",
+  "updated": "2026-10-09T19:45:00.076771+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 181.65,
-      "change_percent": 5.6105,
+      "price": 181.27,
+      "change_percent": 5.3895,
       "previous_close": 172.0,
-      "quote_timestamp": 1791573221.0,
-      "quote_time_utc": "2026-10-09T19:13:41+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791575081.0,
+      "quote_time_utc": "2026-10-09T19:44:41+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
+          "published_utc": "2026-10-09T19:05:01+00:00"
+        },
         {
           "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
           "source": "Yahoo",
@@ -32,100 +38,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
           "published_utc": "2026-10-09T17:30:39+00:00"
-        },
-        {
-          "headline": "Discover which S&P500 stocks are making waves on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2c26afd337be6e602cbe11e05f522a939e135512c9b2693786c6f1c96eb7fa0c",
-          "published_utc": "2026-10-09T16:35:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 207.19,
-      "change_percent": 4.2308,
+      "price": 207.88,
+      "change_percent": 4.5779,
       "previous_close": 198.78,
-      "quote_timestamp": 1791573228.0,
-      "quote_time_utc": "2026-10-09T19:13:48+00:00",
-      "quote_age_seconds": 14,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
-          "published_utc": "2026-10-09T18:05:02+00:00"
-        },
-        {
-          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
-          "published_utc": "2026-10-09T17:44:33+00:00"
-        },
-        {
-          "headline": "Goldman Predicts a \u201cStep Function Change\u201d in Palantir\u2019s AI Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
-          "published_utc": "2026-10-09T17:40:09+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "swing_trading": [
-    {
-      "symbol": "COIN",
-      "price": 181.65,
-      "change_percent": 5.6105,
-      "previous_close": 172.0,
-      "quote_timestamp": 1791573221.0,
-      "quote_time_utc": "2026-10-09T19:13:41+00:00",
-      "quote_age_seconds": 21,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
-          "published_utc": "2026-10-09T17:57:45+00:00"
-        },
-        {
-          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
-          "published_utc": "2026-10-09T17:30:39+00:00"
-        },
-        {
-          "headline": "Discover which S&P500 stocks are making waves on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=2c26afd337be6e602cbe11e05f522a939e135512c9b2693786c6f1c96eb7fa0c",
-          "published_utc": "2026-10-09T16:35:01+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 207.19,
-      "change_percent": 4.2308,
-      "previous_close": 198.78,
-      "quote_timestamp": 1791573228.0,
-      "quote_time_utc": "2026-10-09T19:13:48+00:00",
-      "quote_age_seconds": 14,
+      "quote_timestamp": 1791575080.0,
+      "quote_time_utc": "2026-10-09T19:44:40+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -157,12 +81,88 @@
     },
     {
       "symbol": "AMZN",
-      "price": 261.45,
-      "change_percent": 2.9088,
+      "price": 262.57,
+      "change_percent": 3.3496,
       "previous_close": 254.06,
-      "quote_timestamp": 1791573228.0,
-      "quote_time_utc": "2026-10-09T19:13:48+00:00",
-      "quote_age_seconds": 14,
+      "quote_timestamp": 1791575080.0,
+      "quote_time_utc": "2026-10-09T19:44:40+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
+          "published_utc": "2026-10-09T19:10:08+00:00"
+        },
+        {
+          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+          "published_utc": "2026-10-09T18:05:02+00:00"
+        },
+        {
+          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
+          "published_utc": "2026-10-09T17:44:33+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "COIN",
+      "price": 181.27,
+      "change_percent": 5.3895,
+      "previous_close": 172.0,
+      "quote_timestamp": 1791575081.0,
+      "quote_time_utc": "2026-10-09T19:44:41+00:00",
+      "quote_age_seconds": 18,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
+          "published_utc": "2026-10-09T19:05:01+00:00"
+        },
+        {
+          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
+          "published_utc": "2026-10-09T17:57:45+00:00"
+        },
+        {
+          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
+          "published_utc": "2026-10-09T17:30:39+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "PLTR",
+      "price": 207.88,
+      "change_percent": 4.5779,
+      "previous_close": 198.78,
+      "quote_timestamp": 1791575080.0,
+      "quote_time_utc": "2026-10-09T19:44:40+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -184,22 +184,22 @@
           "published_utc": "2026-10-09T17:44:33+00:00"
         },
         {
-          "headline": "Jeff Bezos said a Blue Origin IPO is on the horizon. What could that mean for SpaceX?",
+          "headline": "Goldman Predicts a \u201cStep Function Change\u201d in Palantir\u2019s AI Opportunity",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1ac305501614db3ccf86a697abd3f600e3da34718cda60b0e4fb61efc92778bf",
-          "published_utc": "2026-10-09T17:41:50+00:00"
+          "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
+          "published_utc": "2026-10-09T17:40:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MSFT",
-      "price": 535.93,
-      "change_percent": 2.5487,
-      "previous_close": 522.61,
-      "quote_timestamp": 1791573228.0,
-      "quote_time_utc": "2026-10-09T19:13:48+00:00",
-      "quote_age_seconds": 14,
+      "symbol": "AMZN",
+      "price": 262.57,
+      "change_percent": 3.3496,
+      "previous_close": 254.06,
+      "quote_timestamp": 1791575080.0,
+      "quote_time_utc": "2026-10-09T19:44:40+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -208,6 +208,49 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
+          "published_utc": "2026-10-09T19:10:08+00:00"
+        },
+        {
+          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+          "published_utc": "2026-10-09T18:05:02+00:00"
+        },
+        {
+          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
+          "published_utc": "2026-10-09T17:44:33+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSFT",
+      "price": 535.59,
+      "change_percent": 2.4837,
+      "previous_close": 522.61,
+      "quote_timestamp": 1791575080.0,
+      "quote_time_utc": "2026-10-09T19:44:40+00:00",
+      "quote_age_seconds": 19,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
+          "published_utc": "2026-10-09T19:10:08+00:00"
+        },
         {
           "headline": "Microsoft gets paid no matter which AI model wins",
           "source": "Yahoo",
@@ -219,24 +262,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
           "published_utc": "2026-10-09T17:45:53+00:00"
-        },
-        {
-          "headline": "How Much Growth Are You Paying For In Palantir Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6aab87c6ca422474a925eecc8e61885d388f995b6c7a7ece674f489d417fd193",
-          "published_utc": "2026-10-09T17:30:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "TSLA",
-      "price": 383.99,
-      "change_percent": 2.3973,
+      "price": 383.02,
+      "change_percent": 2.1387,
       "previous_close": 375.0,
-      "quote_timestamp": 1791573228.0,
-      "quote_time_utc": "2026-10-09T19:13:48+00:00",
-      "quote_age_seconds": 14,
+      "quote_timestamp": 1791575081.0,
+      "quote_time_utc": "2026-10-09T19:44:41+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -267,13 +304,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "HOOD",
+      "price": 109.29,
+      "change_percent": 2.1306,
+      "previous_close": 107.01,
+      "quote_timestamp": 1791575081.0,
+      "quote_time_utc": "2026-10-09T19:44:41+00:00",
+      "quote_age_seconds": 18,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
+          "published_utc": "2026-10-09T13:25:00+00:00"
+        },
+        {
+          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
+          "published_utc": "2026-10-09T12:21:00+00:00"
+        },
+        {
+          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
+          "published_utc": "2026-10-09T11:29:12+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "MSTR",
-      "price": 154.66,
-      "change_percent": 2.106,
+      "price": 154.57,
+      "change_percent": 2.0466,
       "previous_close": 151.47,
-      "quote_timestamp": 1791573227.0,
-      "quote_time_utc": "2026-10-09T19:13:47+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1791575081.0,
+      "quote_time_utc": "2026-10-09T19:44:41+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
