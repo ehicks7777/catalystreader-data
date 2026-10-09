@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:45:55.509069+00:00",
+  "updated": "2026-10-09T18:17:02.579772+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 181.61,
-      "change_percent": 5.5872,
+      "price": 181.29,
+      "change_percent": 5.4012,
       "previous_close": 172.0,
-      "quote_timestamp": 1791567922.0,
-      "quote_time_utc": "2026-10-09T17:45:22+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1791569802.0,
+      "quote_time_utc": "2026-10-09T18:16:42+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,34 +22,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
+          "published_utc": "2026-10-09T17:57:45+00:00"
+        },
+        {
+          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
+          "published_utc": "2026-10-09T17:30:39+00:00"
+        },
+        {
           "headline": "Discover which S&P500 stocks are making waves on Friday.",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=2c26afd337be6e602cbe11e05f522a939e135512c9b2693786c6f1c96eb7fa0c",
           "published_utc": "2026-10-09T16:35:01+00:00"
-        },
-        {
-          "headline": "Coinbase-Samsung Deal Expands USDC Access Through Samsung Wallet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ca6abdab4c31a246d08a835d73a2640d29c8c81e7b955af3e23c5e4d472a574",
-          "published_utc": "2026-10-09T14:19:00+00:00"
-        },
-        {
-          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
-          "published_utc": "2026-10-09T13:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 206.15,
-      "change_percent": 3.7076,
+      "price": 205.84,
+      "change_percent": 3.5517,
       "previous_close": 198.78,
-      "quote_timestamp": 1791567923.0,
-      "quote_time_utc": "2026-10-09T17:45:23+00:00",
-      "quote_age_seconds": 31,
+      "quote_timestamp": 1791569809.0,
+      "quote_time_utc": "2026-10-09T18:16:49+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,59 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Gorilla Tumbles 10% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3e37872ba10b937967b20927ab7b413dea3f44a12d26eb0ec7735bf97d7332a6",
-          "published_utc": "2026-10-09T14:52:19+00:00"
+          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
+          "published_utc": "2026-10-09T17:44:33+00:00"
         },
         {
-          "headline": "Gorilla Falls 4% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "headline": "Goldman Predicts a \u201cStep Function Change\u201d in Palantir\u2019s AI Opportunity",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87f0ead805a6b6a5add9f341f0d43814556d051e637a07441e43cf4b4d93191f",
-          "published_utc": "2026-10-09T14:42:50+00:00"
+          "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
+          "published_utc": "2026-10-09T17:40:09+00:00"
         },
         {
-          "headline": "Palantir's Growth Story Gets a Goldman Boost: ETFs to Consider",
+          "headline": "Goldman Sachs Upgrades Palantir to Buy, Sees 18% Upside and Further Outperformance Into 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=35b9fee1783540a4f1fbed3968baabfd5579e45f6e1a5cf8508603e710fefcda",
-          "published_utc": "2026-10-09T14:39:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSTR",
-      "price": 156.02,
-      "change_percent": 3.0039,
-      "previous_close": 151.47,
-      "quote_timestamp": 1791567923.0,
-      "quote_time_utc": "2026-10-09T17:45:23+00:00",
-      "quote_age_seconds": 31,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "JPMorgan Chase Is Bullish On Crypto Heading Into Year\u2019s End",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27e3ce8b7639718277130833c2f465a474acfac605f64724846080b409c0f27",
-          "published_utc": "2026-10-09T13:34:00+00:00"
-        },
-        {
-          "headline": "Kinder Morgan (KMI): High-Yield Energy Infrastructure Backed by Gas Demand",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6913a95de1f9fc8ffa8c39c00ecb5bd63f1163cee05f24f71bb63dcd078c8d3",
-          "published_utc": "2026-10-09T13:08:57+00:00"
-        },
-        {
-          "headline": "T-Mobile (TMUS): Expanding Market Share with Industry-Leading Cost Efficiency",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff26b891b9443bfd0c5e0089b954fe3d8412153e32568415f07279ebb8cdda10",
-          "published_utc": "2026-10-09T12:57:43+00:00"
+          "url": "https://finnhub.io/api/news?id=71320f77b5d0f83552886bf98489d57924b52ba18f9d9e77331ebfdebeb452c2",
+          "published_utc": "2026-10-09T17:30:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 181.61,
-      "change_percent": 5.5872,
+      "price": 181.29,
+      "change_percent": 5.4012,
       "previous_close": 172.0,
-      "quote_timestamp": 1791567922.0,
-      "quote_time_utc": "2026-10-09T17:45:22+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1791569802.0,
+      "quote_time_utc": "2026-10-09T18:16:42+00:00",
+      "quote_age_seconds": 19,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,34 +98,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
+          "published_utc": "2026-10-09T17:57:45+00:00"
+        },
+        {
+          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
+          "published_utc": "2026-10-09T17:30:39+00:00"
+        },
+        {
           "headline": "Discover which S&P500 stocks are making waves on Friday.",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=2c26afd337be6e602cbe11e05f522a939e135512c9b2693786c6f1c96eb7fa0c",
           "published_utc": "2026-10-09T16:35:01+00:00"
-        },
-        {
-          "headline": "Coinbase-Samsung Deal Expands USDC Access Through Samsung Wallet",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ca6abdab4c31a246d08a835d73a2640d29c8c81e7b955af3e23c5e4d472a574",
-          "published_utc": "2026-10-09T14:19:00+00:00"
-        },
-        {
-          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
-          "published_utc": "2026-10-09T13:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 206.15,
-      "change_percent": 3.7076,
+      "price": 205.84,
+      "change_percent": 3.5517,
       "previous_close": 198.78,
-      "quote_timestamp": 1791567923.0,
-      "quote_time_utc": "2026-10-09T17:45:23+00:00",
-      "quote_age_seconds": 31,
+      "quote_timestamp": 1791569809.0,
+      "quote_time_utc": "2026-10-09T18:16:49+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -172,34 +135,71 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Gorilla Tumbles 10% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3e37872ba10b937967b20927ab7b413dea3f44a12d26eb0ec7735bf97d7332a6",
-          "published_utc": "2026-10-09T14:52:19+00:00"
+          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
+          "published_utc": "2026-10-09T17:44:33+00:00"
         },
         {
-          "headline": "Gorilla Falls 4% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "headline": "Goldman Predicts a \u201cStep Function Change\u201d in Palantir\u2019s AI Opportunity",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87f0ead805a6b6a5add9f341f0d43814556d051e637a07441e43cf4b4d93191f",
-          "published_utc": "2026-10-09T14:42:50+00:00"
+          "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
+          "published_utc": "2026-10-09T17:40:09+00:00"
         },
         {
-          "headline": "Palantir's Growth Story Gets a Goldman Boost: ETFs to Consider",
+          "headline": "Goldman Sachs Upgrades Palantir to Buy, Sees 18% Upside and Further Outperformance Into 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=35b9fee1783540a4f1fbed3968baabfd5579e45f6e1a5cf8508603e710fefcda",
-          "published_utc": "2026-10-09T14:39:00+00:00"
+          "url": "https://finnhub.io/api/news?id=71320f77b5d0f83552886bf98489d57924b52ba18f9d9e77331ebfdebeb452c2",
+          "published_utc": "2026-10-09T17:30:36+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMZN",
+      "price": 261.08,
+      "change_percent": 2.7631,
+      "previous_close": 254.06,
+      "quote_timestamp": 1791569806.0,
+      "quote_time_utc": "2026-10-09T18:16:46+00:00",
+      "quote_age_seconds": 15,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
+          "published_utc": "2026-10-09T17:44:33+00:00"
+        },
+        {
+          "headline": "Jeff Bezos said a Blue Origin IPO is on the horizon. What could that mean for SpaceX?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1ac305501614db3ccf86a697abd3f600e3da34718cda60b0e4fb61efc92778bf",
+          "published_utc": "2026-10-09T17:41:50+00:00"
+        },
+        {
+          "headline": "How Much Growth Are You Paying For In Palantir Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6aab87c6ca422474a925eecc8e61885d388f995b6c7a7ece674f489d417fd193",
+          "published_utc": "2026-10-09T17:30:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSTR",
-      "price": 156.02,
-      "change_percent": 3.0039,
+      "price": 155.22,
+      "change_percent": 2.4757,
       "previous_close": 151.47,
-      "quote_timestamp": 1791567923.0,
-      "quote_time_utc": "2026-10-09T17:45:23+00:00",
-      "quote_age_seconds": 31,
+      "quote_timestamp": 1791569801.0,
+      "quote_time_utc": "2026-10-09T18:16:41+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -230,13 +230,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "AMZN",
-      "price": 260.73,
-      "change_percent": 2.6254,
-      "previous_close": 254.06,
-      "quote_timestamp": 1791567923.0,
-      "quote_time_utc": "2026-10-09T17:45:23+00:00",
-      "quote_age_seconds": 31,
+      "symbol": "TSLA",
+      "price": 383.41,
+      "change_percent": 2.2427,
+      "previous_close": 375.0,
+      "quote_timestamp": 1791569806.0,
+      "quote_time_utc": "2026-10-09T18:16:46+00:00",
+      "quote_age_seconds": 15,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -246,34 +246,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Top dow jones movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=017ffc0a54b8f782db50580fa23a16d185b394840ad8991564195fa4ddb45199",
-          "published_utc": "2026-10-09T16:40:11+00:00"
+          "headline": "Elon Musk, Jensen Huang, and tech leaders receive White House National Medals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
+          "published_utc": "2026-10-09T17:45:53+00:00"
         },
         {
-          "headline": "\u201cUtterly Impossible\u201d: Musk\u2019s Delta Joke Drew 91,000 Likes. Then Delta Slashed Its Profit Forecast As Fuel Costs Jumped $6 Billion.",
+          "headline": "Tesla\u2019s China-Made EV Sales Hit 2026 High In September \u2013 Yorkville Says TSLA Is One Of The Clearest Ways To Own \u2018Physical AI\u2019 In Public Markets",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9b0172bd07a65932c23d18368d45ed23592016d6bc1dd961cd6b7e651f2294d0",
-          "published_utc": "2026-10-09T15:14:56+00:00"
+          "url": "https://finnhub.io/api/news?id=98aee6273e192098525594006e06773787b51d681b667560d11d8a9ec256930b",
+          "published_utc": "2026-10-09T16:08:28+00:00"
         },
         {
-          "headline": "The Fragmenting Gate: Who Controls Agentic Commerce Is Splitting Across Every Layer",
+          "headline": "Tesla renames \u2018Full Self-Driving\u2019 to \u2018Tesla Assisted Driving\u2019 in Europe",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ec2942647fbc53b3f31c43100f4de31c4de339e9858bc945f0afed05da1abc8f",
-          "published_utc": "2026-10-09T15:09:50+00:00"
+          "url": "https://finnhub.io/api/news?id=66f8b26bb978609ba46bb4e7fe87f7f58941afc0d0cd3e62f98147af38f9f58d",
+          "published_utc": "2026-10-09T16:07:26+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
-      "price": 534.64,
-      "change_percent": 2.3019,
+      "price": 534.13,
+      "change_percent": 2.2043,
       "previous_close": 522.61,
-      "quote_timestamp": 1791567922.0,
-      "quote_time_utc": "2026-10-09T17:45:22+00:00",
-      "quote_age_seconds": 32,
+      "quote_timestamp": 1791569809.0,
+      "quote_time_utc": "2026-10-09T18:16:49+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -283,59 +283,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Top dow jones movers in Friday's session",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=017ffc0a54b8f782db50580fa23a16d185b394840ad8991564195fa4ddb45199",
-          "published_utc": "2026-10-09T16:40:11+00:00"
+          "headline": "Microsoft gets paid no matter which AI model wins",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4f7a12eda8e1c6fd79762ee609ed39852043685a5b42f459b4286f81daba14a9",
+          "published_utc": "2026-10-09T17:47:00+00:00"
         },
         {
-          "headline": "Video game hardware sales plunge to 13-year low as prices soar on memory, storage shortage",
+          "headline": "Elon Musk, Jensen Huang, and tech leaders receive White House National Medals",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf1eb9bcb0d18a36fd474c3553566714e1ddfc7fccc23d2a8e687f58bc889196",
-          "published_utc": "2026-10-09T15:55:35+00:00"
+          "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
+          "published_utc": "2026-10-09T17:45:53+00:00"
         },
         {
-          "headline": "A Nobel Economist Compared This Fund to the Invention of the Wheel. $100 a Month Could Top $544,000",
+          "headline": "How Much Growth Are You Paying For In Palantir Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fb38ee23cd2f4c99203f17681f6b3615fae76325b732d2f9395ada34c96394f",
-          "published_utc": "2026-10-09T15:44:55+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 383.21,
-      "change_percent": 2.1893,
-      "previous_close": 375.0,
-      "quote_timestamp": 1791567922.0,
-      "quote_time_utc": "2026-10-09T17:45:22+00:00",
-      "quote_age_seconds": 32,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Tesla Rises 3% as Europe Rebrand Drops Full Self-Driving Name; Rivian Eases, Lucid Ticks Up",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f3fdaf1aef71c14c17c968b989f101123c1be5919a6314bea1e83c82552c98e",
-          "published_utc": "2026-10-09T14:55:44+00:00"
-        },
-        {
-          "headline": "My Position on Tesla Will Not Change Until Two Things Happen",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e700cef27e74c6d848acc733ea9f7e9fe1413d58903f00f63cbb06fbbd69f0e3",
-          "published_utc": "2026-10-09T14:45:58+00:00"
-        },
-        {
-          "headline": "Tesla Spikes After Best China Sales Numbers Of The Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=21c1956b6395e82e5b737d166693a416c858bb1adfbcbc2378c630dd392f6f48",
-          "published_utc": "2026-10-09T14:44:42+00:00"
+          "url": "https://finnhub.io/api/news?id=6aab87c6ca422474a925eecc8e61885d388f995b6c7a7ece674f489d417fd193",
+          "published_utc": "2026-10-09T17:30:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
