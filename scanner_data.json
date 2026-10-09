@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T01:47:31.935250+00:00",
+  "updated": "2026-10-09T02:14:59.058315+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 194.12,
       "quote_timestamp": 1791489600.0,
       "quote_time_utc": "2026-10-08T20:00:00+00:00",
-      "quote_age_seconds": 20850,
+      "quote_age_seconds": 22498,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "BA, SPCX, RKLB, RTX, PLTR Stock In Focus: Why Barclays Is Overweight On Aerospace And Defense Stocks?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb92fd5bc719d64e8c00e22304e91e0dda90aa2585072381a2030d6768615576",
+          "published_utc": "2026-10-09T00:15:51+00:00"
+        },
         {
           "headline": "Zeta Global Unveils AthenaOS to Connect AI, Data and Marketing Workflows",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4d1aa0fab0181082cb25fe225ebfbb19c1ccd5c23391082b697ec07df20835d5",
           "published_utc": "2026-10-08T22:46:24+00:00"
-        },
-        {
-          "headline": "Palantir Technologies, Doximity, Snowflake, and Teradata Shares Skyrocket, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29c86b547f0f7ad6ac488669abb883e65d3136f44a32e451de24eae58c70e3fb",
-          "published_utc": "2026-10-08T22:16:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
