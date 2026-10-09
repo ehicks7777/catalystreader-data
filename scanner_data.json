@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:15:55.209693+00:00",
+  "updated": "2026-10-09T16:47:45.525524+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 181.09,
-      "change_percent": 5.2849,
+      "price": 181.57,
+      "change_percent": 5.564,
       "previous_close": 172.0,
-      "quote_timestamp": 1791562529.0,
-      "quote_time_utc": "2026-10-09T16:15:29+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1791564438.0,
+      "quote_time_utc": "2026-10-09T16:47:18+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,13 +43,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "PLTR",
+      "price": 205.37,
+      "change_percent": 3.3152,
+      "previous_close": 198.78,
+      "quote_timestamp": 1791564435.0,
+      "quote_time_utc": "2026-10-09T16:47:15+00:00",
+      "quote_age_seconds": 29,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Gorilla Tumbles 10% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e37872ba10b937967b20927ab7b413dea3f44a12d26eb0ec7735bf97d7332a6",
+          "published_utc": "2026-10-09T14:52:19+00:00"
+        },
+        {
+          "headline": "Gorilla Falls 4% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87f0ead805a6b6a5add9f341f0d43814556d051e637a07441e43cf4b4d93191f",
+          "published_utc": "2026-10-09T14:42:50+00:00"
+        },
+        {
+          "headline": "Palantir's Growth Story Gets a Goldman Boost: ETFs to Consider",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=35b9fee1783540a4f1fbed3968baabfd5579e45f6e1a5cf8508603e710fefcda",
+          "published_utc": "2026-10-09T14:39:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "MSTR",
-      "price": 156.93,
-      "change_percent": 3.6047,
+      "price": 156.4,
+      "change_percent": 3.2548,
       "previous_close": 151.47,
-      "quote_timestamp": 1791562533.0,
-      "quote_time_utc": "2026-10-09T16:15:33+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791564437.0,
+      "quote_time_utc": "2026-10-09T16:47:17+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -75,43 +112,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ff26b891b9443bfd0c5e0089b954fe3d8412153e32568415f07279ebb8cdda10",
           "published_utc": "2026-10-09T12:57:43+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "PLTR",
-      "price": 205.77,
-      "change_percent": 3.5165,
-      "previous_close": 198.78,
-      "quote_timestamp": 1791562534.0,
-      "quote_time_utc": "2026-10-09T16:15:34+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8019c880fe0c4a00f7e9abe7cfb5f19d0f21c3d8f821c1d3a92e1d163987cecd",
-          "published_utc": "2026-10-09T13:45:18+00:00"
-        },
-        {
-          "headline": "2 Reasons SpaceX Stock Is Rising Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=541756bf260aa7d83f3b4d1f5ff278648292701771bbc4b78f8c910f690211a6",
-          "published_utc": "2026-10-09T12:14:00+00:00"
-        },
-        {
-          "headline": "Use This Unconventional Add-On Entry To Add To Breakouts In Microsoft, Palantir Technologies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f36137c9a12204cdaf7c82f5ae2d1291a8f2dbdab8367c4f910de1ec01f836c",
-          "published_utc": "2026-10-09T12:02:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -120,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 181.09,
-      "change_percent": 5.2849,
+      "price": 181.57,
+      "change_percent": 5.564,
       "previous_close": 172.0,
-      "quote_timestamp": 1791562529.0,
-      "quote_time_utc": "2026-10-09T16:15:29+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1791564438.0,
+      "quote_time_utc": "2026-10-09T16:47:18+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -156,13 +156,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "PLTR",
+      "price": 205.37,
+      "change_percent": 3.3152,
+      "previous_close": 198.78,
+      "quote_timestamp": 1791564435.0,
+      "quote_time_utc": "2026-10-09T16:47:15+00:00",
+      "quote_age_seconds": 29,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Gorilla Tumbles 10% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e37872ba10b937967b20927ab7b413dea3f44a12d26eb0ec7735bf97d7332a6",
+          "published_utc": "2026-10-09T14:52:19+00:00"
+        },
+        {
+          "headline": "Gorilla Falls 4% on Non-Binding Letter of Intent for First US Data Center; Palantir Inches Higher, BigBear.ai Unmoved",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=87f0ead805a6b6a5add9f341f0d43814556d051e637a07441e43cf4b4d93191f",
+          "published_utc": "2026-10-09T14:42:50+00:00"
+        },
+        {
+          "headline": "Palantir's Growth Story Gets a Goldman Boost: ETFs to Consider",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=35b9fee1783540a4f1fbed3968baabfd5579e45f6e1a5cf8508603e710fefcda",
+          "published_utc": "2026-10-09T14:39:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "MSTR",
-      "price": 156.93,
-      "change_percent": 3.6047,
+      "price": 156.4,
+      "change_percent": 3.2548,
       "previous_close": 151.47,
-      "quote_timestamp": 1791562533.0,
-      "quote_time_utc": "2026-10-09T16:15:33+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791564437.0,
+      "quote_time_utc": "2026-10-09T16:47:17+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -193,50 +230,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "PLTR",
-      "price": 205.77,
-      "change_percent": 3.5165,
-      "previous_close": 198.78,
-      "quote_timestamp": 1791562534.0,
-      "quote_time_utc": "2026-10-09T16:15:34+00:00",
-      "quote_age_seconds": 17,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8019c880fe0c4a00f7e9abe7cfb5f19d0f21c3d8f821c1d3a92e1d163987cecd",
-          "published_utc": "2026-10-09T13:45:18+00:00"
-        },
-        {
-          "headline": "2 Reasons SpaceX Stock Is Rising Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=541756bf260aa7d83f3b4d1f5ff278648292701771bbc4b78f8c910f690211a6",
-          "published_utc": "2026-10-09T12:14:00+00:00"
-        },
-        {
-          "headline": "Use This Unconventional Add-On Entry To Add To Breakouts In Microsoft, Palantir Technologies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f36137c9a12204cdaf7c82f5ae2d1291a8f2dbdab8367c4f910de1ec01f836c",
-          "published_utc": "2026-10-09T12:02:55+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "AMZN",
-      "price": 261.45,
-      "change_percent": 2.9088,
+      "price": 261.57,
+      "change_percent": 2.956,
       "previous_close": 254.06,
-      "quote_timestamp": 1791562534.0,
-      "quote_time_utc": "2026-10-09T16:15:34+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1791564437.0,
+      "quote_time_utc": "2026-10-09T16:47:17+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -268,12 +268,12 @@
     },
     {
       "symbol": "TSLA",
-      "price": 384.19,
-      "change_percent": 2.4507,
+      "price": 383.95,
+      "change_percent": 2.3867,
       "previous_close": 375.0,
-      "quote_timestamp": 1791562533.0,
-      "quote_time_utc": "2026-10-09T16:15:33+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791564438.0,
+      "quote_time_utc": "2026-10-09T16:47:18+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -283,34 +283,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tesla rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+          "headline": "Tesla Rises 3% as Europe Rebrand Drops Full Self-Driving Name; Rivian Eases, Lucid Ticks Up",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d583f92a5582bdad79139d859f6afa553c3b155edb4447bcfb24d3ccc092dff2",
-          "published_utc": "2026-10-09T13:12:04+00:00"
+          "url": "https://finnhub.io/api/news?id=4f3fdaf1aef71c14c17c968b989f101123c1be5919a6314bea1e83c82552c98e",
+          "published_utc": "2026-10-09T14:55:44+00:00"
         },
         {
-          "headline": "Intel Is Worth More Than Coca-Cola and PepsiCo Put Together",
+          "headline": "My Position on Tesla Will Not Change Until Two Things Happen",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c0df84702b3bed557b6d543c172e55edc3f04cd7f00cd03ec6ce03166ba8302",
-          "published_utc": "2026-10-09T12:45:30+00:00"
+          "url": "https://finnhub.io/api/news?id=e700cef27e74c6d848acc733ea9f7e9fe1413d58903f00f63cbb06fbbd69f0e3",
+          "published_utc": "2026-10-09T14:45:58+00:00"
         },
         {
-          "headline": "Record Profits at Samsung and TSMC Say the AI Trade is Intact",
+          "headline": "Tesla Spikes After Best China Sales Numbers Of The Year",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b293e07820878b1cc65b6dea375799c0ac3bf437eff9ec60b6c00836341849c",
-          "published_utc": "2026-10-09T12:23:00+00:00"
+          "url": "https://finnhub.io/api/news?id=21c1956b6395e82e5b737d166693a416c858bb1adfbcbc2378c630dd392f6f48",
+          "published_utc": "2026-10-09T14:44:42+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
-      "price": 534.47,
-      "change_percent": 2.2694,
+      "price": 535.08,
+      "change_percent": 2.3861,
       "previous_close": 522.61,
-      "quote_timestamp": 1791562533.0,
-      "quote_time_utc": "2026-10-09T16:15:33+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791564438.0,
+      "quote_time_utc": "2026-10-09T16:47:18+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -320,22 +320,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Trump suspended Microsoft's green card program & awarded its CEO, all in the same day",
+          "headline": "Video game hardware sales plunge to 13-year low as prices soar on memory, storage shortage",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c65a35fead8908d67da39460773ba4def609fa9292d839984308bb8ce470d2da",
-          "published_utc": "2026-10-09T13:50:45+00:00"
+          "url": "https://finnhub.io/api/news?id=cf1eb9bcb0d18a36fd474c3553566714e1ddfc7fccc23d2a8e687f58bc889196",
+          "published_utc": "2026-10-09T15:55:35+00:00"
         },
         {
-          "headline": "Is Alphabet Stock Priced Right Against Its Peers?",
+          "headline": "A Nobel Economist Compared This Fund to the Invention of the Wheel. $100 a Month Could Top $544,000",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4142f7953cea56dfa30170f132a4b9ae58227495c68f8928e3a03f711b8df5b2",
-          "published_utc": "2026-10-09T13:30:03+00:00"
+          "url": "https://finnhub.io/api/news?id=7fb38ee23cd2f4c99203f17681f6b3615fae76325b732d2f9395ada34c96394f",
+          "published_utc": "2026-10-09T15:44:55+00:00"
         },
         {
-          "headline": "Can Advanced Micro Devices\u2019 (AMD) Helios Racks Justify its Forward P/E?",
+          "headline": "Constellation Brands (STZ) Is Up 9.4% After Earnings Beat And SpikedAde Deal Announcement - What's Changed",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc691ede35300cc0c2f21cef1a68ca3675bdb9d7176911149b3629df4209b62e",
-          "published_utc": "2026-10-09T13:28:00+00:00"
+          "url": "https://finnhub.io/api/news?id=6ddab5f6709ec2fe2aacd223779ea3d20484d4c892fad4e8c867fe62de37b484",
+          "published_utc": "2026-10-09T15:11:47+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "HOOD",
+      "price": 109.18,
+      "change_percent": 2.0278,
+      "previous_close": 107.01,
+      "quote_timestamp": 1791564437.0,
+      "quote_time_utc": "2026-10-09T16:47:17+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
+          "published_utc": "2026-10-09T13:25:00+00:00"
+        },
+        {
+          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
+          "published_utc": "2026-10-09T12:21:00+00:00"
+        },
+        {
+          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
+          "published_utc": "2026-10-09T11:29:12+00:00"
         }
       ],
       "news_status": "Recent headlines found"
