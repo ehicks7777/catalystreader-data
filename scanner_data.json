@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:45:53.418068+00:00",
+  "updated": "2026-10-09T22:14:40.368088+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 6352,
+      "quote_age_seconds": 8079,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 6352,
+      "quote_age_seconds": 8079,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Weekly Wrap: Rising Treasury Yields Sink Bitcoin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6926f57532a418c63dcbb5dfc81fb0dd720ba1ba698592723ae879660d2e59c3",
+          "published_utc": "2026-10-09T20:52:00+00:00"
+        },
         {
           "headline": "Discover which S&P500 stocks are making waves on Friday.",
           "source": "ChartMill",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
           "published_utc": "2026-10-09T17:57:45+00:00"
-        },
-        {
-          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
-          "published_utc": "2026-10-09T17:30:39+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 6352,
+      "quote_age_seconds": 8079,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
+          "published_utc": "2026-10-09T21:20:27+00:00"
+        },
+        {
+          "headline": "Jim Cramer Said NVIDIA\u2019s Shares Were Due For A Gut Check Following Morgan Stanley\u2019s Coverage",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3",
+          "published_utc": "2026-10-09T20:22:30+00:00"
+        },
+        {
           "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
           "published_utc": "2026-10-09T19:51:09+00:00"
-        },
-        {
-          "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
-          "published_utc": "2026-10-09T19:41:36+00:00"
-        },
-        {
-          "headline": "Delta cuts outlook, Microsoft fights H-1B restrictions, Bezos eyes Blue Origin IPO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29895590be39d8554d2273cdd20f3bc580765bc68f65dd79499a4d1e588611bf",
-          "published_utc": "2026-10-09T19:13:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 6352,
+      "quote_age_seconds": 8079,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "JD Vance slams Microsoft, says it swapped 6,000 laid-off Americans for \u2018foreign indentured servants.\u2019 Microsoft responds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5784478142de3f23c4ed8c7938cd3f2a8ce9affb083b861f37759b537222d41b",
+          "published_utc": "2026-10-09T21:45:00+00:00"
+        },
+        {
+          "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
+          "published_utc": "2026-10-09T21:20:27+00:00"
+        },
+        {
           "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=39f065624a1766f0c3cc41bc76b37601070f130177da07d9f38817749ca5c858",
           "published_utc": "2026-10-09T19:47:53+00:00"
-        },
-        {
-          "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
-          "published_utc": "2026-10-09T19:41:36+00:00"
-        },
-        {
-          "headline": "Update: Mega-Cap Technology Helps Lift US Equity Indexes Higher",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=71cdf5c342d803a900cfd11041cd3f2ebb56ba4ca29d713cba2747beca551100",
-          "published_utc": "2026-10-09T19:41:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 6352,
+      "quote_age_seconds": 8079,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
