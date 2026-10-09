@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T18:17:02.579772+00:00",
+  "updated": "2026-10-09T18:49:56.942450+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 181.29,
-      "change_percent": 5.4012,
+      "price": 181.28,
+      "change_percent": 5.3953,
       "previous_close": 172.0,
-      "quote_timestamp": 1791569802.0,
-      "quote_time_utc": "2026-10-09T18:16:42+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791571783.0,
+      "quote_time_utc": "2026-10-09T18:49:43+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "PLTR",
-      "price": 205.84,
-      "change_percent": 3.5517,
+      "price": 206.87,
+      "change_percent": 4.0698,
       "previous_close": 198.78,
-      "quote_timestamp": 1791569809.0,
-      "quote_time_utc": "2026-10-09T18:16:49+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791571785.0,
+      "quote_time_utc": "2026-10-09T18:49:45+00:00",
+      "quote_age_seconds": 10,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -58,6 +58,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+          "published_utc": "2026-10-09T18:05:02+00:00"
+        },
         {
           "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
           "source": "Yahoo",
@@ -69,12 +75,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
           "published_utc": "2026-10-09T17:40:09+00:00"
-        },
-        {
-          "headline": "Goldman Sachs Upgrades Palantir to Buy, Sees 18% Upside and Further Outperformance Into 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=71320f77b5d0f83552886bf98489d57924b52ba18f9d9e77331ebfdebeb452c2",
-          "published_utc": "2026-10-09T17:30:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 181.29,
-      "change_percent": 5.4012,
+      "price": 181.28,
+      "change_percent": 5.3953,
       "previous_close": 172.0,
-      "quote_timestamp": 1791569802.0,
-      "quote_time_utc": "2026-10-09T18:16:42+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791571783.0,
+      "quote_time_utc": "2026-10-09T18:49:43+00:00",
+      "quote_age_seconds": 12,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +120,12 @@
     },
     {
       "symbol": "PLTR",
-      "price": 205.84,
-      "change_percent": 3.5517,
+      "price": 206.87,
+      "change_percent": 4.0698,
       "previous_close": 198.78,
-      "quote_timestamp": 1791569809.0,
-      "quote_time_utc": "2026-10-09T18:16:49+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791571785.0,
+      "quote_time_utc": "2026-10-09T18:49:45+00:00",
+      "quote_age_seconds": 10,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -134,6 +134,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+          "published_utc": "2026-10-09T18:05:02+00:00"
+        },
         {
           "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
           "source": "Yahoo",
@@ -145,24 +151,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
           "published_utc": "2026-10-09T17:40:09+00:00"
-        },
-        {
-          "headline": "Goldman Sachs Upgrades Palantir to Buy, Sees 18% Upside and Further Outperformance Into 2027",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=71320f77b5d0f83552886bf98489d57924b52ba18f9d9e77331ebfdebeb452c2",
-          "published_utc": "2026-10-09T17:30:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "AMZN",
-      "price": 261.08,
-      "change_percent": 2.7631,
+      "price": 261.24,
+      "change_percent": 2.8261,
       "previous_close": 254.06,
-      "quote_timestamp": 1791569806.0,
-      "quote_time_utc": "2026-10-09T18:16:46+00:00",
-      "quote_age_seconds": 15,
+      "quote_timestamp": 1791571763.0,
+      "quote_time_utc": "2026-10-09T18:49:23+00:00",
+      "quote_age_seconds": 32,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -171,6 +171,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+          "published_utc": "2026-10-09T18:05:02+00:00"
+        },
         {
           "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
           "source": "Yahoo",
@@ -182,98 +188,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1ac305501614db3ccf86a697abd3f600e3da34718cda60b0e4fb61efc92778bf",
           "published_utc": "2026-10-09T17:41:50+00:00"
-        },
-        {
-          "headline": "How Much Growth Are You Paying For In Palantir Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6aab87c6ca422474a925eecc8e61885d388f995b6c7a7ece674f489d417fd193",
-          "published_utc": "2026-10-09T17:30:02+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSTR",
-      "price": 155.22,
-      "change_percent": 2.4757,
-      "previous_close": 151.47,
-      "quote_timestamp": 1791569801.0,
-      "quote_time_utc": "2026-10-09T18:16:41+00:00",
-      "quote_age_seconds": 20,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "JPMorgan Chase Is Bullish On Crypto Heading Into Year\u2019s End",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27e3ce8b7639718277130833c2f465a474acfac605f64724846080b409c0f27",
-          "published_utc": "2026-10-09T13:34:00+00:00"
-        },
-        {
-          "headline": "Kinder Morgan (KMI): High-Yield Energy Infrastructure Backed by Gas Demand",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6913a95de1f9fc8ffa8c39c00ecb5bd63f1163cee05f24f71bb63dcd078c8d3",
-          "published_utc": "2026-10-09T13:08:57+00:00"
-        },
-        {
-          "headline": "T-Mobile (TMUS): Expanding Market Share with Industry-Leading Cost Efficiency",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ff26b891b9443bfd0c5e0089b954fe3d8412153e32568415f07279ebb8cdda10",
-          "published_utc": "2026-10-09T12:57:43+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 383.41,
-      "change_percent": 2.2427,
-      "previous_close": 375.0,
-      "quote_timestamp": 1791569806.0,
-      "quote_time_utc": "2026-10-09T18:16:46+00:00",
-      "quote_age_seconds": 15,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Elon Musk, Jensen Huang, and tech leaders receive White House National Medals",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
-          "published_utc": "2026-10-09T17:45:53+00:00"
-        },
-        {
-          "headline": "Tesla\u2019s China-Made EV Sales Hit 2026 High In September \u2013 Yorkville Says TSLA Is One Of The Clearest Ways To Own \u2018Physical AI\u2019 In Public Markets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98aee6273e192098525594006e06773787b51d681b667560d11d8a9ec256930b",
-          "published_utc": "2026-10-09T16:08:28+00:00"
-        },
-        {
-          "headline": "Tesla renames \u2018Full Self-Driving\u2019 to \u2018Tesla Assisted Driving\u2019 in Europe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=66f8b26bb978609ba46bb4e7fe87f7f58941afc0d0cd3e62f98147af38f9f58d",
-          "published_utc": "2026-10-09T16:07:26+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
-      "price": 534.13,
-      "change_percent": 2.2043,
+      "price": 536.46,
+      "change_percent": 2.6502,
       "previous_close": 522.61,
-      "quote_timestamp": 1791569809.0,
-      "quote_time_utc": "2026-10-09T18:16:49+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791571759.0,
+      "quote_time_utc": "2026-10-09T18:49:19+00:00",
+      "quote_age_seconds": 36,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -299,6 +225,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6aab87c6ca422474a925eecc8e61885d388f995b6c7a7ece674f489d417fd193",
           "published_utc": "2026-10-09T17:30:02+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "TSLA",
+      "price": 384.36,
+      "change_percent": 2.496,
+      "previous_close": 375.0,
+      "quote_timestamp": 1791571762.0,
+      "quote_time_utc": "2026-10-09T18:49:22+00:00",
+      "quote_age_seconds": 33,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+          "published_utc": "2026-10-09T18:05:02+00:00"
+        },
+        {
+          "headline": "Elon Musk, Jensen Huang, and tech leaders receive White House National Medals",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
+          "published_utc": "2026-10-09T17:45:53+00:00"
+        },
+        {
+          "headline": "Tesla\u2019s China-Made EV Sales Hit 2026 High In September \u2013 Yorkville Says TSLA Is One Of The Clearest Ways To Own \u2018Physical AI\u2019 In Public Markets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=98aee6273e192098525594006e06773787b51d681b667560d11d8a9ec256930b",
+          "published_utc": "2026-10-09T16:08:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
