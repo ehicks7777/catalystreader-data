@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:49:44.556168+00:00",
+  "updated": "2026-10-09T15:15:46.506150+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 179.64,
-      "change_percent": 4.4419,
+      "price": 178.33,
+      "change_percent": 3.6802,
       "previous_close": 172.0,
-      "quote_timestamp": 1791557371.0,
-      "quote_time_utc": "2026-10-09T14:49:31+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791558915.0,
+      "quote_time_utc": "2026-10-09T15:15:15+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -38,43 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
           "published_utc": "2026-10-09T11:29:12+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "TSLA",
-      "price": 387.27,
-      "change_percent": 3.272,
-      "previous_close": 375.0,
-      "quote_timestamp": 1791557372.0,
-      "quote_time_utc": "2026-10-09T14:49:32+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Tesla rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d583f92a5582bdad79139d859f6afa553c3b155edb4447bcfb24d3ccc092dff2",
-          "published_utc": "2026-10-09T13:12:04+00:00"
-        },
-        {
-          "headline": "Intel Is Worth More Than Coca-Cola and PepsiCo Put Together",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c0df84702b3bed557b6d543c172e55edc3f04cd7f00cd03ec6ce03166ba8302",
-          "published_utc": "2026-10-09T12:45:30+00:00"
-        },
-        {
-          "headline": "Record Profits at Samsung and TSMC Say the AI Trade is Intact",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3b293e07820878b1cc65b6dea375799c0ac3bf437eff9ec60b6c00836341849c",
-          "published_utc": "2026-10-09T12:23:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 179.64,
-      "change_percent": 4.4419,
+      "price": 178.33,
+      "change_percent": 3.6802,
       "previous_close": 172.0,
-      "quote_timestamp": 1791557371.0,
-      "quote_time_utc": "2026-10-09T14:49:31+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1791558915.0,
+      "quote_time_utc": "2026-10-09T15:15:15+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +83,12 @@
     },
     {
       "symbol": "TSLA",
-      "price": 387.27,
-      "change_percent": 3.272,
+      "price": 384.58,
+      "change_percent": 2.5547,
       "previous_close": 375.0,
-      "quote_timestamp": 1791557372.0,
-      "quote_time_utc": "2026-10-09T14:49:32+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791558925.0,
+      "quote_time_utc": "2026-10-09T15:15:25+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -157,12 +120,12 @@
     },
     {
       "symbol": "MSTR",
-      "price": 155.53,
-      "change_percent": 2.6804,
+      "price": 155.07,
+      "change_percent": 2.3767,
       "previous_close": 151.47,
-      "quote_timestamp": 1791557372.0,
-      "quote_time_utc": "2026-10-09T14:49:32+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791558925.0,
+      "quote_time_utc": "2026-10-09T15:15:25+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -194,12 +157,12 @@
     },
     {
       "symbol": "AMZN",
-      "price": 259.87,
-      "change_percent": 2.2869,
+      "price": 259.85,
+      "change_percent": 2.279,
       "previous_close": 254.06,
-      "quote_timestamp": 1791557372.0,
-      "quote_time_utc": "2026-10-09T14:49:32+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791558923.0,
+      "quote_time_utc": "2026-10-09T15:15:23+00:00",
+      "quote_age_seconds": 22,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -230,13 +193,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "MSFT",
-      "price": 533.13,
-      "change_percent": 2.013,
-      "previous_close": 522.61,
-      "quote_timestamp": 1791557371.0,
-      "quote_time_utc": "2026-10-09T14:49:31+00:00",
-      "quote_age_seconds": 12,
+      "symbol": "PLTR",
+      "price": 203.26,
+      "change_percent": 2.2537,
+      "previous_close": 198.78,
+      "quote_timestamp": 1791558921.0,
+      "quote_time_utc": "2026-10-09T15:15:21+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -246,22 +209,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Trump suspended Microsoft's green card program & awarded its CEO, all in the same day",
+          "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c65a35fead8908d67da39460773ba4def609fa9292d839984308bb8ce470d2da",
-          "published_utc": "2026-10-09T13:50:45+00:00"
+          "url": "https://finnhub.io/api/news?id=8019c880fe0c4a00f7e9abe7cfb5f19d0f21c3d8f821c1d3a92e1d163987cecd",
+          "published_utc": "2026-10-09T13:45:18+00:00"
         },
         {
-          "headline": "Is Alphabet Stock Priced Right Against Its Peers?",
+          "headline": "2 Reasons SpaceX Stock Is Rising Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4142f7953cea56dfa30170f132a4b9ae58227495c68f8928e3a03f711b8df5b2",
-          "published_utc": "2026-10-09T13:30:03+00:00"
+          "url": "https://finnhub.io/api/news?id=541756bf260aa7d83f3b4d1f5ff278648292701771bbc4b78f8c910f690211a6",
+          "published_utc": "2026-10-09T12:14:00+00:00"
         },
         {
-          "headline": "Can Advanced Micro Devices\u2019 (AMD) Helios Racks Justify its Forward P/E?",
+          "headline": "Use This Unconventional Add-On Entry To Add To Breakouts In Microsoft, Palantir Technologies",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dc691ede35300cc0c2f21cef1a68ca3675bdb9d7176911149b3629df4209b62e",
-          "published_utc": "2026-10-09T13:28:00+00:00"
+          "url": "https://finnhub.io/api/news?id=7f36137c9a12204cdaf7c82f5ae2d1291a8f2dbdab8367c4f910de1ec01f836c",
+          "published_utc": "2026-10-09T12:02:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
