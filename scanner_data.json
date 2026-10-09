@@ -1,20 +1,19 @@
 {
-  "updated": "2026-10-09T13:18:53.370861+00:00",
+  "updated": "2026-10-09T13:48:01.554196+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
-      "symbol": "PLTR",
-      "price": 198.78,
-      "change_percent": 2.4006,
-      "previous_close": 194.12,
-      "quote_timestamp": 1791489600.0,
-      "quote_time_utc": "2026-10-08T20:00:00+00:00",
-      "quote_age_seconds": 62331,
-      "quote_freshness": "stale",
+      "symbol": "TSLA",
+      "price": 386.59,
+      "change_percent": 3.0907,
+      "previous_close": 375.0,
+      "quote_timestamp": 1791553657.0,
+      "quote_time_utc": "2026-10-09T13:47:37+00:00",
+      "quote_age_seconds": 22,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -23,28 +22,67 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Two Reasons SpaceX Stock Is Jumping Higher Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=789bae69d2bcc699f8a2948d339e90e31f20b9f345e0618131881778f03b52ad",
-          "published_utc": "2026-10-09T11:16:00+00:00"
-        },
-        {
-          "headline": "Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Friday; SpaceX, Nebius Group to Advance",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f98f52dae6b1c3f34445b85bc8a333038fc0ea7b0a07bc884f94ea9f4809a41f",
-          "published_utc": "2026-10-09T10:34:18+00:00"
-        },
-        {
-          "headline": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
+          "headline": "EV Stocks\u2019 Rally Is Narrow: Tesla and GM Lead While Pure Plays Lag",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=557033d381aadccfe976abc5e7e0ac7ac2483c91237e84c6093fb91093fef475",
-          "published_utc": "2026-10-09T10:00:23+00:00"
+          "url": "https://finnhub.io/api/news?id=1275d5f313c7a63eb1071322455d9c85040925ccc1f72cdbb1f5083d49055f02",
+          "published_utc": "2026-10-09T12:06:25+00:00"
+        },
+        {
+          "headline": "SpaceX Vs. Tesla: Which of Musk\u2019s Babies Grows More By the End of 2027?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ca45759808f12cbdb08a0dbe6dbf42822858d6239d9be34789621b73464fd24",
+          "published_utc": "2026-10-09T11:15:46+00:00"
+        },
+        {
+          "headline": "Tesla\u2019s China-Made EV Sales Rise 5% in September as European Demand Recovers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0ec438369492cd45c0d4b42af2e951c5086c90b06d244f0e8c68715519e7ab82",
+          "published_utc": "2026-10-09T10:56:38+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "swing_trading": [
+    {
+      "symbol": "TSLA",
+      "price": 386.59,
+      "change_percent": 3.0907,
+      "previous_close": 375.0,
+      "quote_timestamp": 1791553657.0,
+      "quote_time_utc": "2026-10-09T13:47:37+00:00",
+      "quote_age_seconds": 22,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "EV Stocks\u2019 Rally Is Narrow: Tesla and GM Lead While Pure Plays Lag",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=1275d5f313c7a63eb1071322455d9c85040925ccc1f72cdbb1f5083d49055f02",
+          "published_utc": "2026-10-09T12:06:25+00:00"
+        },
+        {
+          "headline": "SpaceX Vs. Tesla: Which of Musk\u2019s Babies Grows More By the End of 2027?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ca45759808f12cbdb08a0dbe6dbf42822858d6239d9be34789621b73464fd24",
+          "published_utc": "2026-10-09T11:15:46+00:00"
+        },
+        {
+          "headline": "Tesla\u2019s China-Made EV Sales Rise 5% in September as European Demand Recovers",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0ec438369492cd45c0d4b42af2e951c5086c90b06d244f0e8c68715519e7ab82",
+          "published_utc": "2026-10-09T10:56:38+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
