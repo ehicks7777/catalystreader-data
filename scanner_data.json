@@ -1,55 +1,18 @@
 {
-  "updated": "2026-10-09T19:45:00.076771+00:00",
+  "updated": "2026-10-09T20:14:18.578272+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
-      "symbol": "COIN",
-      "price": 181.27,
-      "change_percent": 5.3895,
-      "previous_close": 172.0,
-      "quote_timestamp": 1791575081.0,
-      "quote_time_utc": "2026-10-09T19:44:41+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Discover which S&P500 stocks are making waves on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
-          "published_utc": "2026-10-09T19:05:01+00:00"
-        },
-        {
-          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
-          "published_utc": "2026-10-09T17:57:45+00:00"
-        },
-        {
-          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
-          "published_utc": "2026-10-09T17:30:39+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "PLTR",
-      "price": 207.88,
-      "change_percent": 4.5779,
+      "price": 209.05,
+      "change_percent": 5.1665,
       "previous_close": 198.78,
-      "quote_timestamp": 1791575080.0,
-      "quote_time_utc": "2026-10-09T19:44:40+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -80,13 +43,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "AMZN",
-      "price": 262.57,
-      "change_percent": 3.3496,
-      "previous_close": 254.06,
-      "quote_timestamp": 1791575080.0,
-      "quote_time_utc": "2026-10-09T19:44:40+00:00",
-      "quote_age_seconds": 19,
+      "symbol": "COIN",
+      "price": 179.39,
+      "change_percent": 4.2965,
+      "previous_close": 172.0,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -96,22 +59,59 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "headline": "Discover which S&P500 stocks are making waves on Friday.",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
-          "published_utc": "2026-10-09T19:10:08+00:00"
+          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
+          "published_utc": "2026-10-09T19:05:01+00:00"
         },
         {
-          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
-          "published_utc": "2026-10-09T18:05:02+00:00"
-        },
-        {
-          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
+          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
-          "published_utc": "2026-10-09T17:44:33+00:00"
+          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
+          "published_utc": "2026-10-09T17:57:45+00:00"
+        },
+        {
+          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
+          "published_utc": "2026-10-09T17:30:39+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMZN",
+      "price": 262.43,
+      "change_percent": 3.2945,
+      "previous_close": 254.06,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
+          "published_utc": "2026-10-09T19:51:09+00:00"
+        },
+        {
+          "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
+          "published_utc": "2026-10-09T19:41:36+00:00"
+        },
+        {
+          "headline": "Delta cuts outlook, Microsoft fights H-1B restrictions, Bezos eyes Blue Origin IPO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29895590be39d8554d2273cdd20f3bc580765bc68f65dd79499a4d1e588611bf",
+          "published_utc": "2026-10-09T19:13:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -119,50 +119,13 @@
   ],
   "swing_trading": [
     {
-      "symbol": "COIN",
-      "price": 181.27,
-      "change_percent": 5.3895,
-      "previous_close": 172.0,
-      "quote_timestamp": 1791575081.0,
-      "quote_time_utc": "2026-10-09T19:44:41+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Discover which S&P500 stocks are making waves on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
-          "published_utc": "2026-10-09T19:05:01+00:00"
-        },
-        {
-          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
-          "published_utc": "2026-10-09T17:57:45+00:00"
-        },
-        {
-          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
-          "published_utc": "2026-10-09T17:30:39+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "PLTR",
-      "price": 207.88,
-      "change_percent": 4.5779,
+      "price": 209.05,
+      "change_percent": 5.1665,
       "previous_close": 198.78,
-      "quote_timestamp": 1791575080.0,
-      "quote_time_utc": "2026-10-09T19:44:40+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -193,13 +156,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "AMZN",
-      "price": 262.57,
-      "change_percent": 3.3496,
-      "previous_close": 254.06,
-      "quote_timestamp": 1791575080.0,
-      "quote_time_utc": "2026-10-09T19:44:40+00:00",
-      "quote_age_seconds": 19,
+      "symbol": "COIN",
+      "price": 179.39,
+      "change_percent": 4.2965,
+      "previous_close": 172.0,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -209,34 +172,71 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "headline": "Discover which S&P500 stocks are making waves on Friday.",
           "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
-          "published_utc": "2026-10-09T19:10:08+00:00"
+          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
+          "published_utc": "2026-10-09T19:05:01+00:00"
         },
         {
-          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
-          "published_utc": "2026-10-09T18:05:02+00:00"
-        },
-        {
-          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
+          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
-          "published_utc": "2026-10-09T17:44:33+00:00"
+          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
+          "published_utc": "2026-10-09T17:57:45+00:00"
+        },
+        {
+          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
+          "published_utc": "2026-10-09T17:30:39+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "AMZN",
+      "price": 262.43,
+      "change_percent": 3.2945,
+      "previous_close": 254.06,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
+          "published_utc": "2026-10-09T19:51:09+00:00"
+        },
+        {
+          "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
+          "published_utc": "2026-10-09T19:41:36+00:00"
+        },
+        {
+          "headline": "Delta cuts outlook, Microsoft fights H-1B restrictions, Bezos eyes Blue Origin IPO",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=29895590be39d8554d2273cdd20f3bc580765bc68f65dd79499a4d1e588611bf",
+          "published_utc": "2026-10-09T19:13:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "MSFT",
-      "price": 535.59,
-      "change_percent": 2.4837,
+      "price": 535.07,
+      "change_percent": 2.3842,
       "previous_close": 522.61,
-      "quote_timestamp": 1791575080.0,
-      "quote_time_utc": "2026-10-09T19:44:40+00:00",
-      "quote_age_seconds": 19,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -268,12 +268,12 @@
     },
     {
       "symbol": "TSLA",
-      "price": 383.02,
-      "change_percent": 2.1387,
+      "price": 382.7,
+      "change_percent": 2.0533,
       "previous_close": 375.0,
-      "quote_timestamp": 1791575081.0,
-      "quote_time_utc": "2026-10-09T19:44:41+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791576000.0,
+      "quote_time_utc": "2026-10-09T20:00:00+00:00",
+      "quote_age_seconds": 857,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -299,80 +299,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=98aee6273e192098525594006e06773787b51d681b667560d11d8a9ec256930b",
           "published_utc": "2026-10-09T16:08:28+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "HOOD",
-      "price": 109.29,
-      "change_percent": 2.1306,
-      "previous_close": 107.01,
-      "quote_timestamp": 1791575081.0,
-      "quote_time_utc": "2026-10-09T19:44:41+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
-          "published_utc": "2026-10-09T13:25:00+00:00"
-        },
-        {
-          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
-          "published_utc": "2026-10-09T12:21:00+00:00"
-        },
-        {
-          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
-          "published_utc": "2026-10-09T11:29:12+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSTR",
-      "price": 154.57,
-      "change_percent": 2.0466,
-      "previous_close": 151.47,
-      "quote_timestamp": 1791575081.0,
-      "quote_time_utc": "2026-10-09T19:44:41+00:00",
-      "quote_age_seconds": 18,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
-          "published_utc": "2026-10-09T17:57:45+00:00"
-        },
-        {
-          "headline": "MSTR Stock Rises 60% in Three Months: Is More Upside Still Ahead?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e3ac05a9e771b90c06569954064c321776b8df25d5e74dadea9c9a0b7b1173db",
-          "published_utc": "2026-10-09T16:20:00+00:00"
-        },
-        {
-          "headline": "JPMorgan Chase Is Bullish On Crypto Heading Into Year\u2019s End",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c27e3ce8b7639718277130833c2f465a474acfac605f64724846080b409c0f27",
-          "published_utc": "2026-10-09T13:34:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
