@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T23:44:29.540663+00:00",
+  "updated": "2026-10-09T00:25:41.713494+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 194.12,
       "quote_timestamp": 1791489600.0,
       "quote_time_utc": "2026-10-08T20:00:00+00:00",
-      "quote_age_seconds": 13468,
+      "quote_age_seconds": 15941,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Looking for the most active stocks in the S&P500 index on Thursday?",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=e8f0d85eb95a24026ef2036ad49410e7fd9a4f34d744d8ecfa17937b899da51a",
-          "published_utc": "2026-10-08T18:05:04+00:00"
+          "headline": "Zeta Global Unveils AthenaOS to Connect AI, Data and Marketing Workflows",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ac5351669398e21c0476bd5069637a3d2dc2a66b83b204d0ebb3e7873e70cc4c",
+          "published_utc": "2026-10-08T23:02:14+00:00"
         },
         {
-          "headline": "Palantir Looks Like a Consulting Company. Its Numbers Tell a Different Story.",
+          "headline": "Could Palantir Foundry Be a Turning Point for Ocean Power Technologies (OPTT)?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0d56efe9debf9d0b56130102fa21be3e9bf10771c8e0a85eeef74111cdfa438b",
-          "published_utc": "2026-10-08T17:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=4d1aa0fab0181082cb25fe225ebfbb19c1ccd5c23391082b697ec07df20835d5",
+          "published_utc": "2026-10-08T22:46:24+00:00"
         },
         {
-          "headline": "\u2018Everybody knows you\u2019re out of touch\u2019: Palantir CEO Alex Karp says his own exec told him to stop hyping Foundry",
+          "headline": "Palantir Technologies, Doximity, Snowflake, and Teradata Shares Skyrocket, What You Need To Know",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bdbb600c4b6f36d817fa0c8fea3f8d91fbe8e3681653ec85e7b5b2902a44df1",
-          "published_utc": "2026-10-08T17:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=29c86b547f0f7ad6ac488669abb883e65d3136f44a32e451de24eae58c70e3fb",
+          "published_utc": "2026-10-08T22:16:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
