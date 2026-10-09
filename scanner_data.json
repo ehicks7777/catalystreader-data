@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T22:14:40.368088+00:00",
+  "updated": "2026-10-09T22:45:52.555743+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 8079,
+      "quote_age_seconds": 9951,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Snowflake vs. MongoDB: Does Faster Growth Justify Twice the Cash-Flow Price?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69be22d5f054b79b36aa048aa2fc09256eb57614c98e1bd749f681b0d1b76679",
+          "published_utc": "2026-10-09T21:18:50+00:00"
+        },
+        {
+          "headline": "Why Legendary Investor Peter Lynch Ignored Stock Market Crash Predictions, and Why You Should Too",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6bb4d29a577a78a61cc3724e3163c02f3c2bed9e2f5a700c3e7129c909dbc8c6",
+          "published_utc": "2026-10-09T20:50:00+00:00"
+        },
+        {
           "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
           "published_utc": "2026-10-09T18:05:02+00:00"
-        },
-        {
-          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
-          "published_utc": "2026-10-09T17:44:33+00:00"
-        },
-        {
-          "headline": "Goldman Predicts a \u201cStep Function Change\u201d in Palantir\u2019s AI Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
-          "published_utc": "2026-10-09T17:40:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 8079,
+      "quote_age_seconds": 9951,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 8079,
+      "quote_age_seconds": 9951,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 8079,
+      "quote_age_seconds": 9951,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 8079,
+      "quote_age_seconds": 9951,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Weekly Wrap: Rising Treasury Yields Sink Bitcoin",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6926f57532a418c63dcbb5dfc81fb0dd720ba1ba698592723ae879660d2e59c3",
+          "published_utc": "2026-10-09T20:52:00+00:00"
+        },
         {
           "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8de008c1648491066823775c4275abe7573446715841a6c429601433bcfaa03a",
           "published_utc": "2026-10-09T19:22:23+00:00"
-        },
-        {
-          "headline": "Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=944790fe393b3933662a5437347aec4faeeae83e6e89db1152ade76489f3247f",
-          "published_utc": "2026-10-09T18:45:17+00:00"
         }
       ],
       "news_status": "Recent headlines found"
