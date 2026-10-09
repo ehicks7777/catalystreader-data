@@ -1,122 +1,10 @@
 {
-  "updated": "2026-10-09T20:14:18.578272+00:00",
+  "updated": "2026-10-09T20:46:51.069221+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "PLTR",
-      "price": 209.05,
-      "change_percent": 5.1665,
-      "previous_close": 198.78,
-      "quote_timestamp": 1791576000.0,
-      "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
-          "published_utc": "2026-10-09T18:05:02+00:00"
-        },
-        {
-          "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
-          "published_utc": "2026-10-09T17:44:33+00:00"
-        },
-        {
-          "headline": "Goldman Predicts a \u201cStep Function Change\u201d in Palantir\u2019s AI Opportunity",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=054759b0368fee40a0a33f7994d2b470b213943a5022a11dc876e0f390861ef7",
-          "published_utc": "2026-10-09T17:40:09+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "COIN",
-      "price": 179.39,
-      "change_percent": 4.2965,
-      "previous_close": 172.0,
-      "quote_timestamp": 1791576000.0,
-      "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Discover which S&P500 stocks are making waves on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
-          "published_utc": "2026-10-09T19:05:01+00:00"
-        },
-        {
-          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
-          "published_utc": "2026-10-09T17:57:45+00:00"
-        },
-        {
-          "headline": "Can You Borrow Against Your Bitcoin Without Selling It? Costs and Risks You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fa3249cc0926c47a1f7f45a6c441a45207b37a1fb2c27fae305e8b0cf16d7736",
-          "published_utc": "2026-10-09T17:30:39+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "AMZN",
-      "price": 262.43,
-      "change_percent": 3.2945,
-      "previous_close": 254.06,
-      "quote_timestamp": 1791576000.0,
-      "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
-          "published_utc": "2026-10-09T19:51:09+00:00"
-        },
-        {
-          "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
-          "published_utc": "2026-10-09T19:41:36+00:00"
-        },
-        {
-          "headline": "Delta cuts outlook, Microsoft fights H-1B restrictions, Bezos eyes Blue Origin IPO",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29895590be39d8554d2273cdd20f3bc580765bc68f65dd79499a4d1e588611bf",
-          "published_utc": "2026-10-09T19:13:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "PLTR",
@@ -125,8 +13,8 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2809,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -162,8 +50,8 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2809,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -199,8 +87,8 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2809,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -236,8 +124,8 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2809,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -246,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Friday's session: top gainers and losers in the dow jones index",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
-          "published_utc": "2026-10-09T19:10:08+00:00"
+          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=39f065624a1766f0c3cc41bc76b37601070f130177da07d9f38817749ca5c858",
+          "published_utc": "2026-10-09T19:47:53+00:00"
         },
         {
-          "headline": "Microsoft gets paid no matter which AI model wins",
+          "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4f7a12eda8e1c6fd79762ee609ed39852043685a5b42f459b4286f81daba14a9",
-          "published_utc": "2026-10-09T17:47:00+00:00"
+          "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
+          "published_utc": "2026-10-09T19:41:36+00:00"
         },
         {
-          "headline": "Elon Musk, Jensen Huang, and tech leaders receive White House National Medals",
+          "headline": "Update: Mega-Cap Technology Helps Lift US Equity Indexes Higher",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
-          "published_utc": "2026-10-09T17:45:53+00:00"
+          "url": "https://finnhub.io/api/news?id=71cdf5c342d803a900cfd11041cd3f2ebb56ba4ca29d713cba2747beca551100",
+          "published_utc": "2026-10-09T19:41:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -273,8 +161,8 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 857,
-      "quote_freshness": "fresh",
+      "quote_age_seconds": 2809,
+      "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -283,28 +171,28 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
-          "published_utc": "2026-10-09T18:05:02+00:00"
+          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
+          "published_utc": "2026-10-09T19:51:09+00:00"
         },
         {
-          "headline": "Elon Musk, Jensen Huang, and tech leaders receive White House National Medals",
+          "headline": "Tesla is one of the 'clearest ways to own physical AI,' analyst says",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=189c880b9208fee07e2dc21b40797cd24c20700ff3dbe64102a6e1e800bb4227",
-          "published_utc": "2026-10-09T17:45:53+00:00"
+          "url": "https://finnhub.io/api/news?id=8de008c1648491066823775c4275abe7573446715841a6c429601433bcfaa03a",
+          "published_utc": "2026-10-09T19:22:23+00:00"
         },
         {
-          "headline": "Tesla\u2019s China-Made EV Sales Hit 2026 High In September \u2013 Yorkville Says TSLA Is One Of The Clearest Ways To Own \u2018Physical AI\u2019 In Public Markets",
+          "headline": "Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=98aee6273e192098525594006e06773787b51d681b667560d11d8a9ec256930b",
-          "published_utc": "2026-10-09T16:08:28+00:00"
+          "url": "https://finnhub.io/api/news?id=944790fe393b3933662a5437347aec4faeeae83e6e89db1152ade76489f3247f",
+          "published_utc": "2026-10-09T18:45:17+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 0,
+  "stale_quotes": 20,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
