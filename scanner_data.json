@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:47:45.525524+00:00",
+  "updated": "2026-10-09T17:14:08.828445+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "COIN",
-      "price": 181.57,
-      "change_percent": 5.564,
+      "price": 181.68,
+      "change_percent": 5.6279,
       "previous_close": 172.0,
-      "quote_timestamp": 1791564438.0,
-      "quote_time_utc": "2026-10-09T16:47:18+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791566011.0,
+      "quote_time_utc": "2026-10-09T17:13:31+00:00",
+      "quote_age_seconds": 35,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2c26afd337be6e602cbe11e05f522a939e135512c9b2693786c6f1c96eb7fa0c",
+          "published_utc": "2026-10-09T16:35:01+00:00"
+        },
         {
           "headline": "Coinbase-Samsung Deal Expands USDC Access Through Samsung Wallet",
           "source": "Yahoo",
@@ -32,23 +38,17 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
           "published_utc": "2026-10-09T13:25:00+00:00"
-        },
-        {
-          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
-          "published_utc": "2026-10-09T12:21:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 205.37,
-      "change_percent": 3.3152,
+      "price": 205.51,
+      "change_percent": 3.3857,
       "previous_close": 198.78,
-      "quote_timestamp": 1791564435.0,
-      "quote_time_utc": "2026-10-09T16:47:15+00:00",
+      "quote_timestamp": 1791566017.0,
+      "quote_time_utc": "2026-10-09T17:13:37+00:00",
       "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
@@ -84,9 +84,9 @@
       "price": 156.4,
       "change_percent": 3.2548,
       "previous_close": 151.47,
-      "quote_timestamp": 1791564437.0,
-      "quote_time_utc": "2026-10-09T16:47:17+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1791566016.0,
+      "quote_time_utc": "2026-10-09T17:13:36+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +120,12 @@
   "swing_trading": [
     {
       "symbol": "COIN",
-      "price": 181.57,
-      "change_percent": 5.564,
+      "price": 181.68,
+      "change_percent": 5.6279,
       "previous_close": 172.0,
-      "quote_timestamp": 1791564438.0,
-      "quote_time_utc": "2026-10-09T16:47:18+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791566011.0,
+      "quote_time_utc": "2026-10-09T17:13:31+00:00",
+      "quote_age_seconds": 35,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -134,6 +134,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Friday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=2c26afd337be6e602cbe11e05f522a939e135512c9b2693786c6f1c96eb7fa0c",
+          "published_utc": "2026-10-09T16:35:01+00:00"
+        },
         {
           "headline": "Coinbase-Samsung Deal Expands USDC Access Through Samsung Wallet",
           "source": "Yahoo",
@@ -145,23 +151,17 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
           "published_utc": "2026-10-09T13:25:00+00:00"
-        },
-        {
-          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
-          "published_utc": "2026-10-09T12:21:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "PLTR",
-      "price": 205.37,
-      "change_percent": 3.3152,
+      "price": 205.51,
+      "change_percent": 3.3857,
       "previous_close": 198.78,
-      "quote_timestamp": 1791564435.0,
-      "quote_time_utc": "2026-10-09T16:47:15+00:00",
+      "quote_timestamp": 1791566017.0,
+      "quote_time_utc": "2026-10-09T17:13:37+00:00",
       "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
@@ -197,9 +197,9 @@
       "price": 156.4,
       "change_percent": 3.2548,
       "previous_close": 151.47,
-      "quote_timestamp": 1791564437.0,
-      "quote_time_utc": "2026-10-09T16:47:17+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1791566016.0,
+      "quote_time_utc": "2026-10-09T17:13:36+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -231,12 +231,12 @@
     },
     {
       "symbol": "AMZN",
-      "price": 261.57,
-      "change_percent": 2.956,
+      "price": 260.62,
+      "change_percent": 2.5821,
       "previous_close": 254.06,
-      "quote_timestamp": 1791564437.0,
-      "quote_time_utc": "2026-10-09T16:47:17+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1791566018.0,
+      "quote_time_utc": "2026-10-09T17:13:38+00:00",
+      "quote_age_seconds": 28,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -245,6 +245,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Top dow jones movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=017ffc0a54b8f782db50580fa23a16d185b394840ad8991564195fa4ddb45199",
+          "published_utc": "2026-10-09T16:40:11+00:00"
+        },
         {
           "headline": "\u201cUtterly Impossible\u201d: Musk\u2019s Delta Joke Drew 91,000 Likes. Then Delta Slashed Its Profit Forecast As Fuel Costs Jumped $6 Billion.",
           "source": "Yahoo",
@@ -256,24 +262,55 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ec2942647fbc53b3f31c43100f4de31c4de339e9858bc945f0afed05da1abc8f",
           "published_utc": "2026-10-09T15:09:50+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "MSFT",
+      "price": 534.59,
+      "change_percent": 2.2923,
+      "previous_close": 522.61,
+      "quote_timestamp": 1791566019.0,
+      "quote_time_utc": "2026-10-09T17:13:39+00:00",
+      "quote_age_seconds": 27,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Top dow jones movers in Friday's session",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=017ffc0a54b8f782db50580fa23a16d185b394840ad8991564195fa4ddb45199",
+          "published_utc": "2026-10-09T16:40:11+00:00"
         },
         {
-          "headline": "Online spend during Amazon\u2019s Prime Big Deal Days neared $10B in the US",
+          "headline": "Video game hardware sales plunge to 13-year low as prices soar on memory, storage shortage",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68dfccfef3dfc71531c1459391c064408767479da66df7e85773d30c9d58dcee",
-          "published_utc": "2026-10-09T15:08:00+00:00"
+          "url": "https://finnhub.io/api/news?id=cf1eb9bcb0d18a36fd474c3553566714e1ddfc7fccc23d2a8e687f58bc889196",
+          "published_utc": "2026-10-09T15:55:35+00:00"
+        },
+        {
+          "headline": "A Nobel Economist Compared This Fund to the Invention of the Wheel. $100 a Month Could Top $544,000",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7fb38ee23cd2f4c99203f17681f6b3615fae76325b732d2f9395ada34c96394f",
+          "published_utc": "2026-10-09T15:44:55+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "TSLA",
-      "price": 383.95,
-      "change_percent": 2.3867,
+      "price": 383.01,
+      "change_percent": 2.136,
       "previous_close": 375.0,
-      "quote_timestamp": 1791564438.0,
-      "quote_time_utc": "2026-10-09T16:47:18+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791566019.0,
+      "quote_time_utc": "2026-10-09T17:13:39+00:00",
+      "quote_age_seconds": 27,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -299,80 +336,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=21c1956b6395e82e5b737d166693a416c858bb1adfbcbc2378c630dd392f6f48",
           "published_utc": "2026-10-09T14:44:42+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "MSFT",
-      "price": 535.08,
-      "change_percent": 2.3861,
-      "previous_close": 522.61,
-      "quote_timestamp": 1791564438.0,
-      "quote_time_utc": "2026-10-09T16:47:18+00:00",
-      "quote_age_seconds": 26,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Video game hardware sales plunge to 13-year low as prices soar on memory, storage shortage",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=cf1eb9bcb0d18a36fd474c3553566714e1ddfc7fccc23d2a8e687f58bc889196",
-          "published_utc": "2026-10-09T15:55:35+00:00"
-        },
-        {
-          "headline": "A Nobel Economist Compared This Fund to the Invention of the Wheel. $100 a Month Could Top $544,000",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7fb38ee23cd2f4c99203f17681f6b3615fae76325b732d2f9395ada34c96394f",
-          "published_utc": "2026-10-09T15:44:55+00:00"
-        },
-        {
-          "headline": "Constellation Brands (STZ) Is Up 9.4% After Earnings Beat And SpikedAde Deal Announcement - What's Changed",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6ddab5f6709ec2fe2aacd223779ea3d20484d4c892fad4e8c867fe62de37b484",
-          "published_utc": "2026-10-09T15:11:47+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "HOOD",
-      "price": 109.18,
-      "change_percent": 2.0278,
-      "previous_close": 107.01,
-      "quote_timestamp": 1791564437.0,
-      "quote_time_utc": "2026-10-09T16:47:17+00:00",
-      "quote_age_seconds": 27,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Blockchain.com Files for CFTC Exchange License, Eyes U.S. Prediction Markets",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9a9712a5321b0fd7e566ceb9e7206b897002edf2e5fade5c814fb64f4ba72e8c",
-          "published_utc": "2026-10-09T13:25:00+00:00"
-        },
-        {
-          "headline": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=11cccd0f77ec04e1beb3354eb7f384ea84360d6536ead553c5d6a59abbeec883",
-          "published_utc": "2026-10-09T12:21:00+00:00"
-        },
-        {
-          "headline": "COIN, HOOD Stocks Get Price Target Hikes, While Morgan Stanley Cuts Gemini To \u2018Underweight\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9792a9e95d0959562dcbeb108664c67efa0e96320e61301a575c5fb5c49cfdf5",
-          "published_utc": "2026-10-09T11:29:12+00:00"
         }
       ],
       "news_status": "Recent headlines found"
