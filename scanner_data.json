@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:13:14.130378+00:00",
+  "updated": "2026-10-10T16:45:13.623364+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 72793,
+      "quote_age_seconds": 74712,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Palantir Stock Closed at a Record After Barclays Set a $265 Target. Here\u2019s What Q3 Has to Clear",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=031defea49894285be3f3f937718df8284eae9e490a87557c63ebe0c108625a9",
+          "published_utc": "2026-10-10T15:36:45+00:00"
+        },
+        {
+          "headline": "3 AI Stocks With Earnings Growth Up To 34%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fdb1184a9759c11a07ce10b2e2faf27875657e6e32ffb8d16be3498a63809516",
+          "published_utc": "2026-10-10T15:11:29+00:00"
+        },
+        {
           "headline": "Microsoft Plus 2 Elite Defensive Stocks",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6c02d8cb904f57e939e853cfdfedddae95ba32b9f6e7a544fa92c6107097eb7b",
           "published_utc": "2026-10-10T10:12:09+00:00"
-        },
-        {
-          "headline": "Palantir Stock Rose 60% in the Third Quarter. Here's What Its Other Big Quarters Did Next.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90b14a12247df914672da0b02818a860591207cf4329fca3847e984c71860f9c",
-          "published_utc": "2026-10-10T09:33:02+00:00"
-        },
-        {
-          "headline": "Zeta Global: The Shares Have Doubled, And I Remain Bullish",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=bbf5b25403d45262b6297a5ec905d87994c94886fc5a450ba382e61a2fd23d4e",
-          "published_utc": "2026-10-10T09:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 72793,
+      "quote_age_seconds": 74712,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 72793,
+      "quote_age_seconds": 74712,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 72793,
+      "quote_age_seconds": 74712,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f2844e0e786b008920f0834d70180231cc0469bf4e4f740cc84cb4a2292c00f1",
+          "published_utc": "2026-10-10T14:15:00+00:00"
+        },
         {
           "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6c02d8cb904f57e939e853cfdfedddae95ba32b9f6e7a544fa92c6107097eb7b",
           "published_utc": "2026-10-10T10:12:09+00:00"
-        },
-        {
-          "headline": "S&P 500 Index Concentration - Room At The Top",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
-          "published_utc": "2026-10-10T04:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 72793,
+      "quote_age_seconds": 74712,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=96b65c09b71281b5b49a6339d53399a3273c426f4788b6f467aa08b1704e25bc",
+          "published_utc": "2026-10-10T15:53:00+00:00"
+        },
+        {
+          "headline": "Tesla Beat Delivery Estimates by 25,000 Vehicles. Here's Why the Stock Still Hasn't Broken Out.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7ebe93be12003ed15f94ad3fa49d3f80954cc3d17f871b53ff09d27d3c27dbc4",
+          "published_utc": "2026-10-10T15:21:00+00:00"
+        },
+        {
           "headline": "Tesla Shares Surge: What's Driving the Latest Rally",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c75fa2cdef7f20172f424d64ce72aa7514130d8c1a84d3f261cc188eb2ad1815",
           "published_utc": "2026-10-10T11:08:00+00:00"
-        },
-        {
-          "headline": "Solana\u2019s New Addresses Surge 124% While SOL Price Drops 9%. What\u2019s Going On?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f4d8924b618ca4a58d40427d6c2d578c4ffc9c4bf24238e10541fa427d857176",
-          "published_utc": "2026-10-10T08:21:34+00:00"
-        },
-        {
-          "headline": "Benzinga Bulls and Bears: Nvidia, Lumentum, Planet Labs",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fac35fbefcdcb63fbb568e22b371f3c4e10a546d16b71dde0c5a14ed2868bb8b",
-          "published_utc": "2026-10-10T08:00:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
