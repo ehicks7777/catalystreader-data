@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:13:07.302569+00:00",
+  "updated": "2026-10-10T14:43:49.639594+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 65586,
+      "quote_age_seconds": 67428,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 65586,
+      "quote_age_seconds": 67428,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 65586,
+      "quote_age_seconds": 67428,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 65586,
+      "quote_age_seconds": 67428,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4e0a727ea92b00175d42b900ecf6e3fd62e49ebdd28f00878113af3174b8254",
+          "published_utc": "2026-10-10T10:30:00+00:00"
+        },
         {
           "headline": "Microsoft Plus 2 Elite Defensive Stocks",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
           "published_utc": "2026-10-10T04:25:00+00:00"
-        },
-        {
-          "headline": "Microsoft's AI Economics Are Quietly Starting To Change",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=256401233cdab99eebd8c83270ec2f5dc411bfba9fd9b773635a10c3eeb16ad0",
-          "published_utc": "2026-10-10T04:21:19+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 65586,
+      "quote_age_seconds": 67428,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
