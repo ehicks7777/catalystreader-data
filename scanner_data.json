@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:13:30.013098+00:00",
+  "updated": "2026-10-10T15:44:33.107018+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 69208,
+      "quote_age_seconds": 71071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 69208,
+      "quote_age_seconds": 71071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 69208,
+      "quote_age_seconds": 71071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -103,16 +103,16 @@
           "published_utc": "2026-10-10T11:30:07+00:00"
         },
         {
+          "headline": "The 1-Minute Market Report October 10, 2026",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=ff3b3be067a4c287f88208fb12b78c29d20a59d27d74e110fe1720f8e2fbea04",
+          "published_utc": "2026-10-10T11:01:42+00:00"
+        },
+        {
           "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=d4e0a727ea92b00175d42b900ecf6e3fd62e49ebdd28f00878113af3174b8254",
           "published_utc": "2026-10-10T10:30:00+00:00"
-        },
-        {
-          "headline": "Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c41b5d50aa52450df8a33df6ca695b59477462599994e785d195a26e7ca93e35",
-          "published_utc": "2026-10-10T05:13:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 69208,
+      "quote_age_seconds": 71071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 69208,
+      "quote_age_seconds": 71071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
