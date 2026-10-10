@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T03:46:45.897895+00:00",
+  "updated": "2026-10-10T04:15:07.607070+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 28004,
+      "quote_age_seconds": 29706,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 28004,
+      "quote_age_seconds": 29706,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 28004,
+      "quote_age_seconds": 29706,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 28004,
+      "quote_age_seconds": 29706,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5ed97e542b4f63c0d4753236fb6f6abbb87923357a06e16b4a65ec207a3f3edd",
+          "published_utc": "2026-10-10T03:26:37+00:00"
+        },
         {
           "headline": "Fuji Electric\u2019s Helical Fusion Partnership Could Be A Game Changer For Fuji Electric (TSE:6504)",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5c4e446abd334f8092f8ee0a0068885b5977f2f5175ab4b843013a4fece9ea30",
           "published_utc": "2026-10-09T22:53:11+00:00"
-        },
-        {
-          "headline": "Tech Edge Will be Onsite at Money20/20 2026 in Las Vegas",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b6382fd6de755b68d7a074b2b4820da8de199292ac510da7a69d9953f06dd2a5",
-          "published_utc": "2026-10-09T22:21:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 28004,
+      "quote_age_seconds": 29706,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
