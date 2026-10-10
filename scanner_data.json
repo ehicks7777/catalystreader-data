@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:44:30.131728+00:00",
+  "updated": "2026-10-10T14:13:07.302569+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 63869,
+      "quote_age_seconds": 65586,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 63869,
+      "quote_age_seconds": 65586,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 63869,
+      "quote_age_seconds": 65586,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "AWS CEO Says AI Spending Isn\u2019t a Bubble Just Yet \u2014 Amazon\u2019s Cloud Chief Says \u2018We Feel Really Good\u2019 as Ray Dalio Warns the Boom Is Near a Breaking Point",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=3a8e738dce87cc7cc450a67fa95868966b75a938c4389fd8b057550bb1e05b3e",
+          "published_utc": "2026-10-10T11:30:07+00:00"
+        },
+        {
+          "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d4e0a727ea92b00175d42b900ecf6e3fd62e49ebdd28f00878113af3174b8254",
+          "published_utc": "2026-10-10T10:30:00+00:00"
+        },
+        {
           "headline": "Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c41b5d50aa52450df8a33df6ca695b59477462599994e785d195a26e7ca93e35",
           "published_utc": "2026-10-10T05:13:36+00:00"
-        },
-        {
-          "headline": "Amazon: AWS Acceleration Supports My Strong Buy Rating",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=2473b491a67d9da9c22275e1170ebbcceab2d195d0c2e6137ee545e2183f0b7c",
-          "published_utc": "2026-10-10T04:55:21+00:00"
-        },
-        {
-          "headline": "S&P 500 Index Concentration - Room At The Top",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
-          "published_utc": "2026-10-10T04:25:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 63869,
+      "quote_age_seconds": 65586,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 63869,
+      "quote_age_seconds": 65586,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -183,10 +183,10 @@
           "published_utc": "2026-10-10T08:21:34+00:00"
         },
         {
-          "headline": "Tesla Drops \u201cFull Self-Driving\u201d in Europe, Where Its Revenue Fell 10% Last Year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=40ffa75a3815cb4a8c73ec65f4af311fb7276b0ccb30c5f828e19c1798c05e80",
-          "published_utc": "2026-10-10T06:52:58+00:00"
+          "headline": "Benzinga Bulls and Bears: Nvidia, Lumentum, Planet Labs",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=fac35fbefcdcb63fbb568e22b371f3c4e10a546d16b71dde0c5a14ed2868bb8b",
+          "published_utc": "2026-10-10T08:00:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
