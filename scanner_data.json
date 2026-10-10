@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:43:21.567396+00:00",
+  "updated": "2026-10-10T20:13:34.224250+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 85400,
+      "quote_age_seconds": 87212,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Is It Too Late to Buy Palantir Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ba8cd1956b3d0fe6f23703ccbae1213d97b7f9b49b00a8fef444d7dd5db09e29",
+          "published_utc": "2026-10-10T18:50:00+00:00"
+        },
         {
           "headline": "Palantir Stock Closed at a Record After Barclays Set a $265 Target. Here\u2019s What Q3 Has to Clear",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=fdb1184a9759c11a07ce10b2e2faf27875657e6e32ffb8d16be3498a63809516",
           "published_utc": "2026-10-10T15:11:29+00:00"
-        },
-        {
-          "headline": "Microsoft Plus 2 Elite Defensive Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c02d8cb904f57e939e853cfdfedddae95ba32b9f6e7a544fa92c6107097eb7b",
-          "published_utc": "2026-10-10T10:12:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 85400,
+      "quote_age_seconds": 87212,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Wall Street split on pioneering S&P 500 stock's price target",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f8284ad97d9e094c7030f5a2cf553e62122a47d0460fdf4871e872d02d7b10c3",
+          "published_utc": "2026-10-10T18:15:00+00:00"
+        },
         {
           "headline": "Coinbase CEO Brian Armstrong Just Doubled Down On His $400,000 Price Target for Bitcoin. Here's Why He's Wrong.",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=721552c09b6ab52763f9aa781618eeb9daad3a3f8ac64206bdf7ba46325cfe41",
           "published_utc": "2026-10-10T12:11:21+00:00"
-        },
-        {
-          "headline": "Coinbase Global (COIN) Brings Crypto Derivatives Onto One Regulated Global Exchange",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=90c5d9c2e2309e5816a6836def912a8f7b55499bd6504b1421950ca5da8a4c38",
-          "published_utc": "2026-10-10T11:18:26+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 85400,
+      "quote_age_seconds": 87212,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Coupang vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=bc9df5f5fa0c7a96a75358f2cf8df6d73c0a296df3487e24bbb7179de9526bd0",
+          "published_utc": "2026-10-10T18:50:02+00:00"
+        },
+        {
+          "headline": "Skydance Stock Is a Dicey Bet. 2 Better Plays.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=203bd7ee4a0243d17842b4d1b0f7b2101024e589a0debdf892c625697e60a871",
+          "published_utc": "2026-10-10T18:42:00+00:00"
+        },
+        {
           "headline": "Amazon.com (AMZN) Patched Critical AWS Bedrock AgentCore Security Flaws",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7c0794a766208e8e9d18f74383859a64af2defb42085a298b5feb22d632e3ca2",
           "published_utc": "2026-10-10T17:12:50+00:00"
-        },
-        {
-          "headline": "Amazon Fuel Up Fridays Returns: How Prime Members Can Save Big at the Gas Pump",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9ca170fe07b15e4b9c384097c471afd730d660f4fd5f3789cc46c1164b55d780",
-          "published_utc": "2026-10-10T17:00:25+00:00"
-        },
-        {
-          "headline": "Consumer AI agents could upend online shopping - but who really wins?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e",
-          "published_utc": "2026-10-10T15:11:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 85400,
+      "quote_age_seconds": 87212,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 85400,
+      "quote_age_seconds": 87212,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Cathie Wood Just Cut Her SpaceX Position. Is It Time to Sell?",
+          "headline": "Tesla rival appears to have a demand problem",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=96b65c09b71281b5b49a6339d53399a3273c426f4788b6f467aa08b1704e25bc",
-          "published_utc": "2026-10-10T15:53:00+00:00"
+          "url": "https://finnhub.io/api/news?id=e92263777c53c1f0193a8425221a2f5a3464583ae5662ce473eba8c0250e5def",
+          "published_utc": "2026-10-10T18:47:00+00:00"
         },
         {
-          "headline": "Tesla Beat Delivery Estimates by 25,000 Vehicles. Here's Why the Stock Still Hasn't Broken Out.",
+          "headline": "My New Car Costs $47K And The Dealer Is Offering 1.48% Financing. I Know I Should Take The Cheap Money, But I Hate Having Payments",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7ebe93be12003ed15f94ad3fa49d3f80954cc3d17f871b53ff09d27d3c27dbc4",
-          "published_utc": "2026-10-10T15:21:00+00:00"
+          "url": "https://finnhub.io/api/news?id=2afd484423b9c2d8faf9bb1af7fee25146454da8d307a1716f5f63c7b3fff7a4",
+          "published_utc": "2026-10-10T18:00:19+00:00"
         },
         {
-          "headline": "Tesla Shares Surge: What's Driving the Latest Rally",
+          "headline": "Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c75fa2cdef7f20172f424d64ce72aa7514130d8c1a84d3f261cc188eb2ad1815",
-          "published_utc": "2026-10-10T11:08:00+00:00"
+          "url": "https://finnhub.io/api/news?id=0a615327623ec4eed9fbe89c0729700ec40076e0aaadbc6eb72d695fbcec14df",
+          "published_utc": "2026-10-10T18:00:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
