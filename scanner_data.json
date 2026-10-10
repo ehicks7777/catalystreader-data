@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T09:45:06.631635+00:00",
+  "updated": "2026-10-10T10:13:40.393419+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 49501,
+      "quote_age_seconds": 51219,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Palantir Stock Rose 60% in the Third Quarter. Here's What Its Other Big Quarters Did Next.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90b14a12247df914672da0b02818a860591207cf4329fca3847e984c71860f9c",
+          "published_utc": "2026-10-10T09:33:02+00:00"
+        },
         {
           "headline": "Palantir Technologies (PLTR) Is Up 10.8% After Wall Street Upgrades and New Sovereign AI Partnership",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3cecb423e83b2d3527b73c5468da1bfdbe5b8ced5d2093546471cc565869cef6",
           "published_utc": "2026-10-10T00:16:32+00:00"
-        },
-        {
-          "headline": "Snowflake vs. MongoDB: Does Faster Growth Justify Twice the Cash-Flow Price?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69be22d5f054b79b36aa048aa2fc09256eb57614c98e1bd749f681b0d1b76679",
-          "published_utc": "2026-10-09T21:18:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 49501,
+      "quote_age_seconds": 51219,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 49501,
+      "quote_age_seconds": 51219,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 49501,
+      "quote_age_seconds": 51219,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 49501,
+      "quote_age_seconds": 51219,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Solana\u2019s New Addresses Surge 124% While SOL Price Drops 9%. What\u2019s Going On?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f4d8924b618ca4a58d40427d6c2d578c4ffc9c4bf24238e10541fa427d857176",
+          "published_utc": "2026-10-10T08:21:34+00:00"
+        },
+        {
+          "headline": "Tesla Drops \u201cFull Self-Driving\u201d in Europe, Where Its Revenue Fell 10% Last Year",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=40ffa75a3815cb4a8c73ec65f4af311fb7276b0ccb30c5f828e19c1798c05e80",
+          "published_utc": "2026-10-10T06:52:58+00:00"
+        },
+        {
           "headline": "The Hidden Risk In This Record-Breaking Market",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=25c9fd3aa4181b193f642f12cb69304ac2130209a29d310805872cba84474226",
           "published_utc": "2026-10-10T03:15:00+00:00"
-        },
-        {
-          "headline": "Stocktwits Zero To Sixty \u2014 Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e5bde37a505721c13b8cef4d946e0683abff1c949244dce34cc90f254409a564",
-          "published_utc": "2026-10-10T01:01:49+00:00"
-        },
-        {
-          "headline": "Weekly Wrap: Rising Treasury Yields Sink Bitcoin",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6926f57532a418c63dcbb5dfc81fb0dd720ba1ba698592723ae879660d2e59c3",
-          "published_utc": "2026-10-09T20:52:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
