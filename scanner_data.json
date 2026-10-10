@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:14:32.293230+00:00",
+  "updated": "2026-10-10T13:44:30.131728+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 62071,
+      "quote_age_seconds": 63869,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -35,10 +35,10 @@
           "published_utc": "2026-10-10T09:33:02+00:00"
         },
         {
-          "headline": "Palantir Technologies (PLTR) Is Up 10.8% After Wall Street Upgrades and New Sovereign AI Partnership",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c2fc53883a6e21b6f319a958c09b712dbded835d7b73f031e5a47a7bd3f69a47",
-          "published_utc": "2026-10-10T04:15:33+00:00"
+          "headline": "Zeta Global: The Shares Have Doubled, And I Remain Bullish",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=bbf5b25403d45262b6297a5ec905d87994c94886fc5a450ba382e61a2fd23d4e",
+          "published_utc": "2026-10-10T09:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 62071,
+      "quote_age_seconds": 63869,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Is Coinbase Global (COIN) Cheap As CFTC Approval Reshapes Its Valuation?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=721552c09b6ab52763f9aa781618eeb9daad3a3f8ac64206bdf7ba46325cfe41",
+          "published_utc": "2026-10-10T12:11:21+00:00"
+        },
         {
           "headline": "Coinbase Global (COIN) Brings Crypto Derivatives Onto One Regulated Global Exchange",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=089f83c2c0aee95ea133531e185e0ac014b69edd6dc7bd7308cb275d6f02673e",
           "published_utc": "2026-10-09T22:16:00+00:00"
-        },
-        {
-          "headline": "Weekly Wrap: Rising Treasury Yields Sink Bitcoin",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6926f57532a418c63dcbb5dfc81fb0dd720ba1ba698592723ae879660d2e59c3",
-          "published_utc": "2026-10-09T20:52:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 62071,
+      "quote_age_seconds": 63869,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 62071,
+      "quote_age_seconds": 63869,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 62071,
+      "quote_age_seconds": 63869,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
