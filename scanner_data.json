@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T05:45:01.843194+00:00",
+  "updated": "2026-10-10T06:18:45.756390+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 35101,
+      "quote_age_seconds": 37124,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Palantir Technologies (PLTR) Is Up 10.8% After Wall Street Upgrades and New Sovereign AI Partnership",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c2fc53883a6e21b6f319a958c09b712dbded835d7b73f031e5a47a7bd3f69a47",
+          "published_utc": "2026-10-10T04:15:33+00:00"
+        },
         {
           "headline": "Why Palantir Stock Powered to a More Than 5% Gain Today",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=69be22d5f054b79b36aa048aa2fc09256eb57614c98e1bd749f681b0d1b76679",
           "published_utc": "2026-10-09T21:18:50+00:00"
-        },
-        {
-          "headline": "Why Legendary Investor Peter Lynch Ignored Stock Market Crash Predictions, and Why You Should Too",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6bb4d29a577a78a61cc3724e3163c02f3c2bed9e2f5a700c3e7129c909dbc8c6",
-          "published_utc": "2026-10-09T20:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 35101,
+      "quote_age_seconds": 37124,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 35101,
+      "quote_age_seconds": 37124,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
+          "published_utc": "2026-10-10T04:20:00+00:00"
+        },
         {
           "headline": "Procter & Gamble could face new cost problem",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=facfce472defeb9bb17d47732b4d45b137447b0c0132cef48eb1ad9171a6ef8c",
           "published_utc": "2026-10-09T22:44:39+00:00"
-        },
-        {
-          "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
-          "published_utc": "2026-10-09T21:20:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 35101,
+      "quote_age_seconds": 37124,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 35101,
+      "quote_age_seconds": 37124,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
