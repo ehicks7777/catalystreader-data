@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:44:39.835962+00:00",
+  "updated": "2026-10-10T08:14:31.985012+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 42274,
+      "quote_age_seconds": 44071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 42274,
+      "quote_age_seconds": 44071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 42274,
+      "quote_age_seconds": 44071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c41b5d50aa52450df8a33df6ca695b59477462599994e785d195a26e7ca93e35",
+          "published_utc": "2026-10-10T05:13:36+00:00"
+        },
+        {
           "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
           "published_utc": "2026-10-10T04:20:00+00:00"
         },
         {
-          "headline": "The Hidden Risk In This Record-Breaking Market",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=25c9fd3aa4181b193f642f12cb69304ac2130209a29d310805872cba84474226",
-          "published_utc": "2026-10-10T03:15:00+00:00"
-        },
-        {
-          "headline": "Procter & Gamble could face new cost problem",
+          "headline": "Amazon\u2019s Thane Data Center Fight: A $8.3 Billion Plan Inside a $173 Billion Capex Budget",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=575415760fe38b6fb3d4adc54245984efb07fad7755b7290365b6c03a9c06d87",
-          "published_utc": "2026-10-10T01:37:00+00:00"
+          "url": "https://finnhub.io/api/news?id=e25a8f94162fa4bd7408f2b98a9083ec20e97108e8655c0605d2a032b52c93b7",
+          "published_utc": "2026-10-10T04:19:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 42274,
+      "quote_age_seconds": 44071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 42274,
+      "quote_age_seconds": 44071,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
