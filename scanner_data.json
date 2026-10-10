@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:12:28.125445+00:00",
+  "updated": "2026-10-10T17:43:07.020833+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 76347,
+      "quote_age_seconds": 78186,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 76347,
+      "quote_age_seconds": 78186,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 76347,
+      "quote_age_seconds": 78186,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 76347,
+      "quote_age_seconds": 78186,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -146,10 +146,10 @@
           "published_utc": "2026-10-10T10:30:00+00:00"
         },
         {
-          "headline": "Microsoft Plus 2 Elite Defensive Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6c02d8cb904f57e939e853cfdfedddae95ba32b9f6e7a544fa92c6107097eb7b",
-          "published_utc": "2026-10-10T10:12:09+00:00"
+          "headline": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
+          "source": "CNBC",
+          "url": "https://finnhub.io/api/news?id=8d7fd62f33c7c1b1792e470205a68c6ffd8eed6ee31dd90d8fa708cc08357d2a",
+          "published_utc": "2026-10-10T10:22:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 76347,
+      "quote_age_seconds": 78186,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
