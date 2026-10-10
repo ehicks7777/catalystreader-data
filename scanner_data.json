@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:43:48.427599+00:00",
+  "updated": "2026-10-10T12:17:25.491138+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 56627,
+      "quote_age_seconds": 58644,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Microsoft Plus 2 Elite Defensive Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6c02d8cb904f57e939e853cfdfedddae95ba32b9f6e7a544fa92c6107097eb7b",
+          "published_utc": "2026-10-10T10:12:09+00:00"
+        },
         {
           "headline": "Palantir Stock Rose 60% in the Third Quarter. Here's What Its Other Big Quarters Did Next.",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c2fc53883a6e21b6f319a958c09b712dbded835d7b73f031e5a47a7bd3f69a47",
           "published_utc": "2026-10-10T04:15:33+00:00"
-        },
-        {
-          "headline": "Why Palantir Stock Powered to a More Than 5% Gain Today",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3cecb423e83b2d3527b73c5468da1bfdbe5b8ced5d2093546471cc565869cef6",
-          "published_utc": "2026-10-10T00:16:32+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 56627,
+      "quote_age_seconds": 58644,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Coinbase Global (COIN) Brings Crypto Derivatives Onto One Regulated Global Exchange",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=90c5d9c2e2309e5816a6836def912a8f7b55499bd6504b1421950ca5da8a4c38",
+          "published_utc": "2026-10-10T11:18:26+00:00"
+        },
         {
           "headline": "Chevron\u2019s Venezuela Plan Will Pay Off, Says Analyst. Plus, Coinbase and 3 More Stocks.",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6926f57532a418c63dcbb5dfc81fb0dd720ba1ba698592723ae879660d2e59c3",
           "published_utc": "2026-10-09T20:52:00+00:00"
-        },
-        {
-          "headline": "Discover which S&P500 stocks are making waves on Friday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
-          "published_utc": "2026-10-09T19:05:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 56627,
+      "quote_age_seconds": 58644,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 56627,
+      "quote_age_seconds": 58644,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Microsoft Plus 2 Elite Defensive Stocks",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6c02d8cb904f57e939e853cfdfedddae95ba32b9f6e7a544fa92c6107097eb7b",
+          "published_utc": "2026-10-10T10:12:09+00:00"
+        },
         {
           "headline": "S&P 500 Index Concentration - Room At The Top",
           "source": "SeekingAlpha",
@@ -144,12 +150,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=256401233cdab99eebd8c83270ec2f5dc411bfba9fd9b773635a10c3eeb16ad0",
           "published_utc": "2026-10-10T04:21:19+00:00"
-        },
-        {
-          "headline": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5ed97e542b4f63c0d4753236fb6f6abbb87923357a06e16b4a65ec207a3f3edd",
-          "published_utc": "2026-10-10T03:26:37+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 56627,
+      "quote_age_seconds": 58644,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Tesla Shares Surge: What's Driving the Latest Rally",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c75fa2cdef7f20172f424d64ce72aa7514130d8c1a84d3f261cc188eb2ad1815",
+          "published_utc": "2026-10-10T11:08:00+00:00"
+        },
         {
           "headline": "Solana\u2019s New Addresses Surge 124% While SOL Price Drops 9%. What\u2019s Going On?",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=40ffa75a3815cb4a8c73ec65f4af311fb7276b0ccb30c5f828e19c1798c05e80",
           "published_utc": "2026-10-10T06:52:58+00:00"
-        },
-        {
-          "headline": "The Hidden Risk In This Record-Breaking Market",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=25c9fd3aa4181b193f642f12cb69304ac2130209a29d310805872cba84474226",
-          "published_utc": "2026-10-10T03:15:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
