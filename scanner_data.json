@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:44:33.107018+00:00",
+  "updated": "2026-10-10T16:13:14.130378+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 71071,
+      "quote_age_seconds": 72793,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 71071,
+      "quote_age_seconds": 72793,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Coinbase CEO Brian Armstrong Just Doubled Down On His $400,000 Price Target for Bitcoin. Here's Why He's Wrong.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7ec2b2b9bbdbf22aac9d099a9066243113bb0fb1c1768382db19b25b924a993",
+          "published_utc": "2026-10-10T15:47:00+00:00"
+        },
         {
           "headline": "Is Coinbase Global (COIN) Cheap As CFTC Approval Reshapes Its Valuation?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=90c5d9c2e2309e5816a6836def912a8f7b55499bd6504b1421950ca5da8a4c38",
           "published_utc": "2026-10-10T11:18:26+00:00"
-        },
-        {
-          "headline": "Chevron\u2019s Venezuela Plan Will Pay Off, Says Analyst. Plus, Coinbase and 3 More Stocks.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=089f83c2c0aee95ea133531e185e0ac014b69edd6dc7bd7308cb275d6f02673e",
-          "published_utc": "2026-10-09T22:16:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 71071,
+      "quote_age_seconds": 72793,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Consumer AI agents could upend online shopping - but who really wins?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e",
+          "published_utc": "2026-10-10T15:11:00+00:00"
+        },
+        {
+          "headline": "Investor Predicts Anthropic Could Be \u201cthe First\u201d $10 Trillion Company. Cue the Amazon + Google Payday",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=00b29d357e8dc8444cd964cf863dfef2da6fbc2297da88a442cc145cf2612d50",
+          "published_utc": "2026-10-10T15:05:37+00:00"
+        },
+        {
           "headline": "AWS CEO Says AI Spending Isn\u2019t a Bubble Just Yet \u2014 Amazon\u2019s Cloud Chief Says \u2018We Feel Really Good\u2019 as Ray Dalio Warns the Boom Is Near a Breaking Point",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=3a8e738dce87cc7cc450a67fa95868966b75a938c4389fd8b057550bb1e05b3e",
           "published_utc": "2026-10-10T11:30:07+00:00"
-        },
-        {
-          "headline": "The 1-Minute Market Report October 10, 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=ff3b3be067a4c287f88208fb12b78c29d20a59d27d74e110fe1720f8e2fbea04",
-          "published_utc": "2026-10-10T11:01:42+00:00"
-        },
-        {
-          "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d4e0a727ea92b00175d42b900ecf6e3fd62e49ebdd28f00878113af3174b8254",
-          "published_utc": "2026-10-10T10:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 71071,
+      "quote_age_seconds": 72793,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 71071,
+      "quote_age_seconds": 72793,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
