@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T08:14:31.985012+00:00",
+  "updated": "2026-10-10T08:45:19.711477+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 44071,
+      "quote_age_seconds": 45918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 44071,
+      "quote_age_seconds": 45918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 44071,
+      "quote_age_seconds": 45918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -103,16 +103,16 @@
           "published_utc": "2026-10-10T05:13:36+00:00"
         },
         {
+          "headline": "S&P 500 Index Concentration - Room At The Top",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
+          "published_utc": "2026-10-10T04:25:00+00:00"
+        },
+        {
           "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
           "published_utc": "2026-10-10T04:20:00+00:00"
-        },
-        {
-          "headline": "Amazon\u2019s Thane Data Center Fight: A $8.3 Billion Plan Inside a $173 Billion Capex Budget",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e25a8f94162fa4bd7408f2b98a9083ec20e97108e8655c0605d2a032b52c93b7",
-          "published_utc": "2026-10-10T04:19:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 44071,
+      "quote_age_seconds": 45918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "S&P 500 Index Concentration - Room At The Top",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
+          "published_utc": "2026-10-10T04:25:00+00:00"
+        },
+        {
+          "headline": "Microsoft's AI Economics Are Quietly Starting To Change",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=256401233cdab99eebd8c83270ec2f5dc411bfba9fd9b773635a10c3eeb16ad0",
+          "published_utc": "2026-10-10T04:21:19+00:00"
+        },
+        {
           "headline": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5ed97e542b4f63c0d4753236fb6f6abbb87923357a06e16b4a65ec207a3f3edd",
           "published_utc": "2026-10-10T03:26:37+00:00"
-        },
-        {
-          "headline": "The Hidden Risk In This Record-Breaking Market",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=25c9fd3aa4181b193f642f12cb69304ac2130209a29d310805872cba84474226",
-          "published_utc": "2026-10-10T03:15:00+00:00"
-        },
-        {
-          "headline": "Fuji Electric\u2019s Helical Fusion Partnership Could Be A Game Changer For Fuji Electric (TSE:6504)",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f908f710896776d357e4541a6721bd6b80c716f72df92ca59cb9c8ebd0ead2f",
-          "published_utc": "2026-10-09T23:15:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 44071,
+      "quote_age_seconds": 45918,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
