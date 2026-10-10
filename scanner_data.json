@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:43:58.041913+00:00",
+  "updated": "2026-10-10T22:12:50.197843+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 92636,
+      "quote_age_seconds": 94368,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Goldman Sachs resets Palantir Stock 12-month price target by 18%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=276106dc268eb396730644dbcbaf48d4257e081ac421936fefdff2718029a2bf",
+          "published_utc": "2026-10-10T20:07:00+00:00"
+        },
         {
           "headline": "Is It Too Late to Buy Palantir Stock?",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=031defea49894285be3f3f937718df8284eae9e490a87557c63ebe0c108625a9",
           "published_utc": "2026-10-10T15:36:45+00:00"
-        },
-        {
-          "headline": "3 AI Stocks With Earnings Growth Up To 34%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fdb1184a9759c11a07ce10b2e2faf27875657e6e32ffb8d16be3498a63809516",
-          "published_utc": "2026-10-10T15:11:29+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 92636,
+      "quote_age_seconds": 94368,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 92636,
+      "quote_age_seconds": 94368,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 92636,
+      "quote_age_seconds": 94368,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Infosys sees no material impact from U.S. PERM suspension",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5f9ca7a89654165f4baef6b5f014cc943f56e7f7ca0adffd898e2141788fe974",
+          "published_utc": "2026-10-10T20:44:06+00:00"
+        },
+        {
+          "headline": "Trump awards science medals to Musk, Nadella and 4 other tech titans \u2014 5 immigrants \u2014 hours after Vance targets them",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d936e2abe8fe765560c3a63a00becdaaedd7d3c9f87feec6104bb99c285dcb4c",
+          "published_utc": "2026-10-10T20:15:00+00:00"
+        },
+        {
           "headline": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=69387e00bf52429c8086050e82ee46db0171cd604077c4444f00839259e64b9e",
           "published_utc": "2026-10-10T17:03:01+00:00"
-        },
-        {
-          "headline": "Is AI-Powered CashPro, AskGPS and New Debt Issuance Altering The Investment Case For Bank of America (BAC)?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d5cfd68b4fc6190e11171358a728986a5661f3f024a160494ed30792d95a566c",
-          "published_utc": "2026-10-10T16:11:03+00:00"
-        },
-        {
-          "headline": "Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f2844e0e786b008920f0834d70180231cc0469bf4e4f740cc84cb4a2292c00f1",
-          "published_utc": "2026-10-10T14:15:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 92636,
+      "quote_age_seconds": 94368,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
