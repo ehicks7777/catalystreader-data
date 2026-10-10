@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T08:45:19.711477+00:00",
+  "updated": "2026-10-10T09:14:20.425532+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 45918,
+      "quote_age_seconds": 47659,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 45918,
+      "quote_age_seconds": 47659,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 45918,
+      "quote_age_seconds": 47659,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -103,16 +103,16 @@
           "published_utc": "2026-10-10T05:13:36+00:00"
         },
         {
+          "headline": "Amazon: AWS Acceleration Supports My Strong Buy Rating",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=2473b491a67d9da9c22275e1170ebbcceab2d195d0c2e6137ee545e2183f0b7c",
+          "published_utc": "2026-10-10T04:55:21+00:00"
+        },
+        {
           "headline": "S&P 500 Index Concentration - Room At The Top",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
           "published_utc": "2026-10-10T04:25:00+00:00"
-        },
-        {
-          "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
-          "published_utc": "2026-10-10T04:20:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 45918,
+      "quote_age_seconds": 47659,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 45918,
+      "quote_age_seconds": 47659,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
