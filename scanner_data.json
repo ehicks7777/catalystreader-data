@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T23:44:16.722058+00:00",
+  "updated": "2026-10-10T00:23:28.580729+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 13455,
+      "quote_age_seconds": 15807,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 13455,
+      "quote_age_seconds": 15807,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Chevron\u2019s Venezuela Plan Will Pay Off, Says Analyst. Plus, Coinbase and 3 More Stocks.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=089f83c2c0aee95ea133531e185e0ac014b69edd6dc7bd7308cb275d6f02673e",
+          "published_utc": "2026-10-09T22:16:00+00:00"
+        },
         {
           "headline": "Weekly Wrap: Rising Treasury Yields Sink Bitcoin",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
           "published_utc": "2026-10-09T19:05:01+00:00"
-        },
-        {
-          "headline": "Circle Internet Spikes 7% After Backing OKX at $25B Valuation; Coinbase Rallies 6%, Strategy Climbs 3%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=351e33760eb8fd94db9b17fd495b73b51b939f630f5cbeadab52463193cf9f0f",
-          "published_utc": "2026-10-09T17:57:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 13455,
+      "quote_age_seconds": 15807,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Atomic Machines CEO on Developing 'Micro-Machines'",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=facfce472defeb9bb17d47732b4d45b137447b0c0132cef48eb1ad9171a6ef8c",
+          "published_utc": "2026-10-09T22:44:39+00:00"
+        },
         {
           "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3",
           "published_utc": "2026-10-09T20:22:30+00:00"
-        },
-        {
-          "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
-          "published_utc": "2026-10-09T19:51:09+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 13455,
+      "quote_age_seconds": 15807,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "JD Vance slams Microsoft, says it swapped 6,000 laid-off Americans for \u2018foreign indentured servants.\u2019 Microsoft responds",
+          "headline": "Fuji Electric\u2019s Helical Fusion Partnership Could Be A Game Changer For Fuji Electric (TSE:6504)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5784478142de3f23c4ed8c7938cd3f2a8ce9affb083b861f37759b537222d41b",
-          "published_utc": "2026-10-09T21:45:00+00:00"
+          "url": "https://finnhub.io/api/news?id=7f908f710896776d357e4541a6721bd6b80c716f72df92ca59cb9c8ebd0ead2f",
+          "published_utc": "2026-10-09T23:15:00+00:00"
         },
         {
-          "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
+          "headline": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season \u2014 MSFT, NFLX, SPCX, ASTS In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
-          "published_utc": "2026-10-09T21:20:27+00:00"
+          "url": "https://finnhub.io/api/news?id=5c4e446abd334f8092f8ee0a0068885b5977f2f5175ab4b843013a4fece9ea30",
+          "published_utc": "2026-10-09T22:53:11+00:00"
         },
         {
-          "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
+          "headline": "Tech Edge Will be Onsite at Money20/20 2026 in Las Vegas",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=39f065624a1766f0c3cc41bc76b37601070f130177da07d9f38817749ca5c858",
-          "published_utc": "2026-10-09T19:47:53+00:00"
+          "url": "https://finnhub.io/api/news?id=b6382fd6de755b68d7a074b2b4820da8de199292ac510da7a69d9953f06dd2a5",
+          "published_utc": "2026-10-09T22:21:06+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 13455,
+      "quote_age_seconds": 15807,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
