@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:43:07.020833+00:00",
+  "updated": "2026-10-10T18:15:57.431711+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 78186,
+      "quote_age_seconds": 80156,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 78186,
+      "quote_age_seconds": 80156,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 78186,
+      "quote_age_seconds": 80156,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Amazon.com (AMZN) Patched Critical AWS Bedrock AgentCore Security Flaws",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7c0794a766208e8e9d18f74383859a64af2defb42085a298b5feb22d632e3ca2",
+          "published_utc": "2026-10-10T17:12:50+00:00"
+        },
+        {
+          "headline": "Amazon Fuel Up Fridays Returns: How Prime Members Can Save Big at the Gas Pump",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ca170fe07b15e4b9c384097c471afd730d660f4fd5f3789cc46c1164b55d780",
+          "published_utc": "2026-10-10T17:00:25+00:00"
+        },
+        {
           "headline": "Consumer AI agents could upend online shopping - but who really wins?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e",
           "published_utc": "2026-10-10T15:11:00+00:00"
-        },
-        {
-          "headline": "Investor Predicts Anthropic Could Be \u201cthe First\u201d $10 Trillion Company. Cue the Amazon + Google Payday",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=00b29d357e8dc8444cd964cf863dfef2da6fbc2297da88a442cc145cf2612d50",
-          "published_utc": "2026-10-10T15:05:37+00:00"
-        },
-        {
-          "headline": "AWS CEO Says AI Spending Isn\u2019t a Bubble Just Yet \u2014 Amazon\u2019s Cloud Chief Says \u2018We Feel Really Good\u2019 as Ray Dalio Warns the Boom Is Near a Breaking Point",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3a8e738dce87cc7cc450a67fa95868966b75a938c4389fd8b057550bb1e05b3e",
-          "published_utc": "2026-10-10T11:30:07+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 78186,
+      "quote_age_seconds": 80156,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=69387e00bf52429c8086050e82ee46db0171cd604077c4444f00839259e64b9e",
+          "published_utc": "2026-10-10T17:03:01+00:00"
+        },
+        {
+          "headline": "Is AI-Powered CashPro, AskGPS and New Debt Issuance Altering The Investment Case For Bank of America (BAC)?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d5cfd68b4fc6190e11171358a728986a5661f3f024a160494ed30792d95a566c",
+          "published_utc": "2026-10-10T16:11:03+00:00"
+        },
+        {
           "headline": "Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f2844e0e786b008920f0834d70180231cc0469bf4e4f740cc84cb4a2292c00f1",
           "published_utc": "2026-10-10T14:15:00+00:00"
-        },
-        {
-          "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d4e0a727ea92b00175d42b900ecf6e3fd62e49ebdd28f00878113af3174b8254",
-          "published_utc": "2026-10-10T10:30:00+00:00"
-        },
-        {
-          "headline": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
-          "source": "CNBC",
-          "url": "https://finnhub.io/api/news?id=8d7fd62f33c7c1b1792e470205a68c6ffd8eed6ee31dd90d8fa708cc08357d2a",
-          "published_utc": "2026-10-10T10:22:23+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 78186,
+      "quote_age_seconds": 80156,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
