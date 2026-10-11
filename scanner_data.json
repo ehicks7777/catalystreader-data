@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T21:45:40.522192+00:00",
+  "updated": "2026-10-11T22:14:37.994899+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 179139,
+      "quote_age_seconds": 180876,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 179139,
+      "quote_age_seconds": 180876,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 179139,
+      "quote_age_seconds": 180876,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
+          "headline": "Jeff Bezos has a blunt answer for why housing is so expensive",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=01a786a0f135b8e34ae002f5c662d8c407607d5e071fa680ed969b0df4cb99ef",
-          "published_utc": "2026-10-11T18:18:00+00:00"
+          "url": "https://finnhub.io/api/news?id=6aaac42d1a9e191c064229668d2db079b1bbede83bb5617506a9ccdd1fbe0e3a",
+          "published_utc": "2026-10-11T21:33:00+00:00"
         },
         {
-          "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+          "headline": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
-          "published_utc": "2026-10-11T17:00:28+00:00"
+          "url": "https://finnhub.io/api/news?id=4e52232f63d589a8b81f66bf8d77a2f620fbd46fb151b456cacac026497cef4f",
+          "published_utc": "2026-10-11T20:14:00+00:00"
         },
         {
-          "headline": "Jeff Bezos makes surprising prediction for workers as Amazon cuts jobs",
+          "headline": "Michael Moritz Says Most Investors Can\u2019t Do the One Thing That Actually Makes Money",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=344489c6a57fd738213f28dae284ec7dcef0e542d000c419b2c1eb9c194af6ef",
-          "published_utc": "2026-10-11T14:07:00+00:00"
+          "url": "https://finnhub.io/api/news?id=42b73efe4408426374350440e4062eca2b573ab7199baf45bf6180e40000928a",
+          "published_utc": "2026-10-11T20:00:18+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 179139,
+      "quote_age_seconds": 180876,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4e52232f63d589a8b81f66bf8d77a2f620fbd46fb151b456cacac026497cef4f",
+          "published_utc": "2026-10-11T20:14:00+00:00"
+        },
         {
           "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a01c57536d8d48817885a3c2396f7425f198542d3585c07df81d08b47816f22b",
           "published_utc": "2026-10-11T16:08:51+00:00"
-        },
-        {
-          "headline": "What Could Microsoft (MSFT) Green Card Suspension Mean For Hiring And Compliance?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8ddfb7d33e7f35967c5ffdc23c43af37e16c17a0cf1c25b068d7261d8f1044a7",
-          "published_utc": "2026-10-11T16:08:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 179139,
+      "quote_age_seconds": 180876,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+          "headline": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2597804cae0fd34fe837db72dc90e2806e399a02ffd74fb2eecc52e13f2878a2",
-          "published_utc": "2026-10-11T17:11:03+00:00"
+          "url": "https://finnhub.io/api/news?id=db472ad82dcab6773385554482d6b9c631cb1c016f31a90c77992662879c0f65",
+          "published_utc": "2026-10-11T21:00:00+00:00"
         },
         {
-          "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+          "headline": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
-          "published_utc": "2026-10-11T17:00:28+00:00"
+          "url": "https://finnhub.io/api/news?id=7bac0d84d8d335b2a85a6d26c4f1d3ede45477161d5ac112cc0665ae2f948efe",
+          "published_utc": "2026-10-11T20:33:00+00:00"
         },
         {
-          "headline": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just \u2018a Few Hundred\u2019 Roadsters: \u2018Hovering Is a Gimmick\u2019",
+          "headline": "Does Tesla (TSLA) Gain More From Megachargers Or Tokenized Stock Trading?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=24c37be12f58968d5560a4ff7f9842f033eeb56988d9f25850d475dde904f5f0",
-          "published_utc": "2026-10-11T15:30:29+00:00"
+          "url": "https://finnhub.io/api/news?id=3c025dbaf329a9aa0c05cfebe1d9f379d7dacb2d04d2e7574d1ed6095798e950",
+          "published_utc": "2026-10-11T20:06:22+00:00"
         }
       ],
       "news_status": "Recent headlines found"
