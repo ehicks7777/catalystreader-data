@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:44:25.133100+00:00",
+  "updated": "2026-10-11T20:13:38.120433+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 171863,
+      "quote_age_seconds": 173616,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "History Says This Will Happen to Palantir Stock by 2028",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a49e2696a4583055214d9d061a13cf0a85d1a660fdd258cbdb0bfa24873bc6cc",
+          "published_utc": "2026-10-11T19:30:00+00:00"
+        },
         {
           "headline": "Palantir: I Couldn't Have Been More Wrong, I See The Light Now - Buy (Rating Upgrade)",
           "source": "SeekingAlpha",
@@ -33,12 +39,6 @@
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=dfa8548a9ee0ae30887f60a8689fb9e593bdf0bc0fdf6505b7972e58dc3c4305",
           "published_utc": "2026-10-11T08:45:00+00:00"
-        },
-        {
-          "headline": "Top Quality Stocks For October 2026",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=006edab87cae040b67bc7ae681e38a9a661934055d76d57815305a37f6806ca3",
-          "published_utc": "2026-10-11T05:10:51+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 171863,
+      "quote_age_seconds": 173616,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 171863,
+      "quote_age_seconds": 173616,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01a786a0f135b8e34ae002f5c662d8c407607d5e071fa680ed969b0df4cb99ef",
+          "published_utc": "2026-10-11T18:18:00+00:00"
+        },
         {
           "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=344489c6a57fd738213f28dae284ec7dcef0e542d000c419b2c1eb9c194af6ef",
           "published_utc": "2026-10-11T14:07:00+00:00"
-        },
-        {
-          "headline": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c6553d0c7b6a33aaa0eb8fe2f3b37d5a1a1fe6864438106b13c6caf8af86682a",
-          "published_utc": "2026-10-11T13:18:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 171863,
+      "quote_age_seconds": 173616,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 171863,
+      "quote_age_seconds": 173616,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
