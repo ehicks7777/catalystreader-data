@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:44:54.803797+00:00",
+  "updated": "2026-10-11T16:14:05.114296+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 157493,
+      "quote_age_seconds": 159244,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 157493,
+      "quote_age_seconds": 159244,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Card Checkout Is Dead for Agents. The Replacement Rails Have Settled 191 Million Transactions.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=eaf0aa3c5ccc3dbef241c79bd02bb814aaf556395b89a5fe716f49cfab127d55",
+          "published_utc": "2026-10-11T14:56:31+00:00"
+        },
         {
           "headline": "Bitcoin, XRP Get the Spotlight\u2014Could These 5 Altcoins Be Next?",
           "source": "Benzinga",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f8284ad97d9e094c7030f5a2cf553e62122a47d0460fdf4871e872d02d7b10c3",
           "published_utc": "2026-10-10T18:15:00+00:00"
-        },
-        {
-          "headline": "Coinbase CEO Brian Armstrong Just Doubled Down On His $400,000 Price Target for Bitcoin. Here's Why He's Wrong.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7ec2b2b9bbdbf22aac9d099a9066243113bb0fb1c1768382db19b25b924a993",
-          "published_utc": "2026-10-10T15:47:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 157493,
+      "quote_age_seconds": 159244,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Jeff Bezos makes surprising prediction for workers as Amazon cuts jobs",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=344489c6a57fd738213f28dae284ec7dcef0e542d000c419b2c1eb9c194af6ef",
+          "published_utc": "2026-10-11T14:07:00+00:00"
+        },
         {
           "headline": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=335ffa3d60bd648df90ca3977cd3af862f52ed1ad5a6b922811f57d0ec7cc7f5",
           "published_utc": "2026-10-11T13:03:27+00:00"
-        },
-        {
-          "headline": "Robert Reich Says Jeff Bezos Is \u2018Partly Right\u2019 That Doubling His Taxes Won\u2019t Help Teacher In Queens Since Some Years He Pays $0 \u2014 You Can\u2019t Double Nothing",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fde51f1e9a72545fac31b00acc4fd783a16f72b6c5d0dd4659f8651bcd212ce8",
-          "published_utc": "2026-10-11T12:30:05+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 157493,
+      "quote_age_seconds": 159244,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "America\u2019s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market \u2014 and Investors Are Taking Notice",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
+          "published_utc": "2026-10-11T14:58:02+00:00"
+        },
+        {
+          "headline": "Ray Dalio Warns Stocks Are Running Out of Room for Error \u2014 and AI Could Make It Worse",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2953a388966dff5af22e889263d16600b765c8f33bd4d9b0bfc2ae3cca41aa0a",
+          "published_utc": "2026-10-11T14:47:32+00:00"
+        },
+        {
           "headline": "Zscaler Powered By Agentic AI Growth",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=22b7d93c6a062ccaad32447c0847e9945147afa34f5740184e973f0b6f7626a7",
           "published_utc": "2026-10-11T08:30:00+00:00"
-        },
-        {
-          "headline": "Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ae411d7e2d54f940c65abc79d7f9d7fe26bdb0cf398b012b427134c31e9d181a",
-          "published_utc": "2026-10-11T08:00:00+00:00"
-        },
-        {
-          "headline": "Why Infosys Can Shrug Off the US Green-Card Suspension, For Now",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=da51e4fd7d2f798e5d5af28ccd30c2a8935e6bd6648428c907883c7d781e6ade",
-          "published_utc": "2026-10-11T06:56:17+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 157493,
+      "quote_age_seconds": 159244,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
