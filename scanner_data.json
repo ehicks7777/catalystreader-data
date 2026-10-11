@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:45:25.004720+00:00",
+  "updated": "2026-10-11T15:13:29.539654+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 153923,
+      "quote_age_seconds": 155608,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 153923,
+      "quote_age_seconds": 155608,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Bitcoin, XRP Get the Spotlight\u2014Could These 5 Altcoins Be Next?",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=011571cccd9b8c39a81bc46756d0bd4f94e6b073453f20876ad71f3f744d9226",
+          "published_utc": "2026-10-11T10:00:23+00:00"
+        },
         {
           "headline": "Wall Street split on pioneering S&P 500 stock's price target",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c7ec2b2b9bbdbf22aac9d099a9066243113bb0fb1c1768382db19b25b924a993",
           "published_utc": "2026-10-10T15:47:00+00:00"
-        },
-        {
-          "headline": "Is Coinbase Global (COIN) Cheap As CFTC Approval Reshapes Its Valuation?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=721552c09b6ab52763f9aa781618eeb9daad3a3f8ac64206bdf7ba46325cfe41",
-          "published_utc": "2026-10-10T12:11:21+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 153923,
+      "quote_age_seconds": 155608,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 153923,
+      "quote_age_seconds": 155608,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 153923,
+      "quote_age_seconds": 155608,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -183,10 +183,10 @@
           "published_utc": "2026-10-11T10:35:00+00:00"
         },
         {
-          "headline": "Wall Street Week Ahead",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3d4fc2e376dab5b8cd33e165814050e7c200db7e30067e8f8149a1723ca39726",
-          "published_utc": "2026-10-11T06:57:52+00:00"
+          "headline": "This Week in TSLA: FSD's Europe Rebrand, Elon Musk Receives Medal From Trump and More",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=fa60a08c99d45454894baf3f6900beb58154c963f1dcdee7918650bc5474dea8",
+          "published_utc": "2026-10-11T09:19:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
