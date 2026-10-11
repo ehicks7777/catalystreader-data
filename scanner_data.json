@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T11:44:27.615461+00:00",
+  "updated": "2026-10-11T12:18:30.110635+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 143066,
+      "quote_age_seconds": 145108,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 143066,
+      "quote_age_seconds": 145108,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 143066,
+      "quote_age_seconds": 145108,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
+          "headline": "\u2018We\u2019re looking at a bubble here\u2019: Experts including Ray Dalio advise on how to protect your wealth as bond yields spike",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=af016f37940f83b294a6c7ae03cf672d041921185e15f17599825149c8eb8793",
-          "published_utc": "2026-10-10T23:30:00+00:00"
+          "url": "https://finnhub.io/api/news?id=fe4d804901704c5e78d42167ae46ba168b237296b1077ebd358045abed71d7be",
+          "published_utc": "2026-10-11T10:45:00+00:00"
         },
         {
-          "headline": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=5439d0a6d4d5845f5c234a90752cc1486a967ee44ab685ae7416e3c9d2466ef7",
-          "published_utc": "2026-10-10T22:11:26+00:00"
+          "headline": "Amazon: The Economic Challenge Gets Bigger (Rating Downgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=fe7c7652392e179a25432fdc6f0e20526d665bc5fcfa8b38092e485acb2d9005",
+          "published_utc": "2026-10-11T07:50:49+00:00"
         },
         {
-          "headline": "Coupang vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=bc9df5f5fa0c7a96a75358f2cf8df6d73c0a296df3487e24bbb7179de9526bd0",
-          "published_utc": "2026-10-10T18:50:02+00:00"
+          "headline": "15 Years In, I've Never Seen The S&P 500 Hide So Much Damage",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c3fd497feda965090ac30c3c1d3c5fda8be6e9cfcbf18170a203439eabb1c1b4",
+          "published_utc": "2026-10-11T07:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 143066,
+      "quote_age_seconds": 145108,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 143066,
+      "quote_age_seconds": 145108,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Tesla Drops \u2018Full Self-Driving\u2019 Name in Europe as Germany Backs Faster EU Approval for \u2018Tesla Assisted Driving\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4a11aa298e1902886ed81278996946bc6664926d3855005b68fc0ec5a6566bf5",
+          "published_utc": "2026-10-11T10:45:18+00:00"
+        },
+        {
+          "headline": "Symbotic Has a $22.5 Billion Backlog. Here's Why It Could Be the Best Robotics Stock Nobody Talks About.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c99b1bba648c9db02557556a992f458d3b8769d7f3eb10a3324edc67132603db",
+          "published_utc": "2026-10-11T10:35:00+00:00"
+        },
+        {
           "headline": "Wall Street Week Ahead",
           "source": "SeekingAlpha",
           "url": "https://finnhub.io/api/news?id=3d4fc2e376dab5b8cd33e165814050e7c200db7e30067e8f8149a1723ca39726",
           "published_utc": "2026-10-11T06:57:52+00:00"
-        },
-        {
-          "headline": "Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f05d9b2e76779f70da306db9122b078e3a68b8a0cb7ae409a473fe10a731ca34",
-          "published_utc": "2026-10-11T05:11:43+00:00"
-        },
-        {
-          "headline": "Tesla rival appears to have a demand problem",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e92263777c53c1f0193a8425221a2f5a3464583ae5662ce473eba8c0250e5def",
-          "published_utc": "2026-10-10T18:47:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
