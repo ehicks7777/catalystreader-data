@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T17:44:14.913122+00:00",
+  "updated": "2026-10-11T18:16:05.723520+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 164654,
+      "quote_age_seconds": 166565,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 164654,
+      "quote_age_seconds": 166565,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Grant Cardone Says He Never Tells Fannie Mae About The Bitcoin In His Real Estate Deals: \u2018It\u2019s Just Too Much\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7485b32de919de0ad19cf806f9cd2b8e5cd4f07b2421b889aeca29576837b1ab",
+          "published_utc": "2026-10-11T16:17:27+00:00"
+        },
         {
           "headline": "Card Checkout Is Dead for Agents. The Replacement Rails Have Settled 191 Million Transactions.",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=011571cccd9b8c39a81bc46756d0bd4f94e6b073453f20876ad71f3f744d9226",
           "published_utc": "2026-10-11T10:00:23+00:00"
-        },
-        {
-          "headline": "Wall Street split on pioneering S&P 500 stock's price target",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f8284ad97d9e094c7030f5a2cf553e62122a47d0460fdf4871e872d02d7b10c3",
-          "published_utc": "2026-10-10T18:15:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 164654,
+      "quote_age_seconds": 166565,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
+          "published_utc": "2026-10-11T17:00:28+00:00"
+        },
         {
           "headline": "Jeff Bezos makes surprising prediction for workers as Amazon cuts jobs",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c6553d0c7b6a33aaa0eb8fe2f3b37d5a1a1fe6864438106b13c6caf8af86682a",
           "published_utc": "2026-10-11T13:18:00+00:00"
-        },
-        {
-          "headline": "Why \u2019Net Stocks\u2019 are down sharply this year despite Nasdaq\u2019s gains",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=335ffa3d60bd648df90ca3977cd3af862f52ed1ad5a6b922811f57d0ec7cc7f5",
-          "published_utc": "2026-10-11T13:03:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 164654,
+      "quote_age_seconds": 166565,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "America\u2019s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market \u2014 and Investors Are Taking Notice",
+          "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
-          "published_utc": "2026-10-11T14:58:02+00:00"
+          "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
+          "published_utc": "2026-10-11T17:00:28+00:00"
         },
         {
-          "headline": "Ray Dalio Warns Stocks Are Running Out of Room for Error \u2014 and AI Could Make It Worse",
+          "headline": "Does Everforth (EFOR) Embedding Screening in Workday Deepen Its Consulting-Led Platform Strategy?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2953a388966dff5af22e889263d16600b765c8f33bd4d9b0bfc2ae3cca41aa0a",
-          "published_utc": "2026-10-11T14:47:32+00:00"
+          "url": "https://finnhub.io/api/news?id=a01c57536d8d48817885a3c2396f7425f198542d3585c07df81d08b47816f22b",
+          "published_utc": "2026-10-11T16:08:51+00:00"
         },
         {
-          "headline": "Top 50 High-Quality Dividend Growth Stocks For October 2026",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=88a74baf83fffd8b419bb6c42be37ea4daa59b2aa69282ceb6e60f787cf3393b",
-          "published_utc": "2026-10-11T12:46:56+00:00"
+          "headline": "What Could Microsoft (MSFT) Green Card Suspension Mean For Hiring And Compliance?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8ddfb7d33e7f35967c5ffdc23c43af37e16c17a0cf1c25b068d7261d8f1044a7",
+          "published_utc": "2026-10-11T16:08:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 164654,
+      "quote_age_seconds": 166565,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tesla Drops \u2018Full Self-Driving\u2019 Name in Europe as Germany Backs Faster EU Approval for \u2018Tesla Assisted Driving\u2019",
+          "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4a11aa298e1902886ed81278996946bc6664926d3855005b68fc0ec5a6566bf5",
-          "published_utc": "2026-10-11T10:45:18+00:00"
+          "url": "https://finnhub.io/api/news?id=2597804cae0fd34fe837db72dc90e2806e399a02ffd74fb2eecc52e13f2878a2",
+          "published_utc": "2026-10-11T17:11:03+00:00"
         },
         {
-          "headline": "Symbotic Has a $22.5 Billion Backlog. Here's Why It Could Be the Best Robotics Stock Nobody Talks About.",
+          "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c99b1bba648c9db02557556a992f458d3b8769d7f3eb10a3324edc67132603db",
-          "published_utc": "2026-10-11T10:35:00+00:00"
+          "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
+          "published_utc": "2026-10-11T17:00:28+00:00"
         },
         {
-          "headline": "This Week in TSLA: FSD's Europe Rebrand, Elon Musk Receives Medal From Trump and More",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=fa60a08c99d45454894baf3f6900beb58154c963f1dcdee7918650bc5474dea8",
-          "published_utc": "2026-10-11T09:19:49+00:00"
+          "headline": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just \u2018a Few Hundred\u2019 Roadsters: \u2018Hovering Is a Gimmick\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=24c37be12f58968d5560a4ff7f9842f033eeb56988d9f25850d475dde904f5f0",
+          "published_utc": "2026-10-11T15:30:29+00:00"
         }
       ],
       "news_status": "Recent headlines found"
