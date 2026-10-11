@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:45:59.133272+00:00",
+  "updated": "2026-10-11T17:13:57.425084+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 161157,
+      "quote_age_seconds": 162835,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 161157,
+      "quote_age_seconds": 162835,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 161157,
+      "quote_age_seconds": 162835,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 161157,
+      "quote_age_seconds": 162835,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -146,10 +146,10 @@
           "published_utc": "2026-10-11T14:47:32+00:00"
         },
         {
-          "headline": "Zscaler Powered By Agentic AI Growth",
+          "headline": "Top 50 High-Quality Dividend Growth Stocks For October 2026",
           "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=22b7d93c6a062ccaad32447c0847e9945147afa34f5740184e973f0b6f7626a7",
-          "published_utc": "2026-10-11T08:30:00+00:00"
+          "url": "https://finnhub.io/api/news?id=88a74baf83fffd8b419bb6c42be37ea4daa59b2aa69282ceb6e60f787cf3393b",
+          "published_utc": "2026-10-11T12:46:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 161157,
+      "quote_age_seconds": 162835,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
