@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T09:45:54.062296+00:00",
+  "updated": "2026-10-11T10:14:12.267266+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 135953,
+      "quote_age_seconds": 137651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 135953,
+      "quote_age_seconds": 137651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 135953,
+      "quote_age_seconds": 137651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 135953,
+      "quote_age_seconds": 137651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ae411d7e2d54f940c65abc79d7f9d7fe26bdb0cf398b012b427134c31e9d181a",
+          "published_utc": "2026-10-11T08:00:00+00:00"
+        },
+        {
+          "headline": "Why Infosys Can Shrug Off the US Green-Card Suspension, For Now",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=da51e4fd7d2f798e5d5af28ccd30c2a8935e6bd6648428c907883c7d781e6ade",
+          "published_utc": "2026-10-11T06:56:17+00:00"
+        },
+        {
           "headline": "Infosys sees no material impact from U.S. PERM suspension",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=5f9ca7a89654165f4baef6b5f014cc943f56e7f7ca0adffd898e2141788fe974",
           "published_utc": "2026-10-10T20:44:06+00:00"
-        },
-        {
-          "headline": "Trump awards science medals to Musk, Nadella and 4 other tech titans \u2014 5 immigrants \u2014 hours after Vance targets them",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d936e2abe8fe765560c3a63a00becdaaedd7d3c9f87feec6104bb99c285dcb4c",
-          "published_utc": "2026-10-10T20:15:00+00:00"
-        },
-        {
-          "headline": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=69387e00bf52429c8086050e82ee46db0171cd604077c4444f00839259e64b9e",
-          "published_utc": "2026-10-10T17:03:01+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 135953,
+      "quote_age_seconds": 137651,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
