@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T23:42:49.327992+00:00",
+  "updated": "2026-10-11T00:22:58.792640+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 99768,
+      "quote_age_seconds": 102177,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 99768,
+      "quote_age_seconds": 102177,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 99768,
+      "quote_age_seconds": 102177,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=af016f37940f83b294a6c7ae03cf672d041921185e15f17599825149c8eb8793",
+          "published_utc": "2026-10-10T23:30:00+00:00"
+        },
+        {
+          "headline": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=5439d0a6d4d5845f5c234a90752cc1486a967ee44ab685ae7416e3c9d2466ef7",
+          "published_utc": "2026-10-10T22:11:26+00:00"
+        },
+        {
           "headline": "Coupang vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026?",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=bc9df5f5fa0c7a96a75358f2cf8df6d73c0a296df3487e24bbb7179de9526bd0",
           "published_utc": "2026-10-10T18:50:02+00:00"
-        },
-        {
-          "headline": "Skydance Stock Is a Dicey Bet. 2 Better Plays.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=203bd7ee4a0243d17842b4d1b0f7b2101024e589a0debdf892c625697e60a871",
-          "published_utc": "2026-10-10T18:42:00+00:00"
-        },
-        {
-          "headline": "Amazon.com (AMZN) Patched Critical AWS Bedrock AgentCore Security Flaws",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7c0794a766208e8e9d18f74383859a64af2defb42085a298b5feb22d632e3ca2",
-          "published_utc": "2026-10-10T17:12:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 99768,
+      "quote_age_seconds": 102177,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 99768,
+      "quote_age_seconds": 102177,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
