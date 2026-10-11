@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T11:13:21.643550+00:00",
+  "updated": "2026-10-11T11:44:27.615461+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 141201,
+      "quote_age_seconds": 143066,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 141201,
+      "quote_age_seconds": 143066,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 141201,
+      "quote_age_seconds": 143066,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 141201,
+      "quote_age_seconds": 143066,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 141201,
+      "quote_age_seconds": 143066,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Wall Street Week Ahead",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=3d4fc2e376dab5b8cd33e165814050e7c200db7e30067e8f8149a1723ca39726",
+          "published_utc": "2026-10-11T06:57:52+00:00"
+        },
         {
           "headline": "Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e92263777c53c1f0193a8425221a2f5a3464583ae5662ce473eba8c0250e5def",
           "published_utc": "2026-10-10T18:47:00+00:00"
-        },
-        {
-          "headline": "My New Car Costs $47K And The Dealer Is Offering 1.48% Financing. I Know I Should Take The Cheap Money, But I Hate Having Payments",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2afd484423b9c2d8faf9bb1af7fee25146454da8d307a1716f5f63c7b3fff7a4",
-          "published_utc": "2026-10-10T18:00:19+00:00"
         }
       ],
       "news_status": "Recent headlines found"
