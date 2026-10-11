@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:45:17.603345+00:00",
+  "updated": "2026-10-11T06:18:53.418861+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 121516,
+      "quote_age_seconds": 123532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Top Quality Stocks For October 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=006edab87cae040b67bc7ae681e38a9a661934055d76d57815305a37f6806ca3",
+          "published_utc": "2026-10-11T05:10:51+00:00"
+        },
         {
           "headline": "Goldman Sachs resets Palantir Stock 12-month price target by 18%",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ba8cd1956b3d0fe6f23703ccbae1213d97b7f9b49b00a8fef444d7dd5db09e29",
           "published_utc": "2026-10-10T18:50:00+00:00"
-        },
-        {
-          "headline": "Palantir Stock Closed at a Record After Barclays Set a $265 Target. Here\u2019s What Q3 Has to Clear",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=031defea49894285be3f3f937718df8284eae9e490a87557c63ebe0c108625a9",
-          "published_utc": "2026-10-10T15:36:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 121516,
+      "quote_age_seconds": 123532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 121516,
+      "quote_age_seconds": 123532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 121516,
+      "quote_age_seconds": 123532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 121516,
+      "quote_age_seconds": 123532,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f05d9b2e76779f70da306db9122b078e3a68b8a0cb7ae409a473fe10a731ca34",
+          "published_utc": "2026-10-11T05:11:43+00:00"
+        },
         {
           "headline": "Tesla rival appears to have a demand problem",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2afd484423b9c2d8faf9bb1af7fee25146454da8d307a1716f5f63c7b3fff7a4",
           "published_utc": "2026-10-10T18:00:19+00:00"
-        },
-        {
-          "headline": "Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a615327623ec4eed9fbe89c0729700ec40076e0aaadbc6eb72d695fbcec14df",
-          "published_utc": "2026-10-10T18:00:15+00:00"
         }
       ],
       "news_status": "Recent headlines found"
