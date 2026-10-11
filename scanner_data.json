@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:13:47.827843+00:00",
+  "updated": "2026-10-11T14:45:25.004720+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 152026,
+      "quote_age_seconds": 153923,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Palantir: I Couldn't Have Been More Wrong, I See The Light Now - Buy (Rating Upgrade)",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=9e8b62f4fa38da7cb35c7d51f21cde6b431b46a15438bb98e2d3b481816b488f",
+          "published_utc": "2026-10-11T10:00:00+00:00"
+        },
         {
           "headline": "Palantir: Staying Bullish At Record Highs As Q3 Approaches",
           "source": "SeekingAlpha",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=006edab87cae040b67bc7ae681e38a9a661934055d76d57815305a37f6806ca3",
           "published_utc": "2026-10-11T05:10:51+00:00"
-        },
-        {
-          "headline": "Goldman Sachs resets Palantir Stock 12-month price target by 18%",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=276106dc268eb396730644dbcbaf48d4257e081ac421936fefdff2718029a2bf",
-          "published_utc": "2026-10-10T20:07:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 152026,
+      "quote_age_seconds": 153923,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 152026,
+      "quote_age_seconds": 153923,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 152026,
+      "quote_age_seconds": 153923,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 152026,
+      "quote_age_seconds": 153923,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
