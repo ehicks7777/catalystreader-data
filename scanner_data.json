@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T13:45:00.405077+00:00",
+  "updated": "2026-10-11T14:13:47.827843+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 150299,
+      "quote_age_seconds": 152026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 150299,
+      "quote_age_seconds": 152026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 150299,
+      "quote_age_seconds": 152026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "\u2018We\u2019re looking at a bubble here\u2019: Experts including Ray Dalio advise on how to protect your wealth as bond yields spike",
+          "headline": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fe4d804901704c5e78d42167ae46ba168b237296b1077ebd358045abed71d7be",
-          "published_utc": "2026-10-11T10:45:00+00:00"
+          "url": "https://finnhub.io/api/news?id=c6553d0c7b6a33aaa0eb8fe2f3b37d5a1a1fe6864438106b13c6caf8af86682a",
+          "published_utc": "2026-10-11T13:18:00+00:00"
         },
         {
-          "headline": "Amazon: The Economic Challenge Gets Bigger (Rating Downgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=fe7c7652392e179a25432fdc6f0e20526d665bc5fcfa8b38092e485acb2d9005",
-          "published_utc": "2026-10-11T07:50:49+00:00"
+          "headline": "Why \u2019Net Stocks\u2019 are down sharply this year despite Nasdaq\u2019s gains",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=335ffa3d60bd648df90ca3977cd3af862f52ed1ad5a6b922811f57d0ec7cc7f5",
+          "published_utc": "2026-10-11T13:03:27+00:00"
         },
         {
-          "headline": "15 Years In, I've Never Seen The S&P 500 Hide So Much Damage",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=c3fd497feda965090ac30c3c1d3c5fda8be6e9cfcbf18170a203439eabb1c1b4",
-          "published_utc": "2026-10-11T07:30:00+00:00"
+          "headline": "Robert Reich Says Jeff Bezos Is \u2018Partly Right\u2019 That Doubling His Taxes Won\u2019t Help Teacher In Queens Since Some Years He Pays $0 \u2014 You Can\u2019t Double Nothing",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fde51f1e9a72545fac31b00acc4fd783a16f72b6c5d0dd4659f8651bcd212ce8",
+          "published_utc": "2026-10-11T12:30:05+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 150299,
+      "quote_age_seconds": 152026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 150299,
+      "quote_age_seconds": 152026,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
