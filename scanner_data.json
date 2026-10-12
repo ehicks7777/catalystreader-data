@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T09:51:20.069482+00:00",
+  "updated": "2026-10-12T10:18:27.715362+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 222678,
+      "quote_age_seconds": 224306,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Michael Burry Shifts Bearish Bets To Nasdaq, Semiconductor ETF Puts \u2014 Sees Market Top Within 9 Months",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=06ed4e229f8e0fb8b438546d03c24d71142741070d2ae438f874addc2120ff73",
+          "published_utc": "2026-10-12T08:22:31+00:00"
+        },
         {
           "headline": "PLTR Stock At Record High: CTO Slams Report Of Maven Role In Iran School Strike, Retail Bulls Embrace Wall Street Upgrades",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=82f953f10c49d2d227560eaba8ccf414d17c2ae0c225d18fed89b2d20352e424",
           "published_utc": "2026-10-12T02:50:00+00:00"
-        },
-        {
-          "headline": "Palantir hits record as its next AI market gets awkward",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c00b9900dca28c78caccf1d35c2334a7305d9b95d5146b54a74061d1a9694d40",
-          "published_utc": "2026-10-12T01:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 222678,
+      "quote_age_seconds": 224306,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 222678,
+      "quote_age_seconds": 224306,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Sirius XM: This Living Dead Is Ready To Rise",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=3f3e8968fdc631a19cd7fe2ad54f9d2892529fa68528f9a6d336fd874f486043",
-          "published_utc": "2026-10-12T04:55:13+00:00"
-        },
-        {
-          "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
-          "published_utc": "2026-10-12T03:29:10+00:00"
-        },
-        {
-          "headline": "AMZN Stock Inches Up Overnight: Amazon Reportedly Nears $7B Deal For Decart AI After Anthropic Walks Away",
+          "headline": "ACCA, SMU launch programme to prepare finance leaders for disruption",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b95eb2d2f47c3f58897ce6ab1a497520fca17d3ebd725496674a740df04420ee",
-          "published_utc": "2026-10-12T02:54:22+00:00"
+          "url": "https://finnhub.io/api/news?id=d07b9d3c184ebe33a807d7e809a609d811dd0cb3bf3dd69a0eda673fe10eeadd",
+          "published_utc": "2026-10-12T09:36:33+00:00"
+        },
+        {
+          "headline": "Amazon in talks to acquire Decart in potential $7bn deal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0c29e0195c0946a25206d6f77d82a277d0a379d1c9e12e370526a741f636673a",
+          "published_utc": "2026-10-12T09:22:55+00:00"
+        },
+        {
+          "headline": "DuLac Farmaceutici Takes Next Step in U.S. Retail Growth Following ECRM Meetings",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d0f25526e7870b3f913e742b615c4b7bfb07807eb6f391c78cb2725b55e55ae6",
+          "published_utc": "2026-10-12T09:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 222678,
+      "quote_age_seconds": 224306,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Microsoft Is Down 4%. Here's Why I'm Buying More.",
+          "headline": "Protiviti Achieves 2026-2027 Microsoft AI Business Solutions Inner Circle Award",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4ebd763cceffc938495604531de86356fbcb93bd31386e5afb8124efef259eb3",
-          "published_utc": "2026-10-12T06:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=245f661769e7d0b91e0a2331c834739ab1b621c638d3a04533b4d4af803a76d3",
+          "published_utc": "2026-10-12T09:55:00+00:00"
         },
         {
-          "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
-          "published_utc": "2026-10-12T03:29:10+00:00"
+          "headline": "Mark My Words: ASML Stock Is the Most Overlooked Way to Play the AI Infrastructure Boom",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0e4dde4ea4d91dd16f301c59579b8e8b9c82daed9afc704b31209993123262de",
+          "published_utc": "2026-10-12T09:34:00+00:00"
         },
         {
-          "headline": "What ENEOS Holdings (TSE:5020)'s Planned Treasury Share Cancellation Means For Shareholders",
+          "headline": "President Trump Just Dropped Over $1 Million Into 3 Tech Stocks -- Should You Buy Them Too?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ca0daa3ac2eeef034f650e6ae688828488a3d63541f77c8fb02f8755e8ba4e52",
-          "published_utc": "2026-10-12T03:17:32+00:00"
+          "url": "https://finnhub.io/api/news?id=23fad4fbd4fdc86d8c237921f08ebc057e053233f0048b4a0c937fe2dcc59522",
+          "published_utc": "2026-10-12T09:20:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 222678,
+      "quote_age_seconds": 224306,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Most Tokenized Stock Trading Happens Outside U.S. Market Hours, IMF Finds",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0cfe1622e8e2e78d5735059beb6f742c01e7f71c02de26d18c98a1b558cd60bd",
+          "published_utc": "2026-10-12T09:38:07+00:00"
+        },
         {
           "headline": "Starlink Goes Mobile, and Wall Street Rewrites the Telecom Map Overnight",
           "source": "ChartMill",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=12ba1ceeaa25161b4254cab6ad42455b2f33cdd0b77a2e31ebd977801e4dbbd1",
           "published_utc": "2026-10-12T06:34:52+00:00"
-        },
-        {
-          "headline": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=81e5e4d6649c7a5ef2fca05d9eaa52af4cd89e353bbaac8b0581e4aaf4858fab",
-          "published_utc": "2026-10-12T04:07:24+00:00"
         }
       ],
       "news_status": "Recent headlines found"
