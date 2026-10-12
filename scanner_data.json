@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T18:17:05.853349+00:00",
+  "updated": "2026-10-12T18:52:51.199257+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "META",
-      "price": 746.67,
-      "change_percent": 3.8961,
+      "price": 743.59,
+      "change_percent": 3.4675,
       "previous_close": 718.67,
-      "quote_timestamp": 1791828995.0,
-      "quote_time_utc": "2026-10-12T18:16:35+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1791831149.0,
+      "quote_time_utc": "2026-10-12T18:52:29+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=653996be3c58cbc3ec3ee1f6f71a72e9d6b502aab53f2465dbc050acfb4f3b30",
+          "published_utc": "2026-10-12T18:05:03+00:00"
+        },
         {
           "headline": "Meta Climbs 4% on Muse Retention Data; Snap Rises 3%, Reddit Falls 3%",
           "source": "Yahoo",
@@ -32,12 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c89d0847e5969c804666028adf4047be48f3e35b33266a453a233c3ea79aaef8",
           "published_utc": "2026-10-12T17:36:29+00:00"
-        },
-        {
-          "headline": "Broadcom Is Building an AI Business Unlike Nvidia\u2019s. Here\u2019s My Price Prediction",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a26ce5cb2a02367879a1ab1d12bd53d8ab50899bcf85d0801ab934b64ac4cae",
-          "published_utc": "2026-10-12T17:30:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 746.67,
-      "change_percent": 3.8961,
+      "price": 743.59,
+      "change_percent": 3.4675,
       "previous_close": 718.67,
-      "quote_timestamp": 1791828995.0,
-      "quote_time_utc": "2026-10-12T18:16:35+00:00",
-      "quote_age_seconds": 29,
+      "quote_timestamp": 1791831149.0,
+      "quote_time_utc": "2026-10-12T18:52:29+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,6 +60,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=653996be3c58cbc3ec3ee1f6f71a72e9d6b502aab53f2465dbc050acfb4f3b30",
+          "published_utc": "2026-10-12T18:05:03+00:00"
+        },
         {
           "headline": "Meta Climbs 4% on Muse Retention Data; Snap Rises 3%, Reddit Falls 3%",
           "source": "Yahoo",
@@ -71,24 +77,18 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c89d0847e5969c804666028adf4047be48f3e35b33266a453a233c3ea79aaef8",
           "published_utc": "2026-10-12T17:36:29+00:00"
-        },
-        {
-          "headline": "Broadcom Is Building an AI Business Unlike Nvidia\u2019s. Here\u2019s My Price Prediction",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a26ce5cb2a02367879a1ab1d12bd53d8ab50899bcf85d0801ab934b64ac4cae",
-          "published_utc": "2026-10-12T17:30:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "ASTS",
-      "price": 52.15,
-      "change_percent": 2.3251,
+      "price": 52.23,
+      "change_percent": 2.4821,
       "previous_close": 50.965,
-      "quote_timestamp": 1791828994.0,
-      "quote_time_utc": "2026-10-12T18:16:34+00:00",
-      "quote_age_seconds": 30,
+      "quote_timestamp": 1791831149.0,
+      "quote_time_utc": "2026-10-12T18:52:29+00:00",
+      "quote_age_seconds": 21,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
