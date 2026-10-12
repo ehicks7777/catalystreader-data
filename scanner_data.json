@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T00:24:29.628120+00:00",
+  "updated": "2026-10-12T00:57:16.528733+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 188668,
+      "quote_age_seconds": 190635,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 188668,
+      "quote_age_seconds": 190635,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 188668,
+      "quote_age_seconds": 190635,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 188668,
+      "quote_age_seconds": 190635,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 188668,
+      "quote_age_seconds": 190635,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Elon Musk\u2019s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ce451ca76f764ec2674fcbb9e6d5a6b159cf1228b8df2decd3e1f083addfa827",
+          "published_utc": "2026-10-11T23:30:10+00:00"
+        },
         {
           "headline": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=db472ad82dcab6773385554482d6b9c631cb1c016f31a90c77992662879c0f65",
           "published_utc": "2026-10-11T21:00:00+00:00"
-        },
-        {
-          "headline": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7bac0d84d8d335b2a85a6d26c4f1d3ede45477161d5ac112cc0665ae2f948efe",
-          "published_utc": "2026-10-11T20:33:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
