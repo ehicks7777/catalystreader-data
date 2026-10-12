@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:18:27.715362+00:00",
+  "updated": "2026-10-12T10:49:12.333794+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 224306,
+      "quote_age_seconds": 226151,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 224306,
+      "quote_age_seconds": 226151,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 224306,
+      "quote_age_seconds": 226151,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 224306,
+      "quote_age_seconds": 226151,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 224306,
+      "quote_age_seconds": 226151,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Tesla (NASDAQ:TSLA) Pairs Strong Growth With a High-Quality Technical Breakout Setup",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=93a6bbfb704d0801dc0ddec9b380e2b726fe9a3791ab688433fc854f412f2c86",
+          "published_utc": "2026-10-12T10:10:58+00:00"
+        },
         {
           "headline": "Most Tokenized Stock Trading Happens Outside U.S. Market Hours, IMF Finds",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "ChartMill",
           "url": "https://finnhub.io/api/news?id=92f35ca77b3b4365a34648301d4adb104b1a0e13ec54e6107426ad61520ac1a5",
           "published_utc": "2026-10-12T08:22:17+00:00"
-        },
-        {
-          "headline": "TSLA Stock Climbs Overnight As Cybercab Eyes Dallas \u2014 Musk Recalls When Shorts Had Tesla In \u2018Checkmate\u2019",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=12ba1ceeaa25161b4254cab6ad42455b2f33cdd0b77a2e31ebd977801e4dbbd1",
-          "published_utc": "2026-10-12T06:34:52+00:00"
         }
       ],
       "news_status": "Recent headlines found"
