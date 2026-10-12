@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:53:03.827881+00:00",
+  "updated": "2026-10-12T08:20:05.357771+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 215582,
+      "quote_age_seconds": 217204,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 215582,
+      "quote_age_seconds": 217204,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 215582,
+      "quote_age_seconds": 217204,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 215582,
+      "quote_age_seconds": 217204,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 215582,
+      "quote_age_seconds": 217204,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "TSLA Stock Climbs Overnight As Cybercab Eyes Dallas \u2014 Musk Recalls When Shorts Had Tesla In \u2018Checkmate\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=12ba1ceeaa25161b4254cab6ad42455b2f33cdd0b77a2e31ebd977801e4dbbd1",
+          "published_utc": "2026-10-12T06:34:52+00:00"
+        },
         {
           "headline": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=68ac22fff068edbd38e4f50bb1f20b289b4fc9740a4311a69f4b58ae2e1ed3c6",
           "published_utc": "2026-10-12T02:13:50+00:00"
-        },
-        {
-          "headline": "How GM is Secretly Winning the US EV Race",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6445d6b5f05936a95ad823fe638841b683dd196226a2631cdd0087b411b589a2",
-          "published_utc": "2026-10-12T01:33:02+00:00"
         }
       ],
       "news_status": "Recent headlines found"
