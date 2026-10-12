@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:29:36.763342+00:00",
+  "updated": "2026-10-12T13:13:46.801964+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 232175,
+      "quote_age_seconds": 234825,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -29,16 +29,16 @@
           "published_utc": "2026-10-12T11:11:03+00:00"
         },
         {
-          "headline": "Michael Burry Shifts Bearish Bets To Nasdaq, Semiconductor ETF Puts \u2014 Sees Market Top Within 9 Months",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=06ed4e229f8e0fb8b438546d03c24d71142741070d2ae438f874addc2120ff73",
-          "published_utc": "2026-10-12T08:22:31+00:00"
+          "headline": "Ondas Is Assembling A Defense Prime, Buy",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=b2c595ea335599269eedad225fa1d4a492f1681e55b1b1b811ee7d80b63086ba",
+          "published_utc": "2026-10-12T08:52:27+00:00"
         },
         {
-          "headline": "PLTR Stock At Record High: CTO Slams Report Of Maven Role In Iran School Strike, Retail Bulls Embrace Wall Street Upgrades",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b0ada8694ee1e6ed978a0a250b6a4d68705ad646afae531f5214a365daf810f3",
-          "published_utc": "2026-10-12T06:03:05+00:00"
+          "headline": "Dividend Harvesting Portfolio Week 293: $29,300 Allocated, $3,401.43 In Projected Dividends",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=c07226292d6cbe47ccd3e5e71d55d8eeec9d2cf70368ea20e5df4fbbd89f5ce8",
+          "published_utc": "2026-10-12T08:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 232175,
+      "quote_age_seconds": 234825,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 232175,
+      "quote_age_seconds": 234825,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 232175,
+      "quote_age_seconds": 234825,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 232175,
+      "quote_age_seconds": 234825,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
