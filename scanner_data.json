@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T14:00:14.884122+00:00",
+  "updated": "2026-10-12T14:53:03.578931+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 53.01,
-      "change_percent": 4.0126,
+      "price": 53.46,
+      "change_percent": 4.8955,
       "previous_close": 50.965,
-      "quote_timestamp": 1791813586.0,
-      "quote_time_utc": "2026-10-12T13:59:46+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1791816771.0,
+      "quote_time_utc": "2026-10-12T14:52:51+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,34 +22,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile Shipped 3 More BlueBird Satellites to Cape Canaveral. Here's How Many It Needs in Orbit Before Revenue Shows Up.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=794b79c7ccdeb07003137095e656147e1eb66f79aea851ea26fb53bdf19d4a29",
-          "published_utc": "2026-10-11T20:16:00+00:00"
+          "headline": "AST SpaceMobile Stock Surges After Deutsche Bank Upgrade",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=d87ee944847199bbe47a19b6a860bc8cefbc7718e26ebdf860df9aeed22739f9",
+          "published_utc": "2026-10-12T10:15:20+00:00"
         },
         {
-          "headline": "AST SpaceMobile (ASTS) Stock Now Has A Bigger Question After FCC Satellite Ruling",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c47b22648e22cda9f087e32e082ec41c4e0f9982ac6a4edbc88e39b91f04dba",
-          "published_utc": "2026-10-11T13:08:51+00:00"
+          "headline": "First Tracks Biotherapeutics, C3.ai, CCC Intelligent Solutions And Other Big Stocks Moving Higher On Monday",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=55eef9db66e4d5a66c48084d7848395ac3434375fea284399aee3b40701a28e7",
+          "published_utc": "2026-10-12T09:55:45+00:00"
         },
         {
-          "headline": "AST SpaceMobile Has $3.7 Billion in Liquidity and No Commercial Revenue. Here's How to Value That.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2dc4fd3d7e2e1cce4d2d7647b0efbf98afffbc7a0847b42e686315ed47490715",
-          "published_utc": "2026-10-10T16:25:00+00:00"
+          "headline": "Deutsche Bank Upgrades AST SpaceMobile to Buy, Maintains Price Target to $93",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3d194583d91d7c7e36834802a96d55ec40fbaeed998e2bc8c8979f06eb91b41f",
+          "published_utc": "2026-10-12T06:47:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 741.3,
-      "change_percent": 3.1489,
+      "price": 743.3,
+      "change_percent": 3.4272,
       "previous_close": 718.67,
-      "quote_timestamp": 1791813585.0,
-      "quote_time_utc": "2026-10-12T13:59:45+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791816771.0,
+      "quote_time_utc": "2026-10-12T14:52:51+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,22 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Salesforce Just Turned the Agent Allowlist Into a CRM Product",
+          "headline": "'The Social Reckoning' bombs in opening weekend",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54a19565c2ac70a5de2a1b859e88466eddbda6abac3b22575f935acb9e23b223",
-          "published_utc": "2026-10-12T11:33:30+00:00"
+          "url": "https://finnhub.io/api/news?id=4d2ccc1124d1eb600ee0f1167cdc65291e3266ccff1cf2ea0a5d4afa10db21dc",
+          "published_utc": "2026-10-12T13:27:53+00:00"
         },
         {
-          "headline": "What Projected Job Cuts at These Two Mag 7 Firms Says About AI in 2027",
+          "headline": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fa360b13baf1471febdee0366e7a186ff8bfd88fbecaabf835486fc5aa08fe7",
-          "published_utc": "2026-10-12T11:15:39+00:00"
+          "url": "https://finnhub.io/api/news?id=b33bcf2cb97c5075230355f7950e9aac1f728a8d9ff85b29fe4851a652b2a5b5",
+          "published_utc": "2026-10-12T13:05:32+00:00"
         },
         {
-          "headline": "Can broadening earnings growth sustain the equity upcycle? JPM weighs in",
+          "headline": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c990fd743921e1534d8404b9c7a58c1052369ffb7dead6bc1d5d22c487f4b68d",
-          "published_utc": "2026-10-12T11:09:39+00:00"
+          "url": "https://finnhub.io/api/news?id=0a4773f52117ebfdbc6463f4636c10b8a4917f0ade8f29eb4f7c625aab2adfd0",
+          "published_utc": "2026-10-12T13:00:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 53.01,
-      "change_percent": 4.0126,
+      "price": 53.46,
+      "change_percent": 4.8955,
       "previous_close": 50.965,
-      "quote_timestamp": 1791813586.0,
-      "quote_time_utc": "2026-10-12T13:59:46+00:00",
-      "quote_age_seconds": 25,
+      "quote_timestamp": 1791816771.0,
+      "quote_time_utc": "2026-10-12T14:52:51+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,34 +98,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "AST SpaceMobile Shipped 3 More BlueBird Satellites to Cape Canaveral. Here's How Many It Needs in Orbit Before Revenue Shows Up.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=794b79c7ccdeb07003137095e656147e1eb66f79aea851ea26fb53bdf19d4a29",
-          "published_utc": "2026-10-11T20:16:00+00:00"
+          "headline": "AST SpaceMobile Stock Surges After Deutsche Bank Upgrade",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=d87ee944847199bbe47a19b6a860bc8cefbc7718e26ebdf860df9aeed22739f9",
+          "published_utc": "2026-10-12T10:15:20+00:00"
         },
         {
-          "headline": "AST SpaceMobile (ASTS) Stock Now Has A Bigger Question After FCC Satellite Ruling",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9c47b22648e22cda9f087e32e082ec41c4e0f9982ac6a4edbc88e39b91f04dba",
-          "published_utc": "2026-10-11T13:08:51+00:00"
+          "headline": "First Tracks Biotherapeutics, C3.ai, CCC Intelligent Solutions And Other Big Stocks Moving Higher On Monday",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=55eef9db66e4d5a66c48084d7848395ac3434375fea284399aee3b40701a28e7",
+          "published_utc": "2026-10-12T09:55:45+00:00"
         },
         {
-          "headline": "AST SpaceMobile Has $3.7 Billion in Liquidity and No Commercial Revenue. Here's How to Value That.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2dc4fd3d7e2e1cce4d2d7647b0efbf98afffbc7a0847b42e686315ed47490715",
-          "published_utc": "2026-10-10T16:25:00+00:00"
+          "headline": "Deutsche Bank Upgrades AST SpaceMobile to Buy, Maintains Price Target to $93",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=3d194583d91d7c7e36834802a96d55ec40fbaeed998e2bc8c8979f06eb91b41f",
+          "published_utc": "2026-10-12T06:47:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 741.3,
-      "change_percent": 3.1489,
+      "price": 743.3,
+      "change_percent": 3.4272,
       "previous_close": 718.67,
-      "quote_timestamp": 1791813585.0,
-      "quote_time_utc": "2026-10-12T13:59:45+00:00",
-      "quote_age_seconds": 26,
+      "quote_timestamp": 1791816771.0,
+      "quote_time_utc": "2026-10-12T14:52:51+00:00",
+      "quote_age_seconds": 11,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,22 +135,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Salesforce Just Turned the Agent Allowlist Into a CRM Product",
+          "headline": "'The Social Reckoning' bombs in opening weekend",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=54a19565c2ac70a5de2a1b859e88466eddbda6abac3b22575f935acb9e23b223",
-          "published_utc": "2026-10-12T11:33:30+00:00"
+          "url": "https://finnhub.io/api/news?id=4d2ccc1124d1eb600ee0f1167cdc65291e3266ccff1cf2ea0a5d4afa10db21dc",
+          "published_utc": "2026-10-12T13:27:53+00:00"
         },
         {
-          "headline": "What Projected Job Cuts at These Two Mag 7 Firms Says About AI in 2027",
+          "headline": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0fa360b13baf1471febdee0366e7a186ff8bfd88fbecaabf835486fc5aa08fe7",
-          "published_utc": "2026-10-12T11:15:39+00:00"
+          "url": "https://finnhub.io/api/news?id=b33bcf2cb97c5075230355f7950e9aac1f728a8d9ff85b29fe4851a652b2a5b5",
+          "published_utc": "2026-10-12T13:05:32+00:00"
         },
         {
-          "headline": "Can broadening earnings growth sustain the equity upcycle? JPM weighs in",
+          "headline": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c990fd743921e1534d8404b9c7a58c1052369ffb7dead6bc1d5d22c487f4b68d",
-          "published_utc": "2026-10-12T11:09:39+00:00"
+          "url": "https://finnhub.io/api/news?id=0a4773f52117ebfdbc6463f4636c10b8a4917f0ade8f29eb4f7c625aab2adfd0",
+          "published_utc": "2026-10-12T13:00:49+00:00"
         }
       ],
       "news_status": "Recent headlines found"
