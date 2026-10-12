@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:47:22.776497+00:00",
+  "updated": "2026-10-12T18:17:05.853349+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "META",
-      "price": 749.32,
-      "change_percent": 4.2648,
+      "price": 746.67,
+      "change_percent": 3.8961,
       "previous_close": 718.67,
-      "quote_timestamp": 1791827221.0,
-      "quote_time_utc": "2026-10-12T17:47:01+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791828995.0,
+      "quote_time_utc": "2026-10-12T18:16:35+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,59 +22,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Discover which S&P500 stocks are making waves on Monday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=aa9e4c8a2b6d82815ed32d4c2f7a81ce11c4a5cf84eb068cff96ca2163909ff0",
-          "published_utc": "2026-10-12T16:35:01+00:00"
-        },
-        {
-          "headline": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design",
+          "headline": "Meta Climbs 4% on Muse Retention Data; Snap Rises 3%, Reddit Falls 3%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=500ae337a06221b2f3b8f19f12621a9da5d7312198c5a0ba2740463b4dc7496b",
-          "published_utc": "2026-10-12T15:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=a422c3ba6495ad37692b6684f04e8b9d36fd53aaf6f61abc43a161d877e40637",
+          "published_utc": "2026-10-12T17:47:20+00:00"
         },
         {
-          "headline": "A closer look at Big Banks ahead of Q3 earnings, & one metric Meta investors should watch",
+          "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2c64af906355eca905a70ed9b067a0e727bf1a9fea68969cee741211a9abdbd",
-          "published_utc": "2026-10-12T14:56:16+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "ASTS",
-      "price": 53.1,
-      "change_percent": 4.1891,
-      "previous_close": 50.965,
-      "quote_timestamp": 1791827215.0,
-      "quote_time_utc": "2026-10-12T17:46:55+00:00",
-      "quote_age_seconds": 27,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "AST SpaceMobile: Story Collapses Before Even Starting",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=5b3f7edcf15518bccc141963fb797104c4b5016588826c252a2bb25bb97f8e15",
-          "published_utc": "2026-10-12T11:10:00+00:00"
+          "url": "https://finnhub.io/api/news?id=c89d0847e5969c804666028adf4047be48f3e35b33266a453a233c3ea79aaef8",
+          "published_utc": "2026-10-12T17:36:29+00:00"
         },
         {
-          "headline": "AST SpaceMobile Stock Surges After Deutsche Bank Upgrade",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=d87ee944847199bbe47a19b6a860bc8cefbc7718e26ebdf860df9aeed22739f9",
-          "published_utc": "2026-10-12T10:15:20+00:00"
-        },
-        {
-          "headline": "First Tracks Biotherapeutics, C3.ai, CCC Intelligent Solutions And Other Big Stocks Moving Higher On Monday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=55eef9db66e4d5a66c48084d7848395ac3434375fea284399aee3b40701a28e7",
-          "published_utc": "2026-10-12T09:55:45+00:00"
+          "headline": "Broadcom Is Building an AI Business Unlike Nvidia\u2019s. Here\u2019s My Price Prediction",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=0a26ce5cb2a02367879a1ab1d12bd53d8ab50899bcf85d0801ab934b64ac4cae",
+          "published_utc": "2026-10-12T17:30:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 749.32,
-      "change_percent": 4.2648,
+      "price": 746.67,
+      "change_percent": 3.8961,
       "previous_close": 718.67,
-      "quote_timestamp": 1791827221.0,
-      "quote_time_utc": "2026-10-12T17:47:01+00:00",
-      "quote_age_seconds": 21,
+      "quote_timestamp": 1791828995.0,
+      "quote_time_utc": "2026-10-12T18:16:35+00:00",
+      "quote_age_seconds": 29,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -98,34 +61,34 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Discover which S&P500 stocks are making waves on Monday.",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=aa9e4c8a2b6d82815ed32d4c2f7a81ce11c4a5cf84eb068cff96ca2163909ff0",
-          "published_utc": "2026-10-12T16:35:01+00:00"
+          "headline": "Meta Climbs 4% on Muse Retention Data; Snap Rises 3%, Reddit Falls 3%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a422c3ba6495ad37692b6684f04e8b9d36fd53aaf6f61abc43a161d877e40637",
+          "published_utc": "2026-10-12T17:47:20+00:00"
         },
         {
-          "headline": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design",
+          "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=500ae337a06221b2f3b8f19f12621a9da5d7312198c5a0ba2740463b4dc7496b",
-          "published_utc": "2026-10-12T15:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=c89d0847e5969c804666028adf4047be48f3e35b33266a453a233c3ea79aaef8",
+          "published_utc": "2026-10-12T17:36:29+00:00"
         },
         {
-          "headline": "A closer look at Big Banks ahead of Q3 earnings, & one metric Meta investors should watch",
+          "headline": "Broadcom Is Building an AI Business Unlike Nvidia\u2019s. Here\u2019s My Price Prediction",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d2c64af906355eca905a70ed9b067a0e727bf1a9fea68969cee741211a9abdbd",
-          "published_utc": "2026-10-12T14:56:16+00:00"
+          "url": "https://finnhub.io/api/news?id=0a26ce5cb2a02367879a1ab1d12bd53d8ab50899bcf85d0801ab934b64ac4cae",
+          "published_utc": "2026-10-12T17:30:27+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "ASTS",
-      "price": 53.1,
-      "change_percent": 4.1891,
+      "price": 52.15,
+      "change_percent": 2.3251,
       "previous_close": 50.965,
-      "quote_timestamp": 1791827215.0,
-      "quote_time_utc": "2026-10-12T17:46:55+00:00",
-      "quote_age_seconds": 27,
+      "quote_timestamp": 1791828994.0,
+      "quote_time_utc": "2026-10-12T18:16:34+00:00",
+      "quote_age_seconds": 30,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -134,6 +97,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SpaceX Changed My Mind On AST SpaceMobile",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=4d69d12552351838485797957cf45b19c4f6eb72ff79d5d972314dd3769578f0",
+          "published_utc": "2026-10-12T13:44:29+00:00"
+        },
         {
           "headline": "AST SpaceMobile: Story Collapses Before Even Starting",
           "source": "SeekingAlpha",
@@ -145,12 +114,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=d87ee944847199bbe47a19b6a860bc8cefbc7718e26ebdf860df9aeed22739f9",
           "published_utc": "2026-10-12T10:15:20+00:00"
-        },
-        {
-          "headline": "First Tracks Biotherapeutics, C3.ai, CCC Intelligent Solutions And Other Big Stocks Moving Higher On Monday",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=55eef9db66e4d5a66c48084d7848395ac3434375fea284399aee3b40701a28e7",
-          "published_utc": "2026-10-12T09:55:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
