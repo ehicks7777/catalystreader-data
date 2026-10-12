@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:59:00.910578+00:00",
+  "updated": "2026-10-12T07:26:44.547773+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 212339,
+      "quote_age_seconds": 214003,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "PLTR Stock At Record High: CTO Slams Report Of Maven Role In Iran School Strike, Retail Bulls Embrace Wall Street Upgrades",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b0ada8694ee1e6ed978a0a250b6a4d68705ad646afae531f5214a365daf810f3",
+          "published_utc": "2026-10-12T06:03:05+00:00"
+        },
         {
           "headline": "3 Tech Stocks Wall Street Upgraded Last Week, and the One I'd Buy First",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c00b9900dca28c78caccf1d35c2334a7305d9b95d5146b54a74061d1a9694d40",
           "published_utc": "2026-10-12T01:03:00+00:00"
-        },
-        {
-          "headline": "Palantir Technologies Announces October Seoul Pop-Up with Korea-First Exclusive Merchandise Release",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fade9400e617291a2d0f51a9b4ad7d64616b370139ef4032bad1c08f46127bd9",
-          "published_utc": "2026-10-12T01:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 212339,
+      "quote_age_seconds": 214003,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 212339,
+      "quote_age_seconds": 214003,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 212339,
+      "quote_age_seconds": 214003,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 212339,
+      "quote_age_seconds": 214003,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
