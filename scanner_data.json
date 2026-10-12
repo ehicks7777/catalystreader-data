@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:26:44.547773+00:00",
+  "updated": "2026-10-12T07:53:03.827881+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 214003,
+      "quote_age_seconds": 215582,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 214003,
+      "quote_age_seconds": 215582,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 214003,
+      "quote_age_seconds": 215582,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
+          "published_utc": "2026-10-12T03:29:10+00:00"
+        },
         {
           "headline": "AMZN Stock Inches Up Overnight: Amazon Reportedly Nears $7B Deal For Decart AI After Anthropic Walks Away",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=68ac22fff068edbd38e4f50bb1f20b289b4fc9740a4311a69f4b58ae2e1ed3c6",
           "published_utc": "2026-10-12T02:13:50+00:00"
-        },
-        {
-          "headline": "Amazon Reportedly in Talks to Buy Decart for $7 Billion \u2014 Market Strategist Says It Is 'Effectively Buying Software Expertise'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a367def9e13c86552b7d822a9a6e18d4c280eb5418fa1095bfa801cf0010cef9",
-          "published_utc": "2026-10-12T01:32:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 214003,
+      "quote_age_seconds": 215582,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -140,16 +140,16 @@
           "published_utc": "2026-10-12T06:20:00+00:00"
         },
         {
+          "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
+          "published_utc": "2026-10-12T03:29:10+00:00"
+        },
+        {
           "headline": "What ENEOS Holdings (TSE:5020)'s Planned Treasury Share Cancellation Means For Shareholders",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ca0daa3ac2eeef034f650e6ae688828488a3d63541f77c8fb02f8755e8ba4e52",
           "published_utc": "2026-10-12T03:17:32+00:00"
-        },
-        {
-          "headline": "3 Tech Stocks Wall Street Upgraded Last Week, and the One I'd Buy First",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82f953f10c49d2d227560eaba8ccf414d17c2ae0c225d18fed89b2d20352e424",
-          "published_utc": "2026-10-12T02:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 214003,
+      "quote_age_seconds": 215582,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
