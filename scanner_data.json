@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T15:18:51.779226+00:00",
+  "updated": "2026-10-12T15:50:19.813990+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 53.61,
-      "change_percent": 5.1898,
+      "price": 53.7,
+      "change_percent": 5.3664,
       "previous_close": 50.965,
-      "quote_timestamp": 1791818308.0,
-      "quote_time_utc": "2026-10-12T15:18:28+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791820198.0,
+      "quote_time_utc": "2026-10-12T15:49:58+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AST SpaceMobile: Story Collapses Before Even Starting",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5b3f7edcf15518bccc141963fb797104c4b5016588826c252a2bb25bb97f8e15",
+          "published_utc": "2026-10-12T11:10:00+00:00"
+        },
         {
           "headline": "AST SpaceMobile Stock Surges After Deutsche Bank Upgrade",
           "source": "Benzinga",
@@ -32,24 +38,18 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=55eef9db66e4d5a66c48084d7848395ac3434375fea284399aee3b40701a28e7",
           "published_utc": "2026-10-12T09:55:45+00:00"
-        },
-        {
-          "headline": "Deutsche Bank Upgrades AST SpaceMobile to Buy, Maintains Price Target to $93",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3d194583d91d7c7e36834802a96d55ec40fbaeed998e2bc8c8979f06eb91b41f",
-          "published_utc": "2026-10-12T06:47:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 748.31,
-      "change_percent": 4.1243,
+      "price": 747.35,
+      "change_percent": 3.9907,
       "previous_close": 718.67,
-      "quote_timestamp": 1791818309.0,
-      "quote_time_utc": "2026-10-12T15:18:29+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1791820198.0,
+      "quote_time_utc": "2026-10-12T15:49:58+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 53.61,
-      "change_percent": 5.1898,
+      "price": 53.7,
+      "change_percent": 5.3664,
       "previous_close": 50.965,
-      "quote_timestamp": 1791818308.0,
-      "quote_time_utc": "2026-10-12T15:18:28+00:00",
-      "quote_age_seconds": 18,
+      "quote_timestamp": 1791820198.0,
+      "quote_time_utc": "2026-10-12T15:49:58+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -97,6 +97,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AST SpaceMobile: Story Collapses Before Even Starting",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=5b3f7edcf15518bccc141963fb797104c4b5016588826c252a2bb25bb97f8e15",
+          "published_utc": "2026-10-12T11:10:00+00:00"
+        },
         {
           "headline": "AST SpaceMobile Stock Surges After Deutsche Bank Upgrade",
           "source": "Benzinga",
@@ -108,24 +114,18 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=55eef9db66e4d5a66c48084d7848395ac3434375fea284399aee3b40701a28e7",
           "published_utc": "2026-10-12T09:55:45+00:00"
-        },
-        {
-          "headline": "Deutsche Bank Upgrades AST SpaceMobile to Buy, Maintains Price Target to $93",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=3d194583d91d7c7e36834802a96d55ec40fbaeed998e2bc8c8979f06eb91b41f",
-          "published_utc": "2026-10-12T06:47:50+00:00"
         }
       ],
       "news_status": "Recent headlines found"
     },
     {
       "symbol": "META",
-      "price": 748.31,
-      "change_percent": 4.1243,
+      "price": 747.35,
+      "change_percent": 3.9907,
       "previous_close": 718.67,
-      "quote_timestamp": 1791818309.0,
-      "quote_time_utc": "2026-10-12T15:18:29+00:00",
-      "quote_age_seconds": 17,
+      "quote_timestamp": 1791820198.0,
+      "quote_time_utc": "2026-10-12T15:49:58+00:00",
+      "quote_age_seconds": 20,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
