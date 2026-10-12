@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T11:50:44.008636+00:00",
+  "updated": "2026-10-12T12:29:36.763342+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 229842,
+      "quote_age_seconds": 232175,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "3 Momentum  Stocks to Target This Week",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=b7d310c02badcba6b5491cdf01827cd87d65bc4f68e94038d857b7107ee5ec73",
+          "published_utc": "2026-10-12T11:11:03+00:00"
+        },
         {
           "headline": "Michael Burry Shifts Bearish Bets To Nasdaq, Semiconductor ETF Puts \u2014 Sees Market Top Within 9 Months",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=b0ada8694ee1e6ed978a0a250b6a4d68705ad646afae531f5214a365daf810f3",
           "published_utc": "2026-10-12T06:03:05+00:00"
-        },
-        {
-          "headline": "3 Tech Stocks Wall Street Upgraded Last Week, and the One I'd Buy First",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=82f953f10c49d2d227560eaba8ccf414d17c2ae0c225d18fed89b2d20352e424",
-          "published_utc": "2026-10-12T02:50:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 229842,
+      "quote_age_seconds": 232175,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 229842,
+      "quote_age_seconds": 232175,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -97,22 +97,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "ACCA, SMU launch programme to prepare finance leaders for disruption",
+          "headline": "Salesforce Just Turned the Agent Allowlist Into a CRM Product",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d07b9d3c184ebe33a807d7e809a609d811dd0cb3bf3dd69a0eda673fe10eeadd",
-          "published_utc": "2026-10-12T09:36:33+00:00"
+          "url": "https://finnhub.io/api/news?id=54a19565c2ac70a5de2a1b859e88466eddbda6abac3b22575f935acb9e23b223",
+          "published_utc": "2026-10-12T11:33:30+00:00"
         },
         {
-          "headline": "Amazon in talks to acquire Decart in potential $7bn deal",
+          "headline": "Amazon in talks to acquire AI startup Decart for $7 billion",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0c29e0195c0946a25206d6f77d82a277d0a379d1c9e12e370526a741f636673a",
-          "published_utc": "2026-10-12T09:22:55+00:00"
+          "url": "https://finnhub.io/api/news?id=d0dfbdbde4a1782452210173247d9b360bf2085295bb4f3615ac7935ee2f2aa0",
+          "published_utc": "2026-10-12T11:17:01+00:00"
         },
         {
-          "headline": "DuLac Farmaceutici Takes Next Step in U.S. Retail Growth Following ECRM Meetings",
+          "headline": "What Projected Job Cuts at These Two Mag 7 Firms Says About AI in 2027",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d0f25526e7870b3f913e742b615c4b7bfb07807eb6f391c78cb2725b55e55ae6",
-          "published_utc": "2026-10-12T09:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=0fa360b13baf1471febdee0366e7a186ff8bfd88fbecaabf835486fc5aa08fe7",
+          "published_utc": "2026-10-12T11:15:39+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 229842,
+      "quote_age_seconds": 232175,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -134,22 +134,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Protiviti Achieves 2026-2027 Microsoft AI Business Solutions Inner Circle Award",
+          "headline": "IREN Stock Jumps on Talk Anthropic Is Its Mystery AI Customer",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=245f661769e7d0b91e0a2331c834739ab1b621c638d3a04533b4d4af803a76d3",
-          "published_utc": "2026-10-12T09:55:00+00:00"
+          "url": "https://finnhub.io/api/news?id=a6b833d8f599949bf448c1e5d1d3685efcf2f38417b0b9e74994617c7bf8fde8",
+          "published_utc": "2026-10-12T11:34:00+00:00"
         },
         {
-          "headline": "Mark My Words: ASML Stock Is the Most Overlooked Way to Play the AI Infrastructure Boom",
+          "headline": "OnePlan positioned as a Leader in the SPARK Matrix\u2122: Strategic Portfolio Management Solutions, 2026 by QKS Group",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0e4dde4ea4d91dd16f301c59579b8e8b9c82daed9afc704b31209993123262de",
-          "published_utc": "2026-10-12T09:34:00+00:00"
+          "url": "https://finnhub.io/api/news?id=5e727d1d1f814ded925e3a93d3747d9b44c1b02876f0d57277aa59c1d407d6a3",
+          "published_utc": "2026-10-12T10:30:00+00:00"
         },
         {
-          "headline": "President Trump Just Dropped Over $1 Million Into 3 Tech Stocks -- Should You Buy Them Too?",
+          "headline": "Jim Cramer Says OpenAI Revenue Isn\u2019t \u2018Apples to Apples\u2019 With Anthropic, Daniel Newman Calls Debate 'Hilarious' \u2014 $500 Billion Wiped Out",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=23fad4fbd4fdc86d8c237921f08ebc057e053233f0048b4a0c937fe2dcc59522",
-          "published_utc": "2026-10-12T09:20:00+00:00"
+          "url": "https://finnhub.io/api/news?id=9c701cbe7b5b173601a55c569c7624072bf78d371706b627ff02a9482fe5515c",
+          "published_utc": "2026-10-12T10:00:14+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 229842,
+      "quote_age_seconds": 232175,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Tesla (NASDAQ:TSLA) Pairs Strong Growth With a High-Quality Technical Breakout Setup",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=93a6bbfb704d0801dc0ddec9b380e2b726fe9a3791ab688433fc854f412f2c86",
-          "published_utc": "2026-10-12T10:10:58+00:00"
-        },
-        {
-          "headline": "Most Tokenized Stock Trading Happens Outside U.S. Market Hours, IMF Finds",
+          "headline": "How SpaceX\u2019s Spectrum Purchase Brings It Closer to a Tesla Merger",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0cfe1622e8e2e78d5735059beb6f742c01e7f71c02de26d18c98a1b558cd60bd",
-          "published_utc": "2026-10-12T09:38:07+00:00"
+          "url": "https://finnhub.io/api/news?id=367a63622d42e6e05701abed177c89428392ca23ccbe346b0105a2b49a2f8ed7",
+          "published_utc": "2026-10-12T11:19:00+00:00"
         },
         {
-          "headline": "Starlink Goes Mobile, and Wall Street Rewrites the Telecom Map Overnight",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=92f35ca77b3b4365a34648301d4adb104b1a0e13ec54e6107426ad61520ac1a5",
-          "published_utc": "2026-10-12T08:22:17+00:00"
+          "headline": "3 Founder Led Stocks For October 2026",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=263f4bd4254ee4620f4ee510b2b8763abee4e4436a5d4b0793738f88625f92c4",
+          "published_utc": "2026-10-12T11:10:41+00:00"
+        },
+        {
+          "headline": "YieldMax\u00ae ETFs Announces Distributions on MSST, NVIT, and TEST",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4d80f001706940474695c951ad2dee78a4dae811bab46143fb7268384735e4ed",
+          "published_utc": "2026-10-12T10:55:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
