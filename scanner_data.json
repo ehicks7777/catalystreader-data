@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T01:49:33.201253+00:00",
+  "updated": "2026-10-12T02:16:53.563881+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 198.78,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 193772,
+      "quote_age_seconds": 195412,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Palantir hits record as its next AI market gets awkward",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c00b9900dca28c78caccf1d35c2334a7305d9b95d5146b54a74061d1a9694d40",
+          "published_utc": "2026-10-12T01:03:00+00:00"
+        },
+        {
+          "headline": "Palantir Technologies Announces October Seoul Pop-Up with Korea-First Exclusive Merchandise Release",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fade9400e617291a2d0f51a9b4ad7d64616b370139ef4032bad1c08f46127bd9",
+          "published_utc": "2026-10-12T01:00:00+00:00"
+        },
+        {
           "headline": "History Says This Will Happen to Palantir Stock by 2028",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a49e2696a4583055214d9d061a13cf0a85d1a660fdd258cbdb0bfa24873bc6cc",
           "published_utc": "2026-10-11T19:30:00+00:00"
-        },
-        {
-          "headline": "Palantir: I Couldn't Have Been More Wrong, I See The Light Now - Buy (Rating Upgrade)",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=9e8b62f4fa38da7cb35c7d51f21cde6b431b46a15438bb98e2d3b481816b488f",
-          "published_utc": "2026-10-11T10:00:00+00:00"
-        },
-        {
-          "headline": "Palantir: Staying Bullish At Record Highs As Q3 Approaches",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=dfa8548a9ee0ae30887f60a8689fb9e593bdf0bc0fdf6505b7972e58dc3c4305",
-          "published_utc": "2026-10-11T08:45:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 172.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 193772,
+      "quote_age_seconds": 195412,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 254.06,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 193772,
+      "quote_age_seconds": 195412,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -96,6 +96,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "$15 doorbell camera became Amazon's second-largest acquisition.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d61f2455a1058b45acfd9f69f2328ff39ca4f7ca91fece7169cd7a6b16bececf",
+          "published_utc": "2026-10-12T01:32:05+00:00"
+        },
         {
           "headline": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
           "source": "Yahoo",
@@ -107,12 +113,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2945336890d7786e356d796c62f2a4ac16657e67e077c716cf623d4d440deac2",
           "published_utc": "2026-10-11T23:20:00+00:00"
-        },
-        {
-          "headline": "Jeff Bezos has a blunt answer for why housing is so expensive",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6aaac42d1a9e191c064229668d2db079b1bbede83bb5617506a9ccdd1fbe0e3a",
-          "published_utc": "2026-10-11T21:33:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -124,7 +124,7 @@
       "previous_close": 522.61,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 193772,
+      "quote_age_seconds": 195412,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Microsoft Needs Azure to Keep Growing Faster Than 40% When It Reports on Oct. 28",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9bfed482f1bf00c0bca6aaa9dbebfef15691acdc6b954c8c1d29e7b0f02d009c",
+          "published_utc": "2026-10-12T00:43:03+00:00"
+        },
         {
           "headline": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e110f45770e021697dbc99b32b0f662eeff59b07151ba12bbdf9df4c534c0e21",
           "published_utc": "2026-10-11T22:07:00+00:00"
-        },
-        {
-          "headline": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4e52232f63d589a8b81f66bf8d77a2f620fbd46fb151b456cacac026497cef4f",
-          "published_utc": "2026-10-11T20:14:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 375.0,
       "quote_timestamp": 1791576000.0,
       "quote_time_utc": "2026-10-09T20:00:00+00:00",
-      "quote_age_seconds": 193772,
+      "quote_age_seconds": 195412,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "How GM is Secretly Winning the US EV Race",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=6445d6b5f05936a95ad823fe638841b683dd196226a2631cdd0087b411b589a2",
+          "published_utc": "2026-10-12T01:33:02+00:00"
+        },
         {
           "headline": "Elon Musk\u2019s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2945336890d7786e356d796c62f2a4ac16657e67e077c716cf623d4d440deac2",
           "published_utc": "2026-10-11T23:20:00+00:00"
-        },
-        {
-          "headline": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=db472ad82dcab6773385554482d6b9c631cb1c016f31a90c77992662879c0f65",
-          "published_utc": "2026-10-11T21:00:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
