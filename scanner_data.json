@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T15:50:19.813990+00:00",
+  "updated": "2026-10-12T16:16:52.049504+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "ASTS",
-      "price": 53.7,
-      "change_percent": 5.3664,
+      "price": 53.55,
+      "change_percent": 5.0721,
       "previous_close": 50.965,
-      "quote_timestamp": 1791820198.0,
-      "quote_time_utc": "2026-10-12T15:49:58+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791821778.0,
+      "quote_time_utc": "2026-10-12T16:16:18+00:00",
+      "quote_age_seconds": 31,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -44,12 +44,12 @@
     },
     {
       "symbol": "META",
-      "price": 747.35,
-      "change_percent": 3.9907,
+      "price": 745.84,
+      "change_percent": 3.7806,
       "previous_close": 718.67,
-      "quote_timestamp": 1791820198.0,
-      "quote_time_utc": "2026-10-12T15:49:58+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791821778.0,
+      "quote_time_utc": "2026-10-12T16:16:18+00:00",
+      "quote_age_seconds": 31,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -59,22 +59,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "'The Social Reckoning' bombs in opening weekend",
+          "headline": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d2ccc1124d1eb600ee0f1167cdc65291e3266ccff1cf2ea0a5d4afa10db21dc",
-          "published_utc": "2026-10-12T13:27:53+00:00"
+          "url": "https://finnhub.io/api/news?id=500ae337a06221b2f3b8f19f12621a9da5d7312198c5a0ba2740463b4dc7496b",
+          "published_utc": "2026-10-12T15:00:00+00:00"
         },
         {
-          "headline": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
+          "headline": "A closer look at Big Banks ahead of Q3 earnings, & one metric Meta investors should watch",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b33bcf2cb97c5075230355f7950e9aac1f728a8d9ff85b29fe4851a652b2a5b5",
-          "published_utc": "2026-10-12T13:05:32+00:00"
+          "url": "https://finnhub.io/api/news?id=d2c64af906355eca905a70ed9b067a0e727bf1a9fea68969cee741211a9abdbd",
+          "published_utc": "2026-10-12T14:56:16+00:00"
         },
         {
-          "headline": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
+          "headline": "AMD\u2019s Recent Plus $600 Prices Look Like a Stepping Stone, Not a Barrier",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a4773f52117ebfdbc6463f4636c10b8a4917f0ade8f29eb4f7c625aab2adfd0",
-          "published_utc": "2026-10-12T13:00:49+00:00"
+          "url": "https://finnhub.io/api/news?id=24e3dbcc1b9ae93a2a579b7f3c7157ee16763c4f1e6dc3d2690f936d631825a5",
+          "published_utc": "2026-10-12T14:45:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -83,12 +83,12 @@
   "swing_trading": [
     {
       "symbol": "ASTS",
-      "price": 53.7,
-      "change_percent": 5.3664,
+      "price": 53.55,
+      "change_percent": 5.0721,
       "previous_close": 50.965,
-      "quote_timestamp": 1791820198.0,
-      "quote_time_utc": "2026-10-12T15:49:58+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791821778.0,
+      "quote_time_utc": "2026-10-12T16:16:18+00:00",
+      "quote_age_seconds": 31,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -120,12 +120,12 @@
     },
     {
       "symbol": "META",
-      "price": 747.35,
-      "change_percent": 3.9907,
+      "price": 745.84,
+      "change_percent": 3.7806,
       "previous_close": 718.67,
-      "quote_timestamp": 1791820198.0,
-      "quote_time_utc": "2026-10-12T15:49:58+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791821778.0,
+      "quote_time_utc": "2026-10-12T16:16:18+00:00",
+      "quote_age_seconds": 31,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -135,22 +135,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "'The Social Reckoning' bombs in opening weekend",
+          "headline": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4d2ccc1124d1eb600ee0f1167cdc65291e3266ccff1cf2ea0a5d4afa10db21dc",
-          "published_utc": "2026-10-12T13:27:53+00:00"
+          "url": "https://finnhub.io/api/news?id=500ae337a06221b2f3b8f19f12621a9da5d7312198c5a0ba2740463b4dc7496b",
+          "published_utc": "2026-10-12T15:00:00+00:00"
         },
         {
-          "headline": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
+          "headline": "A closer look at Big Banks ahead of Q3 earnings, & one metric Meta investors should watch",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b33bcf2cb97c5075230355f7950e9aac1f728a8d9ff85b29fe4851a652b2a5b5",
-          "published_utc": "2026-10-12T13:05:32+00:00"
+          "url": "https://finnhub.io/api/news?id=d2c64af906355eca905a70ed9b067a0e727bf1a9fea68969cee741211a9abdbd",
+          "published_utc": "2026-10-12T14:56:16+00:00"
         },
         {
-          "headline": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
+          "headline": "AMD\u2019s Recent Plus $600 Prices Look Like a Stepping Stone, Not a Barrier",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a4773f52117ebfdbc6463f4636c10b8a4917f0ade8f29eb4f7c625aab2adfd0",
-          "published_utc": "2026-10-12T13:00:49+00:00"
+          "url": "https://finnhub.io/api/news?id=24e3dbcc1b9ae93a2a579b7f3c7157ee16763c4f1e6dc3d2690f936d631825a5",
+          "published_utc": "2026-10-12T14:45:11+00:00"
         }
       ],
       "news_status": "Recent headlines found"
