@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T19:15:23.716506+00:00",
+  "updated": "2026-10-12T19:46:58.425461+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "META",
-      "price": 743.2,
-      "change_percent": 3.4132,
+      "price": 744.02,
+      "change_percent": 3.5273,
       "previous_close": 718.67,
-      "quote_timestamp": 1791832501.0,
-      "quote_time_utc": "2026-10-12T19:15:01+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791834399.0,
+      "quote_time_utc": "2026-10-12T19:46:39+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -21,6 +21,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Monday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=7d346a60f670e8f9ddc8279296e8c4fd9cae67d242e655a952cce9bcd63808f9",
+          "published_utc": "2026-10-12T19:05:01+00:00"
+        },
         {
           "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
           "source": "ChartMill",
@@ -32,12 +38,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a422c3ba6495ad37692b6684f04e8b9d36fd53aaf6f61abc43a161d877e40637",
           "published_utc": "2026-10-12T17:47:20+00:00"
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c89d0847e5969c804666028adf4047be48f3e35b33266a453a233c3ea79aaef8",
-          "published_utc": "2026-10-12T17:36:29+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 743.2,
-      "change_percent": 3.4132,
+      "price": 744.02,
+      "change_percent": 3.5273,
       "previous_close": 718.67,
-      "quote_timestamp": 1791832501.0,
-      "quote_time_utc": "2026-10-12T19:15:01+00:00",
-      "quote_age_seconds": 20,
+      "quote_timestamp": 1791834399.0,
+      "quote_time_utc": "2026-10-12T19:46:39+00:00",
+      "quote_age_seconds": 18,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -60,6 +60,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Monday.",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=7d346a60f670e8f9ddc8279296e8c4fd9cae67d242e655a952cce9bcd63808f9",
+          "published_utc": "2026-10-12T19:05:01+00:00"
+        },
         {
           "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
           "source": "ChartMill",
@@ -71,12 +77,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a422c3ba6495ad37692b6684f04e8b9d36fd53aaf6f61abc43a161d877e40637",
           "published_utc": "2026-10-12T17:47:20+00:00"
-        },
-        {
-          "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c89d0847e5969c804666028adf4047be48f3e35b33266a453a233c3ea79aaef8",
-          "published_utc": "2026-10-12T17:36:29+00:00"
         }
       ],
       "news_status": "Recent headlines found"
