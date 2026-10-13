@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T15:50:28.851358+00:00",
+  "updated": "2026-10-13T16:18:12.642293+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 762.26,
-      "change_percent": 2.5977,
+      "price": 762.29,
+      "change_percent": 2.6018,
       "previous_close": 742.96,
-      "quote_timestamp": 1791906604.0,
-      "quote_time_utc": "2026-10-13T15:50:04+00:00",
-      "quote_age_seconds": 22,
+      "quote_timestamp": 1791908279.0,
+      "quote_time_utc": "2026-10-13T16:17:59+00:00",
+      "quote_age_seconds": 8,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Can Muse AI Really Help Meta (META) Stock?",
+          "headline": "Stock Market Today: Dow's Losses Start To Multiply; Meta Approaches New Entry (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b13b1571c3fc3631650853d0d324d06652be7ddd5e9a97205dccfddb5f97e0a3",
-          "published_utc": "2026-10-13T13:49:55+00:00"
+          "url": "https://finnhub.io/api/news?id=86053c9cc156f0e9c968ed50a5151d32f30ed539f8d83b68c4ac690df716c5d8",
+          "published_utc": "2026-10-13T15:48:04+00:00"
         },
         {
-          "headline": "Meta is betting the house on AI \u2014 CFO warns the stakes are 'really bad' if it flops",
+          "headline": "Meta Launches Muse Wonder, Its First Frontier AI Model: Can It Pay for the Capex?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bb48ae25ab3c2ea90deb455f587cc56c5b136fb898d7a1576c078fa500b9274",
-          "published_utc": "2026-10-13T13:34:13+00:00"
+          "url": "https://finnhub.io/api/news?id=79f38ef88dbaebd95c9b20db0feb6d0768acbd47745e0940c9aa23791350b1a2",
+          "published_utc": "2026-10-13T15:33:28+00:00"
         },
         {
-          "headline": "Truist lifts Meta target to Street-high $1,000 on strong Muse adoption",
+          "headline": "Meta Stock Rallies Again As Wall Street Praises 'AI Reset'",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba719463df52d8bfbbef335e3187d832e5f0f4074164f491076c666108c4c1fd",
-          "published_utc": "2026-10-13T13:27:28+00:00"
+          "url": "https://finnhub.io/api/news?id=6ffdb9240b1db1d2bf72dd44969b2dbc131cb3a50243a3db716cba248c6c6bd9",
+          "published_utc": "2026-10-13T15:23:22+00:00"
         }
       ],
       "news_status": "Recent headlines found"
