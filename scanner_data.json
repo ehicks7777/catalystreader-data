@@ -1,57 +1,19 @@
 {
-  "updated": "2026-10-13T15:19:01.511590+00:00",
+  "updated": "2026-10-13T15:50:28.851358+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [
-    {
-      "symbol": "META",
-      "price": 766.04,
-      "change_percent": 3.1065,
-      "previous_close": 742.96,
-      "quote_timestamp": 1791904714.0,
-      "quote_time_utc": "2026-10-13T15:18:34+00:00",
-      "quote_age_seconds": 24,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Can Muse AI Really Help Meta (META) Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=b13b1571c3fc3631650853d0d324d06652be7ddd5e9a97205dccfddb5f97e0a3",
-          "published_utc": "2026-10-13T13:49:55+00:00"
-        },
-        {
-          "headline": "Meta is betting the house on AI \u2014 CFO warns the stakes are 'really bad' if it flops",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1bb48ae25ab3c2ea90deb455f587cc56c5b136fb898d7a1576c078fa500b9274",
-          "published_utc": "2026-10-13T13:34:13+00:00"
-        },
-        {
-          "headline": "Truist lifts Meta target to Street-high $1,000 on strong Muse adoption",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ba719463df52d8bfbbef335e3187d832e5f0f4074164f491076c666108c4c1fd",
-          "published_utc": "2026-10-13T13:27:28+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "day_trading": [],
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 766.04,
-      "change_percent": 3.1065,
+      "price": 762.26,
+      "change_percent": 2.5977,
       "previous_close": 742.96,
-      "quote_timestamp": 1791904714.0,
-      "quote_time_utc": "2026-10-13T15:18:34+00:00",
-      "quote_age_seconds": 24,
+      "quote_timestamp": 1791906604.0,
+      "quote_time_utc": "2026-10-13T15:50:04+00:00",
+      "quote_age_seconds": 22,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
