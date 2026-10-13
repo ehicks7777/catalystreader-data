@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:48:47.617832+00:00",
+  "updated": "2026-10-13T06:22:51.848500+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 718.67,
       "quote_timestamp": 1791835200.0,
       "quote_time_utc": "2026-10-12T20:00:00+00:00",
-      "quote_age_seconds": 35326,
+      "quote_age_seconds": 37368,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "People are rejoicing about the removal of Russian bots from social media \u2013\u00a0but the truth is far more complicated",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=494a10484fb5de70b1e25cf5e6e90d025655515cfadffd89e79ea6723c184e3d",
+          "published_utc": "2026-10-13T05:15:20+00:00"
+        },
+        {
+          "headline": "META Stock Dips Overnight After Best Day In Two Weeks: Muse Traction Draws Jim Cramer\u2019s \u2018Monster Long\u2019 Call, Dan Ives Sees An AI Edge",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9ab1e0107c8908afbda112440ea57cdbf6df012344bdcaa860649e101e73599a",
+          "published_utc": "2026-10-13T04:28:43+00:00"
+        },
+        {
           "headline": "Why Meta (META) Stock Is Up Today",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f16cbf830b07bbf9b20a7ca48f7eb32b00f157736be54697ece88fee9009c475",
           "published_utc": "2026-10-13T01:19:03+00:00"
-        },
-        {
-          "headline": "Alphabet vs. Meta Platforms: Which Stock Is a Better Buy in 2026?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=597e884cc638da374b580d2fd62839ae6cdf721528c4de97b02e87cd1f91dc3a",
-          "published_utc": "2026-10-13T00:31:41+00:00"
-        },
-        {
-          "headline": "Muse Wonder Puts Meta's Aggressive AI Push in Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2b8c38cf6b37e0723f74426e6debd35dac34dadd8c2d1c9d8241a910e2be5bd4",
-          "published_utc": "2026-10-12T23:27:13+00:00"
         }
       ],
       "news_status": "Recent headlines found"
