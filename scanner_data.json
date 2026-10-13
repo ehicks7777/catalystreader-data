@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T14:52:26.367172+00:00",
+  "updated": "2026-10-13T15:19:01.511590+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "META",
-      "price": 768.36,
-      "change_percent": 3.4188,
+      "price": 766.04,
+      "change_percent": 3.1065,
       "previous_close": 742.96,
-      "quote_timestamp": 1791903133.0,
-      "quote_time_utc": "2026-10-13T14:52:13+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791904714.0,
+      "quote_time_utc": "2026-10-13T15:18:34+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 768.36,
-      "change_percent": 3.4188,
+      "price": 766.04,
+      "change_percent": 3.1065,
       "previous_close": 742.96,
-      "quote_timestamp": 1791903133.0,
-      "quote_time_utc": "2026-10-13T14:52:13+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1791904714.0,
+      "quote_time_utc": "2026-10-13T15:18:34+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
