@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:18:12.642293+00:00",
+  "updated": "2026-10-13T16:50:37.926549+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -8,12 +8,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 762.29,
-      "change_percent": 2.6018,
+      "price": 762.44,
+      "change_percent": 2.6219,
       "previous_close": 742.96,
-      "quote_timestamp": 1791908279.0,
-      "quote_time_utc": "2026-10-13T16:17:59+00:00",
-      "quote_age_seconds": 8,
+      "quote_timestamp": 1791910212.0,
+      "quote_time_utc": "2026-10-13T16:50:12+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -39,6 +39,43 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=6ffdb9240b1db1d2bf72dd44969b2dbc131cb3a50243a3db716cba248c6c6bd9",
           "published_utc": "2026-10-13T15:23:22+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "HOOD",
+      "price": 111.5,
+      "change_percent": 2.0875,
+      "previous_close": 109.22,
+      "quote_timestamp": 1791910211.0,
+      "quote_time_utc": "2026-10-13T16:50:11+00:00",
+      "quote_age_seconds": 25,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "CME vs. Robinhood Markets: Which Financial Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=9db6280bf46825aee1310854dfb82516f83db010efdfe42d8738140483fe0aba",
+          "published_utc": "2026-10-13T13:10:55+00:00"
+        },
+        {
+          "headline": "Robinhood Just Added $25 Million Worth of Bitcoin to Its Balance Sheet. What Are the Big Takeaways for Crypto Investors?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c147f61640b3ad0901853ed33d37dd9e412ae18fdcc23f04c69d9e1d7cfd1439",
+          "published_utc": "2026-10-13T12:10:00+00:00"
+        },
+        {
+          "headline": "Top VC Investors Say the AI Agent Economy Will Run on Blockchain Rails. Here Are 2 Blockchain Stocks to Buy Now.",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=45caac7eedd7f9cc803deda62cdbe2f09ac6f68dbd6e3d70ea0d43e0d72b075f",
+          "published_utc": "2026-10-13T12:04:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
