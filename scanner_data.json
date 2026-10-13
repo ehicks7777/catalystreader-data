@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:50:26.621228+00:00",
+  "updated": "2026-10-13T11:17:23.154027+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 718.67,
       "quote_timestamp": 1791835200.0,
       "quote_time_utc": "2026-10-12T20:00:00+00:00",
-      "quote_age_seconds": 53425,
+      "quote_age_seconds": 55042,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Stock Market Today: Micron, Sandisk Fall on China Memory News",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=ef29d9aa212ac6aeeb8f660273fca1c93daa065808d32fd189ccc501783f66b3",
+          "published_utc": "2026-10-13T10:24:10+00:00"
+        },
         {
           "headline": "Meta has made a huge step in AI, Mark Zuckerberg says",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=a8355449c166d3a3fb70f4f78fd8edeebafc065224133f98ff47c47cd264b716",
           "published_utc": "2026-10-13T09:00:46+00:00"
-        },
-        {
-          "headline": "AMD CEO Lisa Su Sees AI Inference Boom Fueling $1.5T Demand By 2030: 'About 60% Of The Market Going Forward'",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=31a02d0f7626662553f9442b1c9134d124fe0d2d6f2986ff0d370c20800417f9",
-          "published_utc": "2026-10-13T08:58:41+00:00"
         }
       ],
       "news_status": "Recent headlines found"
