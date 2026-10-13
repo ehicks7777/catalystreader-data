@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:49:03.388971+00:00",
+  "updated": "2026-10-13T10:18:10.763978+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 718.67,
       "quote_timestamp": 1791835200.0,
       "quote_time_utc": "2026-10-12T20:00:00+00:00",
-      "quote_age_seconds": 49742,
+      "quote_age_seconds": 51490,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Meta has made a huge step in AI, Mark Zuckerberg says",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=cb86d416775e63c901205f3857b7c4e1a5474eae26c65789fa996b4bbec755d9",
+          "published_utc": "2026-10-13T09:27:41+00:00"
+        },
+        {
+          "headline": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a8355449c166d3a3fb70f4f78fd8edeebafc065224133f98ff47c47cd264b716",
+          "published_utc": "2026-10-13T09:00:46+00:00"
+        },
+        {
           "headline": "AMD CEO Lisa Su Sees AI Inference Boom Fueling $1.5T Demand By 2030: 'About 60% Of The Market Going Forward'",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=31a02d0f7626662553f9442b1c9134d124fe0d2d6f2986ff0d370c20800417f9",
           "published_utc": "2026-10-13T08:58:41+00:00"
-        },
-        {
-          "headline": "President Donald Trump's Investment Team Dumped AMD in August and Bought Up to $25 Million in One of the Cheapest \"Magnificent Seven\" Stocks",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e8b7f1354a34f491feacd1d0e2e94e17ebb5795c77417e7ef381d8fb83491fec",
-          "published_utc": "2026-10-13T08:26:01+00:00"
-        },
-        {
-          "headline": "People are rejoicing about the removal of Russian bots from social media \u2013\u00a0but the truth is far more complicated",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=494a10484fb5de70b1e25cf5e6e90d025655515cfadffd89e79ea6723c184e3d",
-          "published_utc": "2026-10-13T05:15:20+00:00"
         }
       ],
       "news_status": "Recent headlines found"
