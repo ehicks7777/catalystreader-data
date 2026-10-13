@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:45:27.558280+00:00",
+  "updated": "2026-10-13T00:25:45.898109+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 718.67,
       "quote_timestamp": 1791835200.0,
       "quote_time_utc": "2026-10-12T20:00:00+00:00",
-      "quote_age_seconds": 13526,
+      "quote_age_seconds": 15944,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Is It Too Late To Buy Shopify Stock?",
+          "headline": "Muse Wonder Puts Meta's Aggressive AI Push in Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7194798123a72128ef1f23eb2688ac4a3e912b934a410cd825d4d460d29be0a9",
-          "published_utc": "2026-10-12T21:38:04+00:00"
+          "url": "https://finnhub.io/api/news?id=2b8c38cf6b37e0723f74426e6debd35dac34dadd8c2d1c9d8241a910e2be5bd4",
+          "published_utc": "2026-10-12T23:27:13+00:00"
         },
         {
-          "headline": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
+          "headline": "Will Meta\u2019s Muse AI Platform Push Change Meta Platforms' (META) Core Investment Narrative?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a1bc57aec181cff351dc669ee73c0ed3171ce1e04a235c076b501a154eac16cc",
-          "published_utc": "2026-10-12T21:23:11+00:00"
+          "url": "https://finnhub.io/api/news?id=f3ab8ccf98273d2bc80fc84ee7735cbbc3240a2340b6213e7eb2cff6436d5a92",
+          "published_utc": "2026-10-12T23:23:56+00:00"
         },
         {
-          "headline": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
+          "headline": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow \u2014 META, MSFT, BMBL, CRM, SNAP In Focus",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7640625929204e2af1763dfe7765c394471896e6f5ab1a20d5e6b8900deffa75",
-          "published_utc": "2026-10-12T20:53:39+00:00"
+          "url": "https://finnhub.io/api/news?id=e6357c13960c505bb16627b06cf8522405c0157e57a8d67035aa5d3bb2dc3c19",
+          "published_utc": "2026-10-12T23:10:18+00:00"
         }
       ],
       "news_status": "Recent headlines found"
