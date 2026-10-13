@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T21:57:57.430402+00:00",
+  "updated": "2026-10-13T22:28:12.341724+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 742.96,
       "quote_timestamp": 1791921600.0,
       "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 7076,
+      "quote_age_seconds": 8891,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Google Argon Leaves the Fairwind Fence Behind. The Intro Pricing Is the Real Move.",
+          "headline": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6f602c5c38e37f45196a4db580e8e3961f643a050205dbe2c9d5fd664b35dc0c",
-          "published_utc": "2026-10-13T19:01:25+00:00"
+          "url": "https://finnhub.io/api/news?id=28a1858c5f1ece6af8b138f7dc018780fdf80aaf62e87e999f8a25e3d9334cf0",
+          "published_utc": "2026-10-13T21:49:28+00:00"
         },
         {
-          "headline": "Cathie Wood sells Meta shares after Zuckerberg's big AI launch",
+          "headline": "Stock Market Today: Dow Rallies On Bank Results; Micron, Sandisk, SK Hynix Sell Off (Live Coverage)",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=96417c6ba836a4046013236edf661fc0df1fa987f7f1e7f1c407cadb87e61801",
-          "published_utc": "2026-10-13T18:48:45+00:00"
+          "url": "https://finnhub.io/api/news?id=7d0ee787dfc6275f3170cb3f896417fe01932316ae6b58e14e38a15871ad5481",
+          "published_utc": "2026-10-13T21:03:10+00:00"
         },
         {
-          "headline": "Sizing up Meta\u2019s push into the crowded world of enterprise AI",
+          "headline": "Why the Market Dipped But Meta Platforms (META) Gained Today",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=37496a16993a12054703614a37776164d4e22e84c1ec2caa4bd4e7d9ca05f030",
-          "published_utc": "2026-10-13T18:43:22+00:00"
+          "url": "https://finnhub.io/api/news?id=f38fc41c667341cae255e717c613132d5d11c86e12029fc8cf38f6e2e1ae0a1a",
+          "published_utc": "2026-10-13T20:45:03+00:00"
         }
       ],
       "news_status": "Recent headlines found"
