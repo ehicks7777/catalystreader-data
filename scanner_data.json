@@ -1,20 +1,19 @@
 {
-  "updated": "2026-10-13T13:27:39.625571+00:00",
+  "updated": "2026-10-13T13:56:21.653189+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [
+  "day_trading": [
     {
       "symbol": "META",
-      "price": 742.96,
-      "change_percent": 3.3799,
-      "previous_close": 718.67,
-      "quote_timestamp": 1791835200.0,
-      "quote_time_utc": "2026-10-12T20:00:00+00:00",
-      "quote_age_seconds": 62858,
-      "quote_freshness": "stale",
+      "price": 768.6,
+      "change_percent": 3.4511,
+      "previous_close": 742.96,
+      "quote_timestamp": 1791899767.0,
+      "quote_time_utc": "2026-10-13T13:56:07+00:00",
+      "quote_age_seconds": 13,
+      "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
       "dollar_volume": null,
@@ -44,7 +43,46 @@
       "news_status": "Recent headlines found"
     }
   ],
-  "stale_quotes": 20,
+  "swing_trading": [
+    {
+      "symbol": "META",
+      "price": 768.6,
+      "change_percent": 3.4511,
+      "previous_close": 742.96,
+      "quote_timestamp": 1791899767.0,
+      "quote_time_utc": "2026-10-13T13:56:07+00:00",
+      "quote_age_seconds": 13,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "META Gets Bullish Call From Pivotal After Muse Wonder Launch: Why The Analyst Sees 25% Upside",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=68a6f8f4ffd37834917d4f718a08866ec8048c0afa1cb0df88b8c5947123a939",
+          "published_utc": "2026-10-13T11:26:59+00:00"
+        },
+        {
+          "headline": "The Cost of Context: StepFun\u2019s Cache-First Economics",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=ccc433330829796e542559d85a12fa403de4ad0ccb8c5de0fb760f7f25c58f2a",
+          "published_utc": "2026-10-13T11:21:27+00:00"
+        },
+        {
+          "headline": "Market Chatter: SpaceX to Testify Before NYC Council on AI Safety After Subpoena",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=463e30da92c68c4b4717e631aea78ad507a9f770a8c36751512f3cd5b53ac59f",
+          "published_utc": "2026-10-13T10:52:43+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
