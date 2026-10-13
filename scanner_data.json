@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:51:55.447012+00:00",
+  "updated": "2026-10-13T08:19:23.521161+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 718.67,
       "quote_timestamp": 1791835200.0,
       "quote_time_utc": "2026-10-12T20:00:00+00:00",
-      "quote_age_seconds": 42714,
+      "quote_age_seconds": 44362,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -35,10 +35,10 @@
           "published_utc": "2026-10-13T04:28:43+00:00"
         },
         {
-          "headline": "Why Meta (META) Stock Is Up Today",
+          "headline": "Muse Wonder Lifts Meta Stock 3.4%: Can Subscriptions Pay for Its AI Spending?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f16cbf830b07bbf9b20a7ca48f7eb32b00f157736be54697ece88fee9009c475",
-          "published_utc": "2026-10-13T01:19:03+00:00"
+          "url": "https://finnhub.io/api/news?id=617f8746a9bbb00907d60623d43c08e432b60e44f2cf7b95b3c77d5ee7a2c81d",
+          "published_utc": "2026-10-13T02:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
