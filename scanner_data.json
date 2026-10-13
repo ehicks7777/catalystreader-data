@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T13:56:21.653189+00:00",
+  "updated": "2026-10-13T14:22:26.169687+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -7,12 +7,12 @@
   "day_trading": [
     {
       "symbol": "META",
-      "price": 768.6,
-      "change_percent": 3.4511,
+      "price": 767.33,
+      "change_percent": 3.2801,
       "previous_close": 742.96,
-      "quote_timestamp": 1791899767.0,
-      "quote_time_utc": "2026-10-13T13:56:07+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1791901314.0,
+      "quote_time_utc": "2026-10-13T14:21:54+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -22,22 +22,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "META Gets Bullish Call From Pivotal After Muse Wonder Launch: Why The Analyst Sees 25% Upside",
+          "headline": "Can Muse AI Really Help Meta (META) Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68a6f8f4ffd37834917d4f718a08866ec8048c0afa1cb0df88b8c5947123a939",
-          "published_utc": "2026-10-13T11:26:59+00:00"
+          "url": "https://finnhub.io/api/news?id=b13b1571c3fc3631650853d0d324d06652be7ddd5e9a97205dccfddb5f97e0a3",
+          "published_utc": "2026-10-13T13:49:55+00:00"
         },
         {
-          "headline": "The Cost of Context: StepFun\u2019s Cache-First Economics",
+          "headline": "Meta is betting the house on AI \u2014 CFO warns the stakes are 'really bad' if it flops",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ccc433330829796e542559d85a12fa403de4ad0ccb8c5de0fb760f7f25c58f2a",
-          "published_utc": "2026-10-13T11:21:27+00:00"
+          "url": "https://finnhub.io/api/news?id=1bb48ae25ab3c2ea90deb455f587cc56c5b136fb898d7a1576c078fa500b9274",
+          "published_utc": "2026-10-13T13:34:13+00:00"
         },
         {
-          "headline": "Market Chatter: SpaceX to Testify Before NYC Council on AI Safety After Subpoena",
+          "headline": "Truist lifts Meta target to Street-high $1,000 on strong Muse adoption",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=463e30da92c68c4b4717e631aea78ad507a9f770a8c36751512f3cd5b53ac59f",
-          "published_utc": "2026-10-13T10:52:43+00:00"
+          "url": "https://finnhub.io/api/news?id=ba719463df52d8bfbbef335e3187d832e5f0f4074164f491076c666108c4c1fd",
+          "published_utc": "2026-10-13T13:27:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -46,12 +46,12 @@
   "swing_trading": [
     {
       "symbol": "META",
-      "price": 768.6,
-      "change_percent": 3.4511,
+      "price": 767.33,
+      "change_percent": 3.2801,
       "previous_close": 742.96,
-      "quote_timestamp": 1791899767.0,
-      "quote_time_utc": "2026-10-13T13:56:07+00:00",
-      "quote_age_seconds": 13,
+      "quote_timestamp": 1791901314.0,
+      "quote_time_utc": "2026-10-13T14:21:54+00:00",
+      "quote_age_seconds": 26,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -61,22 +61,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "META Gets Bullish Call From Pivotal After Muse Wonder Launch: Why The Analyst Sees 25% Upside",
+          "headline": "Can Muse AI Really Help Meta (META) Stock?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=68a6f8f4ffd37834917d4f718a08866ec8048c0afa1cb0df88b8c5947123a939",
-          "published_utc": "2026-10-13T11:26:59+00:00"
+          "url": "https://finnhub.io/api/news?id=b13b1571c3fc3631650853d0d324d06652be7ddd5e9a97205dccfddb5f97e0a3",
+          "published_utc": "2026-10-13T13:49:55+00:00"
         },
         {
-          "headline": "The Cost of Context: StepFun\u2019s Cache-First Economics",
+          "headline": "Meta is betting the house on AI \u2014 CFO warns the stakes are 'really bad' if it flops",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=ccc433330829796e542559d85a12fa403de4ad0ccb8c5de0fb760f7f25c58f2a",
-          "published_utc": "2026-10-13T11:21:27+00:00"
+          "url": "https://finnhub.io/api/news?id=1bb48ae25ab3c2ea90deb455f587cc56c5b136fb898d7a1576c078fa500b9274",
+          "published_utc": "2026-10-13T13:34:13+00:00"
         },
         {
-          "headline": "Market Chatter: SpaceX to Testify Before NYC Council on AI Safety After Subpoena",
+          "headline": "Truist lifts Meta target to Street-high $1,000 on strong Muse adoption",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=463e30da92c68c4b4717e631aea78ad507a9f770a8c36751512f3cd5b53ac59f",
-          "published_utc": "2026-10-13T10:52:43+00:00"
+          "url": "https://finnhub.io/api/news?id=ba719463df52d8bfbbef335e3187d832e5f0f4074164f491076c666108c4c1fd",
+          "published_utc": "2026-10-13T13:27:28+00:00"
         }
       ],
       "news_status": "Recent headlines found"
