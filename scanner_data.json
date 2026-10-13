@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T01:49:52.923349+00:00",
+  "updated": "2026-10-13T02:16:30.628133+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 718.67,
       "quote_timestamp": 1791835200.0,
       "quote_time_utc": "2026-10-12T20:00:00+00:00",
-      "quote_age_seconds": 20989,
+      "quote_age_seconds": 22589,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "Why Meta (META) Stock Is Up Today",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=f16cbf830b07bbf9b20a7ca48f7eb32b00f157736be54697ece88fee9009c475",
+          "published_utc": "2026-10-13T01:19:03+00:00"
+        },
+        {
+          "headline": "Alphabet vs. Meta Platforms: Which Stock Is a Better Buy in 2026?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=597e884cc638da374b580d2fd62839ae6cdf721528c4de97b02e87cd1f91dc3a",
+          "published_utc": "2026-10-13T00:31:41+00:00"
+        },
+        {
           "headline": "Muse Wonder Puts Meta's Aggressive AI Push in Focus",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=2b8c38cf6b37e0723f74426e6debd35dac34dadd8c2d1c9d8241a910e2be5bd4",
           "published_utc": "2026-10-12T23:27:13+00:00"
-        },
-        {
-          "headline": "Will Meta\u2019s Muse AI Platform Push Change Meta Platforms' (META) Core Investment Narrative?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f3ab8ccf98273d2bc80fc84ee7735cbbc3240a2340b6213e7eb2cff6436d5a92",
-          "published_utc": "2026-10-12T23:23:56+00:00"
-        },
-        {
-          "headline": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow \u2014 META, MSFT, BMBL, CRM, SNAP In Focus",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=e6357c13960c505bb16627b06cf8522405c0157e57a8d67035aa5d3bb2dc3c19",
-          "published_utc": "2026-10-12T23:10:18+00:00"
         }
       ],
       "news_status": "Recent headlines found"
