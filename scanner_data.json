@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T12:00:03.069645+00:00",
+  "updated": "2026-10-14T12:41:11.506198+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 742.96,
       "quote_timestamp": 1791921600.0,
       "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 57601,
+      "quote_age_seconds": 60070,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Dow Jones Futures Rise With Meta, AMD In Buy Areas; ASML Earnings Mixed, CPI Inflation Due",
+          "headline": "Dow Jones Futures Rise, Techs Fall With ASML, BofA, Dell, HPE Early Movers; CPI Inflation Due",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=16fe8c80e416684d20688e6cdbef46696b2794b1e50a04e962bf1254b85b0226",
-          "published_utc": "2026-10-14T09:54:55+00:00"
+          "url": "https://finnhub.io/api/news?id=29d32ca512a627743b4d5f03423c05375179d4856fe00b0cc9e7e6ddefc79e7a",
+          "published_utc": "2026-10-14T11:56:39+00:00"
         },
         {
-          "headline": "Meta Critical Minerals Appoints West Point Senior Advisor John Melkon to Strategic Advisory Board",
+          "headline": "Is AMD Even a Real Threat to Nvidia or Just a Pricing Lever?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=258275232d3b9b933f3a70002757d9338aaa6d4481f2b6f2a1ffd258ad039613",
-          "published_utc": "2026-10-14T09:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=2c551b6be517a9221f191f61f76b65868b5f6655849b4dfabf202ce978775331",
+          "published_utc": "2026-10-14T11:15:58+00:00"
         },
         {
-          "headline": "1 Software Stock Worth Investigating and 2 We Turn Down",
+          "headline": "Meta Is Back in the AI Race. Muse Wonder Just Ranked #2 for Accounting, According to DualEntry Accounting AI Benchmark",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbb8df5d89d25ccaafe131fa770da5ebe4c5e00ef66557e37160d1415a0a0947",
-          "published_utc": "2026-10-14T08:58:47+00:00"
+          "url": "https://finnhub.io/api/news?id=6278e22c30b3d0c373ba8258b0f4face1c814baa1b006f84924c944762221ecb",
+          "published_utc": "2026-10-14T11:03:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
