@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T05:59:17.376078+00:00",
+  "updated": "2026-10-14T06:39:42.030822+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 742.96,
       "quote_timestamp": 1791921600.0,
       "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 35955,
+      "quote_age_seconds": 38381,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Alphabet vs. Meta Platforms: Here's What Revenue Trends Tell Investors About These Media Giants Turned Artificial Intelligence Companies",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4b0f2c14dbf314d0c44107fa7cab165364a9c6030431fafbb9328d5b9096471b",
+          "published_utc": "2026-10-14T05:24:49+00:00"
+        },
         {
           "headline": "MIT dropout\u2019s two startups announce shutdown weeks apart",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=79511163cac5e104f71c0e982a149c0e835dd2aab06cdc032fc1c312c342dc54",
           "published_utc": "2026-10-14T02:13:58+00:00"
-        },
-        {
-          "headline": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=06259daa8c151882c5e4e07bc8de9c5407fcee4a3ddae08331510c2640ac4466",
-          "published_utc": "2026-10-13T23:40:48+00:00"
         }
       ],
       "news_status": "Recent headlines found"
