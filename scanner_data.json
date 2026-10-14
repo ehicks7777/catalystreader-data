@@ -1,50 +1,12 @@
 {
-  "updated": "2026-10-14T12:41:11.506198+00:00",
+  "updated": "2026-10-14T13:33:53.667197+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "META",
-      "price": 762.5,
-      "change_percent": 2.63,
-      "previous_close": 742.96,
-      "quote_timestamp": 1791921600.0,
-      "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 60070,
-      "quote_freshness": "stale",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Dow Jones Futures Rise, Techs Fall With ASML, BofA, Dell, HPE Early Movers; CPI Inflation Due",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=29d32ca512a627743b4d5f03423c05375179d4856fe00b0cc9e7e6ddefc79e7a",
-          "published_utc": "2026-10-14T11:56:39+00:00"
-        },
-        {
-          "headline": "Is AMD Even a Real Threat to Nvidia or Just a Pricing Lever?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=2c551b6be517a9221f191f61f76b65868b5f6655849b4dfabf202ce978775331",
-          "published_utc": "2026-10-14T11:15:58+00:00"
-        },
-        {
-          "headline": "Meta Is Back in the AI Race. Muse Wonder Just Ranked #2 for Accounting, According to DualEntry Accounting AI Benchmark",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=6278e22c30b3d0c373ba8258b0f4face1c814baa1b006f84924c944762221ecb",
-          "published_utc": "2026-10-14T11:03:00+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
-  "stale_quotes": 20,
+  "swing_trading": [],
+  "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
   "note": "Research only. Day candidates require quotes no older than 15 minutes; not a live-feed guarantee. Swing candidates can contain stale quotes. News is not verified as a catalyst. Volume, RVOL and extended-hours data unavailable. No trade signals."
