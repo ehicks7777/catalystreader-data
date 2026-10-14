@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T10:02:40.747787+00:00",
+  "updated": "2026-10-14T11:00:37.328331+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 742.96,
       "quote_timestamp": 1791921600.0,
       "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 50559,
+      "quote_age_seconds": 54036,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Alphabet vs. Meta Platforms: Here's What Revenue Trends Tell Investors About These Media Giants Turned Artificial Intelligence Companies",
+          "headline": "Dow Jones Futures Rise With Meta, AMD In Buy Areas; ASML Earnings Mixed, CPI Inflation Due",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b0f2c14dbf314d0c44107fa7cab165364a9c6030431fafbb9328d5b9096471b",
-          "published_utc": "2026-10-14T05:24:49+00:00"
+          "url": "https://finnhub.io/api/news?id=16fe8c80e416684d20688e6cdbef46696b2794b1e50a04e962bf1254b85b0226",
+          "published_utc": "2026-10-14T09:54:55+00:00"
         },
         {
-          "headline": "QQA Vs. QQQI: One For Total Return, One For Retirement Income",
-          "source": "SeekingAlpha",
-          "url": "https://finnhub.io/api/news?id=1d57bea2bc46f467626ddb09cc276dfbfba7412f3fc344aa76fd87f060f7370f",
-          "published_utc": "2026-10-14T03:14:20+00:00"
+          "headline": "Meta Critical Minerals Appoints West Point Senior Advisor John Melkon to Strategic Advisory Board",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=258275232d3b9b933f3a70002757d9338aaa6d4481f2b6f2a1ffd258ad039613",
+          "published_utc": "2026-10-14T09:00:00+00:00"
         },
         {
-          "headline": "MIT dropout\u2019s two startups announce shutdown weeks apart",
+          "headline": "1 Software Stock Worth Investigating and 2 We Turn Down",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8dc4f87fba8bb288425b10da20ce0a159a14f43c7c19f6f6a50193e1a6f99d58",
-          "published_utc": "2026-10-14T02:30:00+00:00"
+          "url": "https://finnhub.io/api/news?id=fbb8df5d89d25ccaafe131fa770da5ebe4c5e00ef66557e37160d1415a0a0947",
+          "published_utc": "2026-10-14T08:58:47+00:00"
         }
       ],
       "news_status": "Recent headlines found"
