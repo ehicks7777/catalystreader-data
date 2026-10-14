@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T06:39:42.030822+00:00",
+  "updated": "2026-10-14T07:36:53.422688+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 742.96,
       "quote_timestamp": 1791921600.0,
       "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 38381,
+      "quote_age_seconds": 41812,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -29,16 +29,16 @@
           "published_utc": "2026-10-14T05:24:49+00:00"
         },
         {
+          "headline": "QQA Vs. QQQI: One For Total Return, One For Retirement Income",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=1d57bea2bc46f467626ddb09cc276dfbfba7412f3fc344aa76fd87f060f7370f",
+          "published_utc": "2026-10-14T03:14:20+00:00"
+        },
+        {
           "headline": "MIT dropout\u2019s two startups announce shutdown weeks apart",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=8dc4f87fba8bb288425b10da20ce0a159a14f43c7c19f6f6a50193e1a6f99d58",
           "published_utc": "2026-10-14T02:30:00+00:00"
-        },
-        {
-          "headline": "Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=79511163cac5e104f71c0e982a149c0e835dd2aab06cdc032fc1c312c342dc54",
-          "published_utc": "2026-10-14T02:13:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
