@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:01:26.053591+00:00",
+  "updated": "2026-10-14T02:58:27.422316+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 742.96,
       "quote_timestamp": 1791921600.0,
       "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 21684,
+      "quote_age_seconds": 25106,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=79511163cac5e104f71c0e982a149c0e835dd2aab06cdc032fc1c312c342dc54",
+          "published_utc": "2026-10-14T02:13:58+00:00"
+        },
         {
           "headline": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=c1606c81e617f5e7a0366c22aa23e6277573e080c50ffe48040b1882b57a3d4d",
           "published_utc": "2026-10-13T22:41:06+00:00"
-        },
-        {
-          "headline": "Franklin Templeton CEO says AI is hiding a bigger tech story",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d7ed3bee94c38a60709d4e669c0ec386c32df9defc21054c492309d8c002a485",
-          "published_utc": "2026-10-13T22:33:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
