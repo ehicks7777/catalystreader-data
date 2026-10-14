@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:54:44.257233+00:00",
+  "updated": "2026-10-14T00:32:21.824508+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 742.96,
       "quote_timestamp": 1791921600.0,
       "quote_time_utc": "2026-10-13T20:00:00+00:00",
-      "quote_age_seconds": 14083,
+      "quote_age_seconds": 16340,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
+          "headline": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=28a1858c5f1ece6af8b138f7dc018780fdf80aaf62e87e999f8a25e3d9334cf0",
-          "published_utc": "2026-10-13T21:49:28+00:00"
+          "url": "https://finnhub.io/api/news?id=06259daa8c151882c5e4e07bc8de9c5407fcee4a3ddae08331510c2640ac4466",
+          "published_utc": "2026-10-13T23:40:48+00:00"
         },
         {
-          "headline": "Stock Market Today: Dow Rallies On Bank Results; Micron, Sandisk, SK Hynix Sell Off (Live Coverage)",
+          "headline": "Aptos ends four-year token unlocks as monthly releases drop 60%",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7d0ee787dfc6275f3170cb3f896417fe01932316ae6b58e14e38a15871ad5481",
-          "published_utc": "2026-10-13T21:03:10+00:00"
+          "url": "https://finnhub.io/api/news?id=c1606c81e617f5e7a0366c22aa23e6277573e080c50ffe48040b1882b57a3d4d",
+          "published_utc": "2026-10-13T22:41:06+00:00"
         },
         {
-          "headline": "Why the Market Dipped But Meta Platforms (META) Gained Today",
+          "headline": "Franklin Templeton CEO says AI is hiding a bigger tech story",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f38fc41c667341cae255e717c613132d5d11c86e12029fc8cf38f6e2e1ae0a1a",
-          "published_utc": "2026-10-13T20:45:03+00:00"
+          "url": "https://finnhub.io/api/news?id=d7ed3bee94c38a60709d4e669c0ec386c32df9defc21054c492309d8c002a485",
+          "published_utc": "2026-10-13T22:33:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
