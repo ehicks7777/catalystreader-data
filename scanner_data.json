@@ -1,11 +1,198 @@
 {
-  "updated": "2026-10-15T14:29:53.297048+00:00",
+  "updated": "2026-10-15T15:08:12.532095+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
-  "day_trading": [],
-  "swing_trading": [],
+  "day_trading": [
+    {
+      "symbol": "SOUN",
+      "price": 4.69,
+      "change_percent": 3.532,
+      "previous_close": 4.53,
+      "quote_timestamp": 1792076870.0,
+      "quote_time_utc": "2026-10-15T15:07:50+00:00",
+      "quote_age_seconds": 21,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=858b892199f2a0561109d46e71bda1ea37c6644dd389cfc26fef83d3ddc4646a",
+          "published_utc": "2026-10-14T20:45:03+00:00"
+        },
+        {
+          "headline": "Upstart, SoundHound AI, and Fastly Stocks Trade Down, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7c6e6ff12e5120bcb534669ebab8cffd01905a0342fda8ba7ed6801efcf4f89",
+          "published_utc": "2026-10-14T18:28:07+00:00"
+        },
+        {
+          "headline": "SoundHound AI (SOUN), Why Is It Getting Attention Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=987303fa8a75d942a4719e1cbb104de114385db3c5a53ffb5d573816b6825cae",
+          "published_utc": "2026-10-14T18:12:14+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
+  "swing_trading": [
+    {
+      "symbol": "SOUN",
+      "price": 4.69,
+      "change_percent": 3.532,
+      "previous_close": 4.53,
+      "quote_timestamp": 1792076870.0,
+      "quote_time_utc": "2026-10-15T15:07:50+00:00",
+      "quote_age_seconds": 21,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=858b892199f2a0561109d46e71bda1ea37c6644dd389cfc26fef83d3ddc4646a",
+          "published_utc": "2026-10-14T20:45:03+00:00"
+        },
+        {
+          "headline": "Upstart, SoundHound AI, and Fastly Stocks Trade Down, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7c6e6ff12e5120bcb534669ebab8cffd01905a0342fda8ba7ed6801efcf4f89",
+          "published_utc": "2026-10-14T18:28:07+00:00"
+        },
+        {
+          "headline": "SoundHound AI (SOUN), Why Is It Getting Attention Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=987303fa8a75d942a4719e1cbb104de114385db3c5a53ffb5d573816b6825cae",
+          "published_utc": "2026-10-14T18:12:14+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "IONQ",
+      "price": 32.32,
+      "change_percent": 2.8644,
+      "previous_close": 31.42,
+      "quote_timestamp": 1792076871.0,
+      "quote_time_utc": "2026-10-15T15:07:51+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
+          "published_utc": "2026-10-15T12:36:35+00:00"
+        },
+        {
+          "headline": "Does IonQ's $2 Billion Stock Sale Materially Alter Its Cash Outlook?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=4b9c6208d910deeed4c4f9a891b55e1a279c8a0c045b082f68f8c70266badb8a",
+          "published_utc": "2026-10-15T12:28:18+00:00"
+        },
+        {
+          "headline": "IonQ and the University of Cambridge Open the IonQ Quantum Innovation Centre at Cavendish Laboratory's Ray Dolby Centre",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=92f47eb30e9a6a42307eb7c395c9cb61f157fd790426d8780acc54f883cee16f",
+          "published_utc": "2026-10-15T12:00:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 11.94,
+      "change_percent": 2.226,
+      "previous_close": 11.68,
+      "quote_timestamp": 1792076871.0,
+      "quote_time_utc": "2026-10-15T15:07:51+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Should You Trim Or Add To Your RGTI Stock Position Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1da0993b6e36277c0cb8a278d7a9b075ab65990b1d780bd1e68807e9a86135c9",
+          "published_utc": "2026-10-15T13:00:10+00:00"
+        },
+        {
+          "headline": "How Much Downside Is Left In QBTS Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbe11ef3cd8569dae2386087f5e1027866a2adc553c59a4fd3474403e9404b7",
+          "published_utc": "2026-10-15T12:38:45+00:00"
+        },
+        {
+          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
+          "published_utc": "2026-10-15T12:36:35+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "SOFI",
+      "price": 14.51,
+      "change_percent": 2.0394,
+      "previous_close": 14.22,
+      "quote_timestamp": 1792076871.0,
+      "quote_time_utc": "2026-10-15T15:07:51+00:00",
+      "quote_age_seconds": 20,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Peter Schiff Warns Trump\u2019s \u2018Booming\u2019 Stock Market Boast Is a Mirage: 479 Stocks Hit 52-Week Lows on Wednesday, While Only 60 Set Highs",
+          "source": "Benzinga",
+          "url": "https://finnhub.io/api/news?id=ac37bb01dbb5658e534eb3da82467918d00121e28c95b1ea2039e81f2062837f",
+          "published_utc": "2026-10-15T05:52:58+00:00"
+        },
+        {
+          "headline": "Why Did SOFI, PLUG, ASTS Stocks Plunge To 52-Week Lows?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=8c5608454eddda123062f43902a23d4967da8dbdf1ba3b46bff78b627d81b9b5",
+          "published_utc": "2026-10-15T04:26:08+00:00"
+        },
+        {
+          "headline": "Stock Market Today, Oct. 14: SoFi Technologies Falls on Banking Weakness",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1f276b1cf9e0eed02163ee1cbb3d4f671da8c99edcbd0b026d2a645f07f74a44",
+          "published_utc": "2026-10-14T21:58:17+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    }
+  ],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
