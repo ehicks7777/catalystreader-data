@@ -1,18 +1,55 @@
 {
-  "updated": "2026-10-15T17:58:19.166627+00:00",
+  "updated": "2026-10-15T18:35:16.507954+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [
     {
+      "symbol": "COIN",
+      "price": 181.02,
+      "change_percent": 4.7024,
+      "previous_close": 172.89,
+      "quote_timestamp": 1792089292.0,
+      "quote_time_utc": "2026-10-15T18:34:52+00:00",
+      "quote_age_seconds": 23,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Struggling Coinbase Stock May Be Ready For This Options Trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=46264e77672184f68a8425e0e3d5a2a3d9ee8c4231bda46878963af43fc8adc7",
+          "published_utc": "2026-10-15T17:35:56+00:00"
+        },
+        {
+          "headline": "Coinbase Global Stock Drops 24% YTD: Time to Buy the Dip?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38da04cefcaeb17ca88f11c02f488109e2bf975541ed47a2d2c8bf53dfab10b3",
+          "published_utc": "2026-10-15T15:18:00+00:00"
+        },
+        {
+          "headline": "SEC Approves HOOD-Linked KPI Contracts: A New Growth Avenue Unlocked?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01d84e26b9719159c1745978a317b7182356727c7a3c25bedffbc86704ff9f02",
+          "published_utc": "2026-10-15T15:13:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "IONQ",
-      "price": 33.28,
-      "change_percent": 5.9198,
+      "price": 32.78,
+      "change_percent": 4.3285,
       "previous_close": 31.42,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -43,50 +80,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "COIN",
-      "price": 181.14,
-      "change_percent": 4.7718,
-      "previous_close": 172.89,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Why OKX And NYSE Are Going All-In on 24/7 Stock Trading",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fcd3866d9c36a7e36c4fb54c200ddee3d5b497e62ec7e66ca3493ca442049f3e",
-          "published_utc": "2026-10-15T15:10:00+00:00"
-        },
-        {
-          "headline": "Robinhood, Cboe Expand Prediction Market Offerings After SEC Win",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a4e87b0dbfda97d97ed9d3bff5f86986277d693b933aa6bb862f0a91bce0b7c",
-          "published_utc": "2026-10-15T14:51:54+00:00"
-        },
-        {
-          "headline": "SEC Approves Binary Options on Coinbase and MARA Metrics, but Not a Bet on Bitcoin\u2019s Price",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1611f11b43b2f18fb5159bb8100c6bfd4317c03beb432f27a8d9be5731610d8d",
-          "published_utc": "2026-10-15T13:27:12+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "MSTR",
-      "price": 149.47,
-      "change_percent": 4.3493,
+      "price": 149.29,
+      "change_percent": 4.2237,
       "previous_close": 143.24,
-      "quote_timestamp": 1792087084.0,
-      "quote_time_utc": "2026-10-15T17:58:04+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -117,87 +117,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "SOUN",
-      "price": 4.72,
-      "change_percent": 4.1943,
-      "previous_close": 4.53,
-      "quote_timestamp": 1792087083.0,
-      "quote_time_utc": "2026-10-15T17:58:03+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=858b892199f2a0561109d46e71bda1ea37c6644dd389cfc26fef83d3ddc4646a",
-          "published_utc": "2026-10-14T20:45:03+00:00"
-        },
-        {
-          "headline": "Upstart, SoundHound AI, and Fastly Stocks Trade Down, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7c6e6ff12e5120bcb534669ebab8cffd01905a0342fda8ba7ed6801efcf4f89",
-          "published_utc": "2026-10-14T18:28:07+00:00"
-        },
-        {
-          "headline": "SoundHound AI (SOUN), Why Is It Getting Attention Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=987303fa8a75d942a4719e1cbb104de114385db3c5a53ffb5d573816b6825cae",
-          "published_utc": "2026-10-14T18:12:14+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 12.16,
-      "change_percent": 4.1096,
-      "previous_close": 11.68,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Should You Trim Or Add To Your RGTI Stock Position Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1da0993b6e36277c0cb8a278d7a9b075ab65990b1d780bd1e68807e9a86135c9",
-          "published_utc": "2026-10-15T13:00:10+00:00"
-        },
-        {
-          "headline": "How Much Downside Is Left In QBTS Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dcbe11ef3cd8569dae2386087f5e1027866a2adc553c59a4fd3474403e9404b7",
-          "published_utc": "2026-10-15T12:38:45+00:00"
-        },
-        {
-          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
-          "published_utc": "2026-10-15T12:36:35+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SOFI",
-      "price": 14.77,
-      "change_percent": 3.8678,
+      "price": 14.82,
+      "change_percent": 4.2194,
       "previous_close": 14.22,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1792089290.0,
+      "quote_time_utc": "2026-10-15T18:34:50+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -228,13 +154,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "SOUN",
+      "price": 4.72,
+      "change_percent": 4.1943,
+      "previous_close": 4.53,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=858b892199f2a0561109d46e71bda1ea37c6644dd389cfc26fef83d3ddc4646a",
+          "published_utc": "2026-10-14T20:45:03+00:00"
+        },
+        {
+          "headline": "Upstart, SoundHound AI, and Fastly Stocks Trade Down, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7c6e6ff12e5120bcb534669ebab8cffd01905a0342fda8ba7ed6801efcf4f89",
+          "published_utc": "2026-10-14T18:28:07+00:00"
+        },
+        {
+          "headline": "SoundHound AI (SOUN), Why Is It Getting Attention Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=987303fa8a75d942a4719e1cbb104de114385db3c5a53ffb5d573816b6825cae",
+          "published_utc": "2026-10-14T18:12:14+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "ASTS",
-      "price": 43.76,
-      "change_percent": 3.8443,
+      "price": 43.77,
+      "change_percent": 3.8681,
       "previous_close": 42.14,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -260,6 +223,43 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=ac37bb01dbb5658e534eb3da82467918d00121e28c95b1ea2039e81f2062837f",
           "published_utc": "2026-10-15T05:52:58+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 12.08,
+      "change_percent": 3.4247,
+      "previous_close": 11.68,
+      "quote_timestamp": 1792089292.0,
+      "quote_time_utc": "2026-10-15T18:34:52+00:00",
+      "quote_age_seconds": 23,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Should You Trim Or Add To Your RGTI Stock Position Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1da0993b6e36277c0cb8a278d7a9b075ab65990b1d780bd1e68807e9a86135c9",
+          "published_utc": "2026-10-15T13:00:10+00:00"
+        },
+        {
+          "headline": "How Much Downside Is Left In QBTS Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbe11ef3cd8569dae2386087f5e1027866a2adc553c59a4fd3474403e9404b7",
+          "published_utc": "2026-10-15T12:38:45+00:00"
+        },
+        {
+          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
+          "published_utc": "2026-10-15T12:36:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -267,13 +267,50 @@
   ],
   "swing_trading": [
     {
+      "symbol": "COIN",
+      "price": 181.02,
+      "change_percent": 4.7024,
+      "previous_close": 172.89,
+      "quote_timestamp": 1792089292.0,
+      "quote_time_utc": "2026-10-15T18:34:52+00:00",
+      "quote_age_seconds": 23,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Struggling Coinbase Stock May Be Ready For This Options Trade",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=46264e77672184f68a8425e0e3d5a2a3d9ee8c4231bda46878963af43fc8adc7",
+          "published_utc": "2026-10-15T17:35:56+00:00"
+        },
+        {
+          "headline": "Coinbase Global Stock Drops 24% YTD: Time to Buy the Dip?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=38da04cefcaeb17ca88f11c02f488109e2bf975541ed47a2d2c8bf53dfab10b3",
+          "published_utc": "2026-10-15T15:18:00+00:00"
+        },
+        {
+          "headline": "SEC Approves HOOD-Linked KPI Contracts: A New Growth Avenue Unlocked?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=01d84e26b9719159c1745978a317b7182356727c7a3c25bedffbc86704ff9f02",
+          "published_utc": "2026-10-15T15:13:00+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "IONQ",
-      "price": 33.28,
-      "change_percent": 5.9198,
+      "price": 32.78,
+      "change_percent": 4.3285,
       "previous_close": 31.42,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -304,50 +341,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "COIN",
-      "price": 181.14,
-      "change_percent": 4.7718,
-      "previous_close": 172.89,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Why OKX And NYSE Are Going All-In on 24/7 Stock Trading",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fcd3866d9c36a7e36c4fb54c200ddee3d5b497e62ec7e66ca3493ca442049f3e",
-          "published_utc": "2026-10-15T15:10:00+00:00"
-        },
-        {
-          "headline": "Robinhood, Cboe Expand Prediction Market Offerings After SEC Win",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=0a4e87b0dbfda97d97ed9d3bff5f86986277d693b933aa6bb862f0a91bce0b7c",
-          "published_utc": "2026-10-15T14:51:54+00:00"
-        },
-        {
-          "headline": "SEC Approves Binary Options on Coinbase and MARA Metrics, but Not a Bet on Bitcoin\u2019s Price",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1611f11b43b2f18fb5159bb8100c6bfd4317c03beb432f27a8d9be5731610d8d",
-          "published_utc": "2026-10-15T13:27:12+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "MSTR",
-      "price": 149.47,
-      "change_percent": 4.3493,
+      "price": 149.29,
+      "change_percent": 4.2237,
       "previous_close": 143.24,
-      "quote_timestamp": 1792087084.0,
-      "quote_time_utc": "2026-10-15T17:58:04+00:00",
-      "quote_age_seconds": 12,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -378,87 +378,13 @@
       "news_status": "Recent headlines found"
     },
     {
-      "symbol": "SOUN",
-      "price": 4.72,
-      "change_percent": 4.1943,
-      "previous_close": 4.53,
-      "quote_timestamp": 1792087083.0,
-      "quote_time_utc": "2026-10-15T17:58:03+00:00",
-      "quote_age_seconds": 13,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=858b892199f2a0561109d46e71bda1ea37c6644dd389cfc26fef83d3ddc4646a",
-          "published_utc": "2026-10-14T20:45:03+00:00"
-        },
-        {
-          "headline": "Upstart, SoundHound AI, and Fastly Stocks Trade Down, What You Need To Know",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=c7c6e6ff12e5120bcb534669ebab8cffd01905a0342fda8ba7ed6801efcf4f89",
-          "published_utc": "2026-10-14T18:28:07+00:00"
-        },
-        {
-          "headline": "SoundHound AI (SOUN), Why Is It Getting Attention Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=987303fa8a75d942a4719e1cbb104de114385db3c5a53ffb5d573816b6825cae",
-          "published_utc": "2026-10-14T18:12:14+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
-      "symbol": "RGTI",
-      "price": 12.16,
-      "change_percent": 4.1096,
-      "previous_close": 11.68,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Should You Trim Or Add To Your RGTI Stock Position Now?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1da0993b6e36277c0cb8a278d7a9b075ab65990b1d780bd1e68807e9a86135c9",
-          "published_utc": "2026-10-15T13:00:10+00:00"
-        },
-        {
-          "headline": "How Much Downside Is Left In QBTS Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dcbe11ef3cd8569dae2386087f5e1027866a2adc553c59a4fd3474403e9404b7",
-          "published_utc": "2026-10-15T12:38:45+00:00"
-        },
-        {
-          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
-          "published_utc": "2026-10-15T12:36:35+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    },
-    {
       "symbol": "SOFI",
-      "price": 14.77,
-      "change_percent": 3.8678,
+      "price": 14.82,
+      "change_percent": 4.2194,
       "previous_close": 14.22,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1792089290.0,
+      "quote_time_utc": "2026-10-15T18:34:50+00:00",
+      "quote_age_seconds": 25,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -489,13 +415,50 @@
       "news_status": "Recent headlines found"
     },
     {
+      "symbol": "SOUN",
+      "price": 4.72,
+      "change_percent": 4.1943,
+      "previous_close": 4.53,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "SoundHound AI, Inc. (SOUN) Dips More Than Broader Market: What You Should Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=858b892199f2a0561109d46e71bda1ea37c6644dd389cfc26fef83d3ddc4646a",
+          "published_utc": "2026-10-14T20:45:03+00:00"
+        },
+        {
+          "headline": "Upstart, SoundHound AI, and Fastly Stocks Trade Down, What You Need To Know",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=c7c6e6ff12e5120bcb534669ebab8cffd01905a0342fda8ba7ed6801efcf4f89",
+          "published_utc": "2026-10-14T18:28:07+00:00"
+        },
+        {
+          "headline": "SoundHound AI (SOUN), Why Is It Getting Attention Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=987303fa8a75d942a4719e1cbb104de114385db3c5a53ffb5d573816b6825cae",
+          "published_utc": "2026-10-14T18:12:14+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
       "symbol": "ASTS",
-      "price": 43.76,
-      "change_percent": 3.8443,
+      "price": 43.77,
+      "change_percent": 3.8681,
       "previous_close": 42.14,
-      "quote_timestamp": 1792087085.0,
-      "quote_time_utc": "2026-10-15T17:58:05+00:00",
-      "quote_age_seconds": 11,
+      "quote_timestamp": 1792089291.0,
+      "quote_time_utc": "2026-10-15T18:34:51+00:00",
+      "quote_age_seconds": 24,
       "quote_freshness": "fresh",
       "volume": null,
       "relative_volume": null,
@@ -521,6 +484,43 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=ac37bb01dbb5658e534eb3da82467918d00121e28c95b1ea2039e81f2062837f",
           "published_utc": "2026-10-15T05:52:58+00:00"
+        }
+      ],
+      "news_status": "Recent headlines found"
+    },
+    {
+      "symbol": "RGTI",
+      "price": 12.08,
+      "change_percent": 3.4247,
+      "previous_close": 11.68,
+      "quote_timestamp": 1792089292.0,
+      "quote_time_utc": "2026-10-15T18:34:52+00:00",
+      "quote_age_seconds": 23,
+      "quote_freshness": "fresh",
+      "volume": null,
+      "relative_volume": null,
+      "dollar_volume": null,
+      "volume_status": "Unavailable: verified volume feed not connected",
+      "after_hours_price": null,
+      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
+      "news": [
+        {
+          "headline": "Should You Trim Or Add To Your RGTI Stock Position Now?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=1da0993b6e36277c0cb8a278d7a9b075ab65990b1d780bd1e68807e9a86135c9",
+          "published_utc": "2026-10-15T13:00:10+00:00"
+        },
+        {
+          "headline": "How Much Downside Is Left In QBTS Stock?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=dcbe11ef3cd8569dae2386087f5e1027866a2adc553c59a4fd3474403e9404b7",
+          "published_utc": "2026-10-15T12:38:45+00:00"
+        },
+        {
+          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
+          "source": "ChartMill",
+          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
+          "published_utc": "2026-10-15T12:36:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
