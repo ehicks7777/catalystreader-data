@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:58:59.322110+00:00",
+  "updated": "2026-10-15T22:30:15.770120+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -207,6 +207,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Strategy CEO sees a historic Bitcoin banking boom coming. Here's what's driving it",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=7cb1f7e83146f6851bfbec1b0663f7c76556dbbf8b5a95c82737e90148cd5e2b",
+          "published_utc": "2026-10-15T21:30:00+00:00"
+        },
         {
           "headline": "Bitcoin Is Due North, Says James Thorne\u2014Investment Strategist Says 'We're Early....We're Going to Embrace It'",
           "source": "Benzinga",
@@ -218,12 +224,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=68d25546c7cc833d8e0fb1940cdc189a5a30e8abc976c7af3556fb0a58e599ff",
           "published_utc": "2026-10-14T22:02:34+00:00"
-        },
-        {
-          "headline": "Barclays Analyst Resets Strategy Stock Price Target. How to Play MSTR Here.",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=9bb610a55c3bc2668be62a7be11711c10d8cc7047cccf480539ca1d69f86522c",
-          "published_utc": "2026-10-14T21:47:36+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 7138,
+      "quote_age_seconds": 9014,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
