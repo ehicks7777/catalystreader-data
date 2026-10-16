@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:59:12.318859+00:00",
+  "updated": "2026-10-16T12:39:39.015226+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -133,6 +133,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Toncoin Sends Delayed on Coinbase: Is the TON Network Down?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d8127b565b90282c64a23023bb802415b3a0119b9b58a8be6b125a10678af073",
+          "published_utc": "2026-10-16T09:30:46+00:00"
+        },
         {
           "headline": "473 Million XRP in Play: Evernorth Names Ripple, Coinbase, Kraken and BitGo as Institutional Partners",
           "source": "Yahoo",
@@ -144,12 +150,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=96182e855063442312059e496b301beb7e98950eb422ea04db3c562816d8e4c4",
           "published_utc": "2026-10-16T07:14:26+00:00"
-        },
-        {
-          "headline": "Popular social network gets its second owner this year",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=87dac06fa2ba490353dc7e41f3d062c439137683a1f5a1d31cfb99eb56c0b1d2",
-          "published_utc": "2026-10-15T23:48:08+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -208,22 +208,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "MicroStrategy Could Be Removed From Major Global Stock Indexes",
+          "headline": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=fbc91e4b4fee031d141baa237ae7b64705971822837974e968571fd39400bd7c",
-          "published_utc": "2026-10-15T23:08:51+00:00"
+          "url": "https://finnhub.io/api/news?id=66efda7912ce05c2f029c9f4f2aac4f712d340766de5904755098e34bdfa71cd",
+          "published_utc": "2026-10-16T11:46:54+00:00"
         },
         {
-          "headline": "Strategy CEO sees a historic Bitcoin banking boom coming. Here's what's driving it",
+          "headline": "Strategy Stock Sinks as Index Exclusion May Outweigh Bitcoin Prices",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7cb1f7e83146f6851bfbec1b0663f7c76556dbbf8b5a95c82737e90148cd5e2b",
-          "published_utc": "2026-10-15T21:30:00+00:00"
+          "url": "https://finnhub.io/api/news?id=d633fa8c5899cf3d2ea64070bd8cf1e8ad1502bf24618d9505692dbaa8645954",
+          "published_utc": "2026-10-16T11:04:00+00:00"
         },
         {
-          "headline": "Bitcoin Is Due North, Says James Thorne\u2014Investment Strategist Says 'We're Early....We're Going to Embrace It'",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=39a136e9a36aa04952ed0234646370ed12415597fdbc9628b8495aa845d5c99f",
-          "published_utc": "2026-10-15T03:16:20+00:00"
+          "headline": "Strategy Shares Fall 3% as MSCI Introduces Index Eligibility Rules That Could Lead to Removal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=2c35aa007dec3e3c82eb16a549bff1ff452683a54034eb50eae34d111112691c",
+          "published_utc": "2026-10-16T10:53:57+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -282,22 +282,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "You Can Now Stake Ethereum Through Interactive Brokers. Does That Give ETH an Edge Over Bitcoin?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fbcd222a844d28294e6ded33c0b772d042f90fc970cfa5c198cb993e483637ed",
+          "published_utc": "2026-10-16T11:30:38+00:00"
+        },
+        {
+          "headline": "Arbitrum pitches European banks as WisdomTree touts network\u2019s revenue model",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d2d23a1fa01091d3db21d3ca2eb9978e825fe77171d8f539df661d748f9526e0",
+          "published_utc": "2026-10-16T11:20:03+00:00"
+        },
+        {
           "headline": "AMC Stock Eyes Second Green Week: CEO Adam Aron Calls Robinhood's Stock Tokenization \u2018Fake, Synthetic\u2019 Ahead Of Earnings \u2014 \u2018Could Impact Our Capital Structure\u2019",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=e3b65c7687d2de69fea06ee51e8967dc6083dabe594f827cd542d76fde9e288c",
           "published_utc": "2026-10-16T05:58:47+00:00"
-        },
-        {
-          "headline": "Supreme Court Has 'Very Good Chance' of Taking Kalshi Legal Fight, Former CFTC Counsel Says",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=3c8def0a5a6ede5d665880624a02dbe90ebe13ba3e7ce8273e09c97201184bc9",
-          "published_utc": "2026-10-15T18:44:23+00:00"
-        },
-        {
-          "headline": "MSCI Set to Report Q3 Earnings: What's in Store for the Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=7f340343b3571f30947827c2c5ffdfd120aad8c88e1be9adbacc3dbabeb2b054",
-          "published_utc": "2026-10-15T16:30:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 57551,
+      "quote_age_seconds": 59977,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
