@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:00:26.730818+00:00",
+  "updated": "2026-10-16T11:59:12.318859+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -170,6 +170,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Why Did CRWV, OPEN, SOFI Stocks Tumble To 52-Week Lows Today?",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=a555bc08ba49d1f92144677b678e7ab51c73c4ba6dcd1f5868740e5fac6d0bc6",
+          "published_utc": "2026-10-16T04:15:28+00:00"
+        },
         {
           "headline": "SOFI Rally Could Be a Dead Cat Bounce, Per Signal",
           "source": "Yahoo",
@@ -181,12 +187,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=f443206bdf49450a6c7d0291991f778e24f8a70a925a0d5a2a1dd16d0ca1aa95",
           "published_utc": "2026-10-15T14:56:14+00:00"
-        },
-        {
-          "headline": "Polkadot Held Flat This Week as Ethereum Fell 8% and Solana 10%. Is It Finally Bottoming?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=613dafb0c77a147851f923b269752e95f9dd72884cdce4e0644ccfdb6d69fef9",
-          "published_utc": "2026-10-15T14:50:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 54021,
+      "quote_age_seconds": 57551,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
