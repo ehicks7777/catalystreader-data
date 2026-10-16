@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:05:25.286025+00:00",
+  "updated": "2026-10-16T10:01:45.161724+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Rigetti: No Commercial Traction, No Premium Valuation",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=79e52eebcb9dc622046db9009933cfad499423cb89227a18bb0413cb3d625dbc",
+          "published_utc": "2026-10-16T05:24:01+00:00"
+        },
         {
           "headline": "Quantum Computing Stocks Rebound After Dilution Scare: IonQ and Rigetti Climb 3%, D-Wave Advances 2%",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=1da0993b6e36277c0cb8a278d7a9b075ab65990b1d780bd1e68807e9a86135c9",
           "published_utc": "2026-10-15T13:00:10+00:00"
-        },
-        {
-          "headline": "How Much Downside Is Left In QBTS Stock?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=dcbe11ef3cd8569dae2386087f5e1027866a2adc553c59a4fd3474403e9404b7",
-          "published_utc": "2026-10-15T12:38:45+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 47123,
+      "quote_age_seconds": 50503,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
