@@ -1,49 +1,11 @@
 {
-  "updated": "2026-10-16T13:36:05.298782+00:00",
+  "updated": "2026-10-16T14:29:07.095597+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
   "errors": [],
   "day_trading": [],
-  "swing_trading": [
-    {
-      "symbol": "SOFI",
-      "price": 15.41,
-      "change_percent": 2.1206,
-      "previous_close": 15.09,
-      "quote_timestamp": 1792157738.0,
-      "quote_time_utc": "2026-10-16T13:35:38+00:00",
-      "quote_age_seconds": 26,
-      "quote_freshness": "fresh",
-      "volume": null,
-      "relative_volume": null,
-      "dollar_volume": null,
-      "volume_status": "Unavailable: verified volume feed not connected",
-      "after_hours_price": null,
-      "after_hours_status": "Unavailable: verified extended-hours feed not connected",
-      "news": [
-        {
-          "headline": "Why Did CRWV, OPEN, SOFI Stocks Tumble To 52-Week Lows Today?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=a555bc08ba49d1f92144677b678e7ab51c73c4ba6dcd1f5868740e5fac6d0bc6",
-          "published_utc": "2026-10-16T04:15:28+00:00"
-        },
-        {
-          "headline": "SOFI Rally Could Be a Dead Cat Bounce, Per Signal",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=d952428a596b224ec242c3005d3821a1c871b93a95aadf7d734f02ffd81506ce",
-          "published_utc": "2026-10-15T18:00:31+00:00"
-        },
-        {
-          "headline": "This Crypto Has the Easiest Path to 10X by 2030",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=f443206bdf49450a6c7d0291991f778e24f8a70a925a0d5a2a1dd16d0ca1aa95",
-          "published_utc": "2026-10-15T14:56:14+00:00"
-        }
-      ],
-      "news_status": "Recent headlines found"
-    }
-  ],
+  "swing_trading": [],
   "stale_quotes": 0,
   "volume_available": false,
   "extended_hours_available": false,
