@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:27:55.068049+00:00",
+  "updated": "2026-10-16T02:02:19.932135+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -245,22 +245,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
+          "headline": "5 Growth Stocks With Home Run Potential",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fa7b30f21fc963252d5369c738f69fe8d823bea1e9c9496c0dc29b89f6d5f547",
+          "published_utc": "2026-10-15T15:25:00+00:00"
+        },
+        {
+          "headline": "Why There Might Be a Mathematical Incentive to Bet on AST SpaceMobile Stock\u2019s 227% Options Spread",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=953aea2b83eb90d5435fa39a04b75ceca5a3bc6eea6299a9df12237dabcd3b5d",
+          "published_utc": "2026-10-15T14:07:39+00:00"
+        },
+        {
           "headline": "Rocket Lab Tumbles 11% as Neutron\u2019s First Flight Moves to 2027; SpaceX and AST SpaceMobile Pull Back",
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ee84e0248d633f1a68ea1da2dacc8ec245a170a1818c992459c233476748c086",
           "published_utc": "2026-10-15T13:06:25+00:00"
-        },
-        {
-          "headline": "ASTS Stock Heads For Worst Year Since Listing \u2014 Analyst Says 60-Satellite Milestone Could Slip To 2028",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=175bd9d1e04b8f7498388eb672a5de05a94d032ec03c90ebdf5f583c6df9fc81",
-          "published_utc": "2026-10-15T06:17:35+00:00"
-        },
-        {
-          "headline": "Peter Schiff Warns Trump\u2019s \u2018Booming\u2019 Stock Market Boast Is a Mirage: 479 Stocks Hit 52-Week Lows on Wednesday, While Only 60 Set Highs",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ac37bb01dbb5658e534eb3da82467918d00121e28c95b1ea2039e81f2062837f",
-          "published_utc": "2026-10-15T05:52:58+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 19673,
+      "quote_age_seconds": 21738,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
