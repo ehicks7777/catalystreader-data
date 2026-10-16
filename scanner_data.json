@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:58:37.691707+00:00",
+  "updated": "2026-10-16T06:37:41.820404+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -281,6 +281,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "AMC Stock Eyes Second Green Week: CEO Adam Aron Calls Robinhood's Stock Tokenization \u2018Fake, Synthetic\u2019 Ahead Of Earnings \u2014 \u2018Could Impact Our Capital Structure\u2019",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=e3b65c7687d2de69fea06ee51e8967dc6083dabe594f827cd542d76fde9e288c",
+          "published_utc": "2026-10-16T05:58:47+00:00"
+        },
         {
           "headline": "Supreme Court Has 'Very Good Chance' of Taking Kalshi Legal Fight, Former CFTC Counsel Says",
           "source": "Yahoo",
@@ -292,12 +298,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=7f340343b3571f30947827c2c5ffdfd120aad8c88e1be9adbacc3dbabeb2b054",
           "published_utc": "2026-10-15T16:30:00+00:00"
-        },
-        {
-          "headline": "Coinbase Global Stock Drops 24% YTD: Time to Buy the Dip?",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=38da04cefcaeb17ca88f11c02f488109e2bf975541ed47a2d2c8bf53dfab10b3",
-          "published_utc": "2026-10-15T15:18:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 35916,
+      "quote_age_seconds": 38260,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
