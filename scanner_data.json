@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:30:15.161158+00:00",
+  "updated": "2026-10-16T01:27:55.068049+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -59,6 +59,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "Quantum Computing Stocks Rebound After Dilution Scare: IonQ and Rigetti Climb 3%, D-Wave Advances 2%",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=00815a7aab521ca028a0983e0df80bd715d43dbe4a7586b186c663fc8ec0fedc",
+          "published_utc": "2026-10-15T15:46:59+00:00"
+        },
         {
           "headline": "Should You Trim Or Add To Your RGTI Stock Position Now?",
           "source": "Yahoo",
@@ -70,12 +76,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=dcbe11ef3cd8569dae2386087f5e1027866a2adc553c59a4fd3474403e9404b7",
           "published_utc": "2026-10-15T12:38:45+00:00"
-        },
-        {
-          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
-          "published_utc": "2026-10-15T12:36:35+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -171,22 +171,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Peter Schiff Warns Trump\u2019s \u2018Booming\u2019 Stock Market Boast Is a Mirage: 479 Stocks Hit 52-Week Lows on Wednesday, While Only 60 Set Highs",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=ac37bb01dbb5658e534eb3da82467918d00121e28c95b1ea2039e81f2062837f",
-          "published_utc": "2026-10-15T05:52:58+00:00"
+          "headline": "SOFI Rally Could Be a Dead Cat Bounce, Per Signal",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=d952428a596b224ec242c3005d3821a1c871b93a95aadf7d734f02ffd81506ce",
+          "published_utc": "2026-10-15T18:00:31+00:00"
         },
         {
-          "headline": "Why Did SOFI, PLUG, ASTS Stocks Plunge To 52-Week Lows?",
+          "headline": "This Crypto Has the Easiest Path to 10X by 2030",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=8c5608454eddda123062f43902a23d4967da8dbdf1ba3b46bff78b627d81b9b5",
-          "published_utc": "2026-10-15T04:26:08+00:00"
+          "url": "https://finnhub.io/api/news?id=f443206bdf49450a6c7d0291991f778e24f8a70a925a0d5a2a1dd16d0ca1aa95",
+          "published_utc": "2026-10-15T14:56:14+00:00"
         },
         {
-          "headline": "Stock Market Today, Oct. 14: SoFi Technologies Falls on Banking Weakness",
+          "headline": "Polkadot Held Flat This Week as Ethereum Fell 8% and Solana 10%. Is It Finally Bottoming?",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=1f276b1cf9e0eed02163ee1cbb3d4f671da8c99edcbd0b026d2a645f07f74a44",
-          "published_utc": "2026-10-14T21:58:17+00:00"
+          "url": "https://finnhub.io/api/news?id=613dafb0c77a147851f923b269752e95f9dd72884cdce4e0644ccfdb6d69fef9",
+          "published_utc": "2026-10-15T14:50:56+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -207,6 +207,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "MicroStrategy Could Be Removed From Major Global Stock Indexes",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=fbc91e4b4fee031d141baa237ae7b64705971822837974e968571fd39400bd7c",
+          "published_utc": "2026-10-15T23:08:51+00:00"
+        },
         {
           "headline": "Strategy CEO sees a historic Bitcoin banking boom coming. Here's what's driving it",
           "source": "Yahoo",
@@ -218,12 +224,6 @@
           "source": "Benzinga",
           "url": "https://finnhub.io/api/news?id=39a136e9a36aa04952ed0234646370ed12415597fdbc9628b8495aa845d5c99f",
           "published_utc": "2026-10-15T03:16:20+00:00"
-        },
-        {
-          "headline": "Bitcoin, Ethereum, XRP and Dogecoin Slide After Hotter-Than-Expected CPI: Analyst Says 'Decisive' BTC Breakout Soon",
-          "source": "Benzinga",
-          "url": "https://finnhub.io/api/news?id=68d25546c7cc833d8e0fb1940cdc189a5a30e8abc976c7af3556fb0a58e599ff",
-          "published_utc": "2026-10-14T22:02:34+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 16212,
+      "quote_age_seconds": 19673,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
