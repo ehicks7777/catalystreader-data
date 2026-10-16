@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:37:41.820404+00:00",
+  "updated": "2026-10-16T07:34:24.194277+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -22,6 +22,12 @@
       "after_hours_price": null,
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
+        {
+          "headline": "IonQ: Another Crushing Stock Offering",
+          "source": "SeekingAlpha",
+          "url": "https://finnhub.io/api/news?id=e45f17caa6cfbfd1d42c0f4093a52857c05b5af143569474c1c083b8c4ac47e8",
+          "published_utc": "2026-10-16T03:10:54+00:00"
+        },
         {
           "headline": "Prediction: IonQ Will Cross $100 Per Share in 2027 (It's Less Than $40 Per Share Now)",
           "source": "Yahoo",
@@ -33,12 +39,6 @@
           "source": "Yahoo",
           "url": "https://finnhub.io/api/news?id=ffe97b69c31acfcd1489a8310030437c29cc98159b20d3be57b1a9e9d19bf0c8",
           "published_utc": "2026-10-15T22:43:00+00:00"
-        },
-        {
-          "headline": "Why This Stock Is a \u2018Top Quantum Play\u2019 While IonQ and Infleqtion Fall Short",
-          "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=259252eca7d15b14723d5d8bf73e79f0a1b5ff12729d4353a93c5a72d3375b7f",
-          "published_utc": "2026-10-15T20:29:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 38260,
+      "quote_age_seconds": 41660,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
