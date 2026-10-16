@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:02:19.932135+00:00",
+  "updated": "2026-10-16T02:59:32.834770+00:00",
   "scanner_version": "4.1",
   "universe_size": 20,
   "stocks_scanned": 20,
@@ -13,7 +13,7 @@
       "previous_close": 31.42,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -23,22 +23,22 @@
       "after_hours_status": "Unavailable: verified extended-hours feed not connected",
       "news": [
         {
-          "headline": "Quantum Computing's Profitability Divide: Enablers Hold Up While Pure Plays Struggle",
-          "source": "ChartMill",
-          "url": "https://finnhub.io/api/news?id=907d538542333f33c3552ea4894a36bb13a8b7150e749464ff2a1d624df09fbb",
-          "published_utc": "2026-10-15T12:36:35+00:00"
+          "headline": "Prediction: IonQ Will Cross $100 Per Share in 2027 (It's Less Than $40 Per Share Now)",
+          "source": "Yahoo",
+          "url": "https://finnhub.io/api/news?id=baefb9c7bedf0473857ec5d00f8a7d2ed25078c61cd1ccdb2671fbd00040042e",
+          "published_utc": "2026-10-15T22:45:00+00:00"
         },
         {
-          "headline": "Does IonQ's $2 Billion Stock Sale Materially Alter Its Cash Outlook?",
+          "headline": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip.",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=4b9c6208d910deeed4c4f9a891b55e1a279c8a0c045b082f68f8c70266badb8a",
-          "published_utc": "2026-10-15T12:28:18+00:00"
+          "url": "https://finnhub.io/api/news?id=ffe97b69c31acfcd1489a8310030437c29cc98159b20d3be57b1a9e9d19bf0c8",
+          "published_utc": "2026-10-15T22:43:00+00:00"
         },
         {
-          "headline": "IonQ and the University of Cambridge Open the IonQ Quantum Innovation Centre at Cavendish Laboratory's Ray Dolby Centre",
+          "headline": "Why This Stock Is a \u2018Top Quantum Play\u2019 While IonQ and Infleqtion Fall Short",
           "source": "Yahoo",
-          "url": "https://finnhub.io/api/news?id=92f47eb30e9a6a42307eb7c395c9cb61f157fd790426d8780acc54f883cee16f",
-          "published_utc": "2026-10-15T12:00:00+00:00"
+          "url": "https://finnhub.io/api/news?id=259252eca7d15b14723d5d8bf73e79f0a1b5ff12729d4353a93c5a72d3375b7f",
+          "published_utc": "2026-10-15T20:29:00+00:00"
         }
       ],
       "news_status": "Recent headlines found"
@@ -50,7 +50,7 @@
       "previous_close": 11.68,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -87,7 +87,7 @@
       "previous_close": 4.53,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -124,7 +124,7 @@
       "previous_close": 172.89,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -161,7 +161,7 @@
       "previous_close": 14.22,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -198,7 +198,7 @@
       "previous_close": 143.24,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -235,7 +235,7 @@
       "previous_close": 42.14,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -272,7 +272,7 @@
       "previous_close": 101.08,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
@@ -309,7 +309,7 @@
       "previous_close": 15.1,
       "quote_timestamp": 1792094400.0,
       "quote_time_utc": "2026-10-15T20:00:00+00:00",
-      "quote_age_seconds": 21738,
+      "quote_age_seconds": 25171,
       "quote_freshness": "stale",
       "volume": null,
       "relative_volume": null,
